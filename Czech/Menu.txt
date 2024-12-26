@@ -82,18 +82,18 @@ Hand reaches out to the door
 Animation
 Enable player voice
 Mita
-Short-haired Mita
-Kind Mita
+Krátkovlasá Mita
+Laskavá mita
 Cap-wearing Mita
-Tiny Mita
-Sleepy Mita
+Drobná Mita
+Spící Mita
 2D Mita
 Mila
-Creepy Mita
-Core Mita
-Ghostly Mita
+Hrůzostrašníá Mita
+Jádrová mita
+Přízračná mita
 Chibi Mita
-Dummy Mita
+Mita-Manekýnka
 
 
 
