@@ -1,10 +1,10 @@
-// Quests
-Never mind.
-Why are there other Mitas downstairs?
-Why is it so dark down there?
-What are you doing here?
-What's this conveyor belt for?
-What's your version?
+// Úkoly
+Nevadí.
+Proč jsou dole další Mitas?
+Proč je tam dole taková tma?
+Co tady děláš?
+K čemu je ten pásový dopravník?
+Jaká je tvoje verze?
 
 
-Please remove these boxes! And get the sofa over here.
+Odstraň prosím ty krabice! A dejte sem tu pohovku.

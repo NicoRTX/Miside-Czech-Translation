@@ -1,2 +1,2 @@
-Set the clock's time right,
-And leave this version.
+Nastavte správný čas na hodinách,
+a opusťte tuto verzi.

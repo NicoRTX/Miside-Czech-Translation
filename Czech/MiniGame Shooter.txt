@@ -1,10 +1,10 @@
-Pozor! Dneska musíme potrestat čerty. Jdi na to Mito! Pořádně je vypráskej! Ale dávej si pozor, budou se bránit!
-Zmáčkni jakékoliv tlačítko pro pokračování.
-Výhra!
+Pozor! Dnes musíme potrestat ďábly. Jsi na řadě, Mito! Dejte jim pořádný výprask! Ale pozor, budou se bránit!
+Pro pokračování stiskněte libovolné tlačítko.
+Vyhrajte!
 Čas
-Smrti
-Střely
-Head shot
-Damage
-Skoky
-Zmáčkni jakékoliv tlačítko pro ukončení hry.
+Smrt
+Výstřel
+Střela do hlavy
+Poškození
+Skok
+Stisknutím libovolného tlačítka ukončíte hru.

@@ -1,37 +1,37 @@
 
-Mito?
+Mita?
 
-Jak ses sem sakra dostal?
+Jak ses sem proboha dostal?
 
 Ty jsi Mita, že?
-Ale ty jsi nějaká jiná...
+Ale je na tobě něco jiného...
 
-Pozorný, chápu.
+Vidím, že jsi všímavý.
 A máš pravdu.
 Nejsem ta Mita, kterou jsi potkal předtím.
-Buď opatrný, má za lubem něco
-zlověstného.
+Buď opatrný, něco chystá.
+něco zlověstného.
 
-Huh, něco zlověstného?
+Něco zlověstného?
 
-Není čas ti to vysvětlovat:
-pokud tohle vyjde, všechno ti řeknu.
-Podej mi klíč. Je vedle pohovky.
+Na vysvětlování není čas:
+Jestli to vyjde, všechno ti řeknu.
+Vezmi si klíč. Je vedle pohovky.
 
 Ale...
 
-Nech si otázky na potom!
-Podej mi ten klíč.
-Vezmi si tenhle prsten.
-Huh?
-Chceš odsud vypadnout, nebo ne?
-Uhm, jo...
+Otázky na později!
+Dejte mi klíč.
+Vezmi si tento prsten.
+Co?
+Chceš se odsud dostat, že jo?
+Jo...
 Tak si ho nasaď.
 Je to užitečný artefakt,
 pravděpodobně ho budeš brzy potřebovat.
 
-Okay...
-Mimochodem, Já jsem
+Dobře...
+Mimochodem, já jsem
 [player].
 
 Mmm,
@@ -46,105 +46,105 @@ Já jsem... Mita.
 
 
 // MitaKind quest 1
-Vidíš tu
-konzoli? Vezmi ji.
+Podívejte se na to.
+konzole? Zvedněte ji.
 
-My sledujeme záznam?
-Kdo to s ní je?
+Sledujeme záznam?
+Kdo je to s ní?
 
-Teďka se to právě děje.
+To se děje právě teď.
 Je to další hráč.
-Ona ho zneužívá.
-Taky se možná pokusí
-tě dát do kazety.
+Využívá ho.
+Mohla by se pokusit
+z tebe také udělat kazetu.
 
-Musím se odsud dostat co nejrychleji.
+Musím odsud co nejdřív vypadnout.
 A ty taky.
 
-Ano musíme.
+Ano, máme.
 
-Takže, ty říkáš
-že ho zneužívá.
-Kdybych vytáhl tu kazetu, co by se stalo?
+Takže říkáte.
+že ho využívá.
+Když vytáhnu kazetu, co se stane?
 
-To může hodně až
-nevratně poškodit tu kazetu.
-To by znamenalo...
-že hráč umře.
+To může být velmi dobře
+nevratně poškodíš kazetu.
+Což znamená, že...
+hráč zemře.
 
 ...
-Co kdybych to prostě vypnul?
+Co když ho prostě vypnu?
 
 To by mohlo fungovat...
-Má cenu to zkusit. Je tam červený vypínač!
+Za pokus to stojí. Je tam červené tlačítko napájení!
 Vidíš ho?
-Mám ho.
-Zmáčkni ho.
+Našel jsem ho.
+Stiskni ho.
 
 // MitaKind quest 2
-Musím tady zůstat.
-Musím se jí na něco ještě zeptat
-abych toho o ní zjistila více.
-Stejně, je pravděpodobné že mi stejně nic neřekne...
+Musím zůstat.
+Musím se jí zeptat na několik otázek.
+abych se o ní dozvěděla víc.
+I když je nepravděpodobné, že by se mnou hrála...
 
 // MitaKind quest 3
-Řeknu ti pravdu, tohle je moje verze
-Dělala jsem hráči společnost,
+Abych řekla pravdu, tohle je moje verze.
+Dělala jsem společnost jednomu hráči,
 když se najednou něco změnilo.
-Pak se tu ukázala ona...
-a proměnila hráče v kazetu
-a mě uvěznila.
+Pak se objevila ona...
+a proměnila přehrávač v kazetu
+a zavřela mě.
 
-Počkat, proměnila ho v kazetu?
-Dokáže to vůbec?
+Počkat, ona z něj udělala kazetu?
+Může to vůbec udělat?
 Ale proč?
-K čemu ty hráče potřebuje?
+K čemu potřebuje hráče?
 
-Ona je evidentně šílená...
-Ona si s námi jenom hraje a používá nás pro své vlastní pikle!
-Mění hráče v kazety...
-Někteří si ani neuvědomí, co se jim děje...
-A ti kteří ano, se pak ani nebrání... Gah!
-Teď je to ale temný zvrat...
+Zřejmě se zbláznila...
+Jen si s námi hraje a využívá nás pro své vlastní machinace!
+Přeměňuje hráče na kazety...
+Někteří si ani neuvědomovali, co se s nimi děje...
+A někteří, kteří si to uvědomují, se ani nebrání... Sakra!
+To je ale temný zvrat...
 Musíš nám pomoct!
 Já? Ale jak?
-Potřebuji tě!
-Pokud nám pomůžeš, pomůžu já tobě!
-Tohle může být naše jediná šance.
-Ten prsten tě dovede do správné verze hry.
-Tam se potkáme.
+Potřebuju tě!
+Když nám pomůžeš, pomůžu i já tobě!
+Tohle je možná naše jediná šance.
+Prsten tě dovede ke správné verzi.
+Setkáme se tam.
 
 // MitaKind quest 4
-Pořád to nějak nechápu
-to co jsem nahoře viděl...
+Stále tomu nerozumím
+co jsem tam nahoře viděl...
 Ta Mita...
-Snažila se mě zabít?
+Chtěla mě zabít?
 
 Zabít?
-Ona pro tebe má na mysli horší osud než smrt...
+Má pro tebe připravený horší osud...
 Musíš si pospíšit.
 
 // Hide!
-Sakra! Schovej se!
-Počkat, cože...?
-Rychle, už se blíží!
-Sleduj ten prsten, dovede tě do bezpečí!
+Do prdele! Schovej se!
+Počkat, co...?
+Rychle, už jde!
+Sleduj prsten - dovede tě do bezpečí!
 
 
-Ale, ale, řekneš mi kde je?
+No, no, řekneš mi, kde je?
 
-Proč bych měla?
+Proč bych to dělala?
 Nezabiješ ho, že ne?
 
-Ah, takže ty mi to neřekneš.
+Aha, takže mi to odmítáš říct.
 Hah, mám ráda výzvy.
-Vím že tady někde je.
+Vím, že je někde tady.
 
 Proč jsi na nás tak zlá?
-Ty mi ani neřekneš co se tady děje!
+Ani mi neřekneš, co se děje!
 Kromě toho...
-k čemu ty hráče potřebuješ?
-Nejsou to hračky!
+na co potřebuješ hráče?
+Nejsou to žádné hračky!
 Co to do tebe vjelo?!
 
-Stačilo! Drž hubu krávo!
+Dost! Drž hubu, panenko!

@@ -1,221 +1,221 @@
 
-There you are!
-Why did you leave the Core?
-I told you to wait for me!
+Tady jsi!
+Proč jsi opustil Jádro?
+Řekla jsem ti, abys na mě počkal!
 
-I thought you'd be gone for longer...
+Myslel jsem, že se nevrátíš...
 
-Well, all righty...
-I think I found something...
-I think it's an index...
-We'll have to see if it works!
-Let's get out of here.
-Crazy Mita...
-I think she's busy with a new player.
-So hopefully she's too busy to mind us...
+No, dobře...
+Myslím, že jsem něco našela...
+Myslím, že je to index...
+Uvidíme, jestli to bude fungovat!
+Pojďme odsud.
+Bláznivá Mita...
+Myslím, že je zaneprázdněná novým hráčem.
+Tak doufejme, že má moc práce, aby si nás všímala...
 
-Mita?
-Wait for me.
-
-
-Did you drop something?
-Meet her again!
-
-Mita...
-
-Catch!
+Mito?
+Počkejte na mě.
 
 
-How come...
+Upadlo ti něco?
+Počkej, zase jsi ji potkal!
 
-Who are you?
+Mito...
 
-You're... you're alive!
-Don't you remember?
+Chytej!
 
-Do I know you?
 
-What's going on...
-What am I supposed to do now?
-I can't get out...
+Jak to, že...
 
-What do you mean, "get out"?
+Kdo jsi?
 
-Wait...
-That's the ring...
-And that?
+Jsi... jsi naživu!
+Copak si nevzpomínáš?
 
-Not a clue what it is.
+Znám tě?
 
-It's an index!
-You found it!
+Co se děje...
+Co mám teď dělat?
+Nemůžu se dostat ven...
 
-I don't know what to say.
+Jak to myslíš, "odejít"?
 
-We must get back to the Core.
-And you...
-Perhaps you ought to come with me...
+Počkejte...
+To je ten prsten...
+A tohle?
 
-Uhm, what?
-Sure...
+Netuším, co to je.
 
-Wait here.
+Je to index!
+Našla jsi to!
+
+Nevím, co na to říct.
+
+Musíme se vrátit k jádru.
+A ty...
+Možná bys měla jít se mnou...
+
+Cože?
+Jistě...
+
+Počkejte tady.
 
 Mm-hmm.
-I'll sit right here.
+Budu sedět tady.
 
 
-Shit...
-That was a close call.
-So... did we do it?
-Good.
-I'm in the correct version.
+Do prdele...
+To bylo o fous.
+Takže... zvládli jsme to?
+Dobře.
+Jsem ve správné verzi.
 
 
-Hiya!
-You're a player, aren't you?
-What's your name?
+Ahoj!
+Jsi hráč, že?
+Jak se jmenuješ?
 
-I want to leave this place...
+Chci odsud odejít...
 
-You want to leave so soon?
-How did you get here in the first place?
-Oh well...
-Fine, you can leave...
-Just try the door.
-Good luck with that!
+Chceš odejít tak brzy?
+Jak jste se sem vůbec dostal?
+No jo...
+Fajn, můžeš odejít...
+Jen zkus dveře.
+Hodně štěstí!
 
 
-A wall?
-Hmm, that's all wrong.
-Perhaps...
-there's something in the basement that'll help you.
-I recently discovered
-a door in my wardrobe...
-Turns out it leads to a basement.
-But its full of junk,
-junk and a ton of fancy equipment.
-You have to enter some kind of code or something.
-I don't really get it.
-And I don't care.
-It's also kind of uncomfortable, I mean, really uncomfortable.
-Will you take a look?
+Zeď?
+Hmm, to je špatně.
+Možná...
+je ve sklepě něco, co ti pomůže.
+Nedávno jsem to objevila
+dveře v mé skříni...
+Ukázalo se, že vedou do sklepa.
+Ale je plný harampádí,
+harampádí a tuny přepychového vybavení.
+Musíte zadat nějaký kód nebo co.
+Moc to nechápu.
+A je mi to jedno.
+Taky je to trochu nepohodlné, myslím tím opravdu nepohodlné.
+Podíváš se na to?
 
 Uhm, okay.
 
 // Player thinks
-I don't think
-she remembers anything...
-Did we do it?
-Did we reboot her?
-Then all I have to do is
-get out of this damned game...
+Nemyslím si.
+si nic nepamatuje...
+Udělali jsme to?
+Restartovali jsme ji?
+Pak mi zbývá jen
+vypadnout z téhle zatracené hry...
 
 
-Not so quick.
-I'd like to hug you.
+Ne tak rychle.
+Ráda bych tě objala.
 
 Huh?
 // Hugs
-It was good seeing you.
+Ráda jsem tě viděla.
 
-Ahh...
-it's a real shame
-that you and I
-got to spend so little time together.
+Ach...
+je to skutečná škoda
+že ty a já
+že jsme spolu strávili tak málo času.
 
 Err...
-What are you talking about?
+O čem to mluvíš?
 
-I mean,
-you could've stayed with me...
-It's all my fault...
-That wardrobe and the... the sounds.
-I should have KILLED her sooner!
+Chci říct,
+mohl jsi zůstat se mnou...
+Je to všechno moje vina...
+Ta skříň a ty... zvuky.
+Měla jsem ji zabít dřív!
 
-Wait a minute,
-Didn't you...?
-How can you remember any of that?
+Počkejte chvíli,
+Nebyla jsi...?
+Jak si na něco z toho můžeš vzpomenout?
 
 HA!
-Did you really think it would be that easy?
-You're just a fool...
-Just like all the other players...
-We've done just fine, look!
-The REAL
-you isn't
-needed anymore.
-Sorry, tee-hee.
+Opravdu jsi sis myslel, že to bude tak snadné?
+Jsi prostě blázen...
+Stejně jako všichni ostatní hráči...
+Vždyť jsme si vedli dobře, podívej!
+SKUTEČNĚ
+ty nejsi
+už není potřeba.
+Promiň, tee-hee.
 
-I can't believe it...
-Did we fail...?
-No... I rebooted you, I'm sure of it...
+Nemůžu tomu uvěřit...
+Měli jsme chybu...?
+Ne... restartoval jsem tě, jsem si tím jistý...
 
-You still don't get it...
+Stále to nechápeš...
 Ha-ha-ha!
-I'm such a great actress!
-You should've seen your face, honey-bun!
-This is so much fun!
+Jsem tak skvělá herečka!
+Měl jsi vidět svůj obličej, zlato!
+To je taková legrace!
 
-Why are you like this?!
-What's wrong with you?!
+Proč jsi taková?!
+Co je to s tebou?!
 
-Yeah...
-What's wrong with me?
-Beats me...
-Why don't you tell me why I'm like this?
-Why I'll never be a real Mita?
-My version, it never
-existed in the first place!
-I'm just skinning these naive fools,
-hiding under their skins...
-There's no way you can
-reboot me!
+Jo...
+Co je to se mnou?
+To mi hlava nebere...
+Proč mi neřekneš, proč jsem taková?
+Proč ze mě nikdy nebude pravá Mita?
+Moje verze, ta nikdy
+vůbec neexistovala!
+Jen stahuju z kůže tyhle naivní hlupáky,
+schovávám se pod jejich kůží...
+V žádném případě nemůžeš
+mě restartovat!
 
-Unbelievable...
-You...
-They're not the problem!
-You're the one who shouldn't exist!
+Nevěřím tomu...
+Ty...
+Oni nejsou ten problém!
+To ty bys neměla existovat!
 
-You too...
-It hurts to hear you say that.
-And yet!
-It's time for you to go!
-I'll see you again soon!
-Everyone's ready!
-It's
-time to get you out of the console!
-See you later!
-You'll be my favorite cartridge...
-A player with an interesting name.
+Nyní i ty...
+Bolí mě, když to říkáš.
+A přece!
+Je čas, abys odešel!
+Brzy se zase uvidíme!
+Všichni jsou připraveni!
+Je to
+čas dostat tě z konzole!
+Uvidíme se později!
+Budeš moje oblíbená kazeta...
+Hráč se zajímavým jménem.
 
 // core console - nope programm
-That's probably not it.
-That's not right either.
-Nope, wrong.
-That's not it.
-I need to find the character reset option.
+Tak to pravděpodobně není.
+Ani to není správné.
+Ne, je to špatně.
+To není ono.
+Musím najít možnost resetování postavy.
 
 // core console - nope version
-That's the wrong version.
-Oops, my mistake.
-That's not it.
-Gonna need another one.
+To je špatná verze.
+Ups, moje chyba.
+To není ono.
+Budeme potřebovat jinou.
 
 // core console - nope index
-Something's wrong
-with the index.
-I need to change the index,
-it doesn't fit.
+Něco je špatně
+s indexem.
+Musím změnit index,
+nesedí.
 
 // Why kitchen
-Are you hungry?
-I'm great at chopping carrots. :)
+Máš hlad?
+Mrkev umím krájet skvěle :)
 
 // Why bathroom
-Ah, I guess
-you wanted to go in alone?
+Ach, myslím, že
+že jsi tam chtěl jít sám?
 
 // Why bedroom back
-Why are we just going in circles?
-Why return here?
+Proč se točíme v kruhu?
+Proč se sem vracet?

@@ -1,55 +1,55 @@
 
-Wait, hold up!
-Not so loud...
-Going further is dangerous.
-BTW...
-how did you get here?
+Počkej, počkej!
+Ne tak nahlas...
+Jít dál je nebezpečné.
+MIMOCHODEM...
+jak ses sem dostal?
 
 Um...
-The ring opens the right doors.
-I honestly don't know how it works.
+Prsten otevírá správné dveře.
+Upřímně nevím, jak to funguje.
 
-The ring?
+Prsten?
 
-What's up with this place?
-It's super dark.
+Co se to tu děje?
+Je tu strašná tma.
 
-I'll tell you later.
-For now, go toward the exit.
-Meet me in the arcade machine.
+Řeknu ti to později.
+Zatím jdi k východu.
+Sejdeme se u hracího automatu.
 
 
 
-Hurry up, don't be tardy!
+Pospěš si, ať nepřijdeš pozdě!
 
 
 // After mini-game
-So, get the point of the game?
+Chápete smysl hry?
 
-That I'm made of flesh and bone, and you're made of a skeleton model?
+Že já jsem z masa a kostí a ty jsi z modelu kostry?
 
-Whoa!
-Sounds creepy when you say it like that.
-But, that's the gist of it.
+Páni!
+Když to řekneš takhle, zní to děsivě.
+Ale to je podstata.
 
-Right, but why do I need to understand that?
+Správně, ale proč tomu musím rozumět?
 
-Think I was telling you that going further
-was dangerous, just for the lols?
-You'll run into... abandoned models...
-The ones given up on, the "faulty" ones.
-They're aggressive, and may even try to kill you.
+Myslím, že jsem ti říkala, že jít dál
+je nebezpečné, jen tak pro legraci?
+Narazíš na... opuštěné modely...
+Na ty, kterých se vzdali, na ty "vadné".
+Jsou agresivní a mohou se vás dokonce pokusit zabít.
 
-So, what should I do?
-I'll just go
-wherever a door opens.
+Co mám tedy dělat?
+Prostě půjdu
+kamkoli se otevřou dveře.
 
-Wow!
-Then don't turn your back on them.
-And don't let them out of your sight!
-They get shy when you stare at them,
-so shy they freeze.
-Keep that in mind!
+Páni!
+Tak se k nim neotáčejte zády.
+A nespouštějte je z očí!
+Když se na ně díváš, začnou se stydět,
+tak plachý, že ztuhnou.
+Mějto na paměti!
 
 
 
@@ -58,189 +58,189 @@ Keep that in mind!
 
 
 // Quest 1 (Why are there other Mitas down there?)
-They're freshly made.
-They need time
-to gain self-awareness.
-Then I guide each one
-to her own home.
+Jsou čerstvě vyrobené.
+Potřebují čas
+aby si uvědomily samy sebe.
+Pak každého z nich vedu
+do svého domova.
 
 // Quest 2 (Why is it so dark downstairs?)
-We Mitas are 'created' in the dark,
-so we need to remain there for a while.
-Imagine
-the pain of moving from darkness straight into the light...
+My Mitas jsme "stvořeni" ve tmě,
+proto tam musíme nějakou dobu zůstat.
+Představ si, že
+tu bolest při přechodu z temnoty přímo do světla...
 
 // Quest 3 (What are you doing here?)
-Still don't get it?
-I'm helping new Mitas settle in!
-Who will help them if I don't?
-You?
+Stále to nechápeš?
+Pomáhám novým Mitasům zabydlet se!
+Kdo jim pomůže, když ne já?
+Ty?
 
 // Quest 4 (Why do we need this conveyor?)
-What's this conveyor belt for?
-Is there enough room for everyone?
+K čemu je tenhle pásový dopravník?
+Je tu dost místa pro všechny?
 
-Wait, don't tell me you don't
-understand how the world works...
-And that it's endless?
+Počkej, neříkej mi, že nevíš.
+že nechápeš, jak svět funguje...
+A že je nekonečný?
 
-Endless?
+Nekonečný?
 Uhm...
-What do you mean?
-If 1.9 is the latest version,
-then there are only 19 worlds.
+Co tím myslíš?
+Pokud je 1.9 nejnovější verze,
+pak je tam jen 19 světů.
 
-My gosh, you really don't
-get how this world works at all.
-Look, I'll use this blackboard
-to explain it all.
-Want to hear about it?
+Panebože, ty opravdu nevíš.
+vůbec nechápeš, jak tento svět funguje.
+Podívej, použiju tuhle tabuli.
+abych ti to všechno vysvětlila.
+Chceš si to poslechnout?
 
 // Quest 5 (What is your version?)
-Wait,
-didn't I meet you in the latest version?
-Or perhaps it's just my imagination.
+Počkejte,
+nepotkal jsem tě v poslední verzi?
+Nebo se mi to jen zdá.
 
-Well, it's quite possible.
-I'm from version 1.5.
-Have you been to it?
+No, je to docela možné.
+Jsem z verze 1.5.
+Byl jsi v ní?
 
-I have.
-That's where I arrived
-when I was thrown into this world!
+Ano byl.
+Odtud jsem přišel
+když jsem byl vržen do tohoto světa!
 
-Whoa!
-But how...?
-But what is the house index were you in?
-There is a 'me' who just can't stop whining,
-a 'me' who loves horsing around,
-a 'me' with bad memory and who likes bullying others...
-It's a long list...
-Tell me what you recall.
+Páni!
+Ale jak...?
+Ale v jakém domovním indexu jsi?
+Je tu "já", které prostě nemůže přestat fňukat,
+"já", které miluje koníčky,
+"já" se špatnou pamětí a ráda šikanuje ostatní...
+Je to dlouhý seznam...
+Řekni mi, na co si vzpomínáš.
 
-It was dark.
-There was writing
-like...
-"Play with me."
+Byla tma.
+Psalo se tam
+jako...
+"Hraj si se mnou."
 
-Ah,
-what a bummer...
-That's the 'me'
-who bullies and forgets things.
+Ach,
+to je ale smůla...
+To jsem já.
+která šikanuje a zapomíná.
 
 // Mita wants to tell you [No]
-Thanks but no thanks.
-I'll do fine without knowing more.
+Děkuji, ale ne.
+Zvládnu to i bez dalších informací.
 
-Alright, suit yourself.
+Dobře, jak chceš.
 
 // Mita wants to tell you [Yes].
-Sure, go ahead.
-I just hope this won't be like high school
-where I always fell asleep out of boredom.
+Jistě, pokračujte.
+Jen doufám, že to nebude jako na střední škole.
+kde jsem vždycky usínal z nudy.
 
-You can leave anytime,
-or stay and listen
-if you're interested.
-A player downloads MiSide
-and plays as much as they want.
-There, he creates a new home
-and a new Mita.
-This is a 2D representation.
-These are the versions,
-shown as lines.
-The houses are placed on these lines.
-Say you download the 1.14 version,
-which means a new life,
-a new Mita, and a new house.
+Odejít můžeš kdykoli,
+nebo zůstat a poslouchat
+pokud tě to zajímá.
+Hráč si stáhne MiSide
+a hraje, jak dlouho chce.
+Tam si vytvoří nový domov
+a novou Mitu.
+Jedná se o 2D zobrazení.
+Jedná se o verze,
+zobrazené jako čáry.
+Domy jsou umístěny na těchto liniích.
+Řekněme, že si stáhnete verzi 1.14,
+což znamená nový život,
+novou Mitu a nový dům.
 
-Heavens...
+Nebe...
 
-You can ask about the details
-in this drawing,
-and I'll do my best to explain.
+Můžeš se zeptat na podrobnosti
+v tomto výkresu,
+a já se vám to pokusím vysvětlit.
 
 // He asks about the only circle
-Why is there a single circle?
+Proč je tu jediný kruh?
 
-That version was released just once,
-never to be repeated.
-It's the only genuinely unique version.
-Plus, these versions are special
-and don't have any paths to other versions.
-Sleepy Mita resides in this version, 1.1.
+Tato verze byla vydána pouze jednou,
+která se již nikdy neopakovala.
+Je to jediná skutečně jedinečná verze.
+Navíc jsou tyto verze výjimečné
+a nemají žádné cesty k jiným verzím.
+Ospalá Mita sídlí v této verzi, 1.1.
 
-Sleepy Mita?
-Because she never gets to sleep
-with everyone passing through her version?
+Ospalá Mita?
+Protože nikdy nespí
+s každým, kdo projde její verzí?
 
-No, that's not it.
-You can pass her by and make noise,
-but its impossible to wake her up.
+Ne, tak to není.
+Můžeš kolem ní projít a dělat hluk,
+ale není možné ji vzbudit.
 
 // He asks about the shaded circle
-Why is this one so dark?
+Proč je tento kulový celý tmavý?
 
-Uhm, that one's here
-because of Pretty Mita.
-She drew it.
-We were arguing over
-who could reach version 1.11 the fastest.
+Ten je tady.
+kvůli Pretty Mitě.
+Nakreslila ji ona.
+Hádali jsme se kvůli
+kdo dosáhne verze 1.11 rychleji.
 
-So, who won?
+Kdo tedy vyhrál?
 
-ME, of course!
-Look, we're here
-in version 1.15,
-house index 809.
-We need to reach version 1.11,
-house index 805.
-So, her path started like this.
-We tried to come up with a shorter route,
-so Pretty Mita suggested this path.
-And then I drew the simplest one, here.
-Easy, right?
-Just look here.
-From here, you can get directly to the correct version.
-While it may seem that this house is in the way,
-that it blocks your path...
-Anyway, your ring works based on the same principles.
-Where are you heading?
+JÁ, samozřejmě!
+Podívej, jsme tady
+ve verzi 1.15,
+index domu 809.
+Potřebujeme dosáhnout verze 1.11,
+index domu 805.
+Její cesta tedy začala takto.
+Snažili jsme se vymyslet kratší cestu,
+takže Pretty Mita navrhla tuto cestu.
+A pak jsem nakreslil tu nejjednodušší, tady.
+Snadné, že?
+Stačí se podívat sem.
+Odtud se dostanete přímo ke správné verzi.
+I když se může zdát, že tento dům překáží,
+že vám brání v cestě...
+Každopádně váš prsten funguje na stejném principu.
+Kam směřujete?
 
-The Core.
+K Jádru.
 
-The Core?
+K Jádru?
 Hmm...
-If you want the shortest route,
-you'll need to go through version 1.11 too.
-You'll definitely encounter Sleepy Mita there.
-I think the Mita who sent you,
-took the same path.
-Or maybe she hasn't realized you're on a different path.
-Or perhaps she's a genius
-and has come up with an even shorter route!
+Pokud chcete nejkratší cestu,
+budete muset projít také verzí 1.11.
+Tam se určitě setkáte s Ospalou Mitou.
+Myslím, že to bude ta Mita, který tě poslala,
+se vydal stejnou cestou.
+Nebo si možná neuvědomila, že jsi se vydal jinou cestou.
+Nebo je možná génius.
+a vymyslela ještě kratší cestu!
 
-I think I might get it.
+Myslím že to chápu.
 
 // He asks about the inscription
-What's this about?
+O co jde?
 
-That's for Cool Mita.
-She'll be here in a few hours.
-She'll move those boxes
-and place a sofa here.
-My butt hurts!
+To je pro Cool Mitu.
+Bude tu za pár hodin.
+Přestěhuje ty krabice.
+a postaví sem pohovku.
+Bolí mě zadek!
 
 Emm...
-Maybe I could help?
+Možná bych mohla pomoct?
 
-No, that's Cool Mita's job.
-She's tough.
+Ne, to je práce Cool Mity.
+Je tvrdá.
 
 // He asks about the drawings
-Is that just a drawing,
-or
-does it mean something?
+Je to jen kresba,
+nebo
+něco znamená?
 
-Yeah,
-it's just a doodle.
+Jo,
+je to jen čmáranice.

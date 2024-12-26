@@ -1,14 +1,14 @@
-// Quest none
-Never mind.
-// Quest "First"
-Where have you been?
-How did you get here?
-Who was that Mita just now?
-How does the ring work?
-Why does Crazy Mita need me?
-Is that the Core?
-// Quest "Second"
-What's the matter?
-Is there any way to recognize it?
-What if we attack Crazy Mita?
-Mini people
+// Úkol žádný
+Nevadí.
+// Úkol „První“
+Kde jsi byla?
+Jak ses sem dostala?
+Kdo byla ta Mita před chvílí?
+Jak funguje ten prsten?
+Proč mě šílená Mita potřebuje?
+Je tohle to Jádro?
+// Úkol „Druhý“
+Co se děje?
+Dá se to nějak poznat?
+Co když zaútočíme na Bláznivou Mitu?
+Mini lidé

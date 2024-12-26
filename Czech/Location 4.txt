@@ -1,6 +1,6 @@
-Stav: Dohraný hlavní příběh.
-Zahrál jsi si hry na herní konzoli.
-Ochutnal jsi omáčku.
-Nepodíval jsi se do ventilace.
-Posbíral jsi magnetky na ledničku.
-Nepodíval jsi se do trouby.
+Stav: Dokončete hlavní příběh.
+Zahrajte si hru na konzoli.
+Vyzkoušejte omáčku.
+Nekoukej se do ventilace.
+Sezbírejte magnety na ledničku.
+Nedívej se do trouby.

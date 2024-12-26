@@ -1,8 +1,8 @@
-Je nutný sken!
+Skenování je nutné!
 Požadavky
 Verze
-Kvalita kostí
-Nebyla nalezena žádná entita. Je nutný sken!
+Množství kostí
+Nebyla nalezena žádná entita. Vyžaduje se skenování!
 Skenování dokončeno
 
 
@@ -14,22 +14,22 @@ Skenování dokončeno
 
 
 
-// Tutorial dokončen
+// Tutoriál dokončen
 Whoo-hoo!
 Dokázal jsi to!
 
-// Tutoriál
-Takže, co tady dělám?
-Musím se dostat do tvé obrazovky...
+// Výukový program
+Tak co tady dělám?
+Musím se dostat na vaši obrazovku...
 Teď...
 Takže!
-Musíš se ujistit, že prototyp je ten správný.
-Za prvé, naskenuj ho.
-Teď, Zkontroluj verzi a kostru.
-Vezmi data toho prototypu a porovnej je se standartní verzí.
-Obojí sedí! Teď, pojďme zkontrolovat emoce.
-Vzorek úspěšně projevuje emoce! Na čase zkontrolovat jeho chování.
-Super, Všechno jsme zkontrolovali a vše sedí! Teď zatáhni za tu páčku nahoru.
-Yayy! A už má na sobě skin! Podej jí krabici s oblečením.
-To je vše! Vidíš ty světla nahoře? Jedno z nich se rozsvítilo zeleně, to znamená že jsem to udělali správně!
-Teď je řada na tobě! Já budu zpátky až se všechna světla rozsvítí zeleně. Hodně štěstí!
+Musíte se ujistit, že tento prototyp je ten správný.
+Nejprve ho naskenujte.
+Nyní zkontrolujte verzi a kostru kostí.
+Vezměte data tohoto prototypu a porovnejte je se standardní verzí.
+Je to dokonalá shoda! Nyní zkontrolujte emoce.
+Vzorek úspěšně zobrazuje emoce! Je čas otestovat chování.
+Dobře, vše jsme zkontrolovali a vše odpovídá! Nyní zatáhněte za páku nahoru.
+Hurá! Teď už je kůže na svém místě! Podej jí krabici s oblečením.
+To je ono! Vidíš ty světla nahoře? Jedno z nich se rozsvítilo zeleně, což znamená, že jsme to udělali správně!
+Jsi na řadě! Vrátím se, až se všechna světla rozsvítí zeleně. Hodně štěstí!

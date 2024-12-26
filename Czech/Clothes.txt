@@ -1,4 +1,4 @@
-Nové oblečení dostupné!
+Nové oblečení k dispozici!
 Nedostupné
 
 
@@ -7,7 +7,7 @@ Nedostupné
 
 
 
-Základní
-Školní
-Upíří
-Vánoční
+Výchozí
+Školačka
+Upír
+Vánoce

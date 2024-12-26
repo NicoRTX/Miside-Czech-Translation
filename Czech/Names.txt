@@ -1,5 +1,5 @@
 Mita
-Ty
+Vy
 Myšlenky
 Mita
 
@@ -17,7 +17,7 @@ Libi
 Nick
 May
 Doc
-Nekik
+Erik
 Subaru
 Oreki
 Bubra
@@ -37,10 +37,10 @@ Longer
 Leo
 Doni
 Miki
-Raf
+Martin
 Leon
 Albert
-Ada
+Lukáš
 Ashley
 Ethan
 Chris

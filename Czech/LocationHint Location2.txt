@@ -1,6 +1,6 @@
-Podívej se okolo.
-Najdi potřebné věci a polož je na skener.
-Naskenuj věci a zapni přístroj.
-Běž k pojistkám vedle vchodových dveří.
-Najdi a vrať chybějící baterie do přístroje.
-Zapni přístroj.
+Porozhlédněte se kolem.
+Najděte požadované předměty a umístěte je na skener.
+Naskenujte předměty a spusťte stroj.
+Jděte k pojistkové skříňce u vchodových dveří.
+Najděte a vraťte do stroje chybějící baterie.
+Spusťte stroj.

@@ -1,145 +1,165 @@
 Nová hra
 Pokračovat
 Hlavní menu
-Konec hry
+Ukončit
 Nastavení
 Úspěchy
-Titulky
+Autoři
 Zpět
 Načíst
 Jazyk
 Načítání...
 Grafika
-Hlasitost hry
+Zvuk
 Klávesnice a myš
-Kontroler
+Ovladač
 Rozlišení
-Windowed mode
+Režim v okně
 Grafické efekty
 Barevné efekty
-Lehké stíny
-Rozmazání 
-Záře
-Anti-aliasing
+Jemné stíny
+Rozmazání
+Odlesky
+Vyhlazování hran
 Stíny
-Kvalita světa
+Kvalita zobrazení světa
 Programování
 Animace
 Zvukové efekty
 Hudba
 Částice
 Textury
-3D modely (98%)
+3D modely (98 %)
 Skript
-Resetovat
+Obnovit
 Dopředu
-Zpět	
+Zpět
 Doleva
 Doprava
-Interagovat
+Interakce
 Citlivost myši
-Ukončit hru?
+Opravdu chcete opustit hru?
 Ano
 Ne
-Zpátky do menu
-Plynulé otáčení
-Nastavení hry
+Zpět do hlavního menu
+Hladké otáčení
+Herní nastavení
 Styl stínů
 Oblečení
 Rozhraní
-3D modely (2%)
+3D modely (2 %)
 Herní video
 Pauza
 Menu
-Sláva! Právě jsi dohrál hru!
-Tvůj čas:
+Gratulujeme! Dokončili jste hru!
+Váš čas:
 Titulky
 Jas
-Vertical sync
+Vertikální synchronizace
 Uloženo
 Postavy
-Postavy - Mity
-Postavy - Kazety
+Postavy – Mitas
+Postavy – Kazety
 Kazety
-Mity
-Vymazat postup ve hře
-Jsi si jistý že chceš smazat tvůj veškerý postup ve hře a začít úplně od nuly?
-Pracuji na stínech, předpokládaná doba čekání je: 2 hodiny.
-2 hodiny?! To je šílené! Ale my ti dovolíme přeskočit frontu!
-Vytváření realistických stínu, odhadovaný čas je 10 minut.
-Dělám si srandu, my tady takové vymoženosti nemáme.
-Umm...
-Aha, už je vše hotové!
-Houpat se při chůzi
-Zobrazit tipy
+Mitas
+Začít s čistým štítem
+Opravdu chcete úplně smazat svůj postup a začít od začátku?
+Kompilace shaderů, odhadovaný čas: 2 hodiny.
+Kompilace na 2 hodiny?! To je nesmysl! Přeskočíme to za vás!
+Vytváření realistického trasování stínů — odhadovaný čas: 10 minut.
+Děláme si srandu, tyhle luxusní věci tady nepoužíváme.
+Ehm...
+Hotovo!
+Houpání při chůzi
+Zobrazit nápovědy
 Hlas hráče
 Discord
-Byla přidána nová postava 
+Přidán profil postavy
 Úhel kamery
 Hlas
 Vypnuto
-Ruka šahá ze dveří
+Ruka se natahuje ke dveřím
 Animace
-Zapnout hlas hráče
+Povolit hlas hráče
 Mita
-Krátkovlasá Mita
-Hodná Mita
-Mita s čapkou
-Malá Mita
+Mita s krátkými vlasy
+Laskavá Mita
+Mita s kšiltovkou
+Mini Mita
 Ospalá Mita
 2D Mita
 Mila
-Zlá Mita
-Core Mita
-Duch Mita
+Strašidelná Mita
+Jádrová Mita
+Duchová Mita
 Chibi Mita
-Blbá Mita
+Figurína Mita
 
 
 
-// Název lokace na načtení
-Já jsem ve hře?
-Aspoň jsme spolu
-Děje se tu něco divného
+// Name load location
+Jsem uvnitř hry?
+Konečně spolu
+Věci se začínají komplikovat
 Sklep
 Mimo svět
-V kruhu
-Malá Mita
-Blbý a zapomenuté skládačky
+Smyčka
+Mini Mita
+Figuríny a zapomenuté hádanky
 Chce jen spát
-Novely
-Čtení knih, ničení bugů
+Romány
+Čtení knih, ničení závad
 Utíkej a schovej se!
 Stará verze
-Buď upřímný
-Nový začátek
+Buď kandidátem
+Restart
 Cappie
-Duch Mita
-Reálný svět
-Opusť jádro!
-Hráč 1
-Hráč 2
-Hráč 3
-Hráč 4
-Hráč 5
-Hráč 6
-Hráč 7
-Hráč 8
-Hráč 9
-Hráč 10
+Ghost Mita
+Skutečný svět
+Opusťte jádro!
+Player 1
+Player 2
+Player 3
+Player 4
+Player 5
+Player 6
+Player 7
+Player 8
+Player 9
+Player 10
 
-Mírumilovný mód
-Tenhle mód se stále ještě vyvíjí! Je tak velký, že ho vývojáři ještě nedokončili, ale neboj se, slíbili, že ho vydají s další velkou aktualizací, která přijde co by dup. Ale podívej se na sebe, už jsi o krok blíž, po tom, co jsi si ho odemkl. Teď nezbývá nic jiného než počkat...
-Takže, co je to vlastně Mírumilovný mód? Je to tvoje šance spojit se s Mitou v úplně jiném smyslu. Bude úplně nadšená, že s tebou tráví čas od rána do noci ve světě zářícím zábavou a překvápky. Očekávej upřímné konverzace, pojídání sušenek, hraní her a další zábavné momenty společně
+Peaceful Mode
+Tento režim je stále ve vývoji! Je tak rozsáhlý, že ho vývojáři ještě nestihli dokončit. Ale neboj se – slíbili, že bude součástí velké aktualizace, která brzy přijde. A podívej se na tebe, jsi už napřed, protože jsi si odemkl/a přístup! Teď už zbývá jen čekat...
+Co je to Peaceful Mode? Je to tvoje šance znovu se spojit s Mitou úplně jiným způsobem! Bude nadšená, že s tebou může trávit více času, od rána do večera, ve světě plném zábavy a překvapení. Očekávej upřímné rozhovory jeden na jednoho, sdílení sušenek, hraní her a spoustu veselých momentů společně.
 
 
-Gore
-Speciální díky:
-Ikony pro achievementy: Iceсloud
+Násilí
+Speciální poděkování:
+Ikona úspěchu: Icecloud
 Fotografie: Nineko Hori
-Překlad
-Převádějí text na jiný jazyk
-Vydavatelský partner
-Herní marketing
-Testeři
-Hráli a našli mnoho bugů
+Překladatel
+Převádí text hry do jiného jazyka.
+Publikační partner
+Marketing hry
+Tester
+Hrál/a a našel/la všechny možné chyby.
+Tento jazykový překlad vytvořili nadšenci z komunity fanoušků a na jejich žádost byl do hry přidán.
+Pozor! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
+Nyní je k dispozici klidný režim!
+
+Režim kamery
+Režim kamery: Omezení letu fotoaparátu odstraněno. Můžete prozkoumávat běžně nepřístupné oblasti.
+Ukončení fotografického režimu
+Skrytý rozhraní
+Podržením posouváte kameru
+Rychlý pohyb
+Plynulý pohyb
+Rychlost
+Efekty
+Ovládání herního času
+Jas
+Kontrast
+Vinětace
+Snímek obrazovky pořízen!
+Přístup do složky snímků obrazovky
+Úhel kamery

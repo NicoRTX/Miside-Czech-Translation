@@ -1,19 +1,19 @@
-// Track names
-Sušenka
+// Názvy skladeb
+Cracker
 Bublinkový nápoj
-Balónek
-// Quest none
-Už nic.
-// Quest "Meeting Kind Mita"
-Měl bych ti věřit?
+Balón
+// Úkol žádný
+Nevadí.
+// Úkol „Setkání s hodnou Mitou“
+Jak ti věřit?
 Jak jsem se sem dostal?
-Co je tohle za místo?
-Jak jsi se sem dostala ty?
-Co jsi udělala s tím prstenem?
-Jsou ty pasáže nebezpečné?
+Co je to za místo?
+Jak jste se sem dostali?
+Co jsi udělala s prstenem?
+Jsou ty chodby nebezpečné?
 Pomůžeš mi utéct?
-Zmínila jsi plán.
-// Quest MitaCap
-Pamatuješ si něco?
-Co si myslíš o té Mitě s prstenem?
-Tu čepici nosíš pořád?
+Zmínit se o plánu.
+// Úkol MitaCap
+Vzpomínáš si na něco?
+Co si myslíš o Mitě s prstenem?
+Nosíš tu čepici pořád?

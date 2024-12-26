@@ -1,58 +1,58 @@
-Aplikace se spouští
+Spustit aplikaci
 
-Potvrďte přihlášení
-Nesprávné heslo
+Potvrdit přihlášení
+Nesprávné přihlášení
 Programy
-Zpátky
+Zpět
 
-Virtuální správce počítače
-Správce serverů [Vyber verzi]
-Hlavní správa procesoru [Vyber verzi]
-Monitoring grafických prvků [Vyber verzi]
-Quadratika
+Správce virtuálních zařízení
+Účetnictví serverových jednotek [Vyberte verzi]
+Monitorování hlavního procesoru [Vyberte verzi]
+Grafické monitorování procesů [Vyberte verzi]
+Čtyřúhelník
 Ukončit hru
 
 
 Pokročilá správa systému
-Restart Postavy [Vyber verzi]
-Restart přístroje [Vyber verzi]
-Update verze [Vyber verzi]
-Přepočítávání geomterie [Základní]
+Restartování postavy [Vyberte verzi]
+Restartování zařízení [Vyberte verzi]
+Aktualizace verze [Vyberte verzi]
+Přepočítávání geometrie [Obecné]
 
 
 
 
-Restart Systému
-Odstranění problému [Základní]
-Antivirus [Základní]
-Příkazový řádek [Základní]
+Obnovení systému
+Troubleshooting [Obecné]
+Antivirus [Obecné]
+Příkazová konzole [Obecné]
 
 
 
 
 Pokročilé funkce
-Vymaž objekt [Vyber verzi]
-Zobrazit kameru [Vyber verzi]
-Zobrazit spouštěče [Vyber verzi]
-Nastavení fyzického enginu [Vyber verzi]
+Smazat objekt [Vyberte verzi]
+Zobrazit kameru [Vyberte verzi]
+Zobrazit spouštěče [Vyberte verzi]
+Nastavení fyzikálního enginu [Vyberte verzi]
 Získat flash disk
 
 
 
 Vedlejší funkce
 Editor binárního kódu [Speciální přístup]
-Editor matrixu [Speciální přístup]
+Editor jednotkové matice [Speciální přístup]
 
 
 
 
 
-Zadejte verzi Postavy
-Zadejte index Postavy
-Potvrď
-Zatáhni za páku
-Spusťte podprogram
-Běží program restartu!
-Příprava pro restart
+Upřesnit verzi postavy
+Upřesnit index postavy
+Potvrdit restart
+Použí páku
+Spustit subprogram
+Restartování procesu probíhá!
+Příprava na restart
 Restartování...
 Potvrdit

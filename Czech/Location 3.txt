@@ -1,16 +1,16 @@
-// Quest none
-Už nic.
-// Quest "First Mita"
+// Úkol žádnný
+Nevadí.
+// Úkol „První Mita“
 Ty jsi Mita?
-Co když se chci vrátit zpátky?
+Co když se chci vrátit?
 Jak jsem se dostal do hry?
-// Quest "Kitchen eat"
-Tvůj dům je útulný.
-Kdy můžu jít domů?
-Cítím se tu jako ve snu…
-Proč jsou okna prostě jen bílé světlo?
-Proč používáme nůžky, když jsme mohli použít nůž?
-Bon appétit!
+// Úkol „Najíst se do kuchyně“
+Tvůj domov je útulný.
+Kdy se můžu vrátit domů?
+Připadá mi to jako sen...
+Proč jsou všechna okna jen bílá?
+Proč používat nůžky, když jsme mohli použít nůž?
+Dobrou chuť!
 // TV
-Cool džus!
-Silný DŽUS!!!
+Skvělá šťáva!
+Silná ŠŤÁVA!!!

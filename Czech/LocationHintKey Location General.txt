@@ -1,38 +1,38 @@
-Zmáčkni
+Stiskněte tlačítko
 Mluvit
-Nasadit si prsten
-Hledat tlačítko
-Držet
-Vstát
-Vzít prsten
+Nasaďte si prsten
+Vyhledejte tlačítko
+Podržte
+Postavit se
+Vezměte si prsten
 Smazat hru
-Konec
-Zmáčkni
+Ukončit
+Stiskněte tlačítko
 Zastavit
-Běžet
+Spusťte
 Otevřít zprávu
 Stáhnout aplikaci
-Otevřít aplikaci
+Spusťte aplikaci
 Mluvit
 
 Vzít baterii
 
-Podívat se
-Položit
-Podat nůžky
+Zkontrolujte
+Položte kazetu
+Předejte nůžky
 Odmítnout
 Jíst
-Vstát
-Pokusit se vstát
-Vzít si prášky
-Vzít si omáčku
-Vzít si karty
-Podívat se na karty
-Schovat karty
-Pravá
-Levá
-Hrát kartu
-Zůstat
+Postavit se
+Zkuste se postavit
+Vezměte si prášky
+Vezměte si omáčku
+Vezměte si karty
+Podívejte se na karty
+Schovejte karty
+Vpravo
+Vlevo
+Zahrajte kartu
+Zůstaňte na
 Odmítnout
 
 Kazety
@@ -41,92 +41,92 @@ Otevřít
 Vypít džus
 Odmítnout
 
-Pohyb vpravo
+Přesunout vpravo
 Pohyb vlevo
 Skok
-Skrčit se
+Přikrčit se
 Útok
 
-Otočit doprava
-Otočit doleva
-Lehnout
+Otočte se doprava
+Otočte se doleva
+Položte se na zem
 
-Pustit
+Uvolnění
 
-Vstát
-Sednout si
-Vstát
+Probuďte se
+Posaďte se
+Postavit se
 Zapnout počítač
-Vzít ramen
-Skončit
-Jít spát
+Vezmi si ramen
+Dokončit
+Jdi spát
 
-Najít více skládaček
+Najdi další hádanky
 
-Zkusit
+Vyzkoušejte stránku .
 Neměl bych
 
 Já vím
-Já nevím
-Bouchnout slabě
-Bouchnout silně
-Tlač!
+Nevím
+Udeřte slabě
+Udeřte silně
+Zatlačte!
 
-Levá
-Prostřední
-Pravá
+Vlevo
+Uprostřed
+Vpravo
 
-Doprava
-Vybrat
-Doleva
+Vpravo
+Vyberte
+Vlevo
 
-Ještě jednu
-Stačí
+Jeden další
+Dost
 
-Zasáhnout
+Interfere
 
-Zatáhnout za páku
+Zatáhněte za páku
 
-Vybrat pravou
-Vybrat levou
+Zvolte pravou
+Zvolte levou
 
-Zatoč vpravo
-Zatoč vlevo
-Skoč
+Otočte doprava
+Otočit doleva
+Skok
 Otevřít dveře
 
-Vybrat hru
-Odejít
-Pokračovat
-Hrát
+Vyberte hru
+Dokončit hru
+Pokračovat na
+Hrajte na
 
 
 Zavřít dveře
 
-Doprava
-Doleva
+Vpravo
+Vlevo
 Dolů
 Nahoru
 
-Krok dozadu
-Zmáčknout tlačítko
+Krok zpět
+Stiskněte tlačítko
 
 Jíst
 Pít
-Vzít placičku
-Vzít chleba
-Přidat mléko
-Přidat cukr
-Přidat mouku
-Přidat ojel
-Přidat vajíčko
-Zamíchat
-Přidat zamíchané
-Otočit
-Moc
+Vezměte si palacičku
+Vezměte si chléb
+Přidejte mléko
+Přidejte cukr
+Přidejte mouku
+Přidejte olej
+Přidejte vejce
+Smíchejte
+Přidejte směs
+Obraťte
+Příliš mnoho
 
-Sluší ti
-Měla by sis je sundat
+Vypadají dobře
+Prostě si je sundej
 
-Mluv ke mně
-Nepotřebuji
+Mluv se mnou
+Není potřeba.

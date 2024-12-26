@@ -5,49 +5,49 @@ Nábytek
 Místnost
 Oblečení
 Hračky
-Upgrady
-Polévky
-Saláty
-Sladkosti
-Pití
-Stoly
-Postele
-Televize
+Vylepšení
+Polévka
+Salát
+Svačina
+Nápoje
+Stůl
+Postel
+TV
 Židle
 
 Den
 
-Zpátky
+Zpět
 Koupil jsi
-Přísady na slepičí polévku
+Ingredience na kuřecí polévku
 
 
 
 
 
-Uvádí
+Presents
 
 Mini-hry
 Energie
 Elektronika
 Zpracování
-Platformerovky
+Platformové hry
 Hry
 
-(1) Nová zpráva
-Koukni na tohle! Budeš to milovat!
+(1) nová zpráva
+Koukni na tuhle novou verzi!
 Příloha
 
-Kamarád: M.K.
+Přítel: M.K
 
-Den [0]
-
-
+DEN [0]
 
 
 
 
-Tutoriál: Chceš abych tě naučil základy ovládaní?
-Podívej se kolem sebe.
-Zkus se pohybovat.
-Zkus s něčím interagovat.
+
+
+Návod: Chceš, abych ti ukázal základy?
+Rozhlédni se.
+Pohybuj se.
+Interaguj.

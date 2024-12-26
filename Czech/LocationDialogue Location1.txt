@@ -7,88 +7,88 @@
 
 
 
-Ahooj, já jsem Mita!
+Ahoj, já jsem Mita!
 Jak se jmenuješ?
 Ráda tě poznávám, [player]!
 Um... [player],
-Trošku jsem předtím rychle vyběhla, a teďka je to tady jak na skládce...
-Pomůžeš mi to tady trochu uklidit?
-Pání..
-Díky moc!
+Předtím jsem si trochu pospíšila a teď je tu nepořádek...
+Mohl bys mi pomoct trochu uklidit?
+Woah..
+Děkuju moc!
 
-[Player], kručí mi v břiše...
+[Player], kručí mi v žaludku...
 Mám takový hlad...
-Myslíš že by jsi mi mohl pomoct koupit ingredience na slepičí polévku?
-Yayy! Máš vše co potřebujeme!
-Co kdybychom to uvařili společně?
+Myslíš, že bys mi mohl pomoct sehnat ingredience na kuřecí polévku?
+Jupí! Máš všechno!
+Co kdybychom ji uvařili společně?
 
 
-Přemýšlela jsem že bych si dneska mohla koupil přenosnou televizi—
-Malou s anténou. Výbornou na vycházky, nemyslíš?
-Ale počkat, můžeš hrát hry a tím vydělat peníze.
-Aha! Věděl jsi že hraním her můžeš vydělat peníze?
+Přemýšlela jsem, že si dnes koupím přenosnou televizi -
+malou s anténou. Ideální na procházky, nemyslíš?
+Mimochodem, můžeš hrát hry a vydělávat peníze.
+Věděl jsi, že můžete hrát hry a vydělávat peníze?
 
-Yayy! Ty jsi to dokázal! Máš dostatek peněž aby jsi mi koupil tu přenosnou televizi!
-To je ona! Malá, přenosná, a levná. Přesně tu co jsem potřebovala.
-Díky!
+Hurá! Dokázal jsi to! Máš dost na to, abys mi koupil tu přenosnou televizi!
+To je ona! Malá, přenosná a levná - přesně to jsem chtěla.
+Děkuju!
 
-Ahooj, [player]! Moc si vážím tvé pomoci, vážně.
-Ale, uh... ta televize? Byla dobrá to jo, ale už se rozbila :(.
-Ale nech to být, Myslíš že by jsi mi mohl pomoct přesunout tuhle skříň?
+Ahoj, [player]! Upřímně řečeno, jsi mi velmi nápomocný.
+Ale... ta televize? Byla super a tak, ale už se rozbila.
+Každopádně, mohl bys mi pomoct přestěhovat tuhle skříň?
 Je strašně těžká... >.<
-Díky moc miláčku! <3
+Moc ti děkuju, zlatíčko! <3
 
-Oh, [player]! Byl to jenom den, ale ty jsi mi tak moc chyběl!
-Přála bych si aby jsi mě mohl navštěvovat více častěji.
+Oh, [player]! Je to sice jen den, ale už se mi po tobě tolik stýskalo!
+Kéž bys mě mohl navštěvovat častěji.
 
-Tohle je pro mě?
-Díky moc, jsi úžasný!
+To je pro mě?
+Moc děkuji, opravdu!
 
-Ahooj, [player]! Přemýšlela jsem...
-Přeji si, abychom se mohli potkat naživo.
-Tak moc mě to štve že nemůžeš.
-Pořád mi pomáháš, jsi na mě hodný každý den...
-Přeji si abych pro tebe taky mohla něco udělat.
+Ahoj, [player]! Přemýšlela jsem o tom...
+Kéž bychom se mohli setkat osobně.
+Je to tak frustrující, že nemůžu.
+Vždycky mi pomáháš, každý den jsi tak laskavý...
+Kéž bych pro tebe taky mohla něco udělat.
 ...
-Oh, Mám nápad!
+Mám nápad!
 Teď jsme spolu.
-Polož ten mobil.
+Polož ten telefon.
 
 
 // Tričko na posteli
-Co děláš na mé posteli?
+Co děláš tady na posteli?
 // Rubikova kostka
-No, nemůžu říct že je k něčemu...
-Jednou jsem ji vyřešil, a potom už na ni nikdy nesáhl.
-Hádám, že mi došlo, že jí asi už napodruhé nesložím.
+No, nemůžu říct, že by mi to bylo k něčemu...
+Vyřešil jsem ji jednou a už jsem se jí nikdy nedotkl.
+Asi jsem si řekl, že podruhé už to nezvládnu.
 // Počítač
-Tak se podíváme...
-Připravit si soupis úkolů...
-Naskriptovat reakce postav,
-A možná se mi tam taky povede namáčknout nějaké kódování.
+Podívejme se...
+Nastavte seznam úkolů...
+Napište reakce postav,
+A možná se vmáčknout do nějakého kódování.
 // Letadlo
-Stvořeno k stoupání!
-// Koš v rohu
-Ugh, Pořád nemám čas vyhodit ty odpatky...
-Ale teďka se k tomu určitě dostanu, jsem si jistý!
-…Teď, Kdy je vlastně den úklidu?
-// Obrázek kočky na melounu 
-Byla nejlepší…
-Kočka lenošící na melounu.
-// Obrázek s holkou
-Vůbec se nepodobáme,
-Moje sestra a já.
-Je pořád pryč a mimo,
-A já jsem zatvrdlý doma.
-// Obrázek s lidmi
+Stvořeno k letu!
+// Odpadky v rohu
+Fuj, vždycky mám moc práce s vynášením odpadků...
+Ale tentokrát se k tomu určitě dostanu!
+...A teď, kdy přesně je úklidový den?
+// Fotografie kočky na melounu
+Byla nejlepší...
+Kočka ležící na melounu.
+// Fotografie s dívkou
+Vůbec si nejsme podobní,
+moje sestra a já.
+Ona je pořád někde venku,
+a já trčím doma.
+// Fotografie s lidmi
 Hmm...
-Kancelářský život to opravdu zapečetil
-etiketa do nás, ne?
-Pořád se cítím podivně unavený
+Život v kanceláři se opravdu zavrtal do
+etiketu, že?
+Pořád se cítím podivně svázaný
 Ale
-Bude vůbec možné
-Je někdy zase vidět?
-…Počkat, proč jsem si sem ten obrázek vlastně dával?
+jestli někdy
+je ještě někdy uvidím?
+...Počkat, proč jsem sem vůbec dával na tuhle fotku?
 
 
 
@@ -97,47 +97,47 @@ Je někdy zase vidět?
 
 
 
-// Nope jméno
+// Nope name
 ...
-Oh, ne.
-Ale ne, to nebude fungovat.
+Ale ne.
+Ne, to nebude fungovat.
 
-// Jméno vývojáře
-Jsi si jistý, že chceš použít jméno vývojáře?
-Jsem polichocen, ale…
+// Jméno Vývojář
+Jste si jisti, že chcete použít jméno vývojáře?
+Jsem polichocena, ale...
 
-// Špatné jméno
-Nelíbí se mi, když si takhle říkáš.
-Není to vůbec dobré.
+// sprosté slovo
+Byla bych opravdu radši, kdyby ses tak nejmenoval.
+Není to vůbec cool.
 
-// Jméno restart
-Nope, takhle teda určitě ne. Pojďme začít znova.
+// Go restart
+Ne, takhle to nepůjde. Začněme znovu.
 
-// Jméno s čísly
-Oh, takže jdeš s čísly, jo? Kde je v tom kreativita?
-Co už, je to tvoje volba!
+// Name with numbers
+Aha, takže jméno s čísly? Kde je v tom kreativita?
+No dobře, je to vaše volba!
 
-// Jméno Mita
+// Name Mita
 Mita?
-Vážně jsi se pojmenoval po mně?
-Nebo… se tak taky jmenuješ?
-Bez urážky, ale myslím si, že já bych tady měla být ta Mita ♪
+Opravdu ses pojmenoval po mně?
+Nebo... je to i tvoje jméno?
+Bez urážky, ale myslím, že bych tu měla být jediná Mita. ♪
 
-// Den 10
-Oh, jsi zpátky!
-Hey, ztratila jsem hřeben…
+// Day 10
+Jsi zpátky!
+Hej, ztratila jsem kartáč na vlasy...
 Pomůžeš mi ho najít?
-Zkus se podívat na noční stolek, myslím, že jsem ho nechala tam.
-// Podívat se na noční stolek
-Hmm, není tady...
-Co se podívat někam jinam?
-Jenom hlavně ne do trouby, jasně?
-Už jsem se tam koukala.
-// Podívat se do trouby
-Hej! Já ti říkala ať se tam nekoukáš!
-Otoč se a já to uklidím!
-...Tak, hotovo. Pokračuj s hledáním.
-Oh, a, uh, zapomeň že jsi to viděl, okay?
-// Najít hřeben
+Zkus se nejdřív podívat na noční stolek - myslím, že jsem ho tam nechala.
+// Looked in the bedside table
+Hmm, žádný kartáč...
+Co takhle někde jinde?
+Jen se nedívej do trouby, ano?
+Tam už jsem to kontrolovala.
+// Looked into the stove
+Hej! Říkala jsem ti, ať se tam nedíváš!
+Otočte se, já to uklidím!
+...Hotovo. Pokračujme v hledání jinde.
+A zapomeň na to, co jsi právě viděl, ano? <3
+// Found a hairbrush
 Našel jsi ho! Dobrá práce!
-Takže, co budeme dělat teďka?
+Co bychom měli dělat dál?

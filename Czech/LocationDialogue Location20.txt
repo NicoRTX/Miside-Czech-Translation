@@ -1,92 +1,92 @@
 
-Mila! No! You're insane!
+Mila! Ne! Jsi blázen!
 
-Ha-ha! WHAT'S THIS?
-Is that a new expression I see?
-Go on, let me see more!
-Watching the same old face gets so boring!
+Ha-ha! CO JE TOHLE?
+To je nějaký nový výraz?
+No tak, ukaž mi další!
+Dívat se na ten samý obličej je nuda!
 
 // Mita arena "Hello"
-How's it going, my restless little wanderer?
-Still running around? Haven't had enough yet?
+Jak to jde, můj neposedný poutníčku?
+Pořád ještě běháš? Ještě nemáš dost?
 
-What did you do to Mila?
+Co jsi Mile udělala?
 
-Oh, so you're not tired yet!
-Perfect! Let's play another game!
+Aha, takže ještě nejsi unavený!
+Perfektní! Zahrajeme si další hru!
 
-You...
+Ty...
 
-Let's kick things off with a little test!
-Let's test your coordination!
-Now your ability to act!
-What if there's something wrong with you!?
-What if you don't even deserve that SKIN
-you're so proud to wear!?
+Začněme malým testem!
+Vyzkoušíme tvojí koordinaci!
+Nyní tvojí schopnost jednat!
+Co když je s tebou něco v nepořádku!?
+Co když si tu kůži ani nezasloužíš?
+kterou tak hrdě nosíš!?
 
 // Show knifes
-Take a look...
-Which one catches your eye?
-The right one?
-Or
-the left?
+Podívejte se...
+Který tě zaujal?
+Ten pravý?
+Nebo
+levý?
 
 // Throw knifes
-Oh, seriously?
-Does it even matter?
-I was just messing with you!
-Stabbings are old news, anyway.
-Whatever!
-I've got much better games planned,
-like...
+Vážně?
+Záleží na tom vůbec?
+Jen jsem si z tebe dělal legraci!
+Pobodání je stejně stará novinka.
+To je fuk!
+Mám v plánu mnohem lepší hry,
+jako...
 // Show recorder
-Check this out!
-We need some music!
-What do you think of this melody?
-It gets my blood pumping!
-I'll start
-with the rules!
+Podívej se na to!
+Potřebujeme nějakou hudbu!
+Co si myslíš o této melodii?
+Rozproudila mi krev v žilách!
+Začnu
+s pravidly!
 // Show rules
-While the tune is playing,
-you can move.
-But when the music stops,
-DON'T MOVE!
-Or you're dead. Got it?
-It's simple: get to the end
-before the song runs out.
-Let's start!
-Still standing around, eh?
-Run, sweetie, run!
+Zatímco hraje melodie,
+se můžeš pohybovat.
+Když však hudba přestane hrát,
+NEHÝBEJ SE!
+Jinak jsi mrtví. Chápeš?
+Je to jednoduché: dostaň se na konec
+než píseň skončí.
+Začínáme!
+Pořád tu stojíš, co?
+Utíkej, zlato, utíkej!
 
 // Ready recorder
 Oh!
-Look at you! So obedient!
-A perfect little specimen.
-I want you for myself!
-That was way too easy, though, wasn't it?
+Podívejte se na sebe! Tak poslušný!
+Dokonalý malý exemplář.
+Chci tě pro sebe!
+To bylo příliš snadné, že?
 
-Let me go!
+Nechte mě jít!
 
-Don't get too comfortable!
-We've got plenty more games to play!
-Here's the next one:
-I'm going to close my eyes...
-And when I open them,
-you better be gone!
-Got it?
-If I see you, I'll punish you!
-Good! Let's begin!
+Nezvykej si tu!
+Máme před sebou ještě spoustu her!
+Tady je další:
+Zavřu oči...
+A až je otevřu,
+ať už jsi pryč!
+Rozumíš?
+Jestli tě uvidím, potrestám tě!
+Dobře! Začneme!
 
-This is pointless...
+Tohle je zbytečné...
 
 // Ready hide
-You made it!
-You're doing great—this is getting exciting!
-But now it's going to get harder.
-WAY harder.
-Hide, run, spin—
+Dokázal jsi to!
+Vedeš si skvěle - začíná to být vzrušující!
+Ale teď to bude ještě těžší.
+Hodně těžké.
+Schovej se, utíkej, otáčej se...
 
-Gah, damn you to hell!
+Gah, jdi do háje!
 
 // Player falls
-I think I got away...
+Myslím, že jsem utekl...

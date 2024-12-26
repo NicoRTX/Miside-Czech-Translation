@@ -1,6 +1,6 @@
-// Quests
-Never mind.
-Are you Mita?
-Have we met before?
-What are you doing here?
-Why are you helping me?
+// Úkoly
+Nevadí.
+Jsi Mita?
+Už jsme se někdy potkali?
+Co tady děláš?
+Proč mi pomáháš?

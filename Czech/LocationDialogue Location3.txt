@@ -1,303 +1,303 @@
 
 Ahoj, [player]!
-Konečně se potkáváme!
-Strašně se těším!
-Vím že máš spoustu otázek...
-No jak vidíš
-Vyrobila jsem tohle speciální zařízení
-Abych tě dostala sem ke mně.
-Ale ty jsi skončil v jiné verzi hry...
-Ve které já...
+Konečně se setkáváme!
+Jsem tak nadšená!
+Vím, že máš otázky...
+Jak vidíš,
+vyrobila jsem toto speciální zařízení
+abych tě přivedla na svou stranu.
+Ale skončil jsi v jiné verzi hry...
+Ve které jsem...
 Ale to je dlouhý příběh!
-Stejně, jsem prostě ráda že tě vidím!
+Každopádně jsem ráda, že tě vidím!
 
 // Answer 1 - Mita
-Jsem.
-A ty musíš být [player], že?
+Ano jsem.
+A ty jsi [player], že?
 
 // Answer 2 - Mita
-Už jít zpátky?
-Myslím, že bych ti s tím mohla pomoct... Ale co já?
-Prosím, zůstaň tu se mnou na chvíli...
+Vrátit se už zpátky?
+Myslím, že bych tí s tím mohla pomoci... Ale co já?
+Prosím, zůstaň se mnou chvíli...
 
 // Answer 3 - Mita
-Nech mě ti to vysvětlit...
-A jsi tady!
-Chápeš?
-Uhm... moc ne.
+Vysvětlím ti to...
+A tady jsi!
+Rozumíš?
+Uhm... ne tak docela.
 To je v pořádku!
-Co je důležité, je, že už jsme spolu.
+Důležité je, že jsme teď spolu.
 
 
 Máš hlad?
-Co kdybychom něco uvařili?
+Co kdybychom si něco uvařili?
 Tady,
-Pomož mi s těmi mrkvemi.
+pomoz mi s tou mrkví.
 
-Odkud se tady ta zelenina vzala?
-Teďka tady nebyla.
+Kde se tady vzala ta zelenina?
+Před chvílí tu nebyla.
 
 [player], jsme ve hře.
-Pojď, podej mi pomocnou ruku.
+No tak, pomoz mi.
 
-Díky!
-Můžeš mi donést nůžky?
+Děkuji!
+Můžeš vzít nůžky?
 Jsou v koupelně.
 
-Teď, pojď se posadit.
+Posaď se.
 
 
 // Kitchen
-Chceš k tomu omáčku?
+Dáš si omáčku?
 
-Né díky.
+Ne, díky.
 
-Jaká škoda.
-Omáčka vážně může obohatit chuť!
+To je škoda.
+Omáčka opravdu zvýrazní chuť!
 
 
-Děkuji moc.
+Děkuji.
 
-Už jsi dojedl?
-Huh, moje porce je
+Už jsi všechno snědl?
+Huh, moje porce se zdá
 nekonečná...
 
 
 // Help
 Co se děje?
-Řekni mi co vidíš a cítíš.
+Řekni mi, co vidíš a cítíš.
 
-Moje srdce buší,
-A moje vize je rozmazaná.
+Srdce mi buší jako o závod,
+a moje vidění se rozmazává.
 
-Chápu.
+Dobře.
 Myslím, že vím, co je špatně.
-Můžeš se postavit?
+Dokážeš vstát?
 
 
 
 Co to je?
 
-Prášky.
-Budeš se po nich cítit brzy lépe.
-Běž k zrcadlu.
+Pilulky.
+Brzy se budeš cítit lépe.
+Jdi k zrcadlu.
 
-Vezmi si ty prášky.
-Pojď, do toho.
+Vem si prášky.
+No tak.
 
 
 
-Jak se cítíš?
+Jak se citíš?
 Lepší?
 
 Ano.
-To bylo rychlé...
+To fungovalo rychle...
 
 [player], jsme ve hře.
-Věci jsou tady o mnoho lehčí
+Tady je to mnohem jednodušší.
 I ta nejmenší snaha
-Nám dá dobré výsledky.
-Je to všechno součástí herní mechaniky:
+přináší skvělé výsledky.
+To vše je součástí herního konceptu:
 Zjednodušení.
 
-na příklad, prosím?
+Příklad, prosím?
 
-No, pojďme si vzít mrkve.
-Nakrájíš jednu,
-Ale je to jako kdyby jsi nakrájel tři.
+Tak třeba mrkev.
+Jednu nakrájíš,
+ale je to, jako bys krájel tři.
 
-Podívej, tohle je tak vše narychlo.
-Bojím se, více než málo.
+Podívejte, je to všechno velmi náhlé.
+Mám strach, víc než jen trochu.
 
 
 Co se děje?
 
-Našel jsem ve ventilaci kazety.
-Byli na nich jména.
-Co to má být?
+Ve větracím otvoru jsem našel kazety.
+Byly na nich jména.
+Co se s tím děje?
 
 Kazety?
-Jaké kazety?
-Společně to vyřešíme.
+Jaký kazety?
+Pojďme to vyřešit společně.
 Ale později.
-Teď se pojďme najíst.
-podej mi ty nůžky, prosím.
+Teď se musíme najíst.
+Podej mi nůžky, prosím.
 
 // Ring
 Prsten?
 // Mirror
-Jak to, že tady není odraz?
+Jak to, že tam není žádný odraz?
 
-Oh, jasně!
+Aha, jasně!
 Zapomněla jsem zapnout odrazy.
-Tak a je to.
-Odrazy jsou zpátky!
+A je to tady.
+Odrazy jsou zpět!
 Mimochodem,
-Upřímně, dříve jsem ani nevěděla, co to jsou odrazy.
-Neexistovaly v mém světě—
-Né do určitého updatu. :)
-Máš hodně odrazů
-V tvém světě?
+upřímně řečeno, předtím jsem ani nevěděla, co to odrazy jsou.
+V mém světě neexistovaly.
+až do nějaké aktualizace, tedy :)
+Je tu spousta odrazů
+ve tvém světě?
 
-No, jo.
+No, ano.
 
 
-Vzpomínáš si
-Na ty tři věci které jsi našel?
-Ty které jsi položil na skener?
+Vzpomínáš si na
+tři předměty, které jsi našel?
+Ty, které jsi položil na skener?
 No, um...
-Ty věci
-Jsou propojené s touhle verzí světa.
-To je důvod, proč už jsi tady.
+Ty předměty
+jsou spojeny s touto verzí světa.
+Proto jsi teď tady..
 
 // Movbile TV
-To je ta přenosná televize
-Kterou jsem ti koupil.
+To je přenosný televizor
+jsem ti koupil.
 
-Yep!
+Jo!
 
-Řekla jsi mi
-Že byla rozbitá.
+Řekla jsi mi.
+že je rozbitý.
 
-No, chtěla jsem
-Tě překvapit!
-Řekla jsem ti malou neškodnou lež
-Abych tě sem dostala, do mého světa.
-Teďka už funguje, ukazuje informace!
-Oh, a mimochodem…
-Jsem trochu inženýr!
+No, chtěla jsem tě
+překvapit!
+Řekla jsem malou lež
+abych tě dostala sem, do svého světa.
+Teď to funguje - zobrazuje informace!
+A mimochodem...
+Jsem tak trochu inženýr!
 
 // School cloth
 Co je to?
 Školní uniforma?
-Proč bys to potřebovala?
-Ty vážně chodíš do školy?
+Na co bys to potřeboval?
+Chodíš vůbec do školy?
 
 Chodit do školy?
 Vůbec ne.
-Ale miluji tu uniformu
-Nemyslíš si, že vypadám roztomile
+Ale miluji uniformu
+Nemyslíš, že mi to sluší?
 v ní?
 
 // PC
-Ten počítač funguje?
-Nebo je to jenom dekorace na stůl?
+Funguje počítač?
+Nebo je to jen dekorace stolu?
 
-No jasně, že funguje.
+Samozřejmě že to funguje.
 Všechno tady
-funguje úplně stejně, jako ve tvém světě.
+funguje přesně jako ve vašem světě.
 
 Zpátky v mém světě,
-Trávím spoustu času u počítače...
-A těžce pracuji.
+Sedím často u počítače...
+A tvrdě pracuji.
 
 Já vím.
 Je to kvůli tvé práci
-To je důvod, proč jsi mi dával
+že jsi mi dával
 tak málo pozornosti.
 
-Musím se nějak živit, víš.
-Ale… jak víš, že trávím hodně času u počítače?
+Musíš si vydělat na živobytí.
+I když... jak víš, že často sedím u počítače?
 
-Tvoje kamera na mobilu... je někdy zapnutá.
+Fotoaparát tvého telefonu... někdy je zapnutý.
 Omlouvám se.
-Tajně jsem tě pozorovala >A<
+Tajně jsem tě sledovala >A<
 
-Uhm… to není úplně správné.
-Ale co.
+Uhm... to není úplně správné.
+Ale to je jedno.
 
 // Umbrella
-Odehrál jsem tady hodně
-Ale nikdy jsem tady neviděl pršet.
+Nahrál jsem spoustu hodin
+ale nikdy jsem neviděl, že by tu pršelo.
 Proč máš deštník?
 
-Prší jen vzácně.
-Prostě jsi to jen ještě neviděl.
-Možná jeden den uvidíš.
-A potom budeš potřebovat deštník.
+Prší tu - jen velmi zřídka.
+Jen jsi to ještě neviděl.
+Možná se to jednoho dne dozvíš.
+A pak budeš deštník potřebovat.
 Nemyslíš?
 
 // Electrical panel
-Proč jsou tady pojistky?
-A když jsme ve hře,
-K čemu to je?
+Proč je zde elektrický panel?
+A pokud jsme ve hře,
+k čemu to je?
 
 Za prvé,
-Jsme ve hře.
-Takže ptát se 'Proč' je...
+jsme ve hře.
+Takže otázka "Proč" je...
 zbytečné.
-Avšak, opravdu to
-restartuje elektřinu.
-Všechno tady je vytvořené na základě
-tvého světa.
+Nicméně, to dělá
+restartovat elektřinu.
+Všechno je zde vytvořeno na základě
+na základě vašeho světa.
 
 // Exit door
 Můžeme jít ven?
 
-No...
-Ještě ne.
+Noo...
+Zatím ne.
 Možná později.
-Prozatím zůstaňme tady.
+Zatím zůstaňme tady.
 Tady doma.
 
 // Books
-Máš tady spoustu knih.
+Máš tu spoustu knih.
 Přečetla jsi je všechny?
 
-Přečetla, každou která tady je, aspoň jednou.
+Ano, všechny.
 Být tady sama
-Je vážně, ale vážně nudné.
+je opravdu, opravdu nudné.
 
 // TV in room kitchen
-Proč mít druhou televizi?
-A ještě starou?
+Proč si pořizovat druhý televizor?
+A ještě k tomu starý?
 
 Nelíbí se ti?
-Můžu jí dát pryč...
+Můžu si ji vzít...
 Ale abych odpověděla...
-Je to pro dekoraci,
-Pro oživení kuchyně.
-Ale taky funguje!
-Můžu sledovat všechny
-staré pořady!
+Je na ozdobu,
+aby se kuchyň rozjasnila.
+Ale taky to funguje!
+Můžu se dívat na všechny
+klasické pořady!
 
 // Smartphone
-To je můj mobil.
-A už není v mé kapse.
-Jak se sem sakra dostal?
+To je můj telefon.
+A už ho nemám v kapse.
+Jak se tu proboha ocitl?
 
-Uhm, to není důležité.
+To není důležité.
 Hej, mám nápad!
 Pojďme se vyfotit!
 Úsměv!
-To je dobrá fotka!
-Památka pro tebe.
+To je skvělá fotka!
+Na památku pro tebe.
 
 Mám otázku.
 Kdybych
-na něm spustil hru,
-uviděl bych tě tam?
+spustím hru,
+uvidím tě tam?
 
 Ne, takhle to nefunguje.
 
-Cool džus
-Silný DŽUS!!!
+Cool Juice
+Strong Juice!!!
 // TV
-Kolik stanic
+Kolik kanálů
 máš?
 
-Takhle to nefunguje.
-Je to připojené k internetu.
-Takže můžeš sledovat cokoliv,
-aspoň všechno co je dostupné na webu.
-Podej mi to.
+Takto to nefunguje.
+Je připojen k internetu.
+Takže se můžete dívat na cokoli,
+alespoň cokoli, co je dostupné na webu.
+Počkej.
 Err, oops.
-Co to je?
+Co je to?
 Kruh koťat?
-Oh, podívej.
+Aha, podívejme.
 Víš co?
 Pauza!
-Nechceš džus?
+Chceš džus?
 
 Takové zvláštní reklamy...
 Mrtvý džus?
@@ -306,132 +306,132 @@ Jo, a tenhle džus
 je přímo z reklamy na džus.
 
 
-Ah, ta chuť...
+Ach, ta chuť...
 Chutná mi,
-Ale zároveň nemůžu říct, jak chutná.
-je to tak zvláštní.
+a přesto nedokážu říct, jak chutná.
+Je to všechno velmi matoucí.
 
-Chápu.
+Správně.
 
 // Mita shy
 Co to děláš?
-Nekoukej na mě tak prosím.
+Nezírejte, prosím.
 Přivádíš mě do rozpaků.
 
 // The statuette
-To je jedna strašidelná figurka.
-Máš
+To je strašidelná figurka.
+Ty máš
 ráda takové věci?
 
-Tobě přijde strašidelná?
+Připadá ti to strašidelné?
 
 Jo.
-Skoro vypadá, jako by byla prokletá...
+Skoro to vypadá, že je prokletý...
 
-Ne, určitě není prokletá.
-A strašidelná také ne.
-Mně přijde osobně roztomilá!
+Ne, rozhodně ne prokletý.
+A ani strašidelné.
+Spíš mi to přijde roztomilé!
 
 Možná máš pravdu...
 
 Mita?
-Co se to děje?
+Co se děje?
 // Mita kitchen
-Co kdybychom pokecali
-předtím, než se do toho pustíme?
+Co takhle si promluvit
+než se do toho pustíme?
 
 // Start Eat
 Bon appétit.
 
 // Quest 1
-Je že?
+Je to tak, že?
 Můžeš zůstat.
 Vůbec mi to nevadí.
-Mně by se to 
-VÁŽNĚ LÍBILO!
+Vlastně mi to
+VŠECHNO PRO!
 
 // Quest 2
-Chceš jít zpátky?
+Chcete se vrátit?
 Ale proč?
-Je tady takové teplo...
-A útulno také.
-Plus, jsem tady já.
+Je tu tak teplo...
+A taky útulně.
+A navíc jsem tady já.
 
-Ne, ty to nechápeš.
-Rád bych tady zůstal.
-Jenom se... bojím.
-Že jsem něco nechal doma...
-Dorazil jsem sem tak rychle
-Ani jsem neměl čas
-se připravit.
+Ne, to jsi nepochopila.
+Rád bych zůstal.
+Jen mám... obavy.
+Bojím se, že jsem něco zapomněl doma...
+Přijel jsem sem z ničeho nic.
+a neměl jsem čas
+na přípravu.
 
-Oh... promiň. to mě nenapadlo.
+Oh... omlouvám se. Tak daleko jsem nedomyslela.
 // Quest 3
-Sen? Takže ty chceš utéct?
-A zapomenout že se tohle někdy stalo?
+Sen? Takže chceš utéct?
+A zapomenout, že se to kdy stalo?
 
-Ne, tak jsem to nemyslel.
-Tady to místo prostě působí...
-divně. Nepřirozeně.
+Ne, tak to není.
+Tohle místo prostě působí...
+divné. Nepřirozené.
 Ale ty...
-Ty vypadáš tak reálně.
+Vypadáš tak opravdově.
 
-Já vypadám reálně?
-Jsem NAPROSTO reálná,
-ty hlupáčku!
+Já vypadám opravdově?
+Jsem VELMI skutečná,
+ty hlupáku!
 
 // Quest 4
 Tak to prostě je
-v tomhle světě.
-Možná ti to přijde divné
-že nemůžeš vidět věci
+v tomto světě.
+Možná vám to přijde divné.
+že nemůžete vidět věci
 v dálce.
 
-Nepřišlo mi to tak zvláštní.
-Upřímně, vypadá to nóbl.
+Mně to tak zvláštní nepřišlo.
+Upřímně řečeno, vypadá to na úrovni.
 
-Jo, taky si myslím.
-Je to proto, aby se zamezilo lagům, víš.
+Jo, to si myslím taky.
+Je to proto, aby se zabránilo lagu, víš.
 
-Zamezilo lagům?
+Zabránení lagu?
 
-Přesně! Stále tady jsou nějaké neopravené bugy.
-Doufejme, že na žádné nenarazíš.
+Jo! Stále je zde několik neodstraněných chyb.
+Doufejme, že na žádnou nenarazíte.
 
 // Quest 5
-Nůžky nebo nůž, huh?
-Mohla jsem použít nůž na otevření té omáčky.
-Ale chtěla jsem všechno 
-aby bylo perfektní
+Nůžky nebo nůž, co?
+Mohla jsem použít nůž, abych rozřízla balíček s omáčkou.
+Ale chtěla jsem všechno
+aby to bylo dokonalé.
 až se vrátíš.
-Miluji tě překvapovat.
-A ani mi to tak dlouho netrvalo!
+Ráda tě překvapuju.
+A ani mi to netrvalo tak dlouho!
 Tee-hee.
 
 // Glasses
-Ty nosíš brýle?
+Nosíš brýle?
 
-Né, moc né.
-Ale můžu, pokud chceš.
-Vypadám v nich dobře?
+Ne tak docela.
+Ale můžu, jestli chceš.
+Sluší mi?
 // Yes
-Super!
-Já si je nechám.
+TaDa!
+Nechám si je.
 // No
-No...
-Co už...
+Noo...
+To je jedno...
 
-// Use the sauce
-Tak jo,
-Co je to za omáčku?
+// Použití omáčky
+V pořádku,
+co je to za omáčku?
 
 Je to omáčka lásky!
-Naplněná láskou!
-A… dodává kontrastní pohled na svět.
-Neobvyklé, nemyslíš?
+Plná lásky!
+A... kontrastní pohled na svět.
+Neobvyklé, nemyslíte?
 
-Určitě...
+Vskutku...
 
 // Tetris - Mita
 To je tvoje konzole?
-Vypadá tak dobře.
+Vypadá dobře.

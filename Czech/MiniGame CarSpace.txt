@@ -1,8 +1,8 @@
 Závod dokončen!
 Pozice
-Mincí posbíráno
+Nasbírané mince
 Invaze
-Poraž bosse
+Porazte bosse
 Boss poražen!
 Nitro
-Zmáčkni tlačítko pro start závodu.
+Stiskněte tlačítko pro spuštění závodu.

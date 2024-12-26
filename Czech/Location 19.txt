@@ -1,9 +1,9 @@
 Drawlit
-Cards
-Open the door
+Karty
+Otevřete dveře
 2D Mita
-// Quest
-Never mind.
-Is your eyesight bad?
-What about another name?
-It's evening outside.
+// Úkol
+Nevadí.
+Máš špatný zrak?
+Co třeba jiné jméno?
+Venku je večer.

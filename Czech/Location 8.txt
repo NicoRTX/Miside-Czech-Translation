@@ -1,11 +1,11 @@
-// Quest none
-Never mind.
-// Quest
-You're Mita, aren't you?
-What happened to you?
-Become your second friend?
-Is this your home?
-How do I leave this place?
+// Úkol žádný
+Nevadí.
+// Úkol
+Ty jsi Mita, že?
+Co se ti stalo?
+Stat se tvým druhým přítelem?
+Je tohle tvůj domov?
+Jak mám toto místo opustit?
 
 // TV
-RELEASED!
+UVOLNĚNO!
