@@ -1,58 +1,58 @@
-Start the application
+Aplikace se spouští
 
-Confirm login
-Incorrect login
-Programs
-Back
+Potvrďte přihlášení
+Nesprávné heslo
+Programy
+Zpátky
 
-Virtual Device Manager
-Server Unit Accounting [Select Version]
-Main Processor Monitoring [Select Version]
-Graphical Process Monitoring [Select Version]
-Quadrangle
-End game
-
-
-Advanced System Administration
-Restarting Character [Select Version]
-Restarting Device [Select Version]
-Version Update [Select Version]
-Recalculating Geometry [General]
+Virtuální správce počítače
+Správce serverů [Vyber verzi]
+Hlavní správa procesoru [Vyber verzi]
+Monitoring grafických prvků [Vyber verzi]
+Quadratika
+Ukončit hru
 
 
-
-
-System Restore
-Troubleshooting [General]
-Antivirus [General]
-Command Console [General]
+Pokročilá správa systému
+Restart Postavy [Vyber verzi]
+Restart přístroje [Vyber verzi]
+Update verze [Vyber verzi]
+Přepočítávání geomterie [Základní]
 
 
 
 
-Advanced Functions
-Delete Object [Select Version]
-Display Camera [Select Version]
-Display Triggers [Select Version]
-Physics Engine Settings [Select Version]
-Get Flash Drive
-
-
-
-Minor Functions
-Binary Code Editor [Special Access]
-Unit Matrix Editor [Special Access]
+Restart Systému
+Odstranění problému [Základní]
+Antivirus [Základní]
+Příkazový řádek [Základní]
 
 
 
 
+Pokročilé funkce
+Vymaž objekt [Vyber verzi]
+Zobrazit kameru [Vyber verzi]
+Zobrazit spouštěče [Vyber verzi]
+Nastavení fyzického enginu [Vyber verzi]
+Získat flash disk
 
-Specify Character Version
-Specify Character Index
-Confirm Reboot
-Use Lever
-Run Subprogram
-Restart process running!
-Preparing For Restart
-Restarting...
-Confirm
+
+
+Vedlejší funkce
+Editor binárního kódu [Speciální přístup]
+Editor matrixu [Speciální přístup]
+
+
+
+
+
+Zadejte verzi Postavy
+Zadejte index Postavy
+Potvrď
+Zatáhni za páku
+Spusťte podprogram
+Běží program restartu!
+Příprava pro restart
+Restartování...
+Potvrdit
