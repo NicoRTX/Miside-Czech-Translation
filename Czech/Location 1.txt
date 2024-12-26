@@ -12,7 +12,7 @@ Svačina
 Nápoje
 Stůl
 Postel
-TV
+Televize
 Židle
 
 Den
@@ -25,20 +25,20 @@ Ingredience na kuřecí polévku
 
 
 
-Presents
+Uvádí
 
 Mini-hry
 Energie
 Elektronika
 Zpracování
-Platformové hry
+Platformerovky
 Hry
 
-(1) nová zpráva
+(1) Nová zpráva
 Koukni na tuhle novou verzi!
 Příloha
 
-Přítel: M.K
+Přítel: M.K.
 
 DEN [0]
 
@@ -47,7 +47,7 @@ DEN [0]
 
 
 
-Návod: Chceš, abych ti ukázal základy?
-Rozhlédni se.
-Pohybuj se.
-Interaguj.
+Návod: Chceš ukazát základy ovládání?
+Rozhlédni se
+Pohybuj se
+Interaguj

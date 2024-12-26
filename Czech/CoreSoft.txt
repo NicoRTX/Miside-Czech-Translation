@@ -1,4 +1,4 @@
-Spustit aplikaci
+Aplikace se spouští
 
 Potvrdit přihlášení
 Nesprávné přihlášení
@@ -6,10 +6,10 @@ Programy
 Zpět
 
 Správce virtuálních zařízení
-Účetnictví serverových jednotek [Vyberte verzi]
+Správce serverů [Vyber verzi]
 Monitorování hlavního procesoru [Vyberte verzi]
-Grafické monitorování procesů [Vyberte verzi]
-Čtyřúhelník
+Monitorování grafického procesoru [Vyberte verzi]
+Kvadratika
 Ukončit hru
 
 
@@ -17,15 +17,15 @@ Pokročilá správa systému
 Restartování postavy [Vyberte verzi]
 Restartování zařízení [Vyberte verzi]
 Aktualizace verze [Vyberte verzi]
-Přepočítávání geometrie [Obecné]
+Přepočítání geometrie [Obecné]
 
 
 
 
 Obnovení systému
-Troubleshooting [Obecné]
+Řešení potíží [Obecné]
 Antivirus [Obecné]
-Příkazová konzole [Obecné]
+Příkazový řádek [Obecné]
 
 
 
@@ -47,11 +47,11 @@ Editor jednotkové matice [Speciální přístup]
 
 
 
-Upřesnit verzi postavy
-Upřesnit index postavy
+Zadejte verzi postavy
+Zadejte index postavy
 Potvrdit restart
-Použí páku
-Spustit subprogram
+Použijte páku
+Spustit podprogram
 Restartování procesu probíhá!
 Příprava na restart
 Restartování...
