@@ -1,16 +1,16 @@
 // Quest none
-Never mind.
+Už nic.
 // Quest "First Mita"
-Are you Mita?
-What if I want to go back?
-How did I get inside the game?
+Ty jsi Mita?
+Co když se chci vrátit zpátky?
+Jak jsem se dostal do hry?
 // Quest "Kitchen eat"
-Your home is cozy.
-When can I go home?
-This feels like a dream…
-Why are the windows all just white light?
-Why use scissors when we could've used a knife?
+Tvůj dům je útulný.
+Kdy můžu jít domů?
+Cítím se tu jako ve snu…
+Proč jsou okna prostě jen bílé světlo?
+Proč používáme nůžky, když jsme mohli použít nůž?
 Bon appétit!
 // TV
-Cool Juice!
-Strong JUICE!!!
+Cool džus!
+Silný DŽUS!!!
