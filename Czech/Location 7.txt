@@ -1,19 +1,19 @@
 // Track names
-Cracker
-Bubble drink
-Balloon
+Sušenka
+Bublinkový nápoj
+Balónek
 // Quest none
-Never mind.
+Už nic.
 // Quest "Meeting Kind Mita"
-Should I trust you?
-How did I get here?
-What is this place?
-How did you get here?
-What did you do with the ring?
-Are the passages dangerous?
-Will you help me escape?
-You mentioned a plan.
+Měl bych ti věřit?
+Jak jsem se sem dostal?
+Co je tohle za místo?
+Jak jsi se sem dostala ty?
+Co jsi udělala s tím prstenem?
+Jsou ty pasáže nebezpečné?
+Pomůžeš mi utéct?
+Zmínila jsi plán.
 // Quest MitaCap
-Do you remember anything?
-What do you think of the ring-bearing Mita?
-Do you always wear that cap?
+Pamatuješ si něco?
+Co si myslíš o té Mitě s prstenem?
+Tu čepici nosíš pořád?
