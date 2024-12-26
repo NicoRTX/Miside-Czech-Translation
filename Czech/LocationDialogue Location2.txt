@@ -1,9 +1,9 @@
 // Player start
-Where am I?
-This place looks familiar.
-Wait... I'm in the game?
+Kde to jsem?
+Tohle místo vypadá povědomě.
+Počkat... já jsem v té hře?
 // Player try open the door
-Locked?
+Zamčeno?
 // Player in dark
-It's dark in here.
-I can't see anything.
+Je tady tma.
+Nic nevidím.
