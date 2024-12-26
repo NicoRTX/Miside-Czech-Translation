@@ -1,114 +1,114 @@
 
-You made it!
+Ty jsi to dokázal!
 
-What is this place?
+Co je tohle za místo?
 
-Show me the ring.
-Yeah...
-There we go!
-Time to clear some things up, don't you think?
+Ukaž mi ten prsten.
+Jo...
+Tak a je to!
+Na čase, abychom si ujasnili pár věcí, nemyslíš?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
-I was here waiting for you all along
-and you play a racing game instead?!
-Anyway, come over here...
+Já tady na tebe celou dobu čekala
+a místo toho si zahraješ závodní hru?!
+Tak či tak, pojď za mnou...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
-Congrats, you won!
-I've played it, too!
-I even tried to collect every coin and get 1st place
-to get the achievement!
-And my, that sure was difficult!
-It took me ages to get used to the controls.
+Gratulace, vyhrál jsi!
+Taky jsem to hrála!
+Dokonce jsem se snažila posbírat všechny penízky a dojet první.
+abych získala achievement!
+A tý jo, bylo to opravdu těžké!
+„Trvalo mi to roky, než jsem si zvykla na ovládání.
 
 // Quest 1 (Should I trust you?)
-Well, at least I'm sane...
-unlike some others...
-Besides,
-I'm the kindest person you'll find around here, sweetheart.
-You don't want to just give up, do you?
-She's a cold-blooded killer. We must stop her.
+No, alespoň jsem při smyslech...
+Ne jak jiní...
+Kromě toho,
+Jsem ta nejhodnější osoba, kterou tady najdeš, drahoušku.
+Nechceš to vzdát, nebo ano?
+Je to chladnokrevný zabiják. Musíme jí zastavit.
 
 // Quest 2 (How did I get here?)
-The ring, it led you here.
-It's a great invention.
-Only a player that has it
-can find their way to the correct version.
+Prsten, ten tě sem dovedl.
+Je do dobrý vynález.
+Jen hráč, který ho má
+může najít cestu do správné verze.
 
 // Quest 3 (What is this place?)
-These passages
-connect the different versions.
-Yeah, it's kind of empty in here.
-And yikes! I heard about this one Mita
-who couldn't archive her version...
-Her house
-simply ceased to exist...
-And she's supposedly hanging around
-these passageways.
-Poor thing...
+Tyhle pasáže
+propojují jiné verze.
+Yeah, je to tady trošku prázdné.
+A jaj! Slyšela jsem o jedné Mitě
+která nemohla zaarchivovat svou verzi...
+Její barák
+prostě přestal existovat...
+A prý se tu někde toulá
+v těchto pasážích.
+Chudinka...
 
 // Quest 4 (How did you end up here?)
-You know,
-it's been a while since we last met.
-And thanks to you,
-I got out of that damned cage,
-and escaped from that lunatic.
-And FYI,
-I can easily switch between different versions,
-unlike you, my dear.
+Víš,
+Byla to chvíle od našeho posledního setkání.
+A díky tobě,
+jsem se mohla dostat z té zatracené klece,
+a utéct od toho šílence.
+A pro informaci,
+Já můžu jednoduše skákat mezi jinými verzemi,
+Na rozdíl od tebe, drahoušku.
 
 // Quest 5 (What did you do with the ring?)
-I changed the route
-to the one we need.
-I set up the shortest one possible,
-stuffing it with all we need...
-It works like this: you open a door,
-and the ring opens the boundary
-between versions.
+Změnila jsem cestu
+na tu, kterou potřebujeme.
+Nastavila jsem tu nejkratší, která šla,
+strkáním tam všeho, co potřebujeme....
+Funguje to takhle: ty otevřeš dveře,
+a prsten otevře hranici
+mezi verzemi.
 
 // Quest 6 (Are the passages dangerous?)
-I've seen all manner of strange things
-ever since I arrived
-into this game...
-Everything seems quiet here,
-but the passages feel...
-anything but safe.
+Viděl jsem všelijaké podivné věci
+od té doby, co jsem tady.
+v téhle hře...
+Všechno tady vypadá tiše,
+ale ty pasáže působí...
+jakkoliv, jen né bezpečné.
 
-You're right, and this place is getting
-more unpredictable by the day.
-But cheer up!
-We've thought of everything,
-and we'll take the shortest
-and most well-trodden path!
+Máš pravdu, a tohle místo se stává
+více nepředvídatelným každým dnem.
+Ale hlavu vzhůru!
+My jsme mysleli na všechno,
+a vybereme tu nejkratší
+a nejvíce používanou cestu!
 
-I certainly hope all goes well.
-But what lives in these passages?
+Určitě doufám, že vše dobře dopadne.
+Ale co žije v těchto pasážích?
 
-Well,
-glitches, bugs, anomalies.
-Living ones.
-Even dangerous ones that might attack you on sight...
+No,
+gliče, bugy, anomálie.
+Žijící.
+Dokonce i ti nebezpeční, kteří tě napadnou, jakmile tě uvidí...
 
 Err...
-And possibly other hostile Mitas.
-More crazy, unfitting ones?
+A možné další nebezpečné Mity.
+Více šílených, nevhodných?
 
-I know of at least one...
-Ugly Mita.
-And just so you know, it wasn't me who named her!
-It's just...
-she's a very early version of Mita.
-The main issue with her
-is that she causes the worst kind of glitches...
-And I'm worried that we might run into her.
-She's closest to version zero, after all...
+Vím určitě o jedné...
+Škaredé Mitě.
+A abys věděl, já ji takhle nepojmenovala!
+Prostě...
+je to velmi raná verze Mity.
+Hlavní problém s ní je
+že způsobuje jedny z těch nejhorších gličů...
+A bojím se, že na ni možná narazíme.
+Na konec, je nejblíž verzi nula...
 
 // Quest 7 (Will you help me get out?)
-I don't have an actual plan...
-But either way,
-you did make it here, didn't you?
-Besides,
-what else can you do
-but rely on me, Kind Mita!
-Ain't that the truth...
+Nemám pravý plán...
+Ale tak či tak,
+ty jsi to sem dokázal, že?
+Stejně,
+co dalšího můžeš dělat
+než na mě spoléhat, na hodné Mitě!
+Není to pravda...
 
 // Quest 8 (You were talking about some kind of plan...)
 Indeed, we need to reach the Core.
@@ -134,7 +134,7 @@ I just call her
 Cappie.
 I've been going over the plan with her,
 the plan to stop Crazy Mita.
-Let me introduce you, [player]!
+This is, [player]!
 
 
 Salutations!
@@ -331,7 +331,7 @@ Want me to play a tune?
 Hah!
 Come here, my precious...
 All right!
-Well, could have played something more fun.
+Well, I honestly had hoped you would play better than that.
 Oh, well!
 // MitaCap Guitar No
 Eh, fine.
@@ -342,7 +342,7 @@ you're quite the energetic one!
 
 I AM!
 I certainly AM!
-Anyhow...
+Anywho...
 Let's go
 have some fun!
 
@@ -353,7 +353,7 @@ I really want to press it.
 Can I?
 
 Contain yourself, we'll get to that.
-If you make it in time!
+If there's enough time, that is.
 Now, have a seat!
 // Player sit
 Right.
@@ -799,7 +799,7 @@ Ugh!
 Way to go,
 you found a bug!
 That's supposed to start the video
-but instead, it turns the TV
+but instead, it the TV
 on and off!
 Pretty cool, don't you think?
 
@@ -812,7 +812,7 @@ Let's go have some fun!)
 
 // Goodbye 1
 Head out through that door
-to the hall.
+to the auditorium.
 
 Bye-bye!
 

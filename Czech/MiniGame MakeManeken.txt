@@ -1,9 +1,9 @@
-Scanning required!
-Requirements
-Version
-Bone Quantity
-No entity found. Scanning required!
-Scanning Complete
+Je nutný sken!
+Požadavky
+Verze
+Kvalita kostí
+Nebyla nalezena žádná entita. Je nutný sken!
+Skenování dokončeno
 
 
 
@@ -14,22 +14,22 @@ Scanning Complete
 
 
 
-// Tutorial finish
+// Tutorial dokončen
 Whoo-hoo!
-You did it!
+Dokázal jsi to!
 
-// Tutorial
-So, what am I doing here?
-I need to get to your screen...
-Now...
-So!
-You need to ensure this prototype is the right one.
-First, scan it.
-Now, check the version and bone skeleton.
-Take this prototype's data and compare it to the standard version.
-It's a perfect match! Now, let's check the emotions.
-The specimen successfully shows emotion! Time to test behavior.
-Okay, we've checked everything and it all matches! Now pull the lever up.
-Yay! Now that's the skin on! Pass her the box of clothes.
-That's it! See those lights on top? One of them turned green, which means we did it right!
-Your turn! I'll be back when all the lights turn green. Good luck!
+// Tutoriál
+Takže, co tady dělám?
+Musím se dostat do tvé obrazovky...
+Teď...
+Takže!
+Musíš se ujistit, že prototyp je ten správný.
+Za prvé, naskenuj ho.
+Teď, Zkontroluj verzi a kostru.
+Vezmi data toho prototypu a porovnej je se standartní verzí.
+Obojí sedí! Teď, pojďme zkontrolovat emoce.
+Vzorek úspěšně projevuje emoce! Na čase zkontrolovat jeho chování.
+Super, Všechno jsme zkontrolovali a vše sedí! Teď zatáhni za tu páčku nahoru.
+Yayy! A už má na sobě skin! Podej jí krabici s oblečením.
+To je vše! Vidíš ty světla nahoře? Jedno z nich se rozsvítilo zeleně, to znamená že jsem to udělali správně!
+Teď je řada na tobě! Já budu zpátky až se všechna světla rozsvítí zeleně. Hodně štěstí!

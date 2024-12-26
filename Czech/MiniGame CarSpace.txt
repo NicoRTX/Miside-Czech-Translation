@@ -1,8 +1,8 @@
-Race finished!
-Position
-Coins collected
-Invasion
-Defeat the boss
-Boss defeated!
+Závod dokončen!
+Pozice
+Mincí posbíráno
+Invaze
+Poraž bosse
+Boss poražen!
 Nitro
-Press any button to start the race.
+Zmáčkni tlačítko pro start závodu.

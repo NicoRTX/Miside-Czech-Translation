@@ -1,38 +1,38 @@
-Mita?
-Ah, awake already?
-How did you get here?
-You were right next to me just now.
+Mito?
+Ah, ty už jsi vzhůru?
+Jak ses sem dostala?
+Před chvílí jsi stála přímo vedle mě.
 
-No, I wasn't.
-You froze before the mirror.
-So I left.
-Why have the rooms changed?
+Ne, nestála.
+Zamrzl jsi před zrcadlem.
+Tak jsem odešla.
+Proč jsi změnila ty místnosti?
 
-I rearranged the place
-to make you feel more at home.
-In here,
-we can change the rooms
-however we want.
+Trošku jsem to tady upravila
+Aby ses cítil víc jako doma.
+Tady,
+můžeme měnit místnosti
+jak chceme.
 
-You didn't have to.
-I was getting used to the layout.
-Either way, I think you'll feel more at ease with this layout.
+To jsi nemusela.
+Už jsem si na to rozložení začal zvykat.
+V každém případě si myslím, že se s tímhle rozložením budeš cítit útulněji.
 // Mita card game
-Right,
-shall we play?
-The game works like this:
-This chip indicates a type,
-such as health.
-We each play a card,
-and if your card has a higher
-Health stat
-than mine,
-you win.
-Pick up your cards.
-It's my turn.
+Takže,
+Jdeme hrát?
+Ta hra funguje následovně:
+Tenhle žeton ukazuje typ,
+třeba život:
+Každý zahrajeme kartu,
+a pokud tvoje karta bude mít vyšší
+Životy
+než moje,
+vyhráváš.
+Vezmi si karty.
+Teď je moje řada.
 Whoa!
-I got quite the hand!
-I'll go first!
+Mám docela dobré!
+Půjdu první!
 
 
 
@@ -43,29 +43,29 @@ I'll go first!
 
 
 OK!
-Your turn!
+Tvoje kolo!
 Uh-huh.
-Your turn!
+Tvoje kolo!
 
-Highest health stat wins!
-It's all about attack!
-Just focus on defense!
+Karta s nejvíce životy vyhrává!
+Teď je to vše na útoku!
+Soustřeď se na obranu!
 
 
-You won!
-You won!
-You got me.
-Oh you...
+Ty jsi vyhrál!
+Ty jsi vyhrál!
+Dostal jsi mě.
+Oh ty...
 
-I win!
-I'm the winner!
-I won!
-Hah, got ya!
+Vyhrála jsem!
+Jsem výherce!
+Vyhrála jsem!
+Hah, dostala jsem tě!
 
-That's a tie.
-All equal!
-Now that's a draw!
-The same value...
+To je remíza.
+Jsme si podobně!
+To je remíza!
+Mají stejné hodnoty...
 
 
 
@@ -78,291 +78,291 @@ The same value...
 
 
 // The card game is interrupted
-What's that sound?
-It's coming from the wardrobe.
+Co je to za zvuk?
+Přichází to od té skříně.
 
-Sound?
-What sound?
-I didn't hear anything.
-What did you think you heard?
+Zvuk?
+Jaký zvuk?
+Nic jsem neslyšela.
+Co jsi myslíš, že jsi slyšel?
 
-Knocking, as if someone's in there.
+Klepání, jako kdyby tam někdo byl.
 
-But...
-There's no one there...
+Ale...
+Tam nikdo není...
 
-I'd like to open it and check.
-I'm a bit creeped out.
+Chtěl bych jí otevřít a podívat se.
+Jsem trošku vyděšený.
 
-But why...?
-This again...
-
-
+Ale proč...?
+Zase tohle...
 
 
 
 
 
-What's up with you!?
-It's a wardrobe...
-I've got my underwear there...!
 
-Are you hiding something from me?
 
-Why won't you just believe me?
-What am I doing wrong?
-What I want...
-all I want is for you to be with me.
+Co to s tebou je!?
+Je to skříň...
+Mám tam spodní prádlo...!
 
-I'd like that to, but still...?
+Ty přede mnou něco schováváš?
 
-Why are you so stuck on that wardrobe?!
+Proč mi prostě nevěříš?
+Co dělám špatně?
+Já jen chci...
+Jediné, co chci, je, abys byl se mnou.
 
-I want to know what on earth that knocking was!
+Taky bych chtěl, ale stejně...?
 
-Is it because
-this world
-only has these four rooms?
-Isn't that enough for you?
-Why can't you just be with me?
+Proč tě ta skříň tak zajímá?!
+
+Chci sakra vědět, co je to za klepání!
+
+Je to protože
+tenhle svět
+Má jen tyhle čtyři místnosti?
+To ti jako nestačí?
+Proč prostě nemůžeš zůstat se mnou?
 
 
 // Don't stay with Mita
-I get it.
-This again...
-If you want to check the wardrobe,
-then do so,
-and find out what's in there!
+Chápu to.
+Zase tohle...
+Pokud se chceš podívat do té skříně,
+tak si posluž,
+a zjisti co tam je!
 
 
 
 
-What the...
+Co to...
 
-That happens sometimes.
-The room got stuck loading.
-Just wait for a sec.
+To se někdy stává.
+Ta místnost se stále načítá.
+Jen chviličku počkej.
 
-This is so weird.
-Are we inside someone's phone?
-Maybe a slow one with long loading times?
+Tohle je tak zvláštní.
+My jsme v něčím telefonu?
+Možná na pomalém s dlouhým načítáním?
 
-Not at all.
-But not everything's perfect
-in this world...
-We're being loaded
-along with the world's core.
+Vůbec ne.
+Ale všechno není perfektní
+v tomhle světě...
+Jsme načítáni
+společně s jádrem světa.
 
-The world's core?
+Jádrem světa?
 
-Typical, don't you think?
+Typické, nemyslíš?
 
 
 
-Anyway, we can
-play a console game
-or just cards.
-You choose.
+Tak jako tak, můžeme si
+zahrát hru na konzoli
+nebo jenom karty.
+Vyber si.
 
 
 
 // Mita play fight
-Wanna fight?
-You have to win
-four times.
-Bring it on.
-Don't worry, I'll
-go easy on you at first.
+Chceš bojovat?
+Musíš vyhrát
+čtyřikrát.
+Tak se ukaž.
+Neboj, půjdu
+na tebe ze začátku lehce.
 
 
-That's a good boy.
-You better focus!
+To je dobrý kluk.
+Měl bys se soustředit!
 
 Whoa!
-Right, okay.
-I'mma get serious.
+Tak jo, okay.
+Začnu to brát vážně.
 
 Wow!
-Let's see if you can
-beat me now!
+Ukaž se, jestli mě můžeš
+porazit teďka!
 
-You are
-simply
-incredible! That's some skill!
-
-
-What's the matter?
-Huh, that's dull.
-
-Well,
-that's it. You believe in fate?
-
-Then,
-get your act together or you'll be a loser forever!
-
-What's the matter with you today?
-I mopped the floor with you.
-You didn't give it your all—
-that's why I won!
+Ty jsi
+jednoduše
+neuvěřitelný! To jsou nějaké zkušenosti!
 
 
-All right, then.
-How about we play some cards?
-They're in the bedroom.
+Co je?
+Huh, to je nudné.
+
+No,
+a je to. Věříš na osud?
+
+Tak,
+Dej se do kupy, nebo z tebe bude navždy loser!
+
+Co to s tebou dneska je?
+Vytřela jsem s tebou podlahu.
+Nedal jsi do toho všechno—
+proto jsem vyhrála!
+
+
+Tak jo no.
+Co kdybychom si zahrály nějaké karty?
+Jsou v mém pokoji.
 
 
 
 // Door > [ERROR]
-Huh, what's going on?
-Where's...
+Huh, co se to děje?
+Kde je...
 
 Uh-oh.
-Sorry...
-I downloaded something
-from the net.
-I wanted to spruce up
-the outside a bit.
-But turns out
-there was something wrong with the file.
-I'll fix it later.
+Promiň...
+Stáhla jsem něco
+z internetu.
+Chtěla jsem vylepšit
+trošku venek.
+Ale vypadá to
+že něco bylo špatně s tím souborem.
+Později to opravím.
 
-Is that why we can't leave the house?
-Yeah, that's why.
+To je proč nemůžeme opustit barák?
+Jo, to je ono.
 // Mita shy
-Hey...
-What's the matter with you?
-You want something?
+Hej...
+Co s tebou je?
+Chceš něco?
 
 
 
 // Wall Clock
-This here clock,
-what time does it show?
-The current time in the game?
-Or is it synced with my phone?
+Tady ty hodiny,
+jaký čas ukazují?
+Čas ve hře?
+Nebo jsou synchronizované s mým mobilem?
 
-Well, uhm...
-I honestly don't know.
-But time doesn't matter here...
-Whether it's late or early,
-a strong girl like me
-is always full of energy—
-I never get tired!
-We can have eternal spring,
-or a never-ending afternoon!
+No, uhm...
+Já upřímně nevím.
+Ale čas tady nehraje roli...
+I když je ráno nebo večer,
+silná holka jako já
+je neustále plná energie—
+Nikdy se neunavím!
+Můžeme mít nekonečné jaro,
+nebo nikdy nekončící odpoledne!
 
-That's interesting...
-but also a bit creepy.
-Stuck in the same moment, forever...
+To je zajímavé...
+ale taky trošku strašidelné.
+Být seknutý ve stejném momentu, navždy...
 
 
 
 // Photos of Mita
-Nice pics.
-I'm guessing these are of you?
+Hezké fotky.
+Předpokládám, že jsi na nich ty?
 
 Yep.
-I like them, too.
+Taky se mi líbí.
 
-Who took them?
-Are there others in this world, too?
+Kdo je vyfotil?
+Je tu někdo další v tomhle světě?
 
-You could say that.
-I'll introduce you eventually.
-Just not yet.
-For now, I just want to be with you alone.
+Můžeš to tak říct.
+Nakonec vás představím.
+Teď ještě ne.
+Prozatím jen chci být s tebou sama.
 
 
 
 
 // Portal
-Where did the portal go?
-Or whatever it was you called it?
+Kam se ten portál poděl?
+Nebo jak jsi tomu říkala?
 
-I used a
-little magic
-and moved it
-somewhere else.
-We don't need it anymore.
-It'd just get in the way.
+Použila jsem
+malou magii
+a přesunula ho
+někam jinam.
+Už ho nepotřebujeme.
+Jen by tu překážel.
 
 
 // Mirror in the bedroom
-Looking into a mirror without
-seeing a reflection—it's creepy.
+Koukání se do zrcadla bez
+toho, abych viděl odraz, je strašidelné..
 
-We can turn on reflections
-if you really want to.
-But, do we really need them?
+Můžeme zapnout odrazy
+pokud je vážně chceš.
+Ale, vážně je potřebujeme?
 
-Of course we do.
-Or... will turning them on have consequences?
+Jasně že jo.
+Nebo... zapnutí by mělo následky?
 
-Yes.
-We'll stutter and move slower.
-Ever seen a cartoon with low frames per second?
-It'll be like that for us, all the time.
+Ano.
+Budeme koktat a pohybovat se pomalu.
+Viděl jsi někdy kreslenou pohádku s málo fps?
+Bylo by to tak pro nás, pořád.
 
-Got it.
-Then perhaps we better keep reflections turned off...
+Chápu.
+Pak možná raději necháme odrazy vypnuté...
 
-Hey, [player],
-you sure like mirrors, don't you?
-Afraid of seeing a smile on that face of yours?
+Hej, [player],
+Ty fakt máš rád zrcadla, že?
+Bojíš se, že uvidíš na své tváři úsměv?
 
-Huh? Not really...
-I'm just tired
-after all the work.
+Huh? Vůbec ne...
+Jsem jenom unavený
+po veškeré té práci.
 
 
 
 // Blue sneakers
-Are these yours?
+Ty jsou tvoje?
 
-Nope, they're yours.
-Don't you remember?
+Ne, jsou tvoje.
+Nepamatuješ si?
 
-I don't recall having sneakers like that.
+Nepamatuji si že bych měl takové tenisky.
 
-You do now.
-You can wear them
-when we head outside.
+Tak teď už jo.
+Můžeš si je vzít
+když půjdeme ven.
 
-What about clothes?
-All I have in this world
-are the clothes I'm wearing.
-Any way for me to get new ones?
+A co oblečení?
+Všechno co mám v tomhle světě
+je vlastně oblečení, které mám na sobě.
+Nějaký způsob, jak získat nové?
 
-Of course there are.
-Though, I've seen what you wear—
-and honestly, your taste isn't great.
-Either way, I'll help you get some.
-Just not right now.
-It's a promise.
+Jasně že tu je.
+Ačkoli, když vidím co máš na sobě—
+a upřímně, tvůj vkus není dobrý.
+Tak i tak ti pomůžu nějaké sehnat.
+Jenom né teď.
+Je to slib.
 
 Okay.
 
 
 // Games on TV
-What do you wanna play?
+Co si chceš zahrát?
 // Game milk
-This is a fighting game!
-Let's see who sours first!
-What a game!
-We've had enough milk for now, let's do something else.
+Tohle je bojová hra!
+Uvidíme, kdo zkysne jako první!
+To bude něco!
+Mléka už bylo dost, pojďme na něco jiného.
 // Game penguins
-In this game, you're a penguin
-sliding around.
-Right, that's that game.
+V téhle hře jsi tučňák
+bruslící okolo.
+Tak, a to je ta hra.
 
 // Stay with Mita
-Huh, what?
-You serious? I thought you were...
-I'm overjoyed!
-And a little confused...
-But...
-Please, stay with me—
-always and forever.
+Huh, cože?
+Vážně? Já myslela že...
+Jsem tak strašně ráda!
+A taky trošku zmatená...
+Ale...
+Prosím, zůstaň se mnou—
+pořád a navždy.
 
 
 
@@ -376,25 +376,25 @@ always and forever.
 
 
 // A game about penguins
-It's super simple:
-just collect snowballs.
-The one who collects more, wins!
-Let's play two rounds, okay?!
+Je to strašně jednoduché:
+jenom sbíráš sněhové koule.
+Ten, kdo jich nasbírá nejvíce, vyhrává!
+Dáme dvě kola, jasně?!
 // The first map
-Wow, how did you get that many?
-Tee-hee! I've got the most snowballs!
-Better catch up!
+Páni, jak jsi jich nasbíral tolik?
+Tee-hee! Mám nejvíce sněhových koulí!
+Musíš přidat!
 Ha, 1:1!
 // The second map
-You're a natural penguin!
-We should get you on real ice!
-Pfft, you're so slow.
-Still thinking of the last round?
-Woah, a tie! Now that's rare!
+Jsi rozený tučňák!
+Měli bychom tě dostat na pravý led!
+Pfft, jsi tak pomalý.
+Pořád přemýšlíš o posledním kole?
+Woah, remíza! To je vzácnost!
 // The game is over
-Right, wanna play something else?
-Or you're done?
+Tak jo, chceš zahrát něco jiného?
+Nebo ti to stačilo?
 
 // Tetris - Mita
-What do you need that for?
-That much of a gamer?
+K čemu to potřebuješ?
+Ty jsi takový hráč?

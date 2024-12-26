@@ -1,132 +1,132 @@
-Press
-Talk
-Put ring on
-Look for button
-Hold
-Stand up
-Take ring
-Delete game
-End
-Press
-Stop
-Run
-Open message
-Download app
-Launch app
-Talk
+Zmáčkni
+Mluvit
+Nasadit si prsten
+Hledat tlačítko
+Držet
+Vstát
+Vzít prsten
+Smazat hru
+Konec
+Zmáčkni
+Zastavit
+Běžet
+Otevřít zprávu
+Stáhnout aplikaci
+Otevřít aplikaci
+Mluvit
 
-Take battery
+Vzít baterii
 
-Check
-Put down
-Hand over the scissors
-Refuse
-Eat
-Stand up
-Try to stand up
-Take pills
-Take the sauce
-Take cards
-Look at cards
-Hide cards
-Right
-Left
-Play card
-Stay
-Refuse
+Podívat se
+Položit
+Podat nůžky
+Odmítnout
+Jíst
+Vstát
+Pokusit se vstát
+Vzít si prášky
+Vzít si omáčku
+Vzít si karty
+Podívat se na karty
+Schovat karty
+Pravá
+Levá
+Hrát kartu
+Zůstat
+Odmítnout
 
-Cartridges
-Open
+Kazety
+Otevřít
 
-Drink juice
-Refuse
+Vypít džus
+Odmítnout
 
-Move right
-Move left
-Jump
-Crouch
-Attack
+Pohyb vpravo
+Pohyb vlevo
+Skok
+Skrčit se
+Útok
 
-Twist right
-Twist left
-Lay down
+Otočit doprava
+Otočit doleva
+Lehnout
 
-Release
+Pustit
 
-Wake up
-Sit up
-Stand up
-Turn on computer
-Pick up ramen
-Finish
-Go to sleep
+Vstát
+Sednout si
+Vstát
+Zapnout počítač
+Vzít ramen
+Skončit
+Jít spát
 
-Find more puzzles
+Najít více skládaček
 
-Go ahead
-You shouldn't
+Zkusit
+Neměl bych
 
-I know
-I don't know
-Hit weakly
-Hit hard
-Push!
+Já vím
+Já nevím
+Bouchnout slabě
+Bouchnout silně
+Tlač!
 
-Left
-Middle
-Right
+Levá
+Prostřední
+Pravá
 
-Right
-Select
-Left
+Doprava
+Vybrat
+Doleva
 
-One more
-Enough
+Ještě jednu
+Stačí
 
-Interfere
+Zasáhnout
 
-Pull lever
+Zatáhnout za páku
 
-Select right
-Select left
+Vybrat pravou
+Vybrat levou
 
-Turn right
-Turn left
-Jump
-Open door
+Zatoč vpravo
+Zatoč vlevo
+Skoč
+Otevřít dveře
 
-Select game
-Finish playing
-Continue
-Play
+Vybrat hru
+Odejít
+Pokračovat
+Hrát
 
 
-Close door
+Zavřít dveře
 
-Right
-Left
-Down
-Up
+Doprava
+Doleva
+Dolů
+Nahoru
 
-Step back
-Press a button
+Krok dozadu
+Zmáčknout tlačítko
 
-Eat
-Drink
-Take patty
-Take flatbread
-Add milk
-Add sugar
-Add flour
-Add oil
-Add an egg
-Mix
-Add the mix
-Flip
-Too much
+Jíst
+Pít
+Vzít placičku
+Vzít chleba
+Přidat mléko
+Přidat cukr
+Přidat mouku
+Přidat ojel
+Přidat vajíčko
+Zamíchat
+Přidat zamíchané
+Otočit
+Moc
 
-They look good on you
-Just take them off
+Sluší ti
+Měla by sis je sundat
 
-Explain
-No need
+Mluv ke mně
+Nepotřebuji

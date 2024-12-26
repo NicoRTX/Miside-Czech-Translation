@@ -1,42 +1,42 @@
 
-Mita?
+Mito?
 
-How on earth did you get here?
+Jak ses sem sakra dostal?
 
-You're Mita, aren't you?
-But there's something different about you...
+Ty jsi Mita, že?
+Ale ty jsi nějaká jiná...
 
-Observant, I see.
-And you're right.
-I'm not the Mita you met before.
-Be careful, she's up to something
-sinister.
+Pozorný, chápu.
+A máš pravdu.
+Nejsem ta Mita, kterou jsi potkal předtím.
+Buď opatrný, má za lubem něco
+zlověstného.
 
-Huh, something sinister?
+Huh, něco zlověstného?
 
-There's no time to explain:
-if this works out, I'll tell you everything.
-Get the key. It's next to the sofa.
+Není čas ti to vysvětlovat:
+pokud tohle vyjde, všechno ti řeknu.
+Podej mi klíč. Je vedle pohovky.
 
-But...
+Ale...
 
-Save your questions for later!
-Give me the key.
-Take this ring.
+Nech si otázky na potom!
+Podej mi ten klíč.
+Vezmi si tenhle prsten.
 Huh?
-You want to get out of here, don't you?
-Uhm, yeah...
-Then put it on.
-It's a useful artifact,
-you'll likely need it soon.
+Chceš odsud vypadnout, nebo ne?
+Uhm, jo...
+Tak si ho nasaď.
+Je to užitečný artefakt,
+pravděpodobně ho budeš brzy potřebovat.
 
 Okay...
-By the way, I'm
+Mimochodem, Já jsem
 [player].
 
 Mmm,
 [player].
-I'm... Mita.
+Já jsem... Mita.
 
 
 
@@ -46,105 +46,105 @@ I'm... Mita.
 
 
 // MitaKind quest 1
-See that
-console? Pick it up.
+Vidíš tu
+konzoli? Vezmi ji.
 
-Are we watching a recording?
-Who's that with her?
+My sledujeme záznam?
+Kdo to s ní je?
 
-That's happening this very moment.
-It's another player.
-She's using him.
-She might try to
-turn you into a cartridge, too.
+Teďka se to právě děje.
+Je to další hráč.
+Ona ho zneužívá.
+Taky se možná pokusí
+tě dát do kazety.
 
-I need to get out of here ASAP.
-And you too.
+Musím se odsud dostat co nejrychleji.
+A ty taky.
 
-Yes, we do.
+Ano musíme.
 
-So, you're saying
-that she's using him.
-If I pull the cartridge out, what happens?
+Takže, ty říkáš
+že ho zneužívá.
+Kdybych vytáhl tu kazetu, co by se stalo?
 
-That may very well
-irreversibly damage the cartridge.
-Which means that...
-the player would die.
+To může hodně až
+nevratně poškodit tu kazetu.
+To by znamenalo...
+že hráč umře.
 
 ...
-What if I just turn it off?
+Co kdybych to prostě vypnul?
 
-That could work...
-It's worth trying. There's a red power button!
-You see it?
-Found it.
-Press it.
+To by mohlo fungovat...
+Má cenu to zkusit. Je tam červený vypínač!
+Vidíš ho?
+Mám ho.
+Zmáčkni ho.
 
 // MitaKind quest 2
-I need to stay.
-There are questions I need to ask her
-to find out more about her.
-Though, it's unlikely she'll play ball...
+Musím tady zůstat.
+Musím se jí na něco ještě zeptat
+abych toho o ní zjistila více.
+Stejně, je pravděpodobné že mi stejně nic neřekne...
 
 // MitaKind quest 3
-Tell you the truth, this is my version.
-I was keeping a player company,
-when something suddenly changed.
-Then she showed up...
-and turned the player into a cartridge
-and locked me up.
+Řeknu ti pravdu, tohle je moje verze
+Dělala jsem hráči společnost,
+když se najednou něco změnilo.
+Pak se tu ukázala ona...
+a proměnila hráče v kazetu
+a mě uvěznila.
 
-Wait, she turned him into a cartridge?
-Can she even do that?
-But why?
-What does she need the players for?
+Počkat, proměnila ho v kazetu?
+Dokáže to vůbec?
+Ale proč?
+K čemu ty hráče potřebuje?
 
-She's obviously crazy...
-She's just playing with us, and using us for her own machinations!
-Turning players into cartridges...
-Some didn't even realize what was happening to them...
-And some that do, don't even fight back... Gah!
-Now that's a dark twist...
-You have to help us!
-Me? But how?
-I need you!
-If you help us, I'll help you!
-This might be our only chance.
-The ring will lead you to the right version.
-I'll meet you there.
+Ona je evidentně šílená...
+Ona si s námi jenom hraje a používá nás pro své vlastní pikle!
+Mění hráče v kazety...
+Někteří si ani neuvědomí, co se jim děje...
+A ti kteří ano, se pak ani nebrání... Gah!
+Teď je to ale temný zvrat...
+Musíš nám pomoct!
+Já? Ale jak?
+Potřebuji tě!
+Pokud nám pomůžeš, pomůžu já tobě!
+Tohle může být naše jediná šance.
+Ten prsten tě dovede do správné verze hry.
+Tam se potkáme.
 
 // MitaKind quest 4
-I still don't quite understand
-what I saw up there...
-That Mita...
-Was she trying to kill me?
+Pořád to nějak nechápu
+to co jsem nahoře viděl...
+Ta Mita...
+Snažila se mě zabít?
 
-Kill?
-She has a worse fate than that in mind for you...
-You need to hurry.
+Zabít?
+Ona pro tebe má na mysli horší osud než smrt...
+Musíš si pospíšit.
 
 // Hide!
-Oh, shit! Hide!
-Wait, what...?
-Hurry, she's coming!
-Follow the ring—it'll lead you to safety!
+Sakra! Schovej se!
+Počkat, cože...?
+Rychle, už se blíží!
+Sleduj ten prsten, dovede tě do bezpečí!
 
 
-Well, well, gonna tell me where he's at?
+Ale, ale, řekneš mi kde je?
 
-Why would I?
-You won't kill him, will you?
+Proč bych měla?
+Nezabiješ ho, že ne?
 
-Ah, so you refuse to tell me.
-Hah, I like a challenge.
-I know he's somewhere around here.
+Ah, takže ty mi to neřekneš.
+Hah, mám ráda výzvy.
+Vím že tady někde je.
 
-Why are you so mean to us?
-You won't even tell me what's going on!
-Besides...
-what do you need the players for?
-They're no toys!
-What's gotten into you?!
+Proč jsi na nás tak zlá?
+Ty mi ani neřekneš co se tady děje!
+Kromě toho...
+k čemu ty hráče potřebuješ?
+Nejsou to hračky!
+Co to do tebe vjelo?!
 
-Enough! Keep your mouth shut, doll!
+Stačilo! Drž hubu krávo!

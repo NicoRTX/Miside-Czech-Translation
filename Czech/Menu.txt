@@ -1,165 +1,145 @@
-New game
-Continue
-Main menu
-Exit
-Settings
-Achievements
-Credits
-Back
-Load
-Language
-Loading...
-Graphics
-Sound
-Keyboard & mouse
-Controller
-Resolution
+Nová hra
+Pokračovat
+Hlavní menu
+Konec hry
+Nastavení
+Achievementy
+Titulky
+Zpět
+Načíst
+Jazyk
+Načítání...
+Grafika
+Hlasitost hry
+Klávesnice a myš
+Kontroler
+Rozlišení
 Windowed mode
-Graphic effects
-Color effects
-Soft shadows
-Blur
-Glare
+Grafické efekty
+Barevné efekty
+Lehké stíny
+Rozmazání 
+Záře
 Anti-aliasing
-Shadows
-World display quality
-Programming
-Animation
-Sound effects
-Music
-Particles
-Textures
-3D models (98%)
-Script
-Reset
-Forward
-Back
-Left
-Right
-Interaction
-Mouse sensitivity
-Quit the game?
-Yes
-No
-Back to main menu
-Smooth turns
-Game settings
-Shadow style
-Clothes
-Interface
-3D models (2%)
-Voice volume
-Pause
+Stíny
+Kvalita světa
+Programování
+Animace
+Zvukové efekty
+Hudba
+Částice
+Textury
+3D modely (98%)
+Skript
+Resetovat
+Dopředu
+Zpět	
+Doleva
+Doprava
+Interagovat
+Citlivost myši
+Ukončit hru?
+Ano
+Ne
+Zpátky do menu
+Plynulé otáčení
+Nastavení hry
+Styl stínů
+Oblečení
+Rozhraní
+3D modely (2%)
+Herní video
+Pauza
 Menu
-Congrats! You completed the game!
-Your time:
-Subtitles
-Brightness
+Sláva! Právě jsi dohrál hru!
+Tvůj čas:
+Titulky
+Jas
 Vertical sync
-Saved
-Characters
-Characters - Mitas
-Characters - Cartridges
-Cartridges
-Mitas
-Start with a clean slate
-Are you sure you want to completely delete all your progress and start from scratch?
-Compiling shaders, estimated wait time: 2 hours.
-2-hour compilation?! That's bogus! We skipped the queue for ya!
-Creating realistic shadow tracing—estimated to take 10 minutes.
-Just kidding, we don't use those fancy things here.
+Uloženo
+Postavy
+Postavy - Mity
+Postavy - Kazety
+Kazety
+Mity
+Vymazat postup ve hře
+Jsi si jistý že chceš smazat tvůj veškerý postup ve hře a začít úplně od nuly?
+Pracuji na stínech, předpokládaná doba čekání je: 2 hodiny.
+2 hodiny?! To je šílené! Ale my ti dovolíme přeskočit frontu!
+Vytváření realistických stínu, odhadovaný čas je 10 minut.
+Dělám si srandu, my tady takové vymoženosti nemáme.
 Umm...
-Oh, we are ready!
-Sway while walking
-Show hints
-Player voice
+Aha, už je vše hotové!
+Houpat se při chůzi
+Zobrazit tipy
+Hlas hráče
 Discord
-Added character profile
-Camera angle (FOV)
-Voice
-Off
-Hand reaches out to the door
-Animation
-Enable player voice
+Byla přidána nová postava 
+Úhel kamery
+Hlas
+Vypnuto
+Ruka šahá ze dveří
+Animace
+Zapnout hlas hráče
 Mita
 Krátkovlasá Mita
-Laskavá mita
-Cap-wearing Mita
-Drobná Mita
-Spící Mita
+Hodná Mita
+Mita s čapkou
+Malá Mita
+Ospalá Mita
 2D Mita
 Mila
-Hrůzostrašná Mita
-Jádrová mita
-Přízračná mita
+Zlá Mita
+Core Mita
+Duch Mita
 Chibi Mita
-Mita-Manekýnka
+Blbá Mita
 
 
 
-// Name load location
-I'm inside a game?
-Together at last
-Things get weird
-The basement
-Beyond the World
-The Loop
-Mini Mita
-Dummies and forgotten puzzles
-She just wants to sleep
-Novels
-Reading books, destroying glitches
-Run and hide!
-Old version
-Be Candid
-Reboot
+// Název lokace na načtení
+Já jsem ve hře?
+Aspoň jsme spolu
+Děje se tu něco divného
+Sklep
+Mimo svět
+V kruhu
+Malá Mita
+Blbý a zapomenuté skládačky
+Chce jen spát
+Novely
+Čtení knih, ničení bugů
+Utíkej a schovej se!
+Stará verze
+Buď upřímný
+Nový začátek
 Cappie
-Ghost Mita
-The real world
-Leave the Core!
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
-Player 6
-Player 7
-Player 8
-Player 9
-Player 10
+Duch Mita
+Reálný svět
+Opusť jádro!
+Hráč 1
+Hráč 2
+Hráč 3
+Hráč 4
+Hráč 5
+Hráč 6
+Hráč 7
+Hráč 8
+Hráč 9
+Hráč 10
 
-Peaceful Mode
-This mode is still in development! It's so expansive that the developers haven't managed to finish it yet. But don't worry—they've promised it will be included in a major update coming soon. And look at you, already ahead of the curve by unlocking access! Now all that's left is to wait...
-So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, sharing cookies, playing games, and plenty of hilarious moments together.
+Mírumilovný mód
+Tenhle mód se stále ještě vyvíjí! Je tak velký, že ho vývojáři ještě nedokončili, ale neboj se, slíbili, že ho vydají s další velkou aktualizací, která přijde co by dup. Ale podívej se na sebe, už jsi o krok blíž, po tom, co jsi si ho odemkl. Teď nezbývá nic jiného než počkat...
+Takže, co je to vlastně Mírumilovný mód? Je to tvoje šance spojit se s Mitou v úplně jiném smyslu. Bude úplně nadšená, že s tebou tráví čas od rána do noci ve světě zářícím zábavou a překvápky. Očekávej upřímné konverzace, pojídání sušenek, hraní her a další zábavné momenty společně
 
 
-Censor gore
-Special Thanks:
-Achievement Icon: Iceсloud
-Photograph: Nineko Hori
-Translator
-Converts the game's text into another language.
-Publishing Partner
-Game marketing
-Tester
-Played and found all manner of bugs.
-This language translation was made by enthusiasts from the fan community and added to the game at their request.
-Warning! This game includes jump scares, sudden sharp sounds, and occasional screen flickering. Players with photosensitive epilepsy, heart conditions, or similar health concerns are advised not to play.
-Peaceful Mode Now Available!
-
-Photo Mode
-Photo Mode: Camera flight restrictions removed. You can explore areas normally inaccessible.
-Exit Photo Mode
-Hide Interface
-Hold to pan the camera
-Quick movement
-Smooth movement
-Speed
-Effects
-Control In-game Time
-Brightness
-Contrast
-Vignette
-Screenshot Taken!
-Access the screenshot folder
-Camera Angle
+Gore
+Speciální díky:
+Ikony pro achievementy: Iceсloud
+Fotografie: Nineko Hori
+Překlad
+Převádějí text na jiný jazyk
+Vydavatelský partner
+Herní marketing
+Testeři
+Hráli a našli mnoho bugů
