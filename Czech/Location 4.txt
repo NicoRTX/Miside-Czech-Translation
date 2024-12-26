@@ -1,6 +1,6 @@
-Condition: Complete the main story.
-Play a console game.
-Give the sauce a try.
-Avoid looking in the vent.
-Collect the refrigerator magnets.
-Refrain from looking in the oven.
+Stav: Dohraný hlavní příběh.
+Zahrál jsi si hry na herní konzoli.
+Ochutnal jsi omáčku.
+Nepodíval jsi se do ventilace.
+Posbíral jsi magnetky na ledničku.
+Nepodíval jsi se do trouby.
