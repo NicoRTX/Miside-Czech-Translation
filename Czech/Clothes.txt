@@ -1,5 +1,5 @@
-New clothes available!
-Not available
+Nové oblečení dostupné!
+Nedostupné
 
 
 
@@ -7,7 +7,7 @@ Not available
 
 
 
-Default
-School
-Vampire
-Christmas
+Základní
+Školní
+Upíří
+Vánoční
