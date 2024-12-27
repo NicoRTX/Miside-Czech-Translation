@@ -1,19 +1,19 @@
-// Názvy skladeb
-Cracker
+// Track names
+Krekr
 Bublinkový nápoj
-Balón
-// Úkol žádný
-Nevadí.
-// Úkol „Setkání s hodnou Mitou“
-Jak ti věřit?
+Balónek
+// Quest none
+Už nic
+// Quest "Meeting Kind Mita"
+Můžu ti věřit?
 Jak jsem se sem dostal?
-Co je to za místo?
-Jak jste se sem dostali?
-Co jsi udělala s prstenem?
+Co je tohle za místo?
+Jak ses sem dostala ty?
+Co jsi udělala s tím prstenem?
 Jsou ty chodby nebezpečné?
-Pomůžeš mi utéct?
-Zmínit se o plánu.
-// Úkol MitaCap
-Vzpomínáš si na něco?
+Pomůžeš mi dostat se pryč?
+Zmínila jsi plán...
+// Quest MitaCap
+Pamatuješ si něco?
 Co si myslíš o Mitě s prstenem?
-Nosíš tu čepici pořád?
+Tu čepici nosíš pořád?

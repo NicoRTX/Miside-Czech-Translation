@@ -2,8 +2,8 @@ Drawlit
 Karty
 Otevřete dveře
 2D Mita
-// Úkol
-Nevadí.
+// Quest
+Už nic
 Máš špatný zrak?
-Co třeba jiné jméno?
-Venku je večer.
+Proč ne jiné jméno?
+Venku je večer
