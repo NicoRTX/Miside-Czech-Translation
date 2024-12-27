@@ -1,14 +1,14 @@
-// Úkol žádný
-Nevadí.
-// Úkol „První“
+// Quest none
+Už nic
+// Quest "First"
 Kde jsi byla?
 Jak ses sem dostala?
 Kdo byla ta Mita před chvílí?
 Jak funguje ten prsten?
-Proč mě šílená Mita potřebuje?
+Proč mě Šílená Mita potřebuje?
 Je tohle to Jádro?
-// Úkol „Druhý“
+// Quest "Second"
 Co se děje?
 Dá se to nějak poznat?
-Co když zaútočíme na Bláznivou Mitu?
-Mini lidé
+Co když zaútočíme na Šílenou Mitu?
+Pidi lidi

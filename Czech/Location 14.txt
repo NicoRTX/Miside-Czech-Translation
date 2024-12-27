@@ -1,5 +1,5 @@
 // Snaker
-Porážka!
+Prohra!
 Vítězství!
 // DontWork
 Stop!

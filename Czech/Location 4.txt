@@ -1,6 +1,6 @@
-Stav: Dokončete hlavní příběh.
-Zahrajte si hru na konzoli.
-Vyzkoušejte omáčku.
-Nekoukej se do ventilace.
-Sezbírejte magnety na ledničku.
-Nedívej se do trouby.
+Podmínka: Dohraný hlavní příběh
+Zahrajte si hru na konzoli
+Vyzkoušej omáčku
+Nedívej se do ventilace
+Vrať magnetky na ledničku
+Nedívej se do trouby

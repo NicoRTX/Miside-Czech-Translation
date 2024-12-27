@@ -1,11 +1,11 @@
-// Úkol žádný
-Nevadí.
-// Úkol
+// Quest none
+Už nic
+// Quest
 Ty jsi Mita, že?
 Co se ti stalo?
-Stat se tvým druhým přítelem?
+Být tvým druhým kamarádem?
 Je tohle tvůj domov?
-Jak mám toto místo opustit?
+Jak se mám odsud dostat?
 
 // TV
 UVOLNĚNO!
