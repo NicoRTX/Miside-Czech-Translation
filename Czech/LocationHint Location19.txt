@@ -1,4 +1,4 @@
-Odejděte z domu.
-Rozhlédněte se kolem.
-Vyřeši závady.
-Zkuste opustit dům.
+Odejdi z domu.
+Rozhlédni se kolem.
+Oprav chyby.
+Zkus odejít z domu.

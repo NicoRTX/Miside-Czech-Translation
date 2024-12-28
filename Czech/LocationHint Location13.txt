@@ -1,6 +1,6 @@
-Promluvte si s Mitou.
-Jděte do jádra.
-Najděte možnost restartovat Mitu.
-Promluvte si s Mitou.
-Posaďte se na pohovku a počkejte na Mitu.
-Uplynulo mnoho času. Raději se pokus Mitu najít.
+Promluv si s Mitou.
+Vstup do Jádra.
+Najdi možnost restartování postavy.
+Promluv si s Mitou.
+Sedni si na gauč a počkej na Mitu.
+Uplynulo hodně času. Radši zkus Mitu najít.
