@@ -1,5 +1,5 @@
-Jděte do kuchyně.
-Nakrájejte mrkev.
-Vezmi si nůžky z koupelny.
+Jdi do kuchyně.
+Nakrájej mrkev.
+Dones nůžky z koupelny.
 Podej Mitě nůžky.
-Polož nádobí do dřezu.
+Dej nádobí do dřezu.

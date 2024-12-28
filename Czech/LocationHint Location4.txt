@@ -1,3 +1,3 @@
-Najděte Mitu.
-Hrajte s Mitou hry.
-Otevřete skříň.
+Najdi Mitu.
+Hrej hry s Mitou.
+Otevři skříň.

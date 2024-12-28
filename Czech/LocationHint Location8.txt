@@ -1,2 +1,2 @@
-Nastavte správný čas na hodinách,
-a opusťte tuto verzi.
+Nastav na budíku správný čas.
+Opusť tuto verzi.

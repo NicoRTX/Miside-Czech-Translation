@@ -1,7 +1,7 @@
-Opusťte suterén.
-Rozhlédněte se kolem.
-Jdi do jádra.
-Vejdi do údajů a zatáhni za páku restartu Bláznivé Mity.
-Otevřete dveře u vchodu.
-Vydejte se do sklepa a zadejte své ID.
-Opusťte tento svět.
+Odejdi ze sklepa.
+Rozhlédni se kolem.
+Vstup do Jádra.
+Zadej údaje a zatáhni za páku pro restart.
+Otevři vchodové dveře.
+Jdi do sklepa a zadej své ID.
+Odejdi z tohoto světa.
