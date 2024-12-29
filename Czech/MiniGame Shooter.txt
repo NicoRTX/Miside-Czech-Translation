@@ -1,10 +1,10 @@
-Pozor! Dnes musíme potrestat ďábly. Jsi na řadě, Mito! Dejte jim pořádný výprask! Ale pozor, budou se bránit!
-Pro pokračování stiskněte libovolné tlačítko.
-Vyhrajte!
+Pozor! Dnes musíme potrestat démony. Jsi na řadě, Mito! Dej jim co proto! Ale bacha, budou se bránit!
+Pro pokračování stiskni libovolné tlačítko.
+Výhra!
 Čas
-Smrt
-Výstřel
-Střela do hlavy
+Úmrtí
+Výstřely
+Střely do hlav
 Poškození
-Skok
-Stisknutím libovolného tlačítka ukončíte hru.
+Skoky
+Pro ukončení hry stiskni libovolné tlačítko.

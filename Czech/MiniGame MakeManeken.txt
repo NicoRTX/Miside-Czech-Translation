@@ -1,9 +1,9 @@
-Skenování je nutné!
+Vyžadován sken!
 Požadavky
 Verze
-Množství kostí
-Nebyla nalezena žádná entita. Vyžaduje se skenování!
-Skenování dokončeno
+Počet kostí
+Entita nenalezena. Vyžadován sken!
+Sken dokončen
 
 
 
@@ -14,22 +14,22 @@ Skenování dokončeno
 
 
 
-// Tutoriál dokončen
-Whoo-hoo!
+
+Hurá!
 Dokázal jsi to!
 
-// Výukový program
-Tak co tady dělám?
-Musím se dostat na vaši obrazovku...
-Teď...
-Takže!
-Musíte se ujistit, že tento prototyp je ten správný.
-Nejprve ho naskenujte.
-Nyní zkontrolujte verzi a kostru kostí.
-Vezměte data tohoto prototypu a porovnejte je se standardní verzí.
-Je to dokonalá shoda! Nyní zkontrolujte emoce.
-Vzorek úspěšně zobrazuje emoce! Je čas otestovat chování.
-Dobře, vše jsme zkontrolovali a vše odpovídá! Nyní zatáhněte za páku nahoru.
-Hurá! Teď už je kůže na svém místě! Podej jí krabici s oblečením.
-To je ono! Vidíš ty světla nahoře? Jedno z nich se rozsvítilo zeleně, což znamená, že jsme to udělali správně!
-Jsi na řadě! Vrátím se, až se všechna světla rozsvítí zeleně. Hodně štěstí!
+// Hints
+Počkat, co tady dělám?
+Musím se dostat na tvou obrazovku...
+Chviličku...
+Nuže!
+Musíš se ujistit, že je tento prototyp nezávadný.
+Nejdřív ho naskenuj.
+Teď zkontroluj verzi a kosti.
+A teď porovnej schéma tohoto prototypu oproti standardní verzi.
+Shodují se! Tak teď zkontroluj emoce.
+Prototyp úspěšně projevuje emoce! Je čas otestovat chování.
+Dobrá, všechno vypadá v pořádku! A teď posuň páku nahoru.
+Hurá! Teď už má i kůži! Hoď jí krabici s oblečením.
+Přesně tak! Vidíš ty světýlka nahoře? První se rozsvítilo zeleně, což znamená, že jsme to udělali správně!
+Jsi na řadě! Vrátím se, až budou všechna světýlka svítit zeleně. Hodně štěstí!
