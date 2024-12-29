@@ -33,125 +33,125 @@ Textury
 Skript
 Obnovit
 Dopředu
-Zpět
+Dozadu
 Doleva
 Doprava
 Interakce
 Citlivost myši
-Opravdu chcete opustit hru?
+Opravdu chceš opustit hru?
 Ano
 Ne
 Zpět do hlavního menu
-Hladké otáčení
-Herní nastavení
+Plynulé otáčení
+Nastavení hry
 Styl stínů
 Oblečení
 Rozhraní
 3D modely (2 %)
-Herní video
+Hlasitost hlasu
 Pauza
 Menu
-Gratulujeme! Dokončili jste hru!
-Váš čas:
+Gratulujeme! Dokončil jsi hru!
+Tvůj čas:
 Titulky
 Jas
 Vertikální synchronizace
 Uloženo
 Postavy
-Postavy – Mitas
+Postavy – Mity
 Postavy – Kazety
 Kazety
-Mitas
+Mity
 Začít s čistým štítem
-Opravdu chcete úplně smazat svůj postup a začít od začátku?
-Kompilace shaderů, odhadovaný čas: 2 hodiny.
-Kompilace na 2 hodiny?! To je nesmysl! Přeskočíme to za vás!
+Opravdu chceš smazat veškerý postup a začít od začátku?
+Kompilování shaderů, odhadovaný čas: 2 hodiny.
+Kompilovat 2 hodiny?! To je blbost! Kašlem na to!
 Vytváření realistického trasování stínů — odhadovaný čas: 10 minut.
-Děláme si srandu, tyhle luxusní věci tady nepoužíváme.
+Děláme si srandu, tyhle vymoženosti tady nepoužíváme.
 Ehm...
 Hotovo!
 Houpání při chůzi
-Zobrazit nápovědy
+Zobrazovat nápovědy
 Hlas hráče
 Discord
 Přidán profil postavy
 Úhel kamery
 Hlas
 Vypnuto
-Ruka se natahuje ke dveřím
+Natahovat ruku ke dveřím
 Animace
 Povolit hlas hráče
 Mita
-Mita s krátkými vlasy
+Krátkovlasá Mita
 Laskavá Mita
-Mita s kšiltovkou
+Mita s čapkou
 Mini Mita
 Ospalá Mita
 2D Mita
 Mila
-Strašidelná Mita
+Děsivá Mita
 Jádrová Mita
-Duchová Mita
+Přízračná Mita
 Chibi Mita
-Figurína Mita
+Mita figurína
 
 
 
 // Name load location
 Jsem uvnitř hry?
 Konečně spolu
-Věci se začínají komplikovat
+Začíná to být divné
 Sklep
-Mimo svět
-Smyčka
+Za hranicí světa
+Ve smyčce
 Mini Mita
 Figuríny a zapomenuté hádanky
 Chce jen spát
-Romány
-Čtení knih, ničení závad
-Utíkej a schovej se!
+Novela
+Čtení knih, řešení chyb
+Uteč a schovej se!
 Stará verze
-Buď kandidátem
+Na rovinu
 Restart
-Cappie
-Ghost Mita
+Čapka
+Přízračná Mita
 Skutečný svět
-Opusťte jádro!
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
-Player 6
-Player 7
-Player 8
-Player 9
-Player 10
+Opusť Jádro!
+Hráč 1
+Hráč 2
+Hráč 3
+Hráč 4
+Hráč 5
+Hráč 6
+Hráč 7
+Hráč 8
+Hráč 9
+Hráč 10
 
-Peaceful Mode
-Tento režim je stále ve vývoji! Je tak rozsáhlý, že ho vývojáři ještě nestihli dokončit. Ale neboj se – slíbili, že bude součástí velké aktualizace, která brzy přijde. A podívej se na tebe, jsi už napřed, protože jsi si odemkl/a přístup! Teď už zbývá jen čekat...
-Co je to Peaceful Mode? Je to tvoje šance znovu se spojit s Mitou úplně jiným způsobem! Bude nadšená, že s tebou může trávit více času, od rána do večera, ve světě plném zábavy a překvapení. Očekávej upřímné rozhovory jeden na jednoho, sdílení sušenek, hraní her a spoustu veselých momentů společně.
+Mírumilovný režim
+Tento režim je stále ve vývoji! Je tak rozsáhlý, že ho vývojáři ještě nestihli dokončit. Ale neboj se – slíbili, že bude součástí velké aktualizace, která brzy přijde. A podívej se na sebe, jsi už napřed, protože sis odemkl přístup! Teď už zbývá jen čekat...
+Co je to mírumilovný režim? Je to tvá šance se znovu spojit s Mitou zcela novým způsobem! Bude nadšená, že s tebou může trávit více času, od rána až do večera, ve světě plném zábavy a překvapení. Očekávej láskyplné rozhovory mezi čtyřma očima, sdílení sušenek, hraní her a spoustu srandovních zážitků.
 
 
-Násilí
-Speciální poděkování:
-Ikona úspěchu: Icecloud
+Cenzurovat krev
+Zvláštní poděkování:
+Ikona úspěchů: Icecloud
 Fotografie: Nineko Hori
-Překladatel
-Převádí text hry do jiného jazyka.
-Publikační partner
+Překladatelé
+Překládají hru do jiného jazyka.
+Partnerský vydavatel
 Marketing hry
 Tester
-Hrál/a a našel/la všechny možné chyby.
-Tento jazykový překlad vytvořili nadšenci z komunity fanoušků a na jejich žádost byl do hry přidán.
-Pozor! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
-Nyní je k dispozici klidný režim!
+Hráli a našli všechny možné chyby.
+Tento překlad vytvořili nadšenci z komunity a na jejich žádost byl do hry přidán.
+Varování! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
+Mírumilovný režim je nyní dostupný!
 
-Režim kamery
-Režim kamery: Omezení letu fotoaparátu odstraněno. Můžete prozkoumávat běžně nepřístupné oblasti.
-Ukončení fotografického režimu
-Skrytý rozhraní
-Podržením posouváte kameru
+Fotorežim
+Fotorežim: Pohyb kamery není omezen. Lze prozkoumávat jinak nepřístupné oblasti.
+Ukončit Fotorežim
+Skrýt rozhraní
+Podržet pro posun kamery
 Rychlý pohyb
 Plynulý pohyb
 Rychlost
@@ -160,6 +160,6 @@ Ovládání herního času
 Jas
 Kontrast
 Vinětace
-Snímek obrazovky pořízen!
-Přístup do složky snímků obrazovky
-Úhel kamery
+Pořídit snímek!
+Otevřít složku snímků
+Náklon kamery

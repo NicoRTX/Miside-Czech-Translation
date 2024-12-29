@@ -1,38 +1,38 @@
-Stiskněte tlačítko
+Stisknout
 Mluvit
-Nasaďte si prsten
-Vyhledejte tlačítko
-Podržte
+Nasadit si prsten
+Vyhledat tlačítko
+Podržet
 Postavit se
-Vezměte si prsten
+Vzít prsten
 Smazat hru
 Ukončit
-Stiskněte tlačítko
+Mačkat
 Zastavit
-Spusťte
+Běžet
 Otevřít zprávu
 Stáhnout aplikaci
-Spusťte aplikaci
+Spustit aplikaci
 Mluvit
 
 Vzít baterii
 
-Zkontrolujte
-Položte kazetu
-Předejte nůžky
+Zkontrolovat
+Položit
+Podat nůžky
 Odmítnout
 Jíst
 Postavit se
-Zkuste se postavit
-Vezměte si prášky
-Vezměte si omáčku
-Vezměte si karty
-Podívejte se na karty
-Schovejte karty
+Zkusit se postavit
+Vzít si prášky
+Dát si omáčku
+Vzít karty
+Podívat se na karty
+Schovat karty
 Vpravo
 Vlevo
-Zahrajte kartu
-Zůstaňte na
+Zahrát kartu
+Zůstat
 Odmítnout
 
 Kazety
@@ -41,92 +41,92 @@ Otevřít
 Vypít džus
 Odmítnout
 
-Přesunout vpravo
-Pohyb vlevo
+Doprava
+Doleva
 Skok
-Přikrčit se
+Přikrčit
 Útok
 
-Otočte se doprava
-Otočte se doleva
-Položte se na zem
+Přetočit dozadu
+Přetočit dopředu
+Položit
 
-Uvolnění
+Odtrhnout
 
-Probuďte se
-Posaďte se
+Probudit se
+Posadit se
 Postavit se
 Zapnout počítač
-Vezmi si ramen
+Vzít si nudle
 Dokončit
-Jdi spát
+Jít spát
 
-Najdi další hádanky
+Najdi další části
 
-Vyzkoušejte stránku .
-Neměl bych
+Tak jo
+Radši ne
 
-Já vím
+Vím
 Nevím
-Udeřte slabě
-Udeřte silně
-Zatlačte!
+Udeřit slabě
+Udeřit silně
+Zmáčknout!
 
 Vlevo
 Uprostřed
 Vpravo
 
-Vpravo
-Vyberte
-Vlevo
+Předchozí
+Vybrat
+Další
 
-Jeden další
-Dost
+Ještě jednou
+Stačilo
 
-Interfere
+Míchat
 
-Zatáhněte za páku
+Zatáhnout za páku
 
-Zvolte pravou
-Zvolte levou
+Zvolit pravý
+Zvolit levý
 
-Otočte doprava
-Otočit doleva
+Zahnout doprava
+Zahnout doleva
 Skok
-Otevřít dveře
+Otevřít
 
-Vyberte hru
+Vybrat hru
 Dokončit hru
-Pokračovat na
-Hrajte na
+Pokračovat
+Hrát
 
 
-Zavřít dveře
+Zavřít
 
 Vpravo
 Vlevo
 Dolů
 Nahoru
 
-Krok zpět
-Stiskněte tlačítko
+Ustoupit
+Stiskněte libovolné tlačítko
 
 Jíst
 Pít
-Vezměte si palacičku
-Vezměte si chléb
-Přidejte mléko
-Přidejte cukr
-Přidejte mouku
-Přidejte olej
-Přidejte vejce
-Smíchejte
-Přidejte směs
-Obraťte
+Vzít maso
+Vzít chleba
+Přidat mléko
+Přidat cukr
+Přidat mouku
+Přidat olej
+Přidat vejce
+Smíchat
+Přidat směs
+Obrátit
 Příliš mnoho
 
 Vypadají dobře
-Prostě si je sundej
+Radši si je sundej
 
-Mluv se mnou
-Není potřeba.
+Vysvětli mi to
+Není potřeba
