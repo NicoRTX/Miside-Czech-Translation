@@ -1,36 +1,36 @@
-Mita?
+Mito?
 Už jsi vzhůru?
 Jak ses sem dostala?
 Před chvílí jsi byla hned vedle mě.
 
-Ne, nebyla jsem.
+Ne, nebyla.
 Ztuhl jsi před zrcadlem.
-Tak jsem odešela.
-Proč se pokoje změnily?
+Tak jsem odešla.
+Proč jsou pokoje jinak?
 
-Přestavěla jsem to tu.
-abys ses tu cítili jako doma.
-Tady,
-můžeš změnit pokoje
-jak budeš chtít.
+Přestavěla jsem to tady,
+Abys ses tu cítil jako doma.
+Tady
+Můžeme měnit pokoje
+Jak jen budeme chtít.
 
 Nemusela jsi.
-Zvykal jsem si na uspořádání.
-Každopádně si myslím, že se s tímto rozložením budeme cítit lépe.
+Zvykal jsem si na to, jak byly.
+Myslím si, že se s tímto rozložením budeme cítit lépe.
 // Mita card game
 Takže,
-budeme hrát?
+Můžeme hrát?
 Hra funguje takhle:
 Tento žeton označuje typ,
-jako je zdraví:
+Jako je zdraví.
 Každý z nás hraje jednu kartu,
-a pokud tvoje karta má vyšší
-zdraví
-než moje,
-vyhráváš.
+A pokud tvoje karta má vyšší
+Číslo zdraví
+Než moje,
+Vyhráváš.
 Vem si karty.
 Teď jsem na řadě já.
-Whoa!
+Super!
 Dostala jsem pořádný karty!
 Jdu první!
 
@@ -47,13 +47,13 @@ Jsi na řadě!
 Uh-huh.
 Jsi na řadě!
 
-Nejvyšší hodnota zdraví vyhrává!
-Vše je o útoku!
-Soustřeďte se na obranu!
+Největší číslo zdraví vyhrává!
+Všechno je o útoku!
+Soustřeď se na obranu!
 
 
 Vyhrál jsi!
-Vyhrál jsi!
+Vyhráváš!
 Dostal jsi mě.
 Ty...
 
@@ -62,10 +62,10 @@ Jsem vítěz!
 Vyhrála jsem!
 Hah, mám tě!
 
-To je nerozhodně.
-Všichni jsou si rovni!
+Je to remíza.
+Obě stejně!
 To je remíza!
-Stejná hodnota...
+Stejná čísla...
 
 
 
@@ -79,23 +79,23 @@ Stejná hodnota...
 
 // The card game is interrupted
 Co je to za zvuk?
-Co vychází ze skříně.
+Je to slyšet ze skříně.
 
 Zvuk?
 Jaký zvuk?
 Nic jsem neslyšela.
-Co jsi sis myslel, že jsi slyšel?
+Co sis myslel, že jsi slyšel?
 
 Klepání, jako by tam někdo byl.
 
 Ale...
 Nikdo tam není...
 
-Rád bych to šel prozkoumat.
+Rád bych se šel podívat.
 Trochu mě to děsí.
 
 Ale proč...?
-Tohle je zase...
+Zase tohle...
 
 
 
@@ -104,64 +104,64 @@ Tohle je zase...
 
 
 Co je to s tebou!?
-Je to šatník...
+Je to skříň...
 Mám tam spodní prádlo...!
 
 Skrýváš přede mnou něco?
 
-Proč mi prostě nevěříš?
+Proč mi nevěříš?
 Co dělám špatně?
-Co chci...
-Chci jen, abys byl se mnou.
+Jenom chci...
+Chci jenom, abys byl se mnou.
 
-To by se mi líbilo, ale stejně...?
+To by se mi líbilo, ale i tak...?
 
-Proč jsi se tak zasekl na té skříni?!
+Proč seš tak upřený na tu skříň?!
 
-Chci vědět, co to proboha bylo za klepání!
+Chci vědět, co to bylo za klepání!
 
 Je to proto, že
-tento svět
-má jen tyto čtyři místnosti?
+Tento svět
+Má jen tyto čtyři místnosti?
 Nestačí ti to?
 Proč nemůžeš být jen se mnou?
 
 
 // Don't stay with Mita
 Chápu to.
-Tohle je zase...
+Zase tohle...
 Pokud se chceš podívat do skříně,
-tak to udělej,
-a zjistíš, co tam je!
+Tak to udělej,
+A zjisti, co tam je!
 
 
 
 
 Co se děje?
 
-To se občas stává.
+To se někdy stává.
 Místnost se zasekla při načítání.
-Chvíli počkej.
+Chvilku počkej.
 
-To je tak divné.
+To je tak zvláštní.
 Jsme snad v něčím telefonu?
-Možná v nějakým pomalý s dlouhou dobou načítání?
+V nějakém pomalém, kde se všechno načítá dlouho?
 
 Vůbec ne.
 Ale ne všechno je dokonalé
-na tomto světě...
-Jsme zatíženi
-spolu s jádrem světa.
+V tomto světě...
+Načítá nás
+Jádro tohoto světa.
 
 Jádro světa?
 
-Typické, nemyslíš?
+Normálně, ne?
 
 
 
-Každopádně můžeme
-hrát hru na konzoli
-nebo jen karty.
+Každopádně, můžeme si
+Zahrát hru na konzoli
+Nebo jen karty.
 Vyber si.
 
 
@@ -169,44 +169,44 @@ Vyber si.
 // Mita play fight
 Chceš se prát?
 Musíš vyhrát
-čtyřikrát.
+Čtyřikrát.
 Tak do toho.
-Neboj se, budu
-nejdřív na tebe mírná.
+Nejdřív ti asi
+Budu trochu nahrávat.
 
 
-To je hodný kluk.
-Raději se soustřeď!
+Šikulka!
+Tak teď si drž kalhoty!
 
-Whoa!
+No teda!
 Dobře, dobře.
 Teďka vážně.
 
-Wow!
-Podívej se, zda můžeš
-mě porazit!
+Podívej se na sebe!
+Tak uvidíme,
+Jestli mě porazíš i teď!
 
 Jsi
-jednoduše
-neuvěřitelný! To je ale dovednost!
+Prostě
+Neuvěřitelný! Šlo ti to skvěle!
 
 
-Co se děje?
-Huh, to je nudné.
+No tak, co to bylo? :(
+Tohle mě nebaví.
 
 Dobře,
-to je vše. Věříš na osud?
+A máš to! Dostala jsem tě.
 
-Pak,
-dej se dohromady, jinak budeš navždycky smolař!
+No tak,
+Dej se dohromady, jinak budeš navždycky smolař!
 
-Co je to s tebou dnes?
+Co je to s tebou dneska?
 Vytřela jsem s tebou podlahu.
 Nedal jsi do toho všechno...
-proto jsem vyhrála!
+Proto jsem vyhrála!
 
 
-Dobře tedy.
+Tak dobře.
 Co kdybychom si zahráli karty?
 Jsou v ložnici.
 
@@ -216,18 +216,18 @@ Jsou v ložnici.
 Co se děje?
 Kde je...
 
-Uh-oh.
+Jejda.
 Omlouvám se...
 Něco jsem si stáhla
-z netu.
-Chtěla jsem to vylepšit
-zvenku trochu vylepšit.
-Ale ukázalo se, že
-že v souboru bylo něco špatně.
+Z netu.
+Chtěla jsem to venku
+Jenom trochu zkrášlit.
+Ale vypadá to,
+Že v souboru bylo něco špatně.
 Opravím to později.
 
 Proto nemůžeme opustit dům?
-Jo, proto.
+Ano, proto.
 // Mita shy
 Hej...
 Co je to s tebou?
@@ -236,88 +236,88 @@ Chceš něco?
 
 
 // Wall Clock
-Tyto hodiny,
-kolik ukazují hodin?
+Ty hodiny,
+Kolik ukazují hodin?
 Aktuální čas ve hře?
-Nebo je synchronizován s mým telefonem?
+Nebo je to čas z mého telefonu?
 
 No, ehm...
-Upřímně řečeno, nevím.
+Já upřímně nevím.
 Ale na čase tady nezáleží...
-Ať už je pozdě nebo brzy,
-silná dívka jako já
-je vždycky plná energie.
+Ať už pozdě nebo brzy,
+Silná dívka jako já
+Je vždycky plná energie.
 Nikdy se neunavím!
 Můžeme mít věčné jaro,
-nebo nikdy nekončící odpoledne!
+Nebo nekončící odpoledne!
 
-Zajímavé...
-ale také trochu děsivé.
+To je zajímavé...
+Ale trochu děsivé.
 Uvíznutí ve stejném okamžiku, navždy...
 
 
 
 // Photos of Mita
 Hezké fotky.
-Předpokládám, že na nich jsi ty?
+Hádám, že jsi na nich ty?
 
-Yep.
-I mně se líbí.
+Ano.
+Taky se mi líbí.
 
-Kdo je vzal?
-Jsou na tomto světě i jiní?
+Kdo je fotil?
+Jsou v tomto světě i jiní?
 
-Dalo by se říct, že.
-Nakonec tě představím.
-Jen ještě ne.
-Zatím chci být jen s tebou o samotě.
+Dalo by se to tak říct.
+Pak tě představím.
+Ale ne teď.
+Zatím chci být jen s tebou, o samotě.
 
 
 
 
 // Portal
-Kam se portál poděl?
+Kam se poděl ten portál?
 Nebo jak jsi to nazvala?
 
 Použila jsem
-trochu magie
-a přesunul ji
-někam jinam.
+Trochu magie
+A přesunula ho
+Někam jinam.
 Už ho nepotřebujeme.
-Jen by překážel.
+Jen by tady překážel.
 
 
 // Mirror in the bedroom
-Pohled do zrcadla bez odrazu
-Nevidět odraz - je strašidelné.
+Je zvláštní dívat se do zrcadla
+A nevidět svůj odraz.
 
 Můžeme zapnout odrazy
-pokud opravdu chceš.
-Ale opravdu to potřebujeme?
+pokud je chceš mít.
+Ale opravdu je potřebujeme?
 
 Samozřejmě, že ano.
-Nebo... bude to mít nějaké následky?
+Nebo... to bude mít nějaké následky?
 
 Ano.
-Budeme koktat a pohybovat se pomaleji.
-Viděli jste někdy animovaný film s nízkým počtem snímků za sekundu?
-Tak to bude u nás pořád.
+Budeme se hýbat pomalu a zadrhávat se.
+Viděl jsi někdy animák s trhavými animacemi?
+Tak to u nás bude pořád.
 
-Mám to.
-Tak to bychom možná měli mít odrazy vypnuté...
+Chápu.
+Tak to bychom možná měli nechat odrazy vypnuté...
 
-Hej, [player],
-máš rád zrcadla, že?
+Hej, [player], jak se tak koukám,
+Rád se díváš do zrcadla, co?
 Bojíš se, že na své tváři uvidíš úsměv?
 
 Cože? Ani ne...
 Jsem jen unavený.
-po vší té práci.
+Po vší té práci.
 
 
 
 // Blue sneakers
-To jsou tvoje?
+Ty jsou tvoje?
 
 Nene, jsou tvoje.
 Copak si to nepamatuješ?
@@ -325,44 +325,44 @@ Copak si to nepamatuješ?
 Nevzpomínám si, že bych měl takové tenisky.
 
 Teď už ano.
-Můžeš je nosit
-až půjdeme ven.
+Můžeš si je vzít
+Až půjdeme ven.
 
 A co oblečení?
-Všechno, co na tomto světě mám.
-jsou šaty, které mám na sobě.
+Nemám v tomto světě
+Jiné oblečení, než to, které mám na sobě.
 Můžu si nějak pořídit nové?
 
-Samozřejmě existují.
-I když jsem viděla, co nosíš...
-a upřímně, tvůj vkus není nic moc.
+Samozřejmě že ano.
+Ale viděla jsem, co nosíš...
+A upřímně, tvůj vkus není nic moc.
 Každopádně ti pomůžu nějaké sehnat.
-Jen ne teď.
-Je to slib.
+Jenom ne teď.
+Slibuji.
 
 Dobře.
 
 
 // Games on TV
-Co cheš hrát?
+Co si chceš zahrát?
 // Game milk
 Tohle je bojová hra!
 Uvidíme, kdo zkysne první!
-To je hra!
-Mléka už bylo dost, pojďme dělat něco jiného.
+Jdeme na to!
+Mléka už bylo dost, pojďme zkusit něco jiného.
 // Game penguins
-V této hře jste tučňák.
-a kloužeš po okolí.
-Správně, to je ta hra.
+V této hře jsi tučňák.
+A kloužeš na ledě.
+Tuhle hru jsme už hráli.
 
 // Stay with Mita
 Cože?
-To myslíš vážně? Myslela jsem, že jsi...
-Mám radost!
-A trochu zmatená...
-Ale...
+To myslíš vážně? Já myslela, že...
+Mám takovou radost!
+Ale jsem trochu zmatená...
+Tak...
 Prosím, zůstaň se mnou...
-navždy a navždy.
+Navždy a napořád.
 
 
 
@@ -376,25 +376,25 @@ navždy a navždy.
 
 
 // A game about penguins
-Je to super jednoduché:
-Jenom zbírej sněhové koule.
-Ten kdo jich sebere více, vyhravá!
-Hrajem na dvě hry, Ano ?!
+Je to úplně jednoduché:
+Sbírej sněhové koule.
+Ten, kdo jich sesbírá víc, vyhravá!
+Hrajeme na dvě kola, ano?
 // The first map
-Jak si dokázal jich sebrat tolik?
-Tee-hee! Já mám jich více!
+Jak si jich dokázal sebrat tolik?
+Ha! Mám jich víc než ty!
 Začni se snažit! <3
 Ha, 1:1!
 // The second map
-Jsi přirodní tučňák!
-Měli by jsme jít bruslit!
-Pfft, Jsi pomalý.
-Furt přemyšlíš nad posledním kolem?
-Wow, remíza! To je vzácné!
+Ty jsi snad tučňák od přírody!
+Měli bychom někdy jít bruslit!
+Pfft, ty jsi teda pomalý.
+Pořád přemyšlíš nad posledním kolem?
+Remíza! To je teda vzácné!
 // The game is over
-Dobře, Chceš hrát něco jiného?
-Nebo, stačilo?
+Tak co, zkusíme jinou hru?
+Nebo stačilo?
 
 // Tetris - Mita
 Na co to potřebuješ?
-Až takový hráč?
+Máš až takovou závislost?

@@ -1,25 +1,25 @@
 // Player thinks + Make coffee
 Budu potřebovat něčí pomoc.
-Doufám, že tady Mita nekouše...
+Doufám, že zdejší Mita nekouše...
 
-Na co ztrácím čas...
+Na čem tu ztrácím čas...
 
 
 
 
 // Player tries to wake up MitaDreamer
 Mito?
-Mito, probuď se!
+Mito, vstávej!
 Mito!
 
-Mito, vstávej!
+Mito, budíček!
 Potřebuji tvou pomoc.
 
 Kdo jsiiiii?
 
-Pomoz mi s přepínači.
+Pomoz mi s páčkami.
 
-Jaké přepínače?
+Jaké páčky?
 Nech mě spát...
 Nebo mi přines kávu.
 
@@ -31,41 +31,41 @@ Mi-ito!
 
 // Player gives away the coffee
 Mito,
-tady máš kávu.
+Tady máš kávu.
 
 
 
 // MitaDreamer exercise
-Přepínače,
-říkáš?
+Páčky,
+Říkáš?
 
 Ano.
 
 Jak víš, o nich?
-Ačkoli, proč se vůbec ptám...
+Ale, proč se vůbec ptám...
 Když už jsi tady,
-už bys toho měl vědět dost...
+Už bys toho měl vědět dost...
 
-Počkejte chvilku,
+Počkej chvilku,
 musím si sednout.
 
 A?
 
 Nevím, co na to říct...
-Ale musím pokračovat,
-sledovat vedení prstenu.
+Ale musím jít dál,
+Následovat prsten.
 
-Máš její prsten?
+Ty máš její prsten?
 Není divu.
-že jsi našel tohle místo.
+Že ses sem dostal.
 
 Přesně tak.
-Můžeš mi pomoci?
-S těmi přepínači?
+Tak pomužeš mi?
+S těmi páčkami?
 
-Jistě.
-Já ti pomůžu.
-S přepínači...
+Dobře.
+Pomůžu ti.
+S páčkami...
 
 
 Mito, no tak...
@@ -81,24 +81,24 @@ Vstaň prosím.
 Jsi tak ospalá?
 
 // MitaDreamer again sleep
-Probuďte se.
-Jsme tam.
+Probuď se.
+Jsme tady.
 
 
 // Switches
 Dobře,
-jsem připravena.
+Můžeme na to.
 
-Já jsem také připraven.
+Pojďme na to.
 
 Dobře.
 Začnu
-odpočítávání.
-A dáme to společně spínače.
+Počítat.
+A zatáhneme je spolu.
 Dobře?
 
-Hlavně zůstaň vzhůru, OK!
-Jdi.
+Hlavně zůstaň vzhůru, jo?
+Můžeš.
 
 
 3
@@ -106,46 +106,46 @@ Jdi.
 1
 
 // Player lose 1
-Děláš si odstupy?
+Nad čím přemýšlíš?
 No tak,
-pojďme znovu...
+Ještě jednou...
 
 // Player lose 2
 Ještě jeden pokus?
 No tak,
 Já...
-usínám tady...
+Tady usínám...
 
 // Player lose 3
-Už skoro usínám...
+Už skoro spím...
 
 
 
 Nádhera,
-děkuji, Mito.
+Děkuji, Mito.
 
 Mm-hmm.
 
 
 Dveře...
-takhle...
-pomalé...
+Jak...
+Pomalé...
 
 
 Jdu spát...
 
 // Why kitchen?
-Proč jít do kuchyně?
-Když usnu na studené podlaze,
-je to tvoje chyba.
+Proč jsme v kuchyni?
+Jestli usnu na studené podlaze,
+Můžeš za to ty.
 
 // Why bathroom?
-Nerozumím tomu...
-s jakými přepínači jsi potřeboval pomoc?
+Nechápu to...
+S jakými páčkami jsi potřeboval pomoc?
 
 // Put button
 Nic se nestalo?
-Tak co tady dělá tohle tlačítko?
+Tak k čemu je to tlačítko?
 
 // Cofee
 Ještě trochu kávy?
@@ -157,5 +157,5 @@ Ta káva chutná hrozně...
 Jsem úplně v pohodě...
 
 // Button
-Mito? Tlačítko nefunguje... Slyšíš mě?
+Mito? To tlačítko nefunguje... Slyšíš mě?
 Haló?

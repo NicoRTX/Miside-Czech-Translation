@@ -1,7 +1,7 @@
 // The first meeting
 Kdo jsi?
 Co se děje?
-Nemůžeš mluvit?
+Ty nemůžeš mluvit?
 
 
 Počkej...
@@ -9,76 +9,76 @@ Ty chceš odejít, že ano?
 
 Ano...
 Musím se vrátit
-k předchozí verzi.
+Do předchozí verze.
 
 Předchozí verze?
-Proč odejít a jít
-někam jinam?
-Proč nezůstat tady?
-a být můj
-druhým kamarádem?
+Proč odcházíš a jdeš
+Někam jinam?
+Proč nezůstaneš tady
+A nebudeš můj
+Druhý kamarád?
 
 // Skipping all dialogs
-Okej...
+Dobře...
 
 // Standing by the window (Random)
 Dveřmi cestu ven nenajdeš.
-Zdá se, že spěcháš...
+Vypadá to, že spěcháš...
 Běhání v kruhu tě nezachrání.
-Tak toužíš utéct?
-Podívej se za okna...
+Tak moc toužíš utéct?
+Podívej se z oken...
 
 
 // Quest 1 (Aren't you Mita?)
 Hráč... ty jsi hráč, že?
-Můžeme hrát spolu.
-Pokud najdu sílu,
-stačí, když budeme hrát.
+Můžeme si hrát spolu.
+Pokud na to budu mít sílu,
+Stačí, když si budeme hrát.
 
 // Quest 2 (What happened to you?)
 Nejsem si jistá a vlastně ani nevím...
 Nemyslím si, že se stalo něco špatného...
 Ale všechno dobré jako by se vytrácelo...
-I když, alespoň mám kamarády.
+Ale hlavně, že mám kamaráda.
 Proč mě opustili?
 Copak jsem jim nestačila?
 Mám strach...
 
 // Quest 3 (Become a second friend?)
-Přátelé...
+Kamarádi...
 Už mi jich zbylo tak málo.
 Zůstal jen jeden...
-Jsem smutný, hráči.
-Budeš mým kamarádem?
+Jsem smutná, hráči.
+Budeš můj kamarád?
 
 Rád bych,
-ale musím pokračovat...
+Ale musím jít dál...
 
 Bolí mě srdce...
 
 // Quest 4 (Is this your house?) - MitaLittle
 Domov?
-Hráči... změnil si se...
+Hráči... změnil ses...
 Máš kratší ruce a nevypadáš tak naštvaně...
 Hráči, změknul jsi, jsi laskavější.
 
 Nejsem si jistý...
-co to znamená.
+Co to znamená.
 
-To je v pořádku...
-protože už nebeš ubližovat, že ne?
+To nic...
+Teď už mě to nebude bolet, že ne?
 
 // Quest 5 (How do I leave this place?)
 Opravdu mě opouštíš?
 Je to snad jen můj...
-osud?
+Osud?
 
 Já...
 
-Dveře ti nepomohou.
+Dveře ti nepomůžou.
 
 // Hold player (Random)
 Proč odcházíš?
 Zůstaň tady...
-Hrajte si se mnou...
+Hraj si se mnou...
 Hráči...
