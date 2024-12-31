@@ -1,45 +1,45 @@
-
+// Mita Chibi
 Hej, ty!
-Ahoj!
-Chceš vystoupit?
-Tak mi pomozte najít klíč!
+Čau!
+Chceš vypadnout?
+Tak mi pomoz najít klíč!
 // Key Search
-Do prdele! Klíč je pryč!
-Nic tu není...
-nula, nula, nada!
-Našel jsem ho!
+Kurňa! Tady klíč není!
+Samá voda...
+Nula, nic, prdlajz!
+Mám ho!
 
 // The usual conversation
-Myslel jsem, že budeš kratší!
-Jsi vysoký...
-stejně jako moje sestra!
+Myslela jsem, že budeš nižší!
+Seš celkem vysokej...
+Jak moje ségra!
 
-Tvoje sestra? A co ona?
+Tvoje sestra?
 
-Ano, moje sestra.
-Neříkej, že jsi ji nikdy neviděl!
-
-Uh... Setkal jsem se s ní... Myslím, že?
-
-Jsi hloupý?
-
+Jo, moje ségra.
+Neříkej, že jsi ji ještě neviděl!
+// Player
+Uh... Myslím, že jsem se s ní potkal?
+// MitaChibi
+Tak seš blbej?
+// Player
 Ehmm...
-
-Ukázalo se, že jsi...
-No tak, pomoz mi už najít ten klíč!
+// MitaChibi
+Vypadá to, že jsi...
+To je fuk, pomoz mi už najít ten klíč!
 
 // Next work
-Přijď.
-Vložte železo do trubky!
-Děkuji!
-A teď mi podejte to dřevo!
-Děkuji!
-Ještě nějakou pomoc, prosím!
-Hotovo! Teď...
-Páni, to je nádhera.
-Stiskni to, no tak!
-Připravte se...
-Tady, vezmi si to!
+Pojď sem.
+Hoď to železo do pece!
+Díkec!
+A teď mi podej to dřevo!
+Supr!
+Dej tomu páru!
+Hotovo! Tak...
+Tyjo, to je nádhera.
+Zmáčkni ten knoflík!
+Ještě chviličku...
+Tak a vem si ho!
 Klíč je tvůj!
 
 
@@ -52,36 +52,36 @@ Klíč je tvůj!
 
 // Quest 1 (Are you Mita?)
 Jsem ChibiMita.fbx!
-Tuny řádků,
-nejjednodušších modelů a...
-nejlepší ze všech - nádherné vlasy!
+Mám tunu řádků,
+Nejjednodušší model,
+Ale supr vlasy!
 
 // Quest 2 (Have we seen each other yet?)
-Hlupáku!
+Jsi mi to ale hlupáček!
 Jsi docela roztomilý,
-když se takhle hloupě ptáš.
-Ačkoli,
-to je moje první setkání s tebou!
+Hlavně když se takhle blbě ptáš.
+Zrovna když...
+Se teď vidíme poprvé!
 Ale poslouchej...
-Jestli mi ukradneš můj úžasný pohled,
-budeš toho litovat!
+Pokud si na mě někdo hraje,
+Tak toho bude sakra litovat!
 
 // Quest 3 (Why are you here?)
 Copak to nechápeš?
 Tohle je kontrolní bod.
-zkouška vašeho důvtipu!
-Tak pojď!
-Jsem tu, abych vedla beznadějně ztracené duše!
+Zkouška tvého důvtipu!
+No tak!
+Jsem tu, abych vedla beznadějné a ztracené duše jako jsi ty!
 
 // Quest 4 (Why are you helping me?)
-Čím jsi tak výjimeční?
-Proč vám nepomoci?
-
-Cože?
-
-Tak hloupé...
-Z ničeho nic ses objevil!
-Neměl bys tu být,
-tak ti pomáhám!
+A proč ne?
+Čím jsi tak speciální, abych ti nepomohla?
+// Player
+Co?
+// MitaChibi 
+Ty hlupáčku...
+Z ničeho nic ses tu objevil!
+Nemáš tu co dělat,
+Tak ti pomáhám!
 
 Sbohem, hlupáčku!

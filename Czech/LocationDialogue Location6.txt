@@ -1,34 +1,34 @@
 
-Mita?
+Mito?
 
-Jak ses sem proboha dostal?
+Kde ses tady vzala?
 
 Ty jsi Mita, že?
-Ale je na tobě něco jiného...
+Ale jsi nějaká jiná..
 
-Vidím, že jsi všímavý.
-A máš pravdu.
+To máš pravdu...
+Ale teď poslouchej dobře.
 Nejsem ta Mita, kterou jsi potkal předtím.
-Buď opatrný, něco chystá.
-něco zlověstného.
+Dávej si na ni pozor...
+Něco si na tebe chystá.
 
-Něco zlověstného?
+Co si na mě chystá?
 
-Na vysvětlování není čas:
-Jestli to vyjde, všechno ti řeknu.
-Vezmi si klíč. Je vedle pohovky.
+Kruci!
+Jestli to vyjde, tak ti všechno řeknu.
+Najdi klíč vedle gauče.
 
 Ale...
 
-Otázky na později!
-Dejte mi klíč.
-Vezmi si tento prsten.
-Co?
+Otázky si nech na později!
+Dej mi ten klíč.
+Tady máš prsten
+K čemu?
 Chceš se odsud dostat, že jo?
 Jo...
 Tak si ho nasaď.
-Je to užitečný artefakt,
-pravděpodobně ho budeš brzy potřebovat.
+Je to užitečná pomůcka,
+pravděpodobně ho brzy využiješ.
 
 Dobře...
 Mimochodem, já jsem
@@ -46,66 +46,66 @@ Já jsem... Mita.
 
 
 // MitaKind quest 1
-Podívejte se na to.
-konzole? Zvedněte ji.
+Vidíš tu konzoli?
+Vezmi si ji.
 
-Sledujeme záznam?
+To je záznam?
 Kdo je to s ní?
 
-To se děje právě teď.
+Tohle se děje právě teď.
 Je to další hráč.
 Využívá ho.
-Mohla by se pokusit
-z tebe také udělat kazetu.
+Dávej si na ni pozor,
+Může z tebe udělat kazetu.
 
-Musím odsud co nejdřív vypadnout.
+Musím odsud ihned vypadnout.
 A ty taky.
 
-Ano, máme.
+Ano, zajisté.
 
-Takže říkáte.
-že ho využívá.
-Když vytáhnu kazetu, co se stane?
+Takže říkáš.
+Že ho využívá.
+Co se stane, když vytáhnu tu kazetu?
 
-To může být velmi dobře
-nevratně poškodíš kazetu.
+To by mohlo způsobit
+Nenávratné poškození kazety.
 Což znamená, že...
-hráč zemře.
+Hráč zemře.
 
 ...
-Co když ho prostě vypnu?
+Co když tu konzoli prostě vypnu?
 
 To by mohlo fungovat...
-Za pokus to stojí. Je tam červené tlačítko napájení!
+Za pokus to stojí. Na konzoli je červené tlačítko!
 Vidíš ho?
 Našel jsem ho.
 Stiskni ho.
 
 // MitaKind quest 2
-Musím zůstat.
-Musím se jí zeptat na několik otázek.
-abych se o ní dozvěděla víc.
-I když je nepravděpodobné, že by se mnou hrála...
+Musím tu zůstat.
+Chci se jí zeptat na pár otázek,
+Abych se o ní něco dozvěděla.
+Ale nemyslím si, že bude mít chuť na řeč... 
 
 // MitaKind quest 3
-Abych řekla pravdu, tohle je moje verze.
-Dělala jsem společnost jednomu hráči,
-když se najednou něco změnilo.
-Pak se objevila ona...
-a proměnila přehrávač v kazetu
-a zavřela mě.
+Upřímně, tohle je moje verze.
+Byla jsem tady s jedním hráčem,
+A najednou se něco stalo.
+Objevila se ona...
+A proměnila hráče v kazetu
+A zavřela mě.
 
 Počkat, ona z něj udělala kazetu?
 Může to vůbec udělat?
 Ale proč?
 K čemu potřebuje hráče?
 
-Zřejmě se zbláznila...
-Jen si s námi hraje a využívá nás pro své vlastní machinace!
-Přeměňuje hráče na kazety...
-Někteří si ani neuvědomovali, co se s nimi děje...
-A někteří, kteří si to uvědomují, se ani nebrání... Sakra!
-To je ale temný zvrat...
+Očividně je šílená...
+Je to pro ní jen hra a vyžívá se v tom, potvora!
+Předělává hráče na kazety...
+Někteří ani netuší, že je promění...
+A ti co ví, se ani nebrání...
+Vůbec se mi to nelíbí.
 Musíš nám pomoct!
 Já? Ale jak?
 Potřebuju tě!
@@ -115,36 +115,36 @@ Prsten tě dovede ke správné verzi.
 Setkáme se tam.
 
 // MitaKind quest 4
-Stále tomu nerozumím
+Stále nerozumím tomu
 co jsem tam nahoře viděl...
 Ta Mita...
 Chtěla mě zabít?
 
 Zabít?
-Má pro tebe připravený horší osud...
+Má pro tebe připravené horší věci...
 Musíš si pospíšit.
 
 // Hide!
-Do prdele! Schovej se!
+Kruci! Schovej se!
 Počkat, co...?
 Rychle, už jde!
-Sleduj prsten - dovede tě do bezpečí!
+Následuj prsten. Dovede tě do bezpečí!
 
 
-No, no, řekneš mi, kde je?
+No tak, řekneš mi kde je?
 
 Proč bych to dělala?
 Nezabiješ ho, že ne?
 
 Aha, takže mi to odmítáš říct.
-Hah, mám ráda výzvy.
+Nevadí, mám rádá hru na schovávanou.
 Vím, že je někde tady.
 
-Proč jsi na nás tak zlá?
+Proč jsi tak zlá
 Ani mi neřekneš, co se děje!
-Kromě toho...
-na co potřebuješ hráče?
+A vůbec...
+K čemu potřebuješ hráče?
 Nejsou to žádné hračky!
 Co to do tebe vjelo?!
 
-Dost! Drž hubu, panenko!
+Sklapni, panenko!

@@ -1,19 +1,19 @@
+// Mita
+ZÅ¯staÅˆ tady.
+Asi mi nÄ›co upadlo. Hned jsem zpÃ¡tky.
+Pak pÅ¯jdeme do jinÃ©ho zbrusu novÃ©ho svÄ›ta.
+// MitaCreepy - [not]
+DobÅ™e.
 
-Zùstaòte zde.
-Myslím, e mi nìco upadlo. Hned se vrátím.
-Pak pùjdeme do jiného svìta...
-
-Dobøe.
-
-
-Pojïme si hrát!
-Chci svého medvídka!
+// MitaCreepy - [not]
+PojÄme si hrÃ¡t!
+Chci svÃ©ho medvÃ­dka!
 Ztratila jsem ho...
-Najdìte ho!
+Najdi ho!
 
-
+// MitaCreepy - [not]
 Ahoj...
-na co se díváš?
+Na co se tak dÃ­vÃ¡Å¡?
 
 
 
@@ -24,48 +24,48 @@ na co se díváš?
 
 
 // Quest 1 (Who are you?)
-Já jsem Mita.
-Nejlepší Mita.
-První Mita.
-To øíkala Mita, moje Mita.
+Jsem Mita.
+NejlepÅ¡Ã­ Mita.
+PrvnÃ­ Mita.
+Å˜Ã­kala to Mita, moje Mita.
 
 // Quest 2 (Why do you look like that?)
-Jak vypadám?
-Jak vypadám?
-Jak vypadám?
-Moje Mita øíká, e jsem krásná a originální.
-To jsem já!
+Jak vypadÃ¡m?
+Jak vypadÃ¡m?
+Jak vypadÃ¡m?
+Moje Mita Å™Ã­kÃ¡, Å¾e jsem krÃ¡snÃ¡ a originÃ¡lnÃ­.
+Tak vypadÃ¡m.
 
 // Quest 3 (What was Mita doing here?)
-Odveze mì pryè.
-Budeme ít v novém svìtì.
-Moje Mita mì pozvala.
-Odveze mì pryè. A budeme si hrát.
+Odvede mÄ› pryÄ.
+Budeme Å¾Ã­t v novÃ©m svÄ›tÄ›.
+Moje Mita mÄ› pozvala.
+Vezme mÄ› s sebou. Budeme si hrÃ¡t.
 
 // Quest 4 (Why do you need a teddy bear?)
-Jsi pøítulnı medvídek,
-a jsi ztracenı,
-stejnì jako mùj plyšovı medvìd.
+Ty jsi medvÃ­dek,
+jsi ztracenÃ½,
+jako mÅ¯j medvÃ­dek.
 
 // Quest 5 (Why is Mita angry?)
 Moje...
 Mita.
-Chce si hrát.
-Chce jen
-mì.
-Jsme jedineèní,
-jediní.
+Chce si hrÃ¡t.
+Chce vzÃ­t
+jenom mÄ›.
+Jsme originÃ¡lnÃ­,
+Jsme jedinÃ­.
 Mita a moje Mita,
-0,8A a 8Ì54*.
+0,8A a 8Äš54*.
 
 // Quest 6 (Do you believe Mita?)
+Moje Mita...
+Moje nejlepÅ¡Ã­ kamarÃ¡dka...
 Moje Mita.
-Mùj nejlepší pøítel.
-Moje Mita.
-Moje jediná kamarádka.
+MÅ¯j jedinÃ½ pÅ™Ã­tel.
 
 
-To jsi ty!
-Hej.
-Pojïme si hrát!
-Ukáu ti, jak na to.
+Jsi to ty!
+DÃ­vej.
+PojÄme si hrÃ¡t!
+UkÃ¡Å¾u ti, jak na to.

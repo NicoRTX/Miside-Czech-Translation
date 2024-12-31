@@ -1,9 +1,9 @@
 // Player start
 Kde to jsem?
-Tohle místo mi připadá povědomé.
-Počkat... Jsem ve hře?
+Tohle místo je mi povědomé.
+Počkat... Já jsem ve hře?
 // Player try open the door
-Zamčeno?
+Zamknuto?
 // Player in dark
 Je tu tma.
 Nic nevidím.
