@@ -1,202 +1,202 @@
-
+// MitaKind
 Zvládl jsi to!
-
-Co je to za místo?
-
+// Player
+Kde to vůbec jsme?
+// MitaKind
 Ukaž mi ten prsten.
 Jo...
 A je to!
 Nechceš si něco vyjasnit?
-// If the player did not approach the good Mitya and decided to play a race - Mita Kind
-Celou dobu jsem tu na tebe čekala
-a ty místo toho hraješ hru?!
-Každopádně pojď sem...
-// If the player talked to Mita first, and went through the game to the end - Mita Kind
+// Player didnt approach MitaKind and decided to play a game - MitaKind
+Celou dobu tu na tebe čekám
+A ty tady hraješ na automatu?!
+To je jedno, pojď sem...
+// Player talked to MitaKind first, and then played the game to the end - MitaKind
 Gratuluji, vyhrál jsi!
 Taky jsem to hrála!
-Dokonce jsem se snažila posbírat všechny mince a získat 1. místo.
-abych získala úspěch!
-A noo, to bylo určitě těžké!
-Trvalo mi celou věčnost, než jsem si zvykl na ovládání.
+Snažila jsem se posbírat všechny mince a dostat se na 1. místo
+Abych získala "úspěch"!
+No... nebylo to úplně jednoduché.
+Trvalo mi celkem dlouho, než jsem si zvykla na ovládání.
 
 // Quest 1 (Should I trust you?)
-Alespoň jsem při smyslech...
-na rozdíl od některých jiných...
+No, aspoň nejsem šílená...
+Na rozdíl od jiných...
 Kromě toho,
-jsem ten nejhodnější člověk, kterého tady najdeš, zlato.
-Nechceš to jen tak vzdát, že ne?
-Je to chladnokrevná vražedkyně. Musíme ji zastavit.
+Jsem ten nejmilejší člověk, kterého tady najdeš, zlato.
+Přece se nechceš jen tak vzdát, ne?
+Ona vraždí všechny, kteří jí stojí v cestě. Musíme ji zastavit.
 
 // Quest 2 (How did I get here?)
 Ten prsten tě sem dovedl.
 Je to skvělý vynález.
-Jen hráč, který ho má.
-může najít cestu ke správné verzi.
+Jen hráč, který ho má,
+Najde cestu do správné verze.
 
 // Quest 3 (What is this place?)
-Tyto pasáže
-spojují různé verze.
-Ano, je to tu trochu prázdné.
-A jéje! Slyšel jsem o tomhle z Mita
-která nemohla archivovat svou verzi...
+Tyto chodby
+Propojují různé verze.
+Ano, je tu trochu prázdno.
+Dokonce jsem slyšela o jedné Mitě,
+Které nearchivovali její verzi...
 Její dům
-prostě přestal existovat...
-A ona se prý potlouká kolem
-těchto chodbách.
-Chudák...
+Prostě přestal existovat...
+Prý se pořád někde toulá
+V těchto chodbách.
+Je mi jí líto...
 
 // Quest 4 (How did you end up here?)
-Však víš,
-už je to nějaký čas, co jsme se naposledy viděli.
-A díky tobě,
-jsem se dostal z té zatracené klece,
-a utekla jsem od toho šílence.
+No,
+Už je to chvilka, co jsme se naposledy viděli.
+Díky tobě
+Jsem se dostala z toho vězení,
+A utekla té maniačce.
 A pro tvou informaci,
-mohu snadno přepínat mezi různými verzemi,
-na rozdíl od tebe, zlato.
+Umím snadno přecházet mezi verzemi,
+Na rozdíl od tebe, miláčku.
 
 // Quest 5 (What did you do with the ring?)
 Změnila jsem trasu
-na tu, kterou potřebujeme.
+Na tu, kterou potřebujeme.
 Nastavila jsem tu nejkratší možnou,
-a nacpala do ní všechno, co potřebujeme...
-Funguje to takto: otevřete dveře,
-a prstenec otevře hranici
-mezi verzemi.
+Kterou spolu půjdeme.
+Funguje takhle: Otevřeš dveře,
+A prsten vytvoří přechod
+Mezi verzemi.
 
 // Quest 6 (Are the passages dangerous?)
-Viděl jsem už spoustu podivných věcí.
-od té doby, co jsem přijel
-do její hry...
-Zdá se, že je tu klid,
-ale pasáže jsou...
-jen ne bezpečné.
-
-Máš pravdu, a tohle místo se stává
-den ode dne nepředvídatelnější.
+Od té doby, co jsem se dostal
+Do této hry,
+Jsem viděl hodně divných věcí.
+Zdá se, že tady je klid,
+Ale ty chodby...
+Určitě nejsou bezpečné.
+// MitaKind
+Máš pravdu, a každým dnem
+Je to jenom horší.
 Ale hlavu vzhůru!
-Mysleli jsme na všechno,
-a vezmeš to nejkratší cestou.
-a nejkratší a nejprošlapanější cestou!
-
-Doufám, že vše půjde dobře.
-Ale co žije v těchto pasážích?
-
-Dobře,
-závady, chyby, anomálie.
-Živých.
-Dokonce i nebezpečné, které na vás mohou zaútočit na první pohled...
-
-Err...
-A možná i další nepřátelské Mitas.
-Další bláznivé, nehodící se?
-
-Vím přinejmenším o jednom...
+Máme plán.
+Vezmeš to nejkratší cestou.
+Tou nejkratší a nejbezpečnější!
+// Player
+Doufám, že to půjde hladce.
+Co všechno vůbec je v těch chodbách?
+// MitaKind
+No...
+Vady, chyby, anomálie...
+Někdy i živé...
+Některé jsou i nebezpečné, zaútočí na první pohled...
+// Player
+Eeh...
+A možná i další krvelačné Mity.
+Další krvelačné Mity?!
+// MitaKind
+Vím alespoň o jedné...
 Ošklivá Mita.
-A abys věděl, že jsem to nebyla já, kdo ji pojmenoval!
-To jen...
-je to velmi raná verze Mity.
-Hlavní problém s ní
-že způsobuje ty nejhorší závady...
-A já se bojím, že bychom na ni mohli narazit.
-Koneckonců je nejblíže verzi nula...
+A jen abys věděl, tak já jsem ji takhle nepojmenovala!
+Je jen...
+Velmi ranou verzí Mity.
+Hlavní problém s ní je, 
+Že způsobuje hrozné chyby...
+Obávám se, že bychom na ni mohli narazit.
+Koneckonců je nejblíž verzi nula...
 
-// Quest 7 (Will you help me get out?)
-Nemám žádný skutečný plán...
-Ale tak jako tak,
-jsi se sem dostal, že?
+// Quest 7 (Will you help me get out?) - MitaKind
+Nemám žádný konkrétní plán...
+Ale tak či tak,
+Ses sem dostal, ne?
 Kromě toho,
-co jiného můžeš dělat.
-než se spolehnout na mě, laskavou Mito!
-Není-liž pravda...
+Co jiného ti zbývá,
+Než se spolehnout na mě, Laskavou Mitu!
+To máš pravdu... // Player
 
-// Quest 8 (You were talking about some kind of plan...)
-Musíme dosáhnout jádra.
-Moje intuice mi říká, že tam najdeme
-řešení všech našich problémů.
-
-Ale proč se tam nevydáš sáma? Proč potřebuješ hráče?
-
-Z nějakého důvodu my, Mitas, nemůžeme
-vstoupit do základní místnosti.
-Viděla jsem ji jen zvenčí.
-Ale vy hráči jste jiní.
-Jsem si jistý, že vy
-můžete jít dovnitř.
-Chcete probrat plán?
-Dobře.
-Skvělé.
-Dobře...
-Je nejvyšší čas, abych tě představila.
+// Quest 8 (You were talking about some kind of plan...) - MitaKind + Continue
+Musíme se dostat do Jádra.
+Něco mi říká, že tam najdeme odpověď
+Na všechny naše problémy.
+// Player
+Na co vlastně potřebuješ v Jádru pomoc hráče? 
+// MitaKind
+Z nějakého důvodu my, Mity, nemůžeme
+do Jádra vstoupit.
+Viděla jsem ho jen zvenčí.
+Ale ty nejsi Mita, ty jsi hráč.
+Věřím, že ty určitě
+Budeš moci jít dovnitř!
+Zní jako plán?
+Dobře. // Player
+Skvěle. // MitaKind
+Takže...
+Je na čase, abych ti představila
 Cool Mitu!
-Když už má tu cool čepici,
-tak jí prostě říkám
-Cappie.
-Probírala jsem s ní plán,
-plán, jak zastavit Bláznivou Mitu.
-Tohle je, [player]!
+Protože nosí tu cool čepici,
+Tak jí prostě říkám
+Čapka.
+Probírala jsem s ní náš plán
+jak zastavit Šílenou Mitu.
+Seznam se, [player]!
 
-
-Zdravím vás!
-Jsi můj... nový hráč?
+// MitaCap
+Čauky!
+Ty seš můj... nový hráč?
 Jak ti mám říkat?
-Jmenuji se...
-
-Počkej!
+Já jsem...
+// MitaKind
+Počkat!
 Ty...
 ...si mě nepamatuješ?
-
-Cože?
-Kdo jsi?
-
-K čertu s tím vším!
+// Mitacap
+Co?
+A ty jsi kdo?
+// MitaKind
+Sakra!
 [player]...
-Myslím, že tu byla ONA,
+Myslím, že tu byla ona,
 Šílená Mita...
-Poslouchejte!
+Poslyš! // for Mitacap
 Zkus si vzpomenout, pro dobro nás všech!
-
-Co si mám pamatovat?
-Přemýšlejte. Proč jsme si podobní?
-
-Nezdá se, že by to pomohlo...
+// MitaCap
+Vzpomenout si na co?
+A proč vypadáš jak já?
+// MitaKind
+No, tak to je fakt konec...
 Poslouchej, [player],
-věci nejdou zrovna
-podle plánu...!
+Zatím nám to nejde
+Úplně podle plánu!
 Měli jsme použít portál
-aby naše cesta byla milionkrát snazší a rychlejší.
-Ale bez Cappie pomoci ho nemůžeme zprovoznit.
-A chybí nám nějaké součástky...
-Možná je vybíravá, ale její mysl pracuje rychle...
-Dobře, tak co uděláme?
-Něco vymyslím.
-Co jí udělala šílená Mita?
-
+A tím si milionkrát ulehčit a urychlit cestu.
+Ale bez pomoci Čapky ho nezprovozníme.
+A dokonce nám chybí i nějaké součástky...
+Možná je trochu roztěkaná, ale pálí jí to...
+Dobře, co teď budeme dělat? // Player
+Na něco příjdu. // MitaKind
+A co jí udělala Šílená Mita? // Player
+// MitaKind
 No... Myslím, že...
-že ji zabila.
-Zabila?!
-
-A po smrti...
-Cool Mita se jednoduše restartuje.
-Obnovte tovární nastavení
-a zapomenete na všechno důležité.
-Což znamená...
-že náš plán nebude fungovat.
-
-To je hrozné...
-Lepší než zmizet navždy, myslím...
-Ale kdo to může s jistotou říct?
-A co my hráči?
-Vynuluje nám zabití také paměť?
-
-Vaše vzpomínky lze určitě obnovit.
-Přinejmenším poté, co jste byli přeměněni na kazetu.
-Ale ani já nevím.
-co se stane s těmi z vás, kteří byli zabiti.
-
-Vždy se jedná o kazety... Jak to mohu říct?
-jestli jsem kazeta nebo ne?
-
+Že ji zabila.
+Zabila?! // Player
+// MitaKind
+Přesně tak.
+A když jakákoliv Mita zemře, tak se prostě restartuje.
+Zapomene na všechno důležité
+A obnoví se do továrního nastavení.
+Jinými slovy...
+Je to v prdeli.
+// Player
+To je strašné...
+Asi lepší než zmizet navždy...
+I když... kdo ví.
+A co hráči?
+Jde nás taky zabít a tím vymazat paměť?
+// MitaKind
+Určitě ti lze vymazat vzpomínky.
+Teda alespoň poté, jakmile se z tebe stane kazeta.
+Ale co se stane zemřelému hráči,
+To ani já nevím.
+// Player
+Pořád slyším něco o kazetách... Jak to říci?
+Jak vím, jestli jsem kazeta nebo ne?
+// MitaKind
 Pojď sem, zkontroluju to.
 tě zkontrolovat...
 // MitaKind check
