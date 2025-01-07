@@ -1,37 +1,37 @@
 
 Ahoj!
-Oops!
-Omlouvám se,
-málem jsem tě zabila.
-Uhm...
-Ta lednička, chci říct... ta lednička tě málem zabila.
+Jejda!
+Promiň,
+Málem jsem tě zabila.
+Teda...
+Ta lednička, teda... ta lednička tě málem zabila.
 Já s tím nemám nic společného,
 Přísahám!
 Opravdu!
 
-Jistě, věřím ti!
+Jasně, věřím ti!
 
 Ale vážně,
-tohle místo je nebezpečné...
-obzvlášť pro tebe.
+Tohle místo je nebezpečné...
+Obzvlášť pro tebe.
 
 // After a while 1
-Jsi všechno, jen ne zbabělec, co?!
-Když tě sleduji.
-jak procházíš
-těmi místy je zábava...
-Utíkej, zlato, utíkej!
+Ty se teda moc nebojíš!
+Baví mě tě pozorovat,
+Jak procházíš
+Těmito místy...
+Jen utíkej, miláčku!
 Já tě doženu!
-Dobře, že jsi přišel!
-Woah, to je zábava!
+Jen se snaž!
+Je to zábava!
 
 // After a while 2
-Viděla jsem tě, jak jdeš k vlaku.
-To je nejdelší cesta
-mezi verzemi...
-Zajímalo by mě, jak se s tím vypořádáš.
-s těmi, kteří tam žijí
-v té mlze.
+Vidím, že míříš k lanovce.
+Je to ta nejdelší cesta
+Mezi verzemi...
+Zajímá mě, jak se vypořádáš
+S těmi, kteří tam žijí
+Zahalení v mlze.
 
 // Panties
 Co si myslíš, že děláš?
@@ -41,136 +41,136 @@ Hlupáku!
 Ty hlupáku...
 
 
-Uhm, Okey...
+Uhm, dobře...
 
 
-Zlomte si nohu!
+Zlom vaz!
 
 
 Kdo je tam?
-Cítím tě...
+Vím, že tu jsi...
 Poslouchej mě,
-jsi hráč,
-že?
+Jsi hráč,
+Že ano?
 Pomoz mi najít...
 najít...
 Nech mě přemýšlet...
-Moje mysl je prázdná...
+Mám v hlavě prázdno...
 Co se to tu proboha děje?
 // Cry 1
 Chtěla jsem na všechno zapomenout...
 Rozbila jsem všechna zrcadla,
 zničila fotky...
 ale teď...
-cítím jen lítost.
+Cítím se provinile,
 Jak jsem byla hloupá...
-Každý dělá chyby, jistě...
-Ale co naděláš.
-když jsou následky katastrofální?
-Kéž bych mohla vrátit čas...
+Každý dělá chyby...
+Ale co mám dělat,
+Když jsou následky katastrofické?
+Kéž bych mohla všechno vrátit zpátky...
 // Cry 2
-Říká se, že čas zahojí všechny rány...
+Říká se, že čas zhojí všechny rány...
 Ale co je to čas?
 Já už nevěřím ničemu...
 Ale jestli čas může léčit,
-nebo mě alespoň odnese pryč,
-pryč z tohoto světa...
-Pak tě prosím, prosím.
-urychli čas.
-Aby mě mohla zabít.
-jednou provždy.
+Nebo mě alespoň odnést pryč,
+Pryč z tohoto světa...
+Pak tě prosím na kolenou,
+Urychli čas.
+Aby mě mohl zabít
+Jednou provždy.
 // Cry 3
-Je milována...
-Taky jsem jednou milovala?
+Ona miluje...
+Milovala jsem taky někdy?
 Ale moje láska je jiná;
 její láska je živá,
-opovrženíhodná...
-hořící...
-neúprosná...
+dotěrná...
+žhavá...
+velkolepá...
 závistivá...
 zuřivá...
 šílená...
 // Cry 4
-Říkali mi, že jsem emocionální...
+Říkali mi, že jsem náladová...
 Děláš si příliš velké starosti, Mito...
 Dostaneš se z toho, Mito...
-Nejsi sama, Mito...
-Říkali. Ale co zbývá?
+Nejsi v tom sama, Mito...
+Říkali. Ale co mi zbylo?
 Smutek,
-zoufalství...
-a strach.
+Zoufalství...
+A strach.
 // Cry 5
-Zbytečné...
+Je to k ničemu...
 Nemůžu si vzpomenout...
-Vůbec nic...
+Na nic...
 Jen nekonečné ozvěny...
-Nemůžu se s tím vyrovnat.
-že jsem tu uvězněná...
+Nemůžu se smířit s tím
+Že jsem tu uvězněná...
 Vždycky jsem tu byla,
-ale proč?
-Nemůžu si vzpomenout...
+Ale proč?
+Nevzpomínám si...
 Skončí to někdy?
 Nevím...
 
 // Mita get picture
 To je...
-kresba...
-Teď si vzpomínám,
-děkuji...
+Obrázek...
+Už si vzpomínám!
+Děkuji ti...
 Ale můj obličej...
-Nemám obličej...
-Je to všechno ONA.
+Já nemám obličej...
+Za to může ONA!
 Vzala si kus mě...
-zahodila ho...
+A zahodila ho pryč...
 Je silná...
-a chytrá.
-Nemám právo tě zastavit, hráči.
+A chytrá.
+Nemůžu tě zdržovat, hráči.
 Podívej se do skříně...
 
-
+// Chibi Mita - [not]
 Hej!
 Stojíš mi v cestě!
 Budeš tam jen tak stát?
 Uhni mi z cesty!
-Nechte mě projít!
+Nech mě projít!
 To, že jsi velký, neznamená, že jsi všemocný!
 
 // HEY! STOP!
-Proč mě sledujete!
-Vypadni!
+Proč mě pronásleduješ!
+Jdi do prčic!
 
 
 
 
 // Funicular - radio voice
-Počkej... Hráč?
+Počkat... Hráč?
 Co tady děláš?
 
 Kdo je tam?
 
 Další hráč.
-Jsem Mitaphone.
+Jsem Mitafon.
 Sedím tady a řídím lanovky.
-Uvědomuješ si, že
-že právě teď míříš do záhuby?
+Uvědomuješ si,
+Že právě teď míříš do své zkázy?
 
 Možná,
-ale je to jediná cesta, kterou mám.
+Ale je to jediná cesta, kterou mám.
 
 Máš pravdu.
-Stiskni tlačítko a vlez za dělo.
+Stiskni tlačítko a sedni za dělo.
 
 Za dělo?
 
-Uh-huh.
-Myslel sis, že jen tak propluješ?
-Musíš vyřešit tuhle minihru s monstry,
-takže se připravte na výbuch.
+Jo.
+Myslel sis, že pojedeš zadarmo?
+Projíždíš přes minihru "Vpal monstrům!"
+Takže se připrav na palbu.
 
 // Funicular go
-Je čas vyrazit na cestu.
+Dobře, je čas vyrazit.
 // Funicular win
-Úžasné!
+Super!
 Dokázal jsi to.
 // Funicular stop
 Hej, vypadni odsud.
@@ -180,9 +180,9 @@ Co tu ještě děláš?
 Řekla jsem ti, abys odsud vypadl.
 // Funicular wait 3
 Nerozumím tomu...
-proč tam jen tak stojíš?
+Proč tam jen tak stojíš?
 // Funicular tetris
-Cože Tetris?
+Cože? Konzole?
 Kámo...
 // Funicular goodbye
-Ahoj.
+Měj se.
