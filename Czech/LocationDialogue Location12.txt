@@ -44,15 +44,15 @@ Vezme mě s sebou. Budeme si hrát.
 
 // Quest 4 (Why do you need a teddy bear?)
 Ty jsi medvídek,
-jsi ztracený,
-jako můj medvídek.
+Jsi ztracený,
+Jako můj medvídek.
 
 // Quest 5 (Why is Mita angry?)
 Moje...
 Mita.
 Chce si hrát.
 Chce vzít
-jenom mě.
+Jenom mě.
 Jsme originální,
 Jsme jediní.
 Mita a moje Mita,

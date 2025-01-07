@@ -1,72 +1,72 @@
 
-Mila! Ne! Jsi blázen!
+Milo! Ne! Ty jsi šílená!
 
-Ha-ha! CO JE TOHLE?
-To je nějaký nový výraz?
+Ha ha! CO TO VIDÍM?
+Máš na tváři nový výraz?
 No tak, ukaž mi další!
 Dívat se na ten samý obličej je nuda!
 
 // Mita arena "Hello"
 Jak to jde, můj neposedný poutníčku?
 Pořád ještě běháš? Ještě nemáš dost?
-
+// Player
 Co jsi Mile udělala?
-
+// Mita
 Aha, takže ještě nejsi unavený!
-Perfektní! Zahrajeme si další hru!
-
+Výborně! Zahrajeme si další hru!
+// Player
 Ty...
-
-Začněme malým testem!
+// Mita
+Začneme malou zkouškou!
 Vyzkoušíme tvojí koordinaci!
-Nyní tvojí schopnost jednat!
-Co když je s tebou něco v nepořádku!?
-Co když si tu kůži ani nezasloužíš?
+Otestujeme tvé chovaní!
+Co když s tebou něco není v pořádku?
+Co když si ani nezasloužíš tu KŮŽI
 kterou tak hrdě nosíš!?
 
 // Show knifes
-Podívejte se...
-Který tě zaujal?
+Podívej se...
+Který ti padnul do oka?
 Ten pravý?
 Nebo
-levý?
+Levý?
 
 // Throw knifes
 Vážně?
 Záleží na tom vůbec?
-Jen jsem si z tebe dělal legraci!
-Pobodání je stejně stará novinka.
-To je fuk!
-Mám v plánu mnohem lepší hry,
-jako...
+Jen si z tebe utahuju!
+Pobodání nejsou žádná novinka.
+Ale nevadí.
+Mám mnohem zajímavější nápady,
+Jako třeba...
 // Show recorder
-Podívej se na to!
-Potřebujeme nějakou hudbu!
-Co si myslíš o této melodii?
+Podívej, com mám!
+Potřebujeme nějakou muziku!
+Jak se ti líbí tahle melodie?
 Rozproudila mi krev v žilách!
 Začnu
-s pravidly!
+S pravidly!
 // Show rules
-Zatímco hraje melodie,
-se můžeš pohybovat.
-Když však hudba přestane hrát,
+Když melodie hraje,
+Můžeš se hýbat.
+Když melodie přestane,
 NEHÝBEJ SE!
-Jinak jsi mrtví. Chápeš?
-Je to jednoduché: dostaň se na konec
-než píseň skončí.
-Začínáme!
-Pořád tu stojíš, co?
+Jinak zemřeš, chápeš?
+Je to jednoduché: dostaň se až na konec
+Než píseň skončí.
+Jdme na to!
+Na co čekáš?
 Utíkej, zlato, utíkej!
 
-// Ready recorder
-Oh!
-Podívejte se na sebe! Tak poslušný!
-Dokonalý malý exemplář.
-Chci tě pro sebe!
-To bylo příliš snadné, že?
-
-Nechte mě jít!
-
+// Ready recorder - Mita
+Aha!
+Podívej se na sebe! Tak poslušný!
+Úžasný exemplář.
+Chci tě mít pro sebe!
+To bylo moc jednoduché, že jo?
+// Player
+Nech mě jít!
+// Mita
 Nezvykej si tu!
 Máme před sebou ještě spoustu her!
 Tady je další:
@@ -76,17 +76,17 @@ ať už jsi pryč!
 Rozumíš?
 Jestli tě uvidím, potrestám tě!
 Dobře! Začneme!
-
+// Player
 Tohle je zbytečné...
 
-// Ready hide
+// Ready hide - Mita
 Dokázal jsi to!
-Vedeš si skvěle - začíná to být vzrušující!
-Ale teď to bude ještě těžší.
-Hodně těžké.
+Vedeš si skvěle! Začíná to být vzrušující!
+Teď to ale bude těžší.
+Mhonem, mnohem těžší.
 Schovej se, utíkej, otáčej se...
+// Player
+Jdi k čertu!
 
-Gah, jdi do háje!
-
-// Player falls
-Myslím, že jsem utekl...
+// Player falls - Player
+Myslím, že je po všem...
