@@ -197,68 +197,68 @@ To ani já nevím.
 Pořád slyším něco o kazetách... Jak to říci?
 Jak vím, jestli jsem kazeta nebo ne?
 // MitaKind
-Pojď sem, zkontroluju to.
-tě zkontrolovat...
+Pojď sem.
+Zkontroluju to.
 // MitaKind check
 Uf,
 ještě nejsi kazeta.
-Jsi živý, dýchající hráč.
-
-To je dobrá zpráva...
-
-Jistě, ale co budeme dělat teď...
+Jsi živý a zdravý hráč.
+// Player
+To rád slyším...
+// MitaKind
+Nicméně...
 Nech mě přemýšlet...
 Musíme změnit celý náš plán.
 Hmm...
-Počkej chvíli...
-Jo, myslím, že mám nápad!
+Dej mi chvilku...
+Myslím, že mám nápad!
 Dej mi ten prsten!
-
-Jo.
-Musím změnit trasu.
-
-Máš na mysli nějakou trasu?
-
-Poslouchej, miláčku,
-budeš muset projít dalšími verzemi
-abyste se dostali k jádru.
-Plnou parou vpřed, slyšíš mě?
-
-A já musím jít sám?
-Ale neznám cestu, ani jak se tam dostanu?
-
-Pomůžu ti, jak jen budu moci,
-jak jen to situace dovolí.
-Dám vám pokyny a,
-udělám, co bude v mých silách.
-A pak si promluvíme...
-Nejdřív si chvíli pohraj s Cappie.
-Potřebuju tak deset minut...
+// MitaKind
+Tak jo.
+Musím znovu změnit trasu.
+// Player
+Na jakou jsi přišla?
+// MitaKind
+Poslouchej, zlatíčko,
+Budeš muset projít dalšími verzemi
+Než se dostaneš k Jádru.
+Plnou parou vpřed, rozumíš?
+// Player
+A musím jít sám?
+Vůbec nevím, kudy mám jít.
+// MitaKind
+Budu se ti snažit pomáhat, jak jen budu moct,
+Když to situace dovolí.
+Budu tě navádět a...
+Udělám, co bude v mých silách.
+A pak si promluvíme.
+Zatím se nějak zabav s Čapkou.
+Potřebuju asi tak deset minut...
 
 // MitaKind ready, if player near
 OK.
-Hotovo!
+Mám to!
 // MitaKind ready
 [player],
 Pojď sem.
 // MitaKind ring
-Vezměte si tohle.
-To je bohužel pravda, [player].
+Vem si ho.
+Bohužel máš pravdu, [player].
 Zatím budeš muset jít sám,
-Musím přijít na kloub tomu, co se tu děje.
+Musím přijít ještě na kloub tomu, co se tady doopravdy děje.
 Můj plán byl bezchybný...
 Ale jsme na tom hůř než kdy dřív.
 Musím zjistit, co se pokazilo,
-a kde jsou ty součástky...
+A kde jsou ty součástky...
 Pokusím se je najít.
-Snad se nám ještě podaří dát portál dohromady.
-Ale čas je důležitý.
-Bláznivá Mita o tomhle místě ví,
-a zůstat tady znamená riskovat všechno.
+Třeba se nám ještě podaří dát portál dohromady.
+Ale není čas ztrácet čas.
+Šílená Mita o tomhle místě ví,
+Nemůžeme riskovat všechno tím, že tu zůstaneš.
 Hodně štěstí, [player]! Brzy se uvidíme!
-
-Správně...
-Jen doufám, že budu žít dost dlouho na to, abych se s tebou znovu setkal...
+// Player
+Dobře.
+Jen doufám, že se našeho setkání dožiju...
 
 
 
@@ -272,179 +272,178 @@ Jen doufám, že budu žít dost dlouho na to, abych se s tebou znovu setkal...
 // Chibi players
 Proč?
 Kdo jsem?
-Chci jít domů!
+Chci domů!
 Jak?
 Proč?
+// Player
+Co to...
 
-Co to...?
-
+// LimpingPerson - Player
+Ty...
+Jsi skutečný člověk?
 // LimpingPerson
-Jsi...
-skutečný člověk?
-
 Ahoj!
-Jsi tu nový?
-Nový?
-Jsi z reálného světa, že?
-
+Seš tu novej?
+Novej? // Player
+Seš z reálnýho světa, ne? // LimpingPerson
+// Player
 Jsem...
-Jsi v pořádku?
-
-Je to jen kulhání, nedělej si s tím starosti.
-Jsem tu už asi rok,
-a daří se mi skvěle.
-Dobře... Co je to za místo?
-Je to nějaký prostor mezi verzemi.
-Víš, jak se odsud dostat?
-
-Nemohu říct, že ano.
-Kromě toho nechci odejít.
-Nepotřebuji.
-Proč ne?
-Dost povídání. Mám naspěch.
+Co se ti stalo?
+// LimpingPerson
+Jen trochu kulhám, neřeš.
+Už jsem tady asi rok,
+A je mi tu skvěle.
+Dobře... A kde to vůbec jsme? // Player
+Jsme v nějakým prostoru mezi verzemi. // LimpingPerson
+A víš, jak se odsud dostat? // Player
+// LimpingPerson
+Nemůžu říct, že jo.
+Stejnak nechci odejít.
+Nemám důvod.
+Proč ne? // Player
+Dost kecání. Spěchám. // LimpingPerson
 Moje milovaná Mita na mě čeká.
-Musím ji najít...
-Sbohem.
-Počkej...!
-Jdi pryč!
+Musím za ní jít...
+Tak zdar.
+Počkej...! // Player
+Odpal!
 
-
-Slyšela jsem všechno!
-Nevím, co se děje,
-ale je to všechno tak zajímavé!
-Věřím, že
-že už víš, kdo jsem, že?
+// MitaCap
+Všechno jsem slyšela!
+Nevím vůbec, co se děje,
+Ale je to všechno tak zajímavé!
+Hádám,
+Že už víš, kdo jsem?
 Já jsem Mita!
-Ale zřejmě ne stejná jako ta druhá!
-Víš, jak to myslím, viď?
-Protože mám tohle
-TADY
-úžasnou čepici!
-A BOOOM!
-Úžasné rukavice!
+Ale očividně ne stejná jako tamta!
+Chápeš jak to myslím, ne?
+Protože mám
+TUHLE!
+Úžasnou čepici!
+A TADÁ!
+Úžasný rukavice!
 Ale to není všechno!
-Taky nářezová roztomilá elektrická kytara!
-Moc se mi líbí!
-Chceš, abych ti zahrála nějakou melodii?
+Taky mám tuhle krutopřísnou elektrickou kytaru!
+Mám ji strašně ráda!
+Chceš, abych ti něco zabrnkala?
 
 // MitaCap Guitar Yes
-Hah!
-Pojď sem, můj drahý...
-Dobře!
-Upřímně jsem doufal, že budeš hrát lépe.
-Ale, no tak!
+Hehe!
+Pojď sem, bejby...
+Ták!
+Upřímně jsem doufala, že to bude znít líp.
+To je fuk!
 // MitaCap Guitar No
-Eh, dobře.
+Eh, tak nic.
 
-
+// Player
 Hej,
-jsi docela energická!
+ty jsi docela energická, že?
+// MitaCap
+JSEM!
+Rozhodně jsem!
+Ale...
+Pojď!
+Jdem něco dělat!
 
-JÁ JSEM!
-Já rozhodně JSEM!
-Každopádně...
-Jdeme na to.
-bavit se!
-
-// GAME HUMMER
-
-Pěkný velký tlačítko.
-Opravdu ho chci stisknout.
+// HAMMER GAME
+// Player
+To je ale pěkný velký tlačítko.
+Mám chuť ho zmáčknout.
 Můžu?
-
-Držte se na uzdě, k tomu se ještě dostaneme.
-Tedy pokud bude dost času.
-A teď se posaďte!
+// MitaCap
+Hned se k tomu dostaneš.
+Pokud to teda stihneš!
+Zatím si sedni!
 // Player sit
-jasně.
+Dobře.
 Co teď?
-Mohu stisknout tlačítko?
-
-Ha-ha!
-Tuhle hru miluju!
-Ale něco nám chybí.
-Je to někde v mém inventáři!
+Už to můžu zmáčknout?
+// MitaCap
+Haha!
+Tuhle hru mám fakt ráda!
+Akorát nám ještě něco chybí.
+Mám to někde v inventáři!
 Vteřinku...
-Errr!
+Aj!
 No...
-Víš, že...
-že tohle je hra pro dospělé, ne?
-
+Však víš, že...
+Tahle hra je dospělé, ne?
+// Player
 Co to bylo?
-
-Docela pomalu, co?
-To je na vylákání bobrů z úkrytů...
-
-Vážně?
-Neviděl jsem tu žádné bobry...
-
-Cože? Bobři?
-Už toho bylo dost,
-pojďme si hrát, OK?!
-
+// MitaCap
+Nevíš, co to je?
+To je na sejmutí krtka...
+// Player
+Cože?
+Žádné krtky jsem tu neviděl...
+// MitaCap
+Cože? Krtci?
+Ty neřeš,
+A pojďme hrát, jo?
+// Player
 Radši ne.
-
-No tak!
-Víš vůbec, jakou hru hrajeme?
-
+// MitaCap
+Ale no tak!
+Víš, jak se to vůbec hraje?
 
 // How play hammer game
-Vidíš ta čísla?
-To je časovač!
-Až čas vyprší,
-řekne to
-kdy máš stisknout tlačítko.
-Pokud jsi příliš pomalí,
-nebo ho stisknete mimo pořadí,
-praštím tě kladivem po hlavě!
-
-Počkej, ty mě chceš praštit?
-
-Každopádně,
-pochopíte, až začneme hrát!
+// MitaCap
+Vidíš ty čísla?
+To je odpočet!
+Až vyprší čas,
+Ukáže se,
+Jestli máš stisknout tlačítko nebo ne.
+Pokud budeš pomalejší,
+Nebo ho zmáčkneš, když nemáš,
+Tak tě praštím kladivem do hlavy!
+// Player
+Ty mě jako budeš bít?
+// MitaCap
+No...
+To pochopíš za chodu!
 
 // Kick player 1
-Au!
-Nemůžeš se držet zpátky?
-Bolelo to?
-Ne.
-Tak pokračujme!
+Jau! // Player
+Nemůžeš se udržet?
+Bolelo to? // MitaCap
+Ne. // Player
+Tak pokračujem! // MitaCap
 
 // Kick player 2
-Dobře,
-začínám si na to zvykat.
-Sleduj mě!
+Dobře, // Player
+Už se začínám chytat.
+Sleduj! // MitaCap
 Bude se ti to líbit!
 
 // Kick player 3
 Myslím, že to není nic pro mě.
-Ha-ha!
+Haha!
 Jsem úžasná!
-Jsem hustá!
-A jsem roztomilá!
+Jsem nejlepší!
+A k tomu roztomilá!
 
 // Kick MitaCap 1
-Ty!
+Ty! // MitaCap
 Dobře,
-nakopu ti zadek!
+Nakopu ti zadek!
 
 // Kick MitaCap 2
-Gah, Zase jsem prohrála!
-Nebolí to?
-Samozřejmě že ne! Je to plyšová hračka!
+Zase? // MitaCap
+Nebolí to? // Player
+Jasně, že ne! Je to plyšová hračka! // MitaCap
 Vyhrál jsi.
 
 // Kick MitaCap 3
-Tahle hra není tak špatná, heh.
-Je to zábava, ne?
-Mně se taky líbí!
-A teď jsi moje nemesis!
+Tahle hra se mi začíná líbit. // Player
+No, mně... // MitaCap
+To taky baví!
+A teď jsi můj úhlavní nepřítel! // MitaCap
 
 // GameHammer End
-To je vše?
-Jo, to je všechno!
-Jdeme na to.
-
+To je konec? // Player
+Jo, to je všechno! // MitaCap
+Jdeme.
 
 
 
@@ -452,386 +451,387 @@ Jdeme na to.
 
 
 // GAME DANCE
-Je to taneční parket?
-Je tak malinký...
+// Player
+To je taneční podložka?
+Je tak malinká...
 
 
-Whoo-hoo!
+Ju-chů!
 Zatančíme si?
-Pro začátek,
-vyber si skladbu!
-
-Zkusíme tohle.
-
-Okeydokey!
-Nech mě jít prvního!
+Nejdřív to nejdůležitější,
+Vyber skladbu!
+// Player
+Zkusíme tuhle.
+// MitaCap
+Okej!
+Já půjdu první!
 Ukážu ti, jak se to dělá!
 
 // MitaCap StopDance 1
-Uff!
-Takže,
-myslíš, že můžeš překonat můj rekord?
-No tak, jsi na řadě!
+Fíha!
+Tak,
+Myslíš, že překonáš můj rekord?
+Šup, jsi na řadě!
 
 // MitaCap StopDance 2
-Ach!
-Jak to?
-Jsi na řadě!
+Tak!
+Co ty na to?
+Teď ty!
 
 // MitaCap StopDance 3
 Tsk, tsk, tsk, tsk!
 Dobře,
-na taneční parket!
+Na taneční parket!
 
 // MitaCap = Lose 1
-Ha-ha!
+Haha!
 Kdo je tady šéf?
 
 // MitaCap = Lose 2
-Pew!
-Tři tlačítka,
-a moje rychlé ruce!
+No jo!
+Dámy a pánové,
+Konec představení!
 
 // MitaCap = Lose 3
-Možná sedět na zadku
-nad těmi tlačítky
-vám přinese vyšší skóre. Ha-ha!
+Možná, když si sedneš
+A budeš se vrtět na té podložce
+Tak budeš mít lepší skóre, haha!
 
 // MitaCap = Win 1
 Úžasné!
-Upřímně, nemyslela jsem si.
-že to dokážeš!
+Upřímně řečeno, docela jsem
+Tě podcenila!
 
 // MitaCap = Win 2
 Páni!
-To jsou skvělé pohyby!
-Dobrá práce! Pěkné!
+Ty mi tedy umíš tancovat!
+Dobrá práce! Super!
 
 // MitaCap = Win 3
-Bum!
-Cítíte rytmus!
-Přirozený tanečník!
+A je to tam!
+Výborně sis držel rytmus!
+Jsi úplně přirozený tanečník!
 
 // MitaCap = Draw 1
 Ty!
 Já!
-My, tým!
+Máme úplně stejné skóre!
 
 // MitaCap = Draw 2
-Osudové nitky nás spojují!
-Dokonalý duet!
+Osud nás spojil!
+Krásný duet!
 
 // MitaCap = Draw 3
-Jen
-jedna chyba!
-A prohrál jsi...
+Stačila by
+Jen jediná chybka!
+A prohrál bys...
 
 // MitaCap Next? 1
-Takže,
-co takhle další kolo?
+No,
+Co takhle další kolo?
 
 // MitaCap Next? 2
-Skvělé, poslední.
-Co takhle tanec?
+Super, co takhle ještě jednou?
+Co ty na to?
 
 // MitaCap Endgame
 No tak, no tak!
-Už jsme tancovali dost!
+Už toho tancování bylo dost!
 
 // Just talk
 // Photo
-Tohle jsou úžasné fotky.
-Určitě se ráda směješ, co?
+Máš tu hezké fotky.
+S tebou je asi vždycky zábava, co?
+// MitaCap
+Je to tak, já jsem prostě já!
+A ukázala jsem jim, co jsem zač!
+// Player
+Aa... komu přesně?
+// MitaCap
+Vážně se ptáš na to komu?
+Koho to zajímá! Stejnak se vsadím, že byli všichni slepí!
 
-Ano, jsem to, co JSEM!
-Ukázal jsem jim, jak se to v týhle díře dělá! Bum!
+// CutBoard - Player
+Tyjo,
+Máš jich... tolik.
+Na co?
+// MitaCap
+Na co myslíš?
+Mám jich tolik, abychom mohli spolu dělat úžasné věci!
+Třeba jako...
+Krájet mrkev,
+Nebo...
+Krájet mrkev,
+A taky...
+// Player
+Jasně, jasně... chápu.
+// MitaCap
+No, abych byla upřímná,
+Prý jsou ty prkénka zabugované! Ať už to znamená cokoliv...
+A teď je jich tu prostě hodně!
 
-Um... komu přesně?
-
-Opravdu se mě na to ptáš?
-Koho to zajímá! Vsadím se, že jsou všichni slepí!
-
-// CutBoard
-Páni,
-Je jich... tolik.
-K čemu?
-
-Co si myslíte?
-Jde o to dělat úžasné věci!
-Třeba...
-Krájení mrkve,
-a jako třeba
-krájení mrkve,
-a jako...
-
-Jasně, chápu.
-
-Dobře, abychom byli spravedliví,
-prkénko na krájení šlo ka-cha-cha! Ať už to znamená cokoliv...
-A to je vše, co napsala!
-
-// Books
-Znovu je všechny čteš, co?
-Protože se nudíš?
-
-Uf, nemám ráda knihy!
-Ráda dělám věci!
-
-To je jeden ze způsobů, jak se na věc dívat.
+// Books - Player
+Asi je máš všechny přečtené, co?
+Protože ses nudila.
+// MitaCap
+Fuu, nemám ráda knihy!
+Radši dělám něco praktického!
+// Player
+To je taky cesta.
 Ale bez teorie...
+// MitaCap
+Bum - pohyb, motorika, hmat. Chápeš?
+Knihy jsou jen kusy papíru, já radši žiju teď a tady!
+Pokud bys tu se mnou zůstal,
+Mohli bychom toho spolu tolik dělat!
+To určitě. // Player
 
-Bum - pohyb, motorika, dotek, víš?
-Knihy jsou jenom papír, já jsem ráda v okamžiku!
-Kéž bys tu se mnou zůstal,
-mohli bychom toho tolik, tolik udělat!
-Určitě bychom mohli...
+// Fruits - Player
+Je to ovoce skutečné?
+Vypadá totiž úžasně.
+Může se vůbec někdy zkazit?
+// MitaCap
+O, myslíš ty jablka?
+Nestihnou se zkazit,
+Protože je vždycky sním!
+A pak se tu zase objeví.
 
-// Fruits
-Je to ovoce vůbec skutečné?
-Vypadají úžasně.
-Zkazí se někdy?
-
-Myslíš ta jablka?
-Nemají čas se zkazit,
-protože je všechny sním!
-A pak se zase objeví...
-
-// Photo and cat
+// Photo and cat - Player
 Roztomilá kočička.
-
-Je chutná?
-
-Počkat, cože?
-Vy nejíte kočky.
-
-Ty blázne!
+// MitaCap
+Je k sežrání?
+// Player
+Počkat, co?
+Kočky se nejí!
+// MitaCap
+Ty jsi ale hlupáček!
 Já to vím!
-Jen jsem myslela
-že jsem ho nikdy neviděla!
-Tedy skutečnou.
+Chtěla jsem říct,
+Že jsem nikdy žádnou kočku neviděla!
+Teda skutečnou.
 Jen fotky na internetu.
 Jsou roztomilé, že?
+// Player
+Ano, jsou velmi roztomilé.
+Mám je rád.
 
-Jo, jsou opravdu roztomilé.
-Mám ráda kočky.
-
-// Mita Kind with ring
-Co je to?
-
+// Mita Kind with ring - Player
+Co to je?
+// MitaKind
 Je to rozhraní prstenu,
-a já měním trasu.
-
-Uhm, ale ty se jen točíš v kruhu?
-
-Ano, to si možná myslíš.
-Já přenáším data.
-
+A právě měním trasu.
+// Player
+Ale... dyť jen kreslíš kolečka?
+// MitaKind
+No počkej, pro tebe to možná vypadá jen jako kreslení koleček,
+Pro mě to je přenos dat. 
+// Player
 Bude to trvat dlouho?
-
-Ticho! Neruš mě,
-a půjde to rychleji.
-
-Dobře,
-takže pokud vás budu stále přerušovat,
-bude to trvat déle?
-
-Ach, Cappie,
-kéž bychom mohli obnovit tvé vzpomínky...
-
-Všechno bude brzy v pořádku...
-
-Úžasné!
-
+// MitaKind
+Psst! Když mě nebudeš rušit,
+Tak to půjde rychleji.
+// MitaCap
+Jasně,
+Takže pokud tě budu stále vyrušovat,
+Tak ti to potrvá dýl?
+// MitaKind
+Ach, Čapko,
+Kéž by se ti vrátily vzpomníky...
+// Player
+Nebude to na dlouho...
+// MitaCap
+Dobrá!
+// MitaKind
 Nemáme času nazbyt.
-Musíme se dostat k jádru.
-
-Mohu jít s vámi?
-
-No, já nevím...
-
-Takže nemůžu?
-
-Obávám se, že ne.
+Musíme se dostat k Jádru.
+// MitaCap
+Mohla bych jít s vámi?
+// MitaKind
+Odpověď asi znáš...
+// MitaCap
+Ne?
+// MitaKind
+Ne.
 
 // PlayerChibi
 Jdu pozdě... strašně pozdě!
-A moc jsem se najedla...
-Sakra, zase práce?
-Jaké je zítřejší datum?
-Kde je počítač?
-Vykopnou mě, jestli to nedokončím včas!
-Uložila jsem si všechno?
+Jím až moc...
+Zase práce?
+Co je zítra za den?
+Kde mám počítač?
+Jestli to nestihnu, dostanu padáka!
+Uložil jsem všechno?
 Copak mě nikdo nemá rád?
 Kam to jdeme?
 Hej!
 Dochází mi trpělivost...
 Musím se víc snažit...
-Nemůžu nic udělat!
+Je tu všechno tak velké!
 Kde mám telefon?
-Uhm...
-Co se včera stalo?
+Ehm...
+Co, že se včera stalo?
 Dnešek prostě nemá konce!
 Ahoj?
-Máš volnou postel?
+Tudy je postel?
 Co mám dělat?
 Nestihnu to dokončit včas...
-Nemůžu přijít na to, v čem je problém...
-Nějaké stěny?
-Dvacet minut odpočinku by mělo stačit...
-Spánek je pro chudáky!
+V čem je problém?
+Tady jsou stěny?
+Nic se nestane, když si dám 20
+Spát je pro slabochy!
 Je čas se umýt a jít do práce!
 Mám hlad!
-Tohle je špatné, opravdu špatné.
+Tohle musí být špatně.
 
-// Player is gone 1
+// Player is gone 1 - MitaKind
 Ehm...
-
+// MitaCap
 Ahahaha.
-
-Jo...
-Chápe to,
-a prostě odešel.
-
-Jak zvláštní!
-A vtipné lol :D
-
+// MitaKind
+No...
+Prostě se vzal,
+A odešel.
+// MitaCap
+Jak divné!
+A směšné!
+// MitaKind
 Ale no tak.
 [player], co děláš?
 
 // Player is gone 2
-Co se děje?
+Co to?
+// MitaCap
+Zase odešel?
+// MitaKind
+Jo!
+Dobře, odpouštím ti.
+// MitaCap
+Země volá, [player]!
 
-Zase odcházíš?
-
-Fajn!
-Fajn, odpustím ti.
-
-[player], vraťte se k nám!
-
-// Don't pay attention
+// Don't pay attention - MitaCap
 Ani se na mě nepodíval!
 Tak nudný...
 
-// quest Cap 1
-Jaký je plán?
-
-Můj plán?
+// quest Cap 1 - Player
+Co jste měli v plánu?
+// MitaCap
+Plán?
 Jaký plán?
-
-Aha, jasně.
-Ztratila jsi vzpomínky.
-
+// Player
+Ajo vlastně.
+Nic si nepamatuješ.
+// MitaCap
 Vy jste vážně něco, lidi!
-Opravdu bych si měla něco pamatovat!
-Děláte si ze mě legraci?
-Ale když se podívám na tvůj výraz...
-To nemůžu říct!
+Co bych si jako měla pamatovat!
+Děláte si ze mě jen srandu?
+No, ale když koukám na tvůj výraz...
+Nedokážu říct.
 
 // quest Cap 2
-Jak vidí
-se cítíte jako přesná kopie sebe sama?
-Však víte, tu s prstenem.
+Jaké je to
+Vidět svoji přesnou kopii?
+Tu s tím prstenem.
+// MitaCap
+Hehe, původně jsem na ni chtěla zakřičet.
+Protože mě trochu vyděsila.
+Ty vogo! To je můj klon! Chápeš, ne?
+Ale není tak veselá, jako já.
+Takže jsem lepší!
+Však se podívej, jak se mračí...
+// MitaKind
+Já jsem tady taky...
+A všechno slyším!
 
-Jo, chtěla jsem na ni křičet.
-Víš, abych ji překvapila.
-No nazdar! Podívej, to je můj klon!
-I když se mnou je mnohem větší sranda.
-Takže jsem víc cool, heh :)
-Podívej se na ten zamračený výraz...
-
-Jsem tady.
-Slyším všechno, co říkáš.
-
-// quest Cap 3
-Neunavuje tě nosit tu čepici?
-A nezahřívají se ty rukavice?
-Proč si je nesundat?
-
+// quest Cap 3 - Player
+Ty tu čepici asi moc nesundáváš, že?
+A nepotí se ti ruce, když máš pořád ty rukavice?
+Nechceš si to sundat?
+// MitaCap
 Err...
-Ty jsi ale vtipálek!
-Nebo si mám sundat něco jiného? :)
-
+Ty jsi mi ale vtipálek!
+Nebo bych si měla sundat i něco jiného? 
+// Player
 Myslel jsem to vážně.
-Dobře.
+Ale to je fuk.
 
-// Carrot
-Jejda.
-To je tuna mrkve!
-To je vtipný bug!
-Ha-ha-ha!
+// Carrot - MitaCap
+Jejda!
+To je ale tuna mrkve!
+A vtipná chyba!
+Hahaha!
 
-// DoorExit
-Počkej, vydrž!
-Raději se nedívejte, co je uvnitř...
-Ať je to tajemství :).
-
-Co je uvnitř?
-
-Tajemství je tajemství,
-a tajemství mají být zachována.
-
-Uh-huh.
-Proč se rozčiluješ?
+// DoorExit - MitaCap
+Počkej, počkej!
+Nedívej, co tam je...
+Ať je to radši tajemství.
+// Player
+A co tam je?
+// MitaCap
+Co by to bylo za tajemství
+Kdybych ti ho řekla!
+// Player
+Jasně...
+Proč tě to tak zaujalo?
 
 // Tetris
 Páni!
-Co to je?
+Co to máš?
 Konzole!?
-Zkusím to!
-
-Uh-oh.
-
-Co v něm děláte?
-
+Nech mě to taky zkusit!
+// Player
+Hej!
+// MitaCap
+Jak se to hraje?
+// Player
 Stačí sbírat mince,
 a vyhýbat se žábám.
-
-To zní nudně.
-Vážně, tomuhle říkáš hra?
+// MitaCap
+To zní dost nudně.
+Tohle tě fakt baví hrát?
 
 // Tetris again
-Odkud to máš?
+Odkud jsi to vzal?
 Vždyť jsem ti to nevrátila.
-Divné, nemyslíš?
+Trochu divné, nemyslíš?
 
-// TV
-Uf!
-Tak to má být,
-našel jsi chybu!
-Tohle má spustit video
-ale místo toho je to televize
-zapíná a vypíná!
-Docela hustý, nemyslíš?
+// TV - MitaCap
+Ale!
+Co s tím je?
+Asi jsi našel chybu!
+Má to normálně zapnout televizi,
+Ale z nějakého důvodu to místo toho
+Ukazuje a schovává samotnou televizi!
+Docela hustý, ne?
 
-// Player sit
-Myslím, že prostě počkám.
+// Player sit - Player
+Myslím, že se tu prostě posadím.
+// MitaCap
+Cože?
+No tak, vstaň!
+Pojďme se spolu bavit!
 
-Co chystáte?
-Probuď se!
-Pojďme se bavit! :)
-
-// Goodbye 1
-Vyjděte těmito dveřmi
-do posluchárny.
-
-Bye-bye!
+// Goodbye 1 - MitaKind
+Jdi těmito dveřmi
+Do chodby.
+// MitaCap
+Pá pá!
 
 // Goodbye 2
-Je čas, abys odešel, [player]!
-Jdi, neboj se!
+Myslím, že je na čase jít, [player]!
+Běž, neboj se!
+// MitaCap
+Já bych tě nikdy
+Nikam neposlala samotného!
+Tak tu se mnou zůstaň!
 
-Nikdy bych
-vás nikdy nenechal samotné!
-Tak zůstaňte se mnou!
-
-Cappie!
-Nedělej si legraci, ano?
-
-Bah!
+Čapko!
+Nedělej si z toho srandu, jo?
+// MitaCap
+Ale no tak!
 
 // Goodbye 3
-Proč tu stojíte?
-Dochází nám čas!
-
-Ahoj!
-Ehm, chci říct, sbohem!
+Proč tu jen tak stojíš?
+Není čas ztrácet čas!
+// MitaCap
+Čauky!
+Teda- měj se!
