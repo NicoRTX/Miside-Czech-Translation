@@ -16,11 +16,11 @@ Pomohl bys mi uklidit?
 Tyjo...
 Mockrát děkuji!
 
-[Player], kručí mi v žaludku...
+[Player], kručí mi v bříšku...
 Mám velký hlad...
 Myslíš, že bys mi mohl pomoct sehnat ingredience na kuřecí vývar?
 Jupí! Máme všechno!
-Co takhle ji uvařit společně?
+Co takhle ho uvařit společně?
 
 
 Ahoj, [player]! Přemýšlela jsem, že bych si koupila přenosnou televizku.
@@ -86,8 +86,8 @@ Být kancelářskou krysou nám opravdu navrtalo
 Korporátní etiketu do hlavy, co?
 Pořád mi trochu chybí
 Ale
-ani vlastně nevím
-jestli je ještě někdy uvidím.
+Ani vlastně nevím
+Jestli je ještě někdy uvidím.
 ...Počkat, proč tady tu fotku vůbec mám?
 
 

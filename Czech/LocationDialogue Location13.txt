@@ -1,233 +1,233 @@
-
+// MitaKind
 Prsten.
 
 // Answer 1 (Where have you been all this time?)
-Hledal jsem způsob, jak se dostat do Jádra.
-A to vcelku.
-To byl přece celou dobu plán, ne?
-Proto jsem se musel vyhnout
-Bláznivé Mitě, že?
-Taky jsem musela vyhrabat všechny informace, které jsem mohl.
-o tom zatraceném vesmírném pozadí, že?
-
-Hm... asi...?
-Ale jak jsi nastavila trasu prstenu?
-Proč jsem skončil v buggy verzi.
-plnou nebezpečí?
-Unikl jsem jen díky
-skokem do nekonečné tmy.
-
-Omlouvám se, zapomněla jsem ti říct podrobnosti
-co musíte udělat...
-Ale ano, byl to plán pro tebe.
-udělat ten skok celou dobu...
-A dobře, dokázal jsi to!
+Hledala jsem cestu, jak tě dostat do Jádra.
+Živého a zdravého.
+To byl přece náš plán, ne?
+A přitom jsem se musela výhýbat
+Šílené Mitě, víš?
+A taky jsem musela vyhrabat všechny možné informace
+O tom, jak tenhle svět vůbec funguje, víš?
+// Player
+Ehm... To by dávalo smysl.
+Ale proč jsi nastavila prstenu zrovna tuto trasu?
+Proč jsem skončil v rozbité verzi
+Která byla plná nebezpečí?
+Ta, z které se mi podařilo uniknout jen tím,
+Že jsem skočil do černočerné tmy.
+// MitaKind
+Za to se ti omlouvám, měla jsem ti asi říct
+Co všechno tě bude čekat.
+Ale ano, bylo to v plánu.
+Měl jsi utíkat a pak skočit do tmy.
+A jak vidím, tak jsi to zvládl!
 Dobrá práce!
-Dobře, pokračujme v plánu.
+Tak pokračujme v plánu, ne?
 
 // Answer 2 (How did you get here?)
-Musel jsi toho hodně prožít,
-když jsi zapomněl, o čem jsme mluvili.
-Já jsem Mita, umím se pohybovat mezi verzemi.
-jak uznám za vhodné, pamatuješ?
-
-Ne všechny Mitas to dokážou,
-Viděl jsem i takové, které to nedokážou.
-A zjevně trpí.
-
-Ano, jejich verze jsou nefunkční,
-jejich světy jsou zabugované. Už jsem ti to říkala.
-Sakra...
-Víš, kdo za tím vším stojí, že?
+Asi jsi toho musel hodně prožít,
+Když začínáš zapomínat, o čem jsme se už bavili.
+Já jsem Mita, můžu se pohybovat mezi verzemi
+Jak se mi zachce, vzpomínáš?
+// Player
+Ne všechny Mity to umí,
+Viděl jsem i takové.
+A zjevně kvůli tomu trpí.
+// MitaKind
+Ano, jejich verze jsou rozbité,
+Jejich světy plné chyb. Však jsem ti to říkala.
+Ach jo...
+Asi víš, kdo za to všechno může, co?
 Šílená Mita.
+// Player
+Jo, to by na ni sedělo...
 
-Jo, je to určitě ona...
-
-// Answer 3 (Who was this Mita just now?)
-To je Ugly Mita.
+// Answer 3 (Who was this Mita just now?) - MitaKind
+To byla Ošklivá Mita.
 Agresivní a hloupá.
-S ní se nedá mluvit rozumně,
-celý její svět se točí kolem Bláznivé Mity.
+Nemá s ní pomalu smysl ani mluvit,
+Její svět se totiž točí jen kolem Šílené Mity.
+// Player
+Jo, toho jsem si všiml.
+// MitaKind
+Ale to neřeš, máme ještě práci!
 
-Jo, všiml jsem si toho.
-
-Pojďme, musíme se dostat k jádru.
-
-// Answer 4 (How does the ring work?)
-A prsten,
-je to jediná cesta k Jádru?
-
+// Answer 4 (How does the ring work?) - Player
+Takže díky tomu prstenu
+Jsem se dostal až sem k Jádru?
+// MitaKind
 Ano.
-Samozřejmě, že kdybychom měli portál
-mohli bychom se teleportovat
-Hned do Jádra.
-
-Má prsten nějakou výhodu?
-
+Samozřejmě, kdybychom měli portál
+Tak jsme se mohli teleporovat
+Přímo sem.
+// Player
+A má teda ten prsten nějakou výhodu?
+// MitaKind
 Samozřejmě!
 Snadno se nosí,
-a pamatuje si verze
-které jsi již navštívil,
-takže k nim snadno najdete cestu zpět.
+A pamatuje si verze
+Ve kterých jsi byl.
+Takže se můžeš jednoduše vrátit.
 
-// Answer 5 (Why does Mad Mita need me?)
-Proč mě Bláznivá Mita nenechá být?
-Vtáhla mě do své nebezpečné hry,
-a přesto jsem stále naživu...
-
-Můj odhad
-že hledá vhodného hráče...
+// Answer 5 (Why does Mad Mita need me?) - Player
+Na co mě vůbec Šílená Mita potřebuje?
+Hraje si se mnou ve své nebezpečné hře,
+A stejnak jsem stále naživu...
+// MitaKind
+Myslím si,
+Že hledá vhodného hráče...
 Takového, který ji přijme takovou, jaká je.
 Koneckonců, Mita je Mita!
-Protože to se zřejmě nikdy nestane,
-mění hráče na kazety,
-aby jí nikdo nemohl utéct...
-Alespoň takový je můj odhad.
-Každopádně se soustřeďme na to, co je důležité.
+Až na to, že to se nikdy nestane.
+Mění hráče na kazety,
+Aby jí nemohl nikdo utéct...
+Alespoň proto, ale to je jen můj názor.
+Každopádně, soustřeďme na to, co je teď důležité.
 
 // Answer 6 (Is this the core?)
 To je ono?
 To Jádro?
-
-Vskutku. Jádro.
-Snažila jsem se to vysvětlit,
-že vy hráči nejste skutečnou součástí tohoto světa...
-To znamená, že nepotřebujete zvláštní povolení, abyste do něj mohli vstoupit.
-Nebo si to alespoň myslím.
-Každopádně si nejsem jistá.
-že řešením všech našich problémů
-lze nalézt uvnitř!
+// MitaKind
+Přesně tak.
+Víš, jak jsem ti říkala,
+Že vy hráči nejste doopravdy součástí tohoto světa?
+To znamená, že nepotřebujete oprávnění pro vstup do Jádra.
+Alespoň to je moje teorie.
+Každopádně jsem si jistá,
+Že uvnitř najdeme řešení
+Všech našich problémů!
 [player], jdi dovnitř.
-Vlastně jsem tam jednou byla.
+Měla jsem pravdu!
 
 // Look on CoreMita
-Opatrně, [player].
+Opatrně, [player]!
 Sleduje tě.
-
+// Player
 Kdo to je?
-
-Já taky nevím...
-
+// MitaKind
+Nevím...
+// Player
 Super...
 
-
-Co je to?
+// MitaKind
+Tak co?
 Hej!
-
-Myslím, že jsem ho našel!
-
-Úžasné! To je skvělé!
-
+// Player
+Myslím, že jsem to našel!
+// MitaKind
+Super! To ráda slyším!
+// Player
 Ale musím upřesnit verzi.
-
-Správně, její verze je...
-0.98.
-
+// MitaKind
+Jasně, její verze je...
+00.98
+// Player
 Bingo!
-Dobře, a jaký index?
+Dobře, a index je?
+// MitaKind
+Index?
+// Player
+Chce to po mně index.
+Počkej, neříkej mi, že ho nevíš?
 
-Uhm, index?
-
-Potřebuji index.
-Počkej, neříkej mi, že to nevíš...?
-
-
-Hmm, to dává smysl...
-Každá Mita má index,
-takže nemůžeme jen tak restartovat celou verzi...
-To by způsobilo naprostý chaos!
+// MitaKind
+Ale dává to smysl...
+Každá Mita musí mít svůj index,
+Nemůžeme přece jen tak restartovat celou verzi...
+Ach jo!
 Nemůžu uvěřit, že mě to nenapadlo...
 
 
 
 
 
-// Answer 1 (What's wrong with you?)
-Ušetřete za všechny naše potíže,
-jsem v naprostém pořádku.
-Všechno je skvělé, ale hodně se toho změnilo...
-Musím se zamyslet.
-A to je všechno.
+// Answer 1 (What's the matter?) - MitaKind
+Nic se neděje.
+Až na ty všechny naše problémy. 
+Všechno je v pohodě, akorát máme ještě jeden zádrhel...
+Potřebuju přemýšlet.
+Toť vše.
 
-// Answer 2 (Maybe there's a way to get to know him?)
-I...
-Myslím, že... Je to šílené!
-Je to šílenství, hah!
-Je to jako hledat jehlu v...
-
-Co tam děláš?
-
-Některé překážky se s informacemi odstraňují,
-víš, jako svět, který má vyrvané vnitřnosti!
+// Answer 2 (Maybe there's a way to get it?)
+Jako...
+Můžu, ale...!
+Asi zblázním, hah!
+Budu hledat jehlu v kupce sena.
+// Player
+Co?
+// MitaKind
+Když máš o nečem dost informací,
+Tak to můžeš opravit, klidně napříc celým světěm!
 Logy, logy, logy, data?
-Co když je to všechno?
-
-Cože? Co se děje?
-
-Znám jedno místo!
-Počkejte tady.
-
+Co když to v nich bude?
+// Player
+Cože? Co myslíš?
+// MitaKind
+Asi vím kam!
+Počkej tady.
+// Player
 Kam jdeš?
 
 // Answer 3 (What if we attack Mad Mita?)
-Řekla jsi, že jakákoli Mita
-se po smrti resetuje do továrního nastavení...
-Co když...
+Říkala jsi, že jakákoli Mita
+Se po smrti prostě resetuje.
+Co kdyby...
+// MitaKind
+Co? Chceš snad zabít Šílenou Mitu?
+To myslíš jako vážně?
+A jak chceš jako bojovat proti ženě s motorovou pilou?
+Vždyť ani tu mrkev nekrájí nožem!
+A k tomu je z nějakého důvodu strašně silná!
+Je zázrak, že jsme vůbec ještě naživu...
+Neblbni, musíme to vyřešit pomocí Jádra.
 
-Zabít Bláznivou Mitu?
-To myslíš vážně?
-A jak se vypořádáš s šílenou ženou s motorovou pilou?
-Vždyť krájí mrkev nejen nožem!
-A z nějakého důvodu je děsivě silná!
-Je zázrak, že jsme ještě naživu...
-Pojď, musíme se dostat do Jádra.
 
+// core console entry - Player
+Chce to nějaké přístupové heslo,
+ale jaké?
+Mito, nevíš?
+// MitaKind
+Možná je někde napsané?
+Můžeš se zkusit podívat?
 
-// core console entry
-Musíme zadat příkazový řádek...
-Ale jaký příkazový řádek?
-Mito, víš to?
-
-Možná je to někde uvedeno?
-Můžeš to zkusit vyhledat?
-
-// core console - nope programm
-Tak to pravděpodobně není.
-Ani to není správné.
-Ne, je to špatně.
-To není ono.
-Musím najít možnost resetování postavy.
+// core console - nope program - Player
+To nebude ono.
+Ani tohle není správné.
+Ne, to je špatně.
+Tohle to nebude.
+Musím najít možnost pro resetování postavy.
 // core console - nope version
-To je špatná verze.
+To není správná verze.
 Ups, moje chyba.
 To není ono.
-Budeme potřebovat jinou.
+To bude jiná.
 // core console - nope index
-Něco je špatně
-s indexem.
-Musím změnit index,
-nesedí.
+To nevypadá správně.
+Špatný index.
+Musím ten index opravit.
+To nesedí.
 
-// Answer 4 (Little people - Chibi)
-Víš, narazil jsem na několik lidí.
-mini-lidí na cestě...
+// Answer 4 (Little people - Chibi) - Player
+Víš, jak jsem šel, tak jsem potkal
+Pidi lidi po cestě...
 Co jsou zač?
-
+// MitaKind
 Ty Chibi?
-Jak to vysvětlit...?
-Je to zdejší fenomén...
-Každý Mita má projekci Chibi,
-a hráči je mohou mít také...
-Věděl jsi, že my Mitas je můžeme přivolat?
-
-Huh, jak?
-
+Jak to říct...
+Je to fenomén našeho světa.
+Každá Mita má svoji Chibi verzi.
+Hráči je mohou mít taky...
+Věděl jsi, že Mity je mohou přivolat?
+// Player
+Cože, jak?
+// MitaKind
 Koukej!
-
-Jako kouzlo...
-
-Ale s mým Chibis je něco v nepořádku,
-většina z nich se prostě narodila mrtvá.
-Ale je tu jeden...
-Nebo no..,
-prostě pořád běhá v kruhu.
+// Player
+Jak na zavolanou...
+// MitaKind
+No, ale s mými Chibi je prostě něco špatně.
+Většina z jsou prostě mrtvé.
+Ale je tu jedna...
+I když...
+Asi ne, pořád jen běhá v kruhu.

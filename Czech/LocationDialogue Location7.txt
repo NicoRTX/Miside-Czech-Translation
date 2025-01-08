@@ -133,7 +133,7 @@ Protože nosí tu cool čepici,
 Tak jí prostě říkám
 Čapka.
 Probírala jsem s ní náš plán
-jak zastavit Šílenou Mitu.
+Jak zastavit Šílenou Mitu.
 Seznam se, [player]!
 
 // MitaCap
@@ -144,7 +144,7 @@ Já jsem...
 // MitaKind
 Počkat!
 Ty...
-...si mě nepamatuješ?
+...Si mě nepamatuješ?
 // Mitacap
 Co?
 A ty jsi kdo?
@@ -368,7 +368,7 @@ Vteřinku...
 Aj!
 No...
 Však víš, že...
-Tahle hra je dospělé, ne?
+Tahle hra je pro dospělé, ne?
 // Player
 Co to bylo?
 // MitaCap
@@ -389,7 +389,7 @@ Víš, jak se to vůbec hraje?
 
 // How play hammer game
 // MitaCap
-Vidíš ty čísla?
+Vidíš to číslo?
 To je odpočet!
 Až vyprší čas,
 Ukáže se,
@@ -405,7 +405,7 @@ To pochopíš za chodu!
 
 // Kick player 1
 Jau! // Player
-Nemůžeš se udržet?
+Nemohla ses udržet?
 Bolelo to? // MitaCap
 Ne. // Player
 Tak pokračujem! // MitaCap
@@ -784,7 +784,7 @@ Hej!
 Jak se to hraje?
 // Player
 Stačí sbírat mince,
-a vyhýbat se žábám.
+A vyhýbat se žábám.
 // MitaCap
 To zní dost nudně.
 Tohle tě fakt baví hrát?

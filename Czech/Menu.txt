@@ -33,7 +33,7 @@ Textury
 Skript
 Obnovit
 Dopředu
-Dozadu
+Zpět
 Doleva
 Doprava
 Interakce
@@ -75,7 +75,7 @@ Zobrazovat nápovědy
 Hlas hráče
 Discord
 Přidán profil postavy
-Úhel kamery
+Zorné pole
 Hlas
 Vypnuto
 Natahovat ruku ke dveřím

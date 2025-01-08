@@ -106,7 +106,7 @@ Jsem z verze 1.5.
 Byl jsi v ní?
 // Player
 Ano byl.
-Když jsem se přišel poprvé,
+Když jsem sem přišel poprvé,
 Tak jsem skončil tam.
 // MitaShorthairs
 Páni!
@@ -119,7 +119,7 @@ Ach, mohla bych toho jmenovat spousty...
 Na co si vzpomínáš?
 // Player
 Byla tma.
-A různé nápisy
+A byly tam různé nápisy
 Jako...
 "Pojď si hrát."
 // MitaShorthairs
@@ -144,7 +144,7 @@ Ale pokud tě to zajímá
 Tak poslouchej
 Hráč si stáhne MiSide na svůj mobil.
 Spokojeně hraje a užívá si hru.
-Vytvoří si tak novým domov
+Vytvoří si tak nový domov
 A novou Mitu.
 Zde je nakreslená 2D reprezentace.
 Tohle jsou verze,
