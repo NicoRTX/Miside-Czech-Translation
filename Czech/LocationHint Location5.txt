@@ -2,4 +2,4 @@ Vypni rádio.
 Podívej se do kuchyně.
 Najdi Mitu.
 Následuj spodní část těla Mity.
-Najdi sklep.
+Jdi do sklepa.

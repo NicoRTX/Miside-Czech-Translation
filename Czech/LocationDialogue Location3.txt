@@ -6,7 +6,7 @@ Vím, že máš asi otázky...
 Takže se pokusím je zodpovědět.
 Vyrobila jsem toto speciální zařízení
 Abych tě dostala do hry za mnou.
-Ale bohužel jsi se ocitl v jiné verzi...
+Ale bohužel ses ocitl v jiné verzi...
 Ve které jsem...
 Ale to je dlouhý příběh!
 Každopádně jsem velice ráda, že tě konečně vidím!
@@ -79,7 +79,7 @@ Dokážeš vstát?
 Co to je?
 
 Prášky.
-Brzy se ti udělá lépe.
+Hned ti bude líp.
 Podívej se do zrcadla.
 
 A teď si vem ty prášky.
@@ -246,7 +246,7 @@ Přečetla jsi je všechny?
 
 Ano, všechny.
 Být tady sama
-Je opravdu, opravdu nudné.
+Je opravdu, opravdu nuda.
 
 // TV in room kitchen
 Proč tu máš další televizi?
@@ -269,7 +269,7 @@ Jak se sem dostal?
 No... to netuším.
 Hej, mám nápad!
 Uděláme si selfie!
-Řekni sýr!
+Podívej!
 To je ale povedená fotka!
 Budeš ji mít na památku.
 
@@ -408,9 +408,9 @@ Baví mě tě překvapovat.
 A jako bonus jsi nemusel čekat, až to dopřipravím!
 Hi-hi.
 
-// Glasses
+// Glasses - Player
 Nosíš brýle?
-
+// Mita
 Ne tak docela.
 Ale můžu, jestli chceš.
 Sluší mi?
@@ -424,12 +424,12 @@ Tak nic...
 // Use the sauce - Player
 Hele,
 Co je to vůbec za omáčku?
-
-Je to omáčka lásky!
+// Mita
+To je láskyplná omáčka!
 Je lásky úplně plná!
 A umí člověku dát úplně jiný pohled na svět.
 Zní zajímavě, nemyslíš?
-
+// Player
 Vskutku...
 
 // Tetris - Mita

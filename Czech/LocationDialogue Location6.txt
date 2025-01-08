@@ -1,23 +1,23 @@
-
+// Player
 Mito?
-
-Kde ses tady vzala?
-
+// MitaKind
+Kde ses tady vzal?
+// Player
 Ty jsi Mita, že?
 Ale jsi nějaká jiná..
-
+// MitaKind
 To máš pravdu...
 Ale teď poslouchej dobře.
 Nejsem ta Mita, kterou jsi potkal předtím.
 Dávej si na ni pozor...
 Něco si na tebe chystá.
-
+// Player
 Co si na mě chystá?
-
+// MitaKind
 Kruci!
 Jestli to vyjde, tak ti všechno řeknu.
 Najdi klíč vedle gauče.
-
+// Player
 Ale...
 
 Otázky si nech na později!
@@ -116,7 +116,7 @@ Setkáme se tam.
 
 // MitaKind quest 4
 Stále nerozumím tomu
-co jsem tam nahoře viděl...
+Co jsem tam nahoře viděl...
 Ta Mita...
 Chtěla mě zabít?
 

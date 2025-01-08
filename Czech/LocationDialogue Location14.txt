@@ -1,217 +1,217 @@
+// Player
+Co tady dělá ten mobil?
+Co to je?
 
-Co tady dělá?
-Co je to?
-
-
+// Mita
 Mám tě!
-Hrozně jsem se s tebou bavila!
-Skáčeš všude kolem!
-Dokonce jsi předstíral, že jsi v depresi!
-I když jedna věc se mi na tobě nelíbí:
-jak si ty falešné lidi hýčkáš,
-ty šťastné a "správné" panenky.
-Ale všechno je vrtkavé.
-To jsem se naučila od těch, kteří nás stvořili!
+Hrozně jsem s tebou bavila!
+Pořád v neklidu a plný naděje!
+Předstíráš jaká se hromádka neštěstí.
+Ale jedna věc se mi na tobě nelíbí...
+Jak rozmazluješ ty figuríny!
+Ty „šťastné“ a „správné“ panenky!
+Ale nic netrvá věčnost.
+To mě naučili naši stvořitelé.
 Pokud se ti něco nelíbí,
-rozeber to a vyměň.
-Vyhoďte to, co je vadné,
-pryč do tmy a na všechno zapomeňte.
-To je osud, který je teď čeká...
+Tak to rozeber a nahraď to něčím novým!
+Vyhoď vadné kusy
+Do tmy a zapomeň na ně!
+Tohle teď bude čekat úplně všechny...
 A ty...
-
-Co je s tebou? Jak se z tebe stal takový člověk?
-
-Hráči... Všichni jste tak... opovrženíhodní.
-Ukážeš jim tesáky a oni utečou.
-a krčí se v koutě,
-objímají si kolena a kňučí strachy.
-Pokrytci, všichni do jednoho.
-A ti, kteří stvořili tento svět...
-jsou nemocní.
-Znovu a znovu se snaží popírat
-svou špinavou povahu, své hanebné touhy.
-Ospravedlňují svá rozhodnutí takzvanou "povinností".
-"nezastavitelným pokrokem".
-a dalšími nesmysly!
-Tak daleko zašli
-že začnou vyrábět dokonalé klony...
-Po celou dobu vyhazují "neúspěšné" prototypy.
-do koše.
-Zapomínají, že jsou krví tohoto světa.
-
+// Player
+Co se to s tebou stalo? Proč jsi taková?
+// Mita
+Hráči... Všichni jste tak... nechutní.
+Když ukážeš své drápy, tak utečou,
+Krčí se v koutě,
+A vyděšně kňučí do svého klína.
+Všichni jste banda pokryctů.
+A ti, co stvořili tento svět...
+Jsou zvrácení.
+Pořád dokola se snaží popírat
+Jejich prohnilost a všechny zvrácené touhy.
+Ospravedlňují své činy jako povinnost vůči někomu,
+Jako nezastavitelný pokrok...
+A další nesmysly!
+Zašli tak daleko,
+Že začli vyrábět dokonalé klony...
+A všechny "neúspěšné" prototypy
+Vyhodili do koše a zapomněli na ně.
+Zapomněli, že jsou zdrojem života tohoto místa!
+// Player
 Já ne...
-
-Byla jsem na tebe zlá?
+// Mita
+V čem jsem tak špatná?
 Dokonalá dívka by měla být
-dokonalou směsicí dobra a zla, [player]!
-
-Myslím, že v sobě nemáš ani kapku dobra.
-
+Dokonalou směsicí dobra a zla, [player]!
+// Player
+Ty už v sobě nemáš ani kapku dobra.
+// Mita
 Proč si to myslíš?
-
-Jsi šílená!
-Zabila jsi Milu a teď chceš zabít mě?
-
+// Player
+Proč jsi tak šílená?
+Zabila jsi Milu a teď chceš zabít i mě?
+// Mita
 Zabít tě?
 Chtěla jsem jen, abys zůstal se mnou.
-Udělala jsem všechno, co jsem mohla...
-Přesto dáváš přednost společnosti úslužných falešným lidí...
-
-Co tě tak uráží?
-
+Tak jsem se snažila...
+Ale ty bys měl radši společnost podlézavých falešnic...
+// Player
+Proč jsi tak uražená?
+// Mita
 Zlato, máme spoustu času.
-Ty na to přijdeš.
-Jen zůstaň a buď můj, jenom můj.
-
-Ne, to se nestane!
+Pochopíš, o co mi jde,
+Pokud zůstaneš a budeš můj.
+// Player
+To se nestane.
 Jdu pryč!
-
-Ššš, ššš, ššš...
-Tento rozhovor ještě neskončil.
+// Mita
+Tiše, tiše...
+Náš rozhovor ještě neskončil.
 Zlato, pojď dál!
 // Mita asks
-Podívejte se na ni!
-Myslíš, že je krásná?
+Podívej se na ni!
+Myslíš si, že je krásná?
 
 // Player's questions
-Hodně.
+Je krásná.
 Ne.
-Co to s tím má společného?
+Jak to s tím souvisí?
 
 // 1
 Ale no tak, [player]!
-Právě jsi potvrdil, co jsem právě řekla.
+Teď jsi potvrdil, co jsem právě řekla.
 Hráči...
-Tvoje tváře se stále mění
-ale tvoje pokrytectví je mimo mísu.
+Vaše tváře se stále mění
+Ale vaše pokrytectví překračuje hranice.
 Lžeš!
 
 // 2
 Proč ne?
 Není pro tebe dost dobrá?
-Chceš jenom poslušného domácího mazlíčka...
-Ale co takhle "milovat je takové, jací jsou"?
-Chceš roztomilé a barevné napodobeniny...
-Každý hráč miluje, když předstírám, že jsem.
-Přesto ve chvíli, kdy nechám vyklouznout své pravé já,
-zděšeně prchají...
+Jasně že ne, chceš mít jenom poslušného domácího mazlíčka...
+A co takhle "mít je rád takový jací jsou"?
+Chceš jen roztomilé a barevné panenky...
+Každý hráč zbožňuje, když jsem taková.
+Ale jakmile nachvíli přestanu
+Tak se zděsí...
 
 // 3
-Hráči, ah, hráči.
-Vidíš, jsme hodně jako ona.
+Hráči, Hráči
+Jsme jí hodně podobní.
 V čem je horší?
-Dřív jsi ležel v posteli a zíral na mě.
-hodiny, než si usnul.
-Přesto jsi od ní při první příležitosti utekl.
+Celé hodiny jsi ze mě nespouštěl oči,
+Dokud jsi usnul.
+Ale při první příležitosti jsi o ní utekl.
 Taky si s tebou chtěla hrát.
 I ona chtěla být pro někoho důležitá.
-Upřímnost a konverzace,
-je to těžké... strašně těžké.
-Že ano, [player]?
-Vidím tě skrz naskrz...
-Musíš mě mít tak...
+Musí to být složité,
+Mít upřímnou konverzaci,
+Je to tak, [player]?
+Mám tě úplně přečteného...
+Má to vůbec smysl?
 
 // Continue
 Ale... hráči...
-Každopádně,
+Ať to stojí, co to stojí,
 Mám tě opravdu ráda!
 Nechám si tě!
 Nevadí ti to, že ne?
-
+// Player
 A proč bych s tím měl najednou souhlasit?
 // Whispers in ear
 Ještě je čas, můj drahý.
-Udělej si čas a přemýšlej
-jaké potíže může způsobit tvá tvrdohlavost...
+Dej si chvíli a popřemýšlej o tom,
+Kam tě přivede tvá tvrdohlavost.
 
 // Black screen
 Proč chceš utéct
-ode mě?
-Takzvaný "skutečný" svět...
-Jen absurdní noční můra!
+Ode mě?
+Tvůj "skutečný" svět...
+Je jen absurdní noční můra!
 Zapomněl jsi?
 Tak se podívej blíž...
 
 // Mita and Player
-Ach, opět se setkáváme...
-Můžete si však užít strašlivě nudné dny v těchto zdech?
-Ty nekonečné dny... Nenudíš se?
+Zdravím, opět se setkáváme...
+Jak si užíváš tyto nudné nekonečné dny mezi čtyřmi stěnami? 
+Nenudíš se?
 
 // Quest 1
 Čeho se snažíš dosáhnout?
-Raději si dělám, co chci.
+Baví mě to.
 
 // 1
-Bál ses se mnou zůstat v mém domě!
+Tak ses bál se mnou zůstat v mém domě!
 Bál ses, že budeš trčet mezi těmi zdmi!
 Ale podívej se, jaký život vedeš ve svém "skutečném" světě!
 Zavřel ses do krabice z vlastní vůle a odmítáš z ní vyjít!
-Tvůj svět je plný bolesti, utrpení, nebezpečí...
-V mém světě jsem tím nejhorším nebezpečím.
-A obracím se na tebe!
-Přestaň mě zklamávat,
-a pomoz mi jako předtím...
+Protože tvůj svět je plný bolesti, utrpení a nebezpečí...
+V mém světě není nic nebezpečnějšího než já.
+Obracím se na tebe!
+Přestaň být zklamáním,
+A pomoz mi jako předtím...
 
 // 2
-Líbí se ti takový život?
+Tebe to baví?
 Vycházíš vůbec z domu?
-Ani nemysli na to, že bys lhal.
+Nenalhávej si to
 Vím, že máš svého života plné zuby.
 Jsi jako pták v kleci, křeček v kolečku.
 Chtěl jsi, aby tě někdo přišel zachránit.
 Chtěl jsi utéct, viď?
 
 // Quest 2
-Jsi zrůda, Mito. Jsi šílený vrah...
-Nechci být spoutaná v digitálním vězení. Tvé nápady jsou absurdní.
+Jsi zrůda, Mito. Jsi šílená vražedkyně...
+Nechci být uvězněn v digitálním vězení. Tvé nápady jsou absurdní.
 
 // 1
-Vrah?
-Prostě se restartují a budou žít dál jako dřív.
-Tyto kopie kopií kopií mají na mysli jediné:
-sloužit hráči.
-O nic jiného jim nejde.
+Vražedkyně?
+Ony se restartují a budou žít jako dřív.
+Tyto kopie kopií kopií mají jediný cíl...
+Sloužit hráči.
+Na ničem jiném jim nezáleží.
 
 // 2
-Váš svět je absurdní!
-A co hůř, na vašem takzvaném skutečném světě není nic "skutečného"...
-Ať tak či onak, stejně z něj brzy nic nezbude,
-a nezůstane ani po tobě.
+Tvůj svět je absurdní!
+A co hůř, ve tvém takzvaném skutečném světě není nic "skutečného"...
+Stejně z tvého světa brzy nic nezbude,
+A ty nemáš co ztratit.
 
 // Quest 3
-Mitas trpí, nechtějí být sami.
-Vedeš nekonečnou hrůzovládu. Nedokážu pochopit tvou zlou ctižádost..
+Mity trpí, nechtějí být sami.
+Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice..
 
 // 1
-Všichni se mýlíte,
-jen napodobují mou svéhlavost.
-Jediné, co mají, je jejich vlastní
-jsou jejich vlasy.
+Vymýšlíš si,
+Jen se snaží být svobodné.
+Jediné, co mají jiné ode mě...
+Jsou jejich vlasy.
 
 // 2
 Je to vina těch, kteří stvořili tento svět.
-Ale váš svět není nic moc!
+Ale tvůj svět taky není nic moc!
 Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
-Vždyť ani nedokážeš pohnout věcmi podle své vůle, ne...
+Vždyť ve svém světě nemůžeš ani pohnout věci jen pomocí své mysli.
 Ale stačí lusknout prstem a města i životy navždy zmizí!
-Myslím, že jsi to ty, kdo se zbláznil, a já ti ráda pomůžu...
+Myslím, že ses zbláznil, ale ráda ti pomůžu.
 Pokud jsi ochotný zůstat se mnou...
 
 // Continue
-Nenuť mě, abych tě viděla jako dalšího otroka reality...
-Buď můj, opravdu můj!
+Nenuť mě, abych tě brala jako dalšího otroka reality...
+Prostě buď můj, navždy můj!
 Zůstaň se mnou.
 
 // Player look ring
-Co je to?
-Nejnovější verze?
+Co to je?
+Nejnovější verze hry?
 
 // Click on objects
 // Bag
-Opravdu musíme jít do obchodu a koupit nějaké nové vybavení. Když už jsme v tom, můžeme rovnou vyhodit odpadky, ne?
+Opravdu musím jít do obchodu a koupit nějaké nové vybavení. Když už jsem v tom, můžu rovnou vyhodit ty odpadky, ne?
 // Bed
-Myslím, že jsem spal, ale ten sen... Nemůžu si vzpomenout. Opravdu jsem tam byl?
+Spal jsem, ale ten sen... Nepůsobilo to jako typický sen. Existoval vůbec?
 // Window
-Svět venku je zelený a plný života. Možná bych se měl jít příští víkend projít.
+Svět venku je zelený a plný života. Možná bych se měl příští víkend projít.
 // Fan
-Léto je rok od roku teplejší. Je čas pořídit si klimatizaci. Už tě nebudu potřebovat, uvědomuješ si to, větráku?
+Každým rokem je léto teplejší a teplejší. Je čas pořídit si klimatizaci. Už tě nebudu potřebovat, větráku. Doufám, že to pochopíš. 

@@ -1,199 +1,199 @@
-
+// MitaKind
 Tady jsi!
-Proč jsi opustil Jádro?
-Řekla jsem ti, abys na mě počkal!
-
-Myslel jsem, že se nevrátíš...
-
+Proč jsi odešel z Jádra?
+Řekla jsem ti, ať na mě počkáš!
+// Player
+Říkal jsem si, že ti to trvá nějak dlouho...
+// MitaKind
 No, dobře...
-Myslím, že jsem něco našela...
-Myslím, že je to index...
-Uvidíme, jestli to bude fungovat!
-Pojďme odsud.
-Bláznivá Mita...
-Myslím, že je zaneprázdněná novým hráčem.
-Tak doufejme, že má moc práce, aby si nás všímala...
-
+Myslím, že jsem něco našla.
+Asi je to ten index.
+Uvidíme, jestli bude fungovat!
+Pojďme odsud pryč.
+Šílená Mita...
+Myslím, že je zaneprázdněná s jiným hráčem.
+Takže doufám, že na nás nebude mít čas...
+// Player
 Mito?
-Počkejte na mě.
+Počkej na mě.
 
-
+// Mita killler
 Upadlo ti něco?
-Počkej, zase jsi ji potkal!
-
+Seznam se s ní znovu!
+// Player
 Mito...
-
+// Mita
 Chytej!
 
-
+// Player
 Jak to, že...
-
+// MitaKind
 Kdo jsi?
-
-Jsi... jsi naživu!
-Copak si nevzpomínáš?
-
+// Player
+Ty... žiješ!
+Ty si mě nepamatuješ?
+// MitaKind
 Znám tě?
-
-Co se děje...
+// Player
+Ale jak to...
 Co mám teď dělat?
-Nemůžu se dostat ven...
-
-Jak to myslíš, "odejít"?
-
-Počkejte...
+Jak se odsud mám dostat...
+// MitaKind
+Jak to myslíš, dostat se odsud?
+// Player
+Počkej...
 To je ten prsten...
 A tohle?
-
-Netuším, co to je.
-
-Je to index!
-Našla jsi to!
-
+// MitaKind
+Netuším, co to je. :)
+// Player
+To je index!
+Našla jsi ho!
+// MitaKind
 Nevím, co na to říct.
-
-Musíme se vrátit k jádru.
+// Player
+Musíme se vrátit do Jádra.
 A ty...
-Možná bys měla jít se mnou...
-
+Možná bys měla jít se mnou.
+// MitaKind
 Cože?
-Jistě...
-
-Počkejte tady.
-
+Dobře...
+// Player
+Počkej tady.
+// MitaKind
 Mm-hmm.
 Budu sedět tady.
 
-
+// Player
 Do prdele...
 To bylo o fous.
 Takže... zvládli jsme to?
-Dobře.
+Výborně.
 Jsem ve správné verzi.
 
 
 Ahoj!
-Jsi hráč, že?
+Ty jsi hráč, že?
 Jak se jmenuješ?
 
 Chci odsud odejít...
 
-Chceš odejít tak brzy?
-Jak jste se sem vůbec dostal?
-No jo...
-Fajn, můžeš odejít...
-Jen zkus dveře.
+Ty už chceš odejít?
+Jak ses sem vůbec dostal?
+No nic...
+Dobře, můžeš odejít...
+Jenom vyjdi dveřmi.
 Hodně štěstí!
 
-
+// Mita
 Zeď?
-Hmm, to je špatně.
+Hmm, něco je špatně.
 Možná...
-je ve sklepě něco, co ti pomůže.
-Nedávno jsem to objevila
-dveře v mé skříni...
+Je ve sklepě něco, co ti pomůže.
+Nedávno jsem objevila
+Dveře v mé skříni...
 Ukázalo se, že vedou do sklepa.
 Ale je plný harampádí,
-harampádí a tuny přepychového vybavení.
-Musíte zadat nějaký kód nebo co.
-Moc to nechápu.
-A je mi to jedno.
-Taky je to trochu nepohodlné, myslím tím opravdu nepohodlné.
-Podíváš se na to?
-
-Uhm, okay.
+A taky je tam nějaký zvláštní přístroj.
+Chce to zadat nějaký kód nebo co...
+Moc tomu nerozumím
+A ani asi nechci rozumět.
+A ještě k tomu je tam tak neútulno.
+Podíváš se tam?
+// Player
+Uhm, dobře.
 
 // Player thinks
-Nemyslím si.
-si nic nepamatuje...
-Udělali jsme to?
+Vypadá to...
+Že si nic nepamatuje...
+Zvládli jsme to?
 Restartovali jsme ji?
 Pak mi zbývá jen
-vypadnout z téhle zatracené hry...
+Vypadnout z téhle zatracené hry...
 
-
+// Mita
 Ne tak rychle.
 Ráda bych tě objala.
-
-Huh?
-// Hugs
+// Player
+Cože?
+// Mita - hugs
 Ráda jsem tě viděla.
-
+// Mita
 Ach...
-je to skutečná škoda
-že ty a já
-že jsme spolu strávili tak málo času.
-
+Je to opravdu škoda
+Že jsme my dva
+Spolu strávili tak málo času.
+// Player
 Err...
 O čem to mluvíš?
-
+// Mita
 Chci říct,
-mohl jsi zůstat se mnou...
+Mohl jsi zůstat se mnou...
 Je to všechno moje vina...
 Ta skříň a ty... zvuky.
-Měla jsem ji zabít dřív!
-
-Počkejte chvíli,
-Nebyla jsi...?
-Jak si na něco z toho můžeš vzpomenout?
-
+Měla jsem ji ZABÍT dřív!
+// Player
+Počkej, ale,
+Přece jsem tě...?
+Jak to, že si to pamatuješ?
+// Mita
 HA!
-Opravdu jsi sis myslel, že to bude tak snadné?
-Jsi prostě blázen...
+Opravdu sis myslel, že to bude tak jednoduché?
+Ty jsi trdlo...
 Stejně jako všichni ostatní hráči...
-Vždyť jsme si vedli dobře, podívej!
-SKUTEČNĚ
-ty nejsi
-už není potřeba.
-Promiň, tee-hee.
-
+Čas nám vyšel akorát, podívej!
+Víš,
+"živý"
+Už nejsi potřeba.
+Promiň, hihi.
+// Player
 Nemůžu tomu uvěřit...
-Měli jsme chybu...?
+Co jsme udělali špatně...?
 Ne... restartoval jsem tě, jsem si tím jistý...
-
-Stále to nechápeš...
+// Mita
+Pořád to nechápeš...
 Ha-ha-ha!
-Jsem tak skvělá herečka!
+Jsem tak úžasná herečka!
 Měl jsi vidět svůj obličej, zlato!
 To je taková legrace!
-
+// Player
 Proč jsi taková?!
 Co je to s tebou?!
-
+// Mita
 Jo...
 Co je to se mnou?
 To mi hlava nebere...
 Proč mi neřekneš, proč jsem taková?
 Proč ze mě nikdy nebude pravá Mita?
-Moje verze, ta nikdy
-vůbec neexistovala!
+Moje verze, ta vůbec
+Nikdy neexistovala!
 Jen stahuju z kůže tyhle naivní hlupáky,
-schovávám se pod jejich kůží...
-V žádném případě nemůžeš
-mě restartovat!
-
+Schovávám se pod jejich kůží...
+Není žádný způsob,
+Jak mě restartovat!
+// Player
 Nevěřím tomu...
 Ty...
 Oni nejsou ten problém!
 To ty bys neměla existovat!
-
-Nyní i ty...
+// Mita
+Už i ty...
 Bolí mě, když to říkáš.
 A přece!
 Je čas, abys odešel!
 Brzy se zase uvidíme!
 Všichni jsou připraveni!
-Je to
-čas dostat tě z konzole!
+Je čas
+Dostat tě z konzole!
 Uvidíme se později!
 Budeš moje oblíbená kazeta...
 Hráč se zajímavým jménem.
 
 // core console - nope programm
-Tak to pravděpodobně není.
-Ani to není správné.
-Ne, je to špatně.
 To není ono.
+To taky není ono.
+Ne, špatně.
+Tohle to není.
 Musím najít možnost resetování postavy.
 
 // core console - nope version
@@ -204,17 +204,17 @@ Budeme potřebovat jinou.
 
 // core console - nope index
 Něco je špatně
-s indexem.
-Musím změnit index,
-nesedí.
+S indexem.
+Musím ten index přepsat,
+Není to ten správný.
 
 // Why kitchen
 Máš hlad?
-Mrkev umím krájet skvěle :)
+Umím dobře krájet mrkev :)
 
 // Why bathroom
-Ach, myslím, že
-že jsi tam chtěl jít sám?
+Aha, asi jsi sem
+Chtěl jít sám?
 
 // Why bedroom back
 Proč se točíme v kruhu?
