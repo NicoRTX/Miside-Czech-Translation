@@ -4,7 +4,7 @@ Mito?
 Kde ses tady vzal?
 // Player
 Ty jsi Mita, že?
-Ale jsi nějaká jiná..
+Ale jsi nějaká jiná...
 // MitaKind
 To máš pravdu...
 Ale teď poslouchej dobře.

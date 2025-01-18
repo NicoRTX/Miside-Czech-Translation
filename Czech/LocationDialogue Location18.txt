@@ -1,188 +1,188 @@
+// Description - [not]
+Do očí mi dopadlo oslepující světlo.
+Nemohl jsem se hnout, čekal jsem, až se mi vyjasní zrak.
+Jasné letní slunce se linulo okny povědomé místnosti.
+Po chvíli, stále ještě trochu zmatený, jsem se konečně rozhlédl kolem.
+Sotva jsem se pohnul z místa, cítil jsem v břiše prudké píchání a srdce mi prakticky bušilo do košile.
 
-Do očí mi dopadalo oslepující světlo.
-Nemohl jsem se pohnout, jen jsem čekal, až se mi zrak vyjasní.
-Okny známé haly se linulo jasné letní slunce.
-Po chvíli omámení trochu povolilo a já se konečně rozhlédl kolem.
-Ale jakmile jsem se posunul na sedadle, v břiše mě prudce píchlo a srdce mi prakticky bušilo do košile.
-
-
-Něco bylo rozhodně špatně... Cože já..2D?! Jsem ve 2D verzi?!
+// Player - [not]
+Něco je rozhodně špatně... Já... jsem 2D?! Jsem ve 2D verzi?!
 ...
 
-
+// Description
 Do hlavy se mi vkradla závrať, téměř dusivá temnota, a já si instinktivně přitiskl ruce do klína a snažil se zklidnit dech.
 Hrudník se mi sevřel, jako by se mi vmáčkl dovnitř.
 Po několika minutách se mi dech zklidnil a já se konečně odvážil přemýšlet, co dál.
 
-
+// Player - [not]
 Sakra, co mám teď dělat?
 
+// Description
+Zoufale jsem se snažil srovnat si myšlenky. Namáhal jsem mozkové závity, dokud jsem nedostal nápad.
 
-Zoufale jsem se snažil sebrat myšlenky, namáhala jsem mozek a hledal nápady, dokud mě jeden nenapadl.
-
-
-Správně - měl bych se vrátit do 3D!
-Vyjít mimo hranice, stejně jako všichni ostatní, kteří si zvykli hru glitchovat!
+// Player - [not]
+To je ono! Prostě se vrátím zpět do 3D!
+Překročím hranice tohoto světa, stejně jako všichni ti, kteří umí zneužívat chyb ve hrách!
 To přece taky umím!
 
+// Description
+Rozhodl jsem se, že se vrátím z 2D prostoru zpět do 3D.
+Natáhl jsem ruku a snažil se ji protlačit do 3D světa.
 
-Rozhodl jsem se, že se vrátím z této 2D reality zpět do 3D.
-Natáhl jsem ruku a snažil se protlačit do 3D světa.
+// Player - [not]
+Ale... nic. Hergot! Proč to nefunguje?!
+A počkat, kde mám prsten? Sakra!
 
+// Description
+Pozastavil jsem se a uvědomil si, že toto nemá smysl.
+Uživatelské rozhraní bylo nenahmatatelné, jako by tam ve skutečnosti vůbec nebylo.
+Zbyla mi jen jedna možnost, a to otočit se zpět do obývacího pokoje.
+Ten prsten musím najít, ať se děje, co se děje.
+Buď se mi jej podařilo ztratit, nebo je možná schovaný někde v této ploché dimenzi.
 
-Ale... nic. Sakra! Proč to nefunguje?!
-A počkat, kde je ten prsten? A sakra.
+Hned, co jsem udělal první krok, se odnikud objevila roztomilá slečna.
+Pohodila krátkými copánky, oči se jí rošťácky blýskaly,
+A pozorovala mě s menším odstupem. Cítil jsem, jak z ní srší nadšení,
+Což mě znervózňovalo.
+> Očividně je to čert v převleku <
+Pomyslel jsem si.
 
-
-Zastavil jsem se a uvědomil si, že to nemá smysl.
-Rozhraní bylo nehmotné, jako by tam ve skutečnosti nebylo.
-Jediná možnost byla otočit se zpátky do obývacího pokoje.
-Ten prsten budu muset najít, ať se děje, co se děje.
-Nějak jsem ho ztratil, nebo byl možná schovaný někde v téhle ploché dimenzi.
-
-Pak, právě když jsem udělal krok, se odnikud objevila roztomilá holka.
-Švihala krátkými copánky a v očích se jí rošťácky blýskalo,
-a pozorovala mě z několika kroků. Cítil jsem, jak se z ní valí vzrušení,
-a to mě zneklidnilo.
-> Očividně je to převlečený ďábel <
-pomyslel jsem si.
-
-Ztuhl jsem,
-stále jsem si nezvykl na tyto teleportující se paranormální typy.
-Hlasitě si povzdechla a vykulila oči.
+Ztuhnul jsem.
+Tyto teleportující se paranormální typy pro mne byly stále nezvykem.
+Hlasitě si povzdechla a protočila oči.
 To mě vyvedlo z míry, a tak jsem se konečně rozhodl, že to budu já, kdo začne mluvit.
 
-
+// Player - [not]
 M-Mito?
 
+// Description
+Vyzývavě přihmouřila oči a její hlas začal znít ze všech stran.
 
-Zúžila oči ve výzvě a její hlas se rozléhal ze všech stran.
-
-
-Tak kdo jiný?
-Viděl jsi MNOHO JINÝCH HOLEK, jako jsem já?
+// Mita - [not]
+A kdo jiný?
+Viděl jsi snad HODNĚ TAKOVÝCH HOLEK, jako jsem já?
 A s mým jménem!?
 
+// Description
+Pohrávala si se mnou a chovala se, jako bych jí nějak ublížil nebo jí něco dlužil.
 
-Prakticky si se mnou pohrávala, chovala se, jako bych jí nějak ublížil nebo jí něco dlužil.
+// Player - [not]
+Nebudeš mi to věřit, ale...
 
-
-Nevěřila bys, kdybych ti řekl...
-
-
-Upřímně řečeno, nechci vědět, s kým se pošťuchuješ!
+// Mita - [not]
+Upřímně, nechci ani vědět, s kým se ochomejtáš!
 Co tady vůbec děláš?
 Nemůžeš sem jen tak vtrhnout!
 
+// Description
+Její hlas byl najednou hlasitější.
+Zvedla ruku a začala na mě třást ukazováčkem.
+Na něm se přitom kroutil prsten. Ten, který mi nějak zmizel z ruky.
+Zůstal mi z toho rozum stát.
+V očích jí zajiskřilo a přes tmavé řasy se prodral záblesk vítězství.
 
-Její hlas byl nyní hlasitější,
-a svá slova přerušovala tím, že na mě třásla prstem.
-Na tom štíhlém prstu balancoval... prsten. Ten, který mi nějak zmizel z ruky.
-Spadla mi čelist.
-V očích jí zajiskřilo a přes tmavé řasy se jí prodral záblesk vítězství.
+// Mita - [not]
+Neztratil jsi něco?
 
+// Description
+Ztěžka jsem polkl a zatáhl za límec, abych mohl popadnout dech.
+Její drzý hlas v kombinaci s její nepřívětivostí mě znervózňoval.
+Teď už mi bylo vše jasné - tohle nebyla jen tak nějaká holka. Bylo to živelné neštěstí.
+Zhluboka jsem se nadechl a řekl:
 
-Není to to, co jste zde ztratili?
+// Player - [not]
+Opravdu bych ocenil, kdybys mi vrátila ten prsten a ukázala mi cestu ven.
 
+// Mita - [not]
+Aha, takže tohle je tvoje hračička?
+Říkala jsem si, co to je!
 
-Ztěžka jsem polkl a zatahal za límec, protože jsem cítil, jak se mi v krku dělá uzel.
-Z jejího odvážného hlasu v kombinaci s divokou intenzitou mě zamrazilo.
-Teď už jsem si byl jistý - tohle nebyla jen tak nějaká holka. Byla to síla přírody.
-Zhluboka jsem se nadechl a řekl
+// Description
+Její hlas najednou změkl,
+A proměnil se na hravý a zvědavý.
+Cítil jsem, že mi spadl kámen ze srdce.
+Bouře pominula a teď působila... skoro až svůdně.
+Její povaha se změnila z divokého pantera na zvědavé kotě.
+Sotva jsem mrknul, tak 2D Mita zmizela a místo, na kterém byla, zelo prázdnotou.
 
-
-Opravdu bych ocenil, kdybys mi dala ten prsten a ukázala mi cestu ven.
-
-
-Takže tohle je tvoje maličkost?
-Zajímalo by mě, co to je!
-
-
-Její hlas náhle změkl,
-a změnil se v hravý a zvědavý.
-Měl jsem pocit, že mi z ramen spadla tíha.
-Bouře pominula a ona teď působila... skoro až koketně.
-Její chování se změnilo z divokého pantera na zvědavé kotě.
-Zamrkal jsem, ale v tu chvíli dvourozměrná Mita zmizela a na jejím místě zůstala jen prázdnota.
-
-
+// Player - [not]
 Hej!
-
+// Description
 Podrážděně jsem vykřikl.
-Kuchyně
-Ložnice
+Kuchyně // choice
+Ložnice // choice
 // Description kitchen:
-Nezbývalo nic jiného než vyhledat místní Mitu.
-Měla prsten a bez tohoto artefaktu jsem nemohl nic změnit.
-Nejdřív jsem zamířil do kuchyně,
-málem jsem ve spěchu prorazil dveře.
-Kuchyně byla ještě světlejší než předchozí místnost,
-plná známé vůně čerstvé mrkve.
-Ale po Mitě 2D ani stopy.
-Vyskočil jsem ven, vrhla se do předsíně, obratně obešla pohovku - trochu překážku - a zastavila se u dveří do ložnice.
-Hlasitě zaskřípaly, když jsem je zabouchla.
+Nezbývalo nic jiného než jít hledat místní Mitu.
+Měla ten prsten a bez tohoto cenného artefaktu bych nic nezmohl.
+Nejdřív jsem zamířil do kuchyně.
+Ve spěchu jsem málem prorazil dveře.
+Kuchyně byla ještě více zalitá světlem než předchozí místnost,
+Můj nos zachytil povědomé tóny krájené mrkve.
+Ale po 2D Mitě ani stopa.
+Vystřelil jsem ven, vrhl se do obývacího pokoje, obratně se vyhnul pohovce, která mi trochu překážela v cestě, a zastavil se u dveří do ložnice.
+Hlasitě zaskřípaly, když jsem vtrhl dovnitř.
 
 // Description bedroom:
-Ležela na posteli se zkříženýma nohama v pozici lotosu, jako by čekala, až ji konečně najdu.
-Otevřela oči a chvíli se klidně dívala do zdi.
-Pak se mrštně jako cirkusový akrobat přiskočila ke mně.
+Seděla na posteli se zkříženýma nohama v tureckém sedu, jako by čekala, než ji konečně najdu.
+Otevřela oči a chvíli se poklidně dívala před sebe.
+Pak ke mně mrštně přiskočila, jako akrobat z cirkusu.
 
-
+// Mita - [not]
 Mám to!
-Chceš ten prsten, podivíne?
-Poraz mě v piškvorkách!
+Chceš ten prsten, že, podivíne?
+Tak mě poraž v piškvorkách!
 
-
-Ušklíbla se, trochu se zadýchala a jazyk vyplazovala jako pes.
-Její drzý tón a rošťácký úsměv byly v plném proudu.
+// Description
+Zdálo se, že začne dýchat ústy a vyplázne jazyk jako malé štěně.
+Její drzý způsob vyjadřování už byl jasně vidět.
 Lehce jsem ji šťouchl do ramen, abych mezi námi udělal trochu místa.
 
+// Player - [not]
+Podívej, tohle je opravdu důležité.
+Prostě mi ho vrať - hodně na tom záleží.
 
-Podívejte, tohle je opravdu důležité.
-Prostě to předej - hodně na tom záleží.
+// Description
+Mluvil jsem s ní klidně a věcně, jako nějaký profesor.
+Připadalo mi, že se s ní jinak mluvit nedá.
+Působila na mě nezodpovědně a nevyspěle.
+Bylo mi to až směšné.
 
+// Mita - [not]
+Nešahej na mě!
+Proč ti na tom prstenu tak záleží?
+Máš nějakou úchylku?
+Líbí se ti dávat prstýnky na prsty?!
 
-Mluvil jsem klidně a věcně,
-ale připadal jsem si skoro směšně, když jsem s ní mluvil tak odměřeně.
-Připadala mi lehkomyslná, skoro až šílená,
-a cítil jsem, jak mezi námi vzniká zvláštní humor.
+// Description
+Byl jsem zaplaven salvou urážek.
 
+// Player - [not]
+Je to kouzelný prsten! Co ti mám ještě vysvětlovat? Prostě mi ho dej!
 
-Nedotýkej se mě!
-Co je na tom prstenu tak důležitého?
-Jsi snad nějaký podivín posedlý prsteny?
-Rád si navlékáš prstýnky na prsty?
-
-
-Vystřelila zpátky, hlasitěji než kdy jindy, a její posměšky byly ještě odvážnější.
-
-
-Je to kouzelný prsten! Co mám ještě vysvětlovat? Prostě mi ho vrať!
-
-
-Jsi opravdový fanatik do prstenů!
-Kouzelný prsten!
+// Mita - [not]
+Ty na těch prstenech fakt ujíždíš, co?
+Prý "kouzelný"!
 Hahaha!
 
+// Description
+Vyprskla smíchy.
+Byl to tak nepříjemné, že jsem radši odvrátil pohled.
+I přesto mi připadalo, že začíná být přátelštější.
 
-Vyprskla smíchy a zvuk se ozýval kolem nás.
-Odvrátil jsem pohled,
-cítil jsem se trapně, protože její smích byl čím dál... přátelštější, skoro.
-
-
+// Mita - [not]
 No tak, ty podivíne!
 Zahrajeme si piškvorky!
 Neztrácej čas výmluvami!
 
-
-> Ona miluje hry! <
+// Description
+> Ony ty hry zbožňují! <
 Pomyslel jsem si.
 
+// Player - [not]
+Dobře, fajn, tak jo!
 
-Dobře, fajn, jdeme na to!
-
-
-Můžeš začít! Dnes se cítím velkorysý!
+// Mita - [not]
+Tak můžeš začít! Dneska se cítím velkoryse!
 
 // The game of tic-tac-toe
 První krok jsem udělal já.

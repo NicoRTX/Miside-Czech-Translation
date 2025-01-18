@@ -75,7 +75,7 @@ Jsem tu, abych vedla beznadějné a ztracené duše jako jsi ty!
 
 // Quest 4 (Why are you helping me?)
 A proč ne?
-Čím jsi tak speciální, abych ti nepomohla?
+Čím seš tak speciální, abych ti nepomohla?
 // Player
 Co?
 // MitaChibi 
