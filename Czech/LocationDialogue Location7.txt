@@ -118,7 +118,7 @@ Na všechny naše problémy.
 Na co vlastně potřebuješ v Jádru pomoc hráče? 
 // MitaKind
 Z nějakého důvodu my, Mity, nemůžeme
-do Jádra vstoupit.
+Do Jádra vstoupit.
 Viděla jsem ho jen zvenčí.
 Ale ty nejsi Mita, ty jsi hráč.
 Věřím, že ty určitě
@@ -194,7 +194,7 @@ Teda alespoň poté, jakmile se z tebe stane kazeta.
 Ale co se stane zemřelému hráči,
 To ani já nevím.
 // Player
-Pořád slyším něco o kazetách... Jak to říci?
+Pořád slyším něco o kazetách... Jak to říct?
 Jak vím, jestli jsem kazeta nebo ne?
 // MitaKind
 Pojď sem.
@@ -580,7 +580,7 @@ Radši dělám něco praktického!
 To je taky cesta.
 Ale bez teorie...
 // MitaCap
-Bum - pohyb, motorika, hmat. Chápeš?
+Pohyb, motorika, hmat. Chápeš?
 Knihy jsou jen kusy papíru, já radši žiju teď a tady!
 Pokud bys tu se mnou zůstal,
 Mohli bychom toho spolu tolik dělat!
@@ -621,7 +621,7 @@ Co to je?
 Je to rozhraní prstenu,
 A právě měním trasu.
 // Player
-Ale... dyť jen kreslíš kolečka?
+Ale... vždyť jen kreslíš kolečka?
 // MitaKind
 No počkej, pro tebe to možná vypadá jen jako kreslení koleček,
 Pro mě to je přenos dat. 
