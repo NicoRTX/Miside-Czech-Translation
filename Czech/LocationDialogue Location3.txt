@@ -2,7 +2,7 @@
 Ahoj, [player]!
 Konečně se setkáváme!
 Mám takovou radost!
-Vím, že máš asi otázky...
+Vím, že asi máš otázky...
 Takže se pokusím je zodpovědět.
 Vyrobila jsem toto speciální zařízení
 Abych tě dostala do hry za mnou.
@@ -12,17 +12,17 @@ Ale to je dlouhý příběh!
 Každopádně jsem velice ráda, že tě konečně vidím!
 
 // Answer 1 - Mita
-Ano jsem.
+Ano, jsem.
 A ty jsi [player], že?
 
 // Answer 2 - Mita
 Chceš se vrátit už teď?
-S tím ti mohu určitě pomoci... Ale co já?
+S tím ti určitě můžu pomoct... Ale co já?
 Zůstaň tu ještě se mnou, prosím...
 
 // Answer 3 - Mita
 Vysvětlím ti to...
-A byl jsi tu!
+A tak jsi tu!
 Pochopil jsi to?
 Uhm... úplně ne.
 To nevadí!
@@ -44,7 +44,7 @@ Děkuji!
 Mohl bys mi donést nůžky?
 Jsou v koupelně.
 
-Sedni si.
+Posaď se.
 
 
 // Kitchen
@@ -60,7 +60,7 @@ Děkuji.
 
 Už jsi to všechno snědl?
 Heh, moje porce mi příjde
-až nekonečná...
+Až nekonečná...
 
 
 // Help
@@ -133,7 +133,7 @@ Zapomněla jsem zapnout odrazy.
 Prosím!
 Odrazy už zase fungují!
 Víš,
-Do nedávna jsem ani nevěděla, co odrazy jsou.
+Donedávna jsem ani nevěděla, co odrazy jsou.
 V mém světě neexistovaly.
 Až do nějaké aktualizace, tedy.
 Je ve tvém světě
@@ -142,7 +142,7 @@ Hodně lesklých věcí?
 No, ano.
 
 
-Vzpomínáš si na 
+Vzpomínáš si na
 Ty tři předměty, které jsi musel najít?
 Ty, které jsi položil na skener?
 No, tak...
@@ -184,11 +184,11 @@ Ten počítač je funkční?
 Nebo je to jen taková dekorace?
 
 Samozřejmě, že funguje.
-Všechno, co tu vidíš
+Všechno, co tu vidíš,
 Funguje stejně, jako ve tvém světě.
 
-V mém světě,
-Sedím často u počítače...
+V mém světě
+Často sedávám u počítače...
 A tvrdě pracuji.
 
 Já vím.
@@ -207,9 +207,9 @@ Víš, že to je celkem neslušné...
 No, to už je jedno.
 
 // Umbrella
-Hrál jsem tolik hodin
-Ale nikdy jsem si nevšiml, že by pršelo.
-Na co je ti tedy deštník?
+Hrál jsem tu hru dlouho
+Ale nikdy jsem si nevšiml, že by tady pršelo.
+K čemu je ti deštník?
 
 Občas tu prší - jen velmi zřídka.
 Asi jsi déšt ještě nezastihl.
@@ -274,11 +274,11 @@ To je ale povedená fotka!
 Budeš ji mít na památku.
 
 Mám otázku.
-Když
+Když na něm
 Spustím hru
 Uvidím tě?
 
-Ne, neuvidíš mě.
+Ne, tak to nefunguje.
 
 
 
@@ -315,8 +315,8 @@ Je to tak.
 
 // Mita shy
 Co d-děláš?
-Přestaň!
-Je to trapné.
+Nedívej se tak, prosím!
+Je mi z toho trapně.
 
 // The statuette
 To je docela strašidelná postavička.
@@ -332,7 +332,7 @@ No... určitě není prokletá.
 Ani strašidelná.
 Přijde mi spíš roztomilá!
 
-Možná, třeba máš pravdu...
+Možná, asi máš pravdu...
 
 Mito?
 Co se děje?
@@ -367,7 +367,7 @@ Na to nepřipravil.
 
 O... omlouvám se. Tak to jsem trochu nedomyslela.
 // Quest 3
-To chceš utéct 
+To chceš utéct
 A zapomenout, že se tohle vůbec někdy stalo?
 
 Ne!
@@ -391,11 +391,11 @@ Nepříjde mi to úplně zvláštní.
 Upřímně řečeno, vypadá to celkem dobře.
 
 Taky si myslím.
-Je to kvůli optimalizaci, aby se hra nesekala. 
+Je to kvůli optimalizaci, aby se hra nesekala.
 
 Nesekala?
 
-Ano, zároveň to pomáhá, kdyby se hra začala sekat kvůli chybám.
+Ano. Hra má ještě nějaké chybky.
 Doufám, že na žádné nenarazíš.
 
 // Quest 5
@@ -405,7 +405,7 @@ Ale chtěla jsem,
 Aby všechno bylo hotové,
 Teprve až se vrátíš.
 Baví mě tě překvapovat.
-A jako bonus jsi nemusel čekat, až to dopřipravím!
+A jako bonus jsi nemusel čekat, než to dochystám!
 Hi-hi.
 
 // Glasses - Player
