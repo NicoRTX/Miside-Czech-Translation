@@ -61,7 +61,7 @@ Na tu, kterou potřebujeme.
 Nastavila jsem tu nejkratší možnou,
 Kterou spolu půjdeme.
 Funguje takhle: Otevřeš dveře,
-A prsten vytvoří přechod
+A prsten ti umožní projít
 Mezi verzemi.
 
 // Quest 6 (Are the passages dangerous?)
@@ -96,7 +96,7 @@ Ošklivá Mita.
 A jen abys věděl, tak já jsem ji takhle nepojmenovala!
 Je jen...
 Velmi ranou verzí Mity.
-Hlavní problém s ní je, 
+Hlavní problém s ní je,
 Že způsobuje hrozné chyby...
 Obávám se, že bychom na ni mohli narazit.
 Koneckonců je nejblíž verzi nula...
@@ -115,7 +115,7 @@ Musíme se dostat do Jádra.
 Něco mi říká, že tam najdeme odpověď
 Na všechny naše problémy.
 // Player
-Na co vlastně potřebuješ v Jádru pomoc hráče? 
+Na co vlastně potřebuješ v Jádru pomoc hráče?
 // MitaKind
 Z nějakého důvodu my, Mity, nemůžeme
 Do Jádra vstoupit.
@@ -201,7 +201,7 @@ Pojď sem.
 Zkontroluju to.
 // MitaKind check
 Uf,
-ještě nejsi kazeta.
+Ještě nejsi kazeta.
 Jsi živý a zdravý hráč.
 // Player
 To rád slyším...
@@ -338,7 +338,7 @@ Eh, tak nic.
 
 // Player
 Hej,
-ty jsi docela energická, že?
+Ty jsi docela energická, že?
 // MitaCap
 JSEM!
 Rozhodně jsem!
@@ -624,7 +624,7 @@ A právě měním trasu.
 Ale... vždyť jen kreslíš kolečka?
 // MitaKind
 No počkej, pro tebe to možná vypadá jen jako kreslení koleček,
-Pro mě to je přenos dat. 
+Pro mě to je přenos dat.
 // Player
 Bude to trvat dlouho?
 // MitaKind
@@ -749,7 +749,7 @@ Nechceš si to sundat?
 // MitaCap
 Err...
 Ty jsi mi ale vtipálek!
-Nebo bych si měla sundat i něco jiného? 
+Nebo bych si měla sundat i něco jiného?
 // Player
 Myslel jsem to vážně.
 Ale to je fuk.

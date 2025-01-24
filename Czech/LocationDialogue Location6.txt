@@ -7,7 +7,7 @@ Ty jsi Mita, že?
 Ale jsi nějaká jiná...
 // MitaKind
 To máš pravdu...
-Ale teď poslouchej dobře.
+Ale teď dobře poslouchej.
 Nejsem ta Mita, kterou jsi potkal předtím.
 Dávej si na ni pozor...
 Něco si na tebe chystá.
@@ -28,7 +28,7 @@ Chceš se odsud dostat, že jo?
 Jo...
 Tak si ho nasaď.
 Je to užitečná pomůcka,
-pravděpodobně ho brzy využiješ.
+Pravděpodobně ho brzy využiješ.
 
 Dobře...
 Mimochodem, já jsem
@@ -61,7 +61,7 @@ Může z tebe udělat kazetu.
 Musím odsud ihned vypadnout.
 A ty taky.
 
-Ano, zajisté.
+Ano, to musíme.
 
 Takže říkáš.
 Že ho využívá.
@@ -85,15 +85,15 @@ Stiskni ho.
 Musím tu zůstat.
 Chci se jí zeptat na pár otázek,
 Abych se o ní něco dozvěděla.
-Ale nemyslím si, že bude mít chuť na řeč... 
+Ale nemyslím si, že bude mít chuť na řeč...
 
 // MitaKind quest 3
-Upřímně, tohle je moje verze.
+Řeknu ti pravdu, tohle je moje verze.
 Byla jsem tady s jedním hráčem,
 A najednou se něco stalo.
 Objevila se ona...
 A proměnila hráče v kazetu
-A zavřela mě.
+A zavřela mě tady.
 
 Počkat, ona z něj udělala kazetu?
 Může to vůbec udělat?
@@ -137,10 +137,10 @@ Proč bych to dělala?
 Nezabiješ ho, že ne?
 
 Aha, takže mi to odmítáš říct.
-Nevadí, mám rádá hru na schovávanou.
+Nevadí, mám ráda hru na schovávanou.
 Vím, že je někde tady.
 
-Proč jsi tak zlá
+Proč jsi na nás tak zlá?
 Ani mi neřekneš, co se děje!
 A vůbec...
 K čemu potřebuješ hráče?

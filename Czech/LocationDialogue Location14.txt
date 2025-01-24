@@ -134,7 +134,7 @@ Tak se podívej blíž...
 
 // Mita and Player
 Zdravím, opět se setkáváme...
-Jak si užíváš tyto nudné nekonečné dny mezi čtyřmi stěnami? 
+Jak si užíváš tyto nudné nekonečné dny mezi čtyřmi stěnami?
 Nenudíš se?
 
 // Quest 1
@@ -214,4 +214,4 @@ Spal jsem, ale ten sen... Nepůsobilo to jako typický sen. Existoval vůbec?
 // Window
 Svět venku je zelený a plný života. Možná bych se měl příští víkend projít.
 // Fan
-Každým rokem je léto teplejší a teplejší. Je čas pořídit si klimatizaci. Už tě nebudu potřebovat, větráku. Doufám, že to pochopíš. 
+Každým rokem je léto teplejší a teplejší. Je čas pořídit si klimatizaci. Už tě nebudu potřebovat, větráku. Doufám, že to pochopíš.

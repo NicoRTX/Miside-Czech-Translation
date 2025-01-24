@@ -144,7 +144,7 @@ Nemůžu uvěřit, že mě to nenapadlo...
 
 // Answer 1 (What's the matter?) - MitaKind
 Nic se neděje.
-Až na ty všechny naše problémy. 
+Až na ty všechny naše problémy.
 Všechno je v pohodě, akorát máme ještě jeden zádrhel...
 Potřebuju přemýšlet.
 Toť vše.
@@ -185,7 +185,7 @@ Neblbni, musíme to vyřešit pomocí Jádra.
 
 // core console entry - Player
 Chce to nějaké přístupové heslo,
-ale jaké?
+Ale jaké?
 Mito, nevíš?
 // MitaKind
 Možná je někde napsané?
