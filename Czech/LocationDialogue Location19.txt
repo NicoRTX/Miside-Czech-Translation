@@ -1,187 +1,187 @@
-
-Já... Jsem zpátky!?
-
-Panebože!
-Vyděsil jsi mě!
-Ach jo,
-Moje uložená pozice... ne!
-Nechápu to...
-Kde je ta hra?
-Zničil jsi mi uloženou hru!
+// Player
+Já... Jsem zpět!?
+// Mila
+Ježišmarjá!
+Sem se lekla, ty vole!
+Chjo,
+Můj sejv... nee! // (Stay up)
+Počkej, co?
+Kde je ta hra? // (Turns around)
+Zkazils mi postup!
 Co chceš?
-
-Potřebuji verzi...
-
-Cože?
-
-Musím se nějak vrátit ke staré verzi.
-
-Dobře!
-Jsem příliš zaneprázdněna
-abych tě bavila, hlupáčku!
-
-A co je tohle? Hračky?
-
-Podívejte se na něj, to je ale blbec!
-Mezi námi nebude žádné přátelství.
-
-Poslouchej, musím se dostat k jádru.
-
-Je to tvoje chyba, že jsem se zranila.
-Sakra.
+// Player
+Hledám verzi...
+// Mila
 Co?
-
+// Player
+Hledám způsob, jak se dostat do staré verze.
+// Mila
+Ok.
+Stejnak nemám čas
+Abych tě tu nějak zabavovala, ňoumo.
+// Player
+A tamto je co? Hračky?
+// Mila
+Podívejte na něho, to je ale parchant!
+To teda kamarádi nebudeme.
+// Player
+Poslyš, musím se dostat k Jádru.
+// Mila
+Kvůli tobě jsem spadla.
+Kurník.
+Cos říkal?
+// Player
 ...Musím se dostat do Jádra a zastavit Mitu!
-
+// Mila
 Mitu?
-Prosím!
-Ta mě nezajímá!
-Ne první, ne stý!
-
+Ale prosímtě!
+Do nich mi nic není!
+Ani do první, ani do stý!
+// Player
 Ale ty jsi taky Mita...
-
-Já jsem Mila.
-
-Mi-Ta? La?
-
-Jo! Všichni jsou Mita na Mitu,
-Mita tady, Mita tam, Mita všude!
-
-Takže... ty jsi Mila
-
-Ano, říkala jsem ti to! Jak pomalý můžeš být?
-
-Tak hodně štěstí, Mílo...
-
-Kam si myslíš, že jdeš?
-Myslíš, že odsud můžeš jen tak odejít?
+// Mila
+Já su Mila.
+// Player
+Mi... Ta? La?
+// Mila
+Je to tady samá Mita na Mitě,
+Mita sem, Mita tam, Mita všude!
+// Player
+Takže... ty jsi Mila.
+// Mila
+Jo, už jsem ti to říkala! Seš snad hluchej?
+// Player
+Dobře, tak hodně štěstí, Milo...
+// Mila
+A Kam si myslíš, že jako jdeš?
+Myslíš, že můžeš zase jen tak odpochodovat?
 
 // Player check exit
 Myslel sis, že tam něco najdeš?
-
+// Player
 K čertu s tím!
-Co je tohle?
-
-Co jsi čekal...
+Co to má být?
+// Mila
+A cos jako čekal?
 Říši divů?
-
-Jak se dostanu ven?
-Měla by tu být cesta ven.
-
-Není tu žádná cesta ven.
-
-Tak jaká je to verze?
+// Player
+Jak se můžu dostat odsud?
+Měla by tu být někde cesta ven.
+// Mila
+Žádna cesta ven tu není.
+// Player
+A v jaké verzi to jsem?
 Myslím, že jsem na správné cestě.
 
 // Glitch kitchen
 To je tvoje?
-
-Zůstaň zpátky!
+// Mila
+Nech to bejt!
 Nevím, co to je...
-Nějaký bug!
+Nějakej bug!
+// Player
+Můj prsten z nějakého důvodu vibruje.
+// Mila
+Jakej prsten?
+Zásnubák?
+// Player
+Ne, dala mi ho jedna z těch tisíců Mit.
+Ta, co mi možná pomůže dostat se ven.
+// Mila
+Ty do toho chceš šahat?
+Je ti jasný, že pokud mi vyletí barák do povětří, tak seš taky mrtvej!
 
-Můj prsten se z nějakého důvodu třese.
-
-Jaký prsten?
-Zásnubní prsten?
-
-Ne, dal mi ho jeden z Mitasů - jeden z tisíců.
-Ten, který by mě mohl dostat ven.
-
-A ty se ho dotkneš?
-Víš, že jestli můj dům vyletí do povětří, jsi taky mrtvý!
-
-// Bathroom - Mila is washing
+// Bathroom - Mila is taking a shower
 Hej!
 Vypadni!
 Nevidíš, že je koupelna obsazená?!
 // The player continues to stand 1
-Proč tam ještě stojíš?!
-Vypadni!
+Proč tady furt stojíš?!
+Vypadni už!
 // The player continues to stand 2
-Nenaštvi mě!
-Vypadni odsud!
+Neštvi mě!
+Vypal!
 // The player continues to stand 3
-Jsi hluchý nebo co?
-Já se tu sprchuji!
+Seš hluchej nebo co?
+Já se sprchuju!
 
-// Mila came out and swears
-Co to bylo?
-Žádný stud, žádné svědomí...
-
+// Mila comes out and swears
+Co to jako bylo?
+Že ti není hanba!
+// Player
 Proč jsi najednou šla do koupelny?
-Mohla jsi počkat
-proč jsi na mě nepočkala?
-
-Nevěděla jsem, jak dlouho ti to bude trvat.
-Jak dlouho si ještě budeš zahrávat s těmi bugy?
-
+Mohla jsi počkat než odejdu.
+Proč jsi nepočkala?
+// Mila
+Neměla jsem šajn, jak dlouho ti to bude trvat.
+Jak dlouho si ještě chceš hrát s těma bugama?
+// Player
 Bugy?
-Je jich víc?
-
+Ono jich je víc?
+// Mila
 Jo...
-No, pokud můj dům ještě stojí,
-Předpokládám, že jsi zvládl ten bug v kuchyni?
-
+No, vypadá to, že můj barák je ještě v celku.
+Takže hádám, že jsi ten bug v kuchyni ňák vyřešil?
+// Player
 Tak nějak jsem to zvládl.
-
-Dobře. Teď máš mé svolení
-jít do koupelny.
-
+// Mila
+Tak fajn, teď už můžeš
+Jít do koupelny.
+// Player
 Děkuji.
 
 // Mila hides under the table
 Milo?
 Co tam děláš?
-
-Ouch!
-Zase jsi mě vyděsil!
+// Mila
+Jauvajs!
+Zas mě vylekal!
 Co chceš?
-
+// Player
 Neviděla jsi nějaké další bugy?
-
-Aha, takže vaše problémy mají být
-být záminkou, abych nedokončila svou knihu?
-Ne, to snad není pravda!
-
-Dobře, podívám se po něm sám.
-
-Počkejte,
-musím se zeptat...
-chceš jít ven,
-že ano?
-
+// Mila
+Jo takhle, takže tvoje problémy
+Mají být záminkou, abych nedokončila svou knihu?
+Ne, tak to panáčku nebude!
+// Player
+Dobře, podívám se po nich sám.
+// Mila
+Počkej!
+Chci se zeptat...
+Ty chceš jít kamsi tam,
+Že?
+// Player
 Přesně tak.
-Chci z této hry vystoupit.
-
-Možná to zní divně...
-ale nechceš zůstat a číst se mnou?
-
-Nejdřív na mě křičíš a teď mě žádáš, abych zůstal?
-Abych četl knihy?
+Chci se dostat z této hry.
+// Mila
+Možná to bude znít divně...
+Ale nechceš tady zůstat a číst si se mnou?
+// Player
+Nejdřív na mě křičíš a teď mě žádáš, abych tady zůstal?
+A četl si s tebou?
 Možná bych mohl,
-ale musím jít dál.
-
-Dobře!
-Jdi a hledej své chyby...
-To je podruhé, co jsem se zranila.
-kvůli tobě!
+Ale musím jít dál.
+// Mila
+Tak jak chceš!
+Hledej si ty tvoje bugy...
+To je podruhý, co jsem si dneska ublížila.
+Zas kvůli tobě!
 // Player saw a glitch
-Ah, našel jsem to.
+Našel jsem to.
 
 // Mila stands with a sword
-Dáváš pozor?
-Boj se mě!
-Podívej se, co dokážu!
-Tak nebezpečná jsem!
-A přesto... jsi ani nemrkl.
-
-To myslíš vážně?!
-
-Co se děje?
-Nebylo to dost přesvědčivé?
-
-Ne tak docela...
+Hej, dáváš pozor?
+Tak bacha na mě!
+Čuč co umím!
+Tak dobrá jsem!
+Anis nemrkl.
+// Player
+Jako vážně?!
+// Mila
+Co?
+Nepřišlo ti to dost přesvědčivý?
+// Player
+Úplně ne, no...
 
 Takže jste při řešení těchto bugu viděl všechno,
 že ano?
