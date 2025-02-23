@@ -111,7 +111,7 @@ Než se spolehnout na mě, Laskavou Mitu!
 To máš pravdu... // Player
 
 // Quest 8 (You were talking about some kind of plan...) - MitaKind + Continue
-Musíme se dostat do Jádra.
+Musíme se dostat k Jádru.
 Něco mi říká, že tam najdeme odpověď
 Na všechny naše problémy.
 // Player

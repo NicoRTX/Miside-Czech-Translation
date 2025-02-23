@@ -52,7 +52,7 @@ Našla jsi ho!
 // MitaKind
 Nevím, co na to říct.
 // Player
-Musíme se vrátit do Jádra.
+Musíme se vrátit k Jádru.
 A ty...
 Možná bys měla jít se mnou.
 // MitaKind
