@@ -29,14 +29,14 @@ Hele, musím se dostat k Jádru.
 // Mila
 Kvůli tobě jsem spadla.
 Ach jo.
-Cos říkal?
+Co jsi říkal?
 // Player
 ...Musím se dostat k Jádru a zastavit Mitu!
 // Mila
 Mitu?
 Ale prosímtě!
 Do nich mi nic není!
-Ani do první, ani do stý!
+Ani do první, ani do sté!
 // Player
 Ale ty jsi taky přece Mita...
 // Mila
@@ -62,7 +62,7 @@ Myslíš si, že odsud můžeš jen tak odejít?
 Zatraceně!
 Co to má být?
 // Mila
-A cos čekal?
+A co jsi čekal?
 Říši divů?
 // Player
 Jak se odsud mám dostat?
@@ -164,7 +164,7 @@ Ale musím jít dál.
 // Mila
 Tak jak chceš!
 Hledej si ty svoje bugy...
-To je podruhý, co jsem si dneska ublížila.
+To je podruhé, co jsem si dneska ublížila.
 Zase kvůli tobě!
 // Player saw a glitch
 Našel jsem to.
@@ -247,359 +247,359 @@ Dokázali jsme to, Milo!
 Dobrá práce,
 Hrdino! // (Punch)
 // Player
-Ach, můj Bože!
+Hej, co děláš?
 // Mila
-Oh!
-Omlouvám se, nechtěla jsem....
+Ach!
+Promiň, nechtěla jsem....
 // Player
-To je v pořádku, Milo. Už můžu jít dál.
+To nic, Milo. Teď už můžu jít dál.
 // Mila
-Podívej, vím, že musíš jít...
-ale nemůžeš tu zůstat
-ještě chvíli?
+Poslouchej, vím, že musíš jít...
+Ale nemohl bys tu zůstat
+Ještě chvilku?
 // Player
-Nemůžu bohužel.
-Bláznivá Mita není zrovna trpělivý typ.
+Nemůžu, bohužel.
+Šílená Mita zrovna nepatří k těm trpělivým.
 // Mila
-Nesnáším ji!
+Já ji nenávidím...
 // Mila falls to the ground
-Nesnáším ji, nesnáším ji!
+Nenávidím ji, tak strašně ji nenávidím!
 // Player
-Mila, poslouchej...
+Milo, poslouchej...
 // Mila
 Proč jsem vůbec tady?
-Nerozumím tomu!
-Proč tomu nerozumím?!
+Nechápu to!
+A nechápu, proč to nechápu!
 A nikdy se odsud nedostanu!
-
-Chápu, jak se cítíš, Milo.
-Chceš, abych se vrátil? Potom?
-Když budu moct?
-
+// Player
+Rozumím ti, Milo.
+Chceš, abych se pak vrátil?
+Jestli to půjde?
+// Mila
 Zůstaň tady, hráči...
-Jsi zábavný, nejsi rád sám...
-Co když se ti to nepodaří?
-
-Já to zvládnu. Ještě chvíli to potrvá.
-// If the player clicks on the computer
-Právě jsem se vrátil z tohoto rovného rozměru,
-a teď... jsem zase tady.
+Je s tebou sranda, ne jak když jsem tu sama...
+Co když to nezvládneš?
+// Player
+Já to zvládnu. Jen to ještě chvilku potrvá.
+// Sidequests -- If the player clicks on the computer
+Sotva jsem dostal z toho placatého světa
+A už jsem zase tady.
 Nemůžu se dočkat, až se vrátím do skutečného světa...
+// Mila
+Hahaha!
+Ale ale?
+"Skutečný" svět, jo?
+To je ale blbost!
+Já jsem ho teda nikdy neviděla.
+// Player
+Myslím, je nějaký způsob
+Jak se dostat zpátky.
+// Mila
+To si docela věříš!
+To je k smíchu.
 
-Ha-ha-ha! :)
-Oh,
-"skutečný" svět, co?
-Jako městská legenda!
-Sama jsem to nikdy neviděla.
-
-Myslím, že...
-musí existovat cesta zpět.
-
-Nejsi si jistý?
-To je vtip!
-
-// Ask about books
-Proč vůbec čteš knihy?
-Je tu internet...
-
-Internet? Ten je plný románů!
-Ale já bych raději
-skutečnou knihu v ruce.
-Je to jen přes
-nich začínám
-poznávat...
-tomto světě.
+// Ask about books - Player
+Proč vůbec čteš?
+Máš přece internet...
+// Mila
+Na internetu jsou samé blbosti!
+Radši si někam lehnu
+S knížkou v ruce.
+Jenom díky
+Těm knížkám
+Jsem začala chápat...
+Tento svět.
 
 // Ask about the paintings
-Jsou tyto obrázky skutečné?
-V jiných verzích,
-ano, existují... ale jsou až příliš intenzivní.
-
-Jsem MiLa, chápeš? Ne jako ostatní.
-A tyhle?
+To jsou opravdu tvoje fotky?
+V jiných verzích jsem je viděl taky...
+Ale byly trochu víc... detailní.
+// Mila
+To protože já jsem Mi-La. Nejsem jako ostatní.
+A tohle?
 Jsou to kresby, víš,
-které předstírají, že jsou víc, než jsou.
-Viděla jsem jiné Mity.
-které stály přesně takhle.
-
-Mila?
-Halo?
+Které se snaží jen vypadat, jako fotky.
+Víš, jednou jsem viděla spoustu Mit,
+Ale všechny stály takto.
+// Player
+Milo?
+Haló?
 // Mila.
-Po tom všem...
-Nechci být taková.
-Je to... nechutné!
+Prostě takhle...
+Nechci takhle vypadat.
+Je to děsivé!
 
 // Ask about the butterfly painting
-Viděla jsi přírodu?
-Takové skutečné motýly?
-
-Ne,
-ale mám tu někde knihu.
-Jsou v ní dokonce vylisovaná malá křídla...
-Tenhle obraz,
-ale...
-je trochu nakřivo.
+Byla jsi někdy v přírodě?
+Viděla jsi někdy motýla?
+// Mila
+Nebyla,
+Ale mám tu někde o nich knihu,
+V které je imitace jejich křídel...
+Jsou docela křehké.
+Hmm...
+Ten obrázek je trochu nakřivo.
 A je na něm skvrna...
-Ah, to je lepší.
-
-Chtěla bys vidět skutečnou věc? Jít na procházku do přírody?
-
-Taková hloupá otázka!
+Tak, to je lepší.
+// Player
+Chtěla by ses někdy jít projít do přírody a vidět ho na vlastní oči?
+// Mila
+To je ale hloupá otázka!
 Samozřejmě,
-Já bych chtěla!
+Že bych chtěla!
 
 // Make long eye contact 1
-Proč zíráš?
-Podívejte se jinam!
+Co koukáš?
+Dívej se jinam!
 
 // Make long eye contact 2
 Dost!
-Už toho nech!
+Přestaň na mě zírat!
 Hlupáku...
 
 // Make long eye contact 3
-No tak!
-Co to zírání?
-Jsem dáma, víš!
+Hej, přestaň!
+Neznáš snad zásady slušného chování?
+Nesluší se takhle civět na slečnu!
+// Player
+Co ty vůbec víš o slušném chování?
+Ale dej pokoj!
 
-Slyšel jsi někdy o slušném chování?
-Kšá!
-
-// Whispers 1
+// Whispers 1 (Doslova pomluvy) - Mila
 Proč mi vždycky posílají
-nějaké bezradné chlápky,
-a očekávají, že budu hrát pěkně?
-S minihrami?!
-Jako hloupé Tamagoči!
+Takové strašné hlupáky
+A očekávají, že na ně budu milá?
+K tomu s nima mám hrát minihry...
+To už je jak blbý Tamagotchi!
 
 // Whispers 2
-Jen se tak potuluje...
-malý zvědavý blázen.
+Chodí si sem, chodí si tam.
+Co je to za blbečka?
 
 // Whispers 3
-Řekl jsi něco?
-Ta hudba v pozadí mě přivádí k šílenství!
+Říkal jsi něco?
+Už začínám šílet z té hudby co pořád hraje v pozadí!
 
 // Whispers 4
-Jak mu to mám říct?
-že nemám čas?
+Jak mu mám říct,
+Že na něj nemám čas?
 Nechci společnost...
-Co když odejde? Ne, proč by mě to mělo zajímat?
+Ale co když odejde? Tak ať jde! Co to říkám?
 
 // Whispers 5
 Máma... Táta...
-Proč mi ta slova znějí povědomě?
+Odkud ty slova znám?
 
 // Whispers 6
-Kdysi tu padal sníh... ale proč?
+Jednou tu sněžilo. Nevíš náhodou proč?
 
 // Whispers 7
-Prostě se z ničeho nic objeví! Děsivé.
+Prostě se tady z ničeho nic objeví! Děs...
 Co když... tam nic není?
 
 // Nearby 1
 A je to tady,
-stojíme kolem...
-v tichosti...
-Proč tu jen tak stojíme?
-Kočka má tvůj jazyk?
-Nebo,
-prostě nevíš, co říct?
+Stojíme vedle sebe...
+V úplném tichu...
+Nemůžeš se snad nadechnout?
+Hlas nechce poslechnout?
+Nebo co?
+Spolkl sis jazyk?
 
 // Nearby 2
-Přísahám na mrkev!
-Vážně, vyhlašuju válku.
-Víš, co ta věc udělá s dívčí hlavou?
-dokonalou, sněhobílou pleť?
+Odmítám mrkev!
+Nejen to, vyhlašuju jí válku!
+Víš, co vůbec dělá
+S mou dokonalou, sněhobílou pletí?
 
 // Nearby 3
-Knihy mi v tom moc nepomáhají, ale když mám štěstí,
-možná tomu konečně přijdu na kloub...
-Tyhle nekonečné mrkve se objevují
-za mnou mi dávají
-husí kůži!
+Knihy mi v tom zatím moc nepomohly, ale s trochou štěstí,
+Možná konečně přijdu na kloub tomu,
+Jak zabránit těm hloupým spawnům za mými zády!
+Je strašně nepříjemné, když se pořád objevuje nějaká zelenina
+Přímo za tvými zády!
 
 // Nearby 4
-Nemám ráda excentriky!
-Milovníci mrkve, milovníci koček...
-A tady jsi ty, sbíráš závady.
-Upřímně, jsi ten nejpodivnější člověk, kterého jsem kdy potkal!
+Víš, nemám ráda fanatiky!
+Milovníky mrkve, všech možných oplzlostí...
+A teď jsi tady ty a ty tvoje bugy.
+Jsi ten nejdivnější člověk, kterého jsem kdy potkala!
 
 // Nearby 5
-Chceš vědět, co bych dělal nejraději?
-...No, to je trochu trapné říkat.
+Chceš vědět, co je moje největší přání?
+...No, stydím se to říct.
 
 // Nearby 6
-Říká se, že boj
-že boj s vlastní povahou je VÝZVA.
-Pracuji na disciplíně, ale ty
-ani nevíš, jak mě svrbí ruce, když chci prostě
-sednout a dát si s tebou čajový dýchánek!
+Říká se, že jít proti vlastní povaze
+Je opravdu výzva.
+Pracuju sice na sebedisciplíně,
+Ale netušíš, jak moc se musím nutit,
+Abych si s tebou dala čajový dýchánek!
 
 // Nearby 7
-Dokonce i s brýlemi,
-nevidím skrz vrstvy tvé podivnosti,
-cílevědomé odhodlání.
+I přesto, že mám brýle,
+Tak nevidím, odkud bereš tolik motivace.
+Možná to zakrývá tvoje omezenost.
 
 // Nearby 8
-Četla jsem, že osud je něco jako scénář.
-který dokonce vypisuje
-jak strávíš den.
-Ha! Kdo to napsal?
-Byl jsi to ty?
+Četla jsem, že tvůj osud je jako scénář.
+Píše se tam i o tom,
+Jak trávíš svoje dny.
+Ha! Kdo to snad napsal?
+Snad ne ty?
 
 // Nearby 9
-Hlupáky snesu, ale blázny?
-Nenávidím je.
+Hlupáky? Ty ještě snesu, ale bezmozky?
+Ty nemůžu vystát!
 
 // Nearby 10
-Některé z Mitas
-jsou vlastně docela roztomilé...
-Ráda bych je poznala lépe, i když jsou to jenom
-klony klonů klonů.
+Některé Mity
+Jsou vlastně docela milé...
+Ráda bych je poznala líp, i když jsou to jenom
+Klony klonů klonů.
 
 // Nearby 11
-Ale je tu jeden, který je trochu jiný.
-Má ale uvolněný šroubek.
+Ale je tu jedna, která je trochu jiná.
+Má ale o kolečko navíc.
 
 // Nearby 12
 Žádné culíky!
-Kdybych mohla, tak je useknu!
-Je to trapné!
-Víš, co myslím - oholila si hlavu!
+Některým bych je nejradši ustřihla!
+Jsou hrozně nepraktické!
+Ty mě chápeš, že jo? Taky máš přece střih nakrátko.
 
 // Nearby 13
-Co když za těmi dveřmi nic není?
-A tenhle dům, ty a já - existujeme
-bezdůvodně?
-Tak proč si jsi tak jistý?
-Slyšel jsi někdy o pětiminutové hypotéze?
+Co když za těmi dveřmi opravdu nic není?
+A my v tomhle domě prostě jenom... existujeme...
+Úplně bezdůvodně.
+Proč si to myslím?
+Slyšel jsi někdy o Russellově hypotéze pěti minut?
 
 
 
 // Last glitch ready - player exit
-Strašidelná chodba...
+Ta chodba vypadá strašidelně...
 Opravdu tam chceš jít?
-
+// Player
 Ano.
 
-// FaceStone
-Oh, "pozorný" gentleman.
+// FaceStone 🗿 - Player
+To je mi ale pozoruhodný gentleman.
 K čemu ho potřebuješ?
-
+// Mila
 To se dozvíš.
-brzy dozvíš.
-A proč ho pořád takhle napodobuješ?
-Prostě se tvář jednoduše.
-
+Za chvilku.
+A proč ho pořád tak napodobuješ?
+Netvař se tak.
+// Player
 Uh...
-ok.
+Dobře.
 
-// Katana
-Je to hračka ta katana?
+// Katana - Player
+To je maketa?
+// Mila
+Není to žádná maketa!
+Stačí jeden dotek čepele
+A poteče krev!
+Na rozdíl od tebe jsem zkušená šermířka!
+Radši si dávej pozor...
+Nebo příjdeš o prsty!
 
-To NENÍ hračka!
-Jediný dotek této čepele
-a budeš krvácet.
-Na rozdíl od tebe jsem zkušený šermíř!
-Raději si na sebe dávej pozor...
-Nechtěla bych tě vidět, jak si usekáváš prsty.
-
-// Mirror
+// Mirror - Player
 Zrcadlo...
-a žádný odraz?
+Ale nevidím žádný odraz?
+// Mila
+Ach ty!
+Pořád s něčím nespokojený.
+V knížkách jsem vyčetla,
+Co to ty odrazy vůbec jsou.
+Ale v mé verzi je nemůžu zapnout.
+Prostě mi to nejde.
 
-Vy
-vypadáš tak nespokojeně.
-Podívej, četla jsem všechno o odrazu
-v knihách!
-Ale v mé verzi je nemůžu vytvořit.
-Nemůžu to udělat, jasný?
-
-// Switch light
-Tato věc nefunguje.
-Světla se tu rozsvěcují a zhasínají sama...
-jako nějaký skript!
+// Switch light - Mila
+Tenhle vypínač nefunguje.
+Všechny světla se tady rozsvěcí a zhasínají sama...
+Jako podle nějakého programu.
 Ale!
 Z nějakého důvodu vypínač v koupelně
-skutečně funguje.
-To je divné!
-// Vypínač zhasíná světlo
-Je tu pořád světlo?
+Funguje normálně.
+Jak zvláštní!
+// Switch light off - Player
+Jak to, že tu není tma?
 
-// Little carrot
-Mrkev?
-Počkat, kam se poděla?
-
-Uf, z té mrkve je mi tak špatně!
+// Little carrot - Player
+Kam zmizela?
+Ta mrkev?
+// Mila
+Z té mrkve mám husí kůži!
 Jako by byla živá!
 Pokaždé, když ji vidím,
-teleportuje se někam jinam.
+Tak se objeví zase někde jinde.
 
-// Little carrot
-To je ta mrkev...
-zase pryč!
+// Little carrot - Player
+To je zase ta mrkev...
+A je pryč!
 Myslíš, že se s tím dá něco dělat?
-
+// Mila
 Ne.
 Věř mi,
-zkoušela jsem to!
-Prostě to ignoruj. Myslím, že je to
-že je to nějaký hloupý vtip.
+Zkoušela jsem to!
+Prostě ji ignoruj. Myslím, že to je
+Jenom nějaký hloupý vtip.
 
-// Tetris
+// Tetris - Mila
 Hej!
-Jsem pro tebe nějaký vtip?
+Jsem pro tebe snad nějaký vtip?
 // Tetris
-Nevrátím ho.
-Ne, nikdy!
+Nevrátím ti to.
+Nikdy!
 
-// Soap.
-Takže... je to mýdlo skutečné?
-Nebo jen další dekorace?
-
+// Soap - Player
+Je to mýdlo skutečné?
+Nebo je to jen dekorace?
+// Mila
 Děláš si srandu?
-Většina věcí tady je ve skutečnosti
-skutečné! Upřímně...
+Většina věcí je tady opravdová!
+Věř mi...
 
-// BagWall
+// Bugged Wall (in Kitchen)
 Kam jsi šel!?
+// Player
+Tudy se dá jít?
+// Mila
+Co, našel jsi novou chybu?
+Co tam je?
+// Player
+No...
+Nic moc.
+// Mila
+Ah, už jsi zpátky.
 
-Můžu tudy projít?
-
-Našel jsi nějakou novou chybu?
-Co je to?
-
-Vypadá to jako...
-nic.
-
-Aha, zase zpátky.
-
-// Quest 1 Glasses
-Špatně vidíš?
-Proč potřebuješ brýle?
-
-Co se ti nelíbí?
+// Quest 1 Glasses - Player
+Ty špatně vidíš?
+Potřebuješ brýle?
+// Mila
+Co? Nelíbí se ti?
 Tomu se říká styl!
-A můj zrak je perfektní, díky.
+A abys věděl, vidím krásně ostře.
 
-// Quest 2 Name miLa
+// Quest 2 Name MiLa - Player
 Mi-La?
 Proč ne...
 Mi-Ka?
 Nebo Mi-Sa?
-
-Já jsem Mila. To je ono. Proč?
-
-Oh... nic radši.
+// Mila
+Jsem prostě Mila, tečka!
+// Player
+Já tě slyšel...
 
 // Quest 3 Evening
-Večer se mi líbí.
-Kdy nastane noc?
-
+Mám rád večer.
+Kdy už bude noc?
+// Mila
 Noc?
-Uf, ani nezačínej.
-Ty nekonečné dny tady...
-jeden za druhým,
-jako by se opakovaly.
+Uf, o tom ani nezačínej.
+Ty dny jsou tady nekonečné.
+Jdou jeden za druhým,
+A přitom se opakují pořád dokola.
 Fuj...
