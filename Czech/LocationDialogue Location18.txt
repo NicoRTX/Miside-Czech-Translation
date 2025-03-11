@@ -22,7 +22,7 @@ Zoufale jsem se snažil srovnat si myšlenky. Namáhal jsem mozkové závity, do
 
 // Player - [not]
 To je ono! Prostě se vrátím zpět do 3D!
-Překročím hranice tohoto světa, stejně jako všichni ti, kteří umí zneužívat chyb ve hrách!
+Překročím hranice tohoto světa, stejně jako všichni ti, kteří umí zneužívat bugy ve hrách!
 To přece taky umím!
 
 // Description
@@ -161,7 +161,7 @@ Je to kouzelný prsten! Co ti mám ještě vysvětlovat? Prostě mi ho dej!
 
 // Mita - [not]
 Ty na těch prstenech fakt ujíždíš, co?
-Prý "kouzelný"!
+Prý „kouzelný“!
 Hahaha!
 
 // Description

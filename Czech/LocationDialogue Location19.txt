@@ -220,7 +220,7 @@ Jsem jedinečná!
 Nechci být jako ostatní.
 // Player
 O to se neboj.
-Už teď jsi dost "jedinečná".
+Už teď jsi dost „jedinečná“.
 // Mila
 Já vím!
 Koukej, co dokážu!
@@ -288,7 +288,7 @@ Nemůžu se dočkat, až se vrátím do skutečného světa...
 // Mila
 Hahaha!
 Ale ale?
-"Skutečný" svět, jo?
+„Skutečný“ svět, jo?
 To je ale blbost!
 Já jsem ho teda nikdy neviděla.
 // Player
@@ -567,7 +567,7 @@ Kam jsi šel!?
 // Player
 Tudy se dá jít?
 // Mila
-Co, našel jsi novou chybu?
+Co, našel jsi nový bug?
 Co tam je?
 // Player
 No...

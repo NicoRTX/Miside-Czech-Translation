@@ -36,7 +36,7 @@ Viděl jsem i takové.
 A zjevně kvůli tomu trpí.
 // MitaKind
 Ano, jejich verze jsou rozbité,
-Jejich světy plné chyb. Však jsem ti to říkala.
+Jejich světy plné bugů. Však jsem ti to říkala.
 Ach jo...
 Asi víš, kdo za to všechno může, co?
 Šílená Mita.

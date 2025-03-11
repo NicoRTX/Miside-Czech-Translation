@@ -1,6 +1,6 @@
-
+// Player
 Milo! Ne! Ty jsi šílená!
-
+// Mita
 Ha ha! CO TO VIDÍM?
 Máš na tváři nový výraz?
 No tak, ukaž mi další!

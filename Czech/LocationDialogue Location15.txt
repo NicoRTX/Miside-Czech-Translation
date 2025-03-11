@@ -143,7 +143,7 @@ Ty jsi trdlo...
 Stejně jako všichni ostatní hráči...
 Čas nám vyšel akorát, podívej!
 Víš,
-"živý"
+„živý“
 Už nejsi potřeba.
 Promiň, hihi.
 // Player

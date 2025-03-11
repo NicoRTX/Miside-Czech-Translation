@@ -164,7 +164,7 @@ Za dělo?
 
 Jo.
 Myslel sis, že pojedeš zadarmo?
-Projíždíš přes minihru "Vpal monstrům!"
+Projíždíš přes minihru „Vpal monstrům!“
 Takže se připrav na palbu.
 
 // Funicular go

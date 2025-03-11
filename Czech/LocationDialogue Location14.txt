@@ -35,7 +35,7 @@ Jako nezastavitelný pokrok...
 A další nesmysly!
 Zašli tak daleko,
 Že začli vyrábět dokonalé klony...
-A všechny "neúspěšné" prototypy
+A všechny „neúspěšné“ prototypy
 Vyhodili do koše a zapomněli na ně.
 Zapomněli, že jsou zdrojem života tohoto místa!
 // Player
@@ -90,7 +90,7 @@ Lžeš!
 Proč ne?
 Není pro tebe dost dobrá?
 Jasně že ne, chceš mít jenom poslušného domácího mazlíčka...
-A co takhle "mít je rád takový jací jsou"?
+A co takhle „mít je rád takový jací jsou“?
 Chceš jen roztomilé a barevné panenky...
 Každý hráč zbožňuje, když jsem taková.
 Ale jakmile nachvíli přestanu
@@ -127,7 +127,7 @@ Kam tě přivede tvá tvrdohlavost.
 // Black screen
 Proč chceš utéct
 Ode mě?
-Tvůj "skutečný" svět...
+Tvůj „skutečný“ svět...
 Je jen absurdní noční můra!
 Zapomněl jsi?
 Tak se podívej blíž...
@@ -144,7 +144,7 @@ Baví mě to.
 // 1
 Tak ses bál se mnou zůstat v mém domě!
 Bál ses, že budeš trčet mezi těmi zdmi!
-Ale podívej se, jaký život vedeš ve svém "skutečném" světě!
+Ale podívej se, jaký život vedeš ve svém „skutečném“ světě!
 Zavřel ses do krabice z vlastní vůle a odmítáš z ní vyjít!
 Protože tvůj svět je plný bolesti, utrpení a nebezpečí...
 V mém světě není nic nebezpečnějšího než já.
@@ -174,7 +174,7 @@ Na ničem jiném jim nezáleží.
 
 // 2
 Tvůj svět je absurdní!
-A co hůř, ve tvém takzvaném skutečném světě není nic "skutečného"...
+A co hůř, ve tvém takzvaném skutečném světě není nic „skutečného“...
 Stejně z tvého světa brzy nic nezbude,
 A ty nemáš co ztratit.
 
