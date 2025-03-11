@@ -37,7 +37,7 @@ Chápu smysl, ale k čemu mi to je?
 Říkala jsem ti snad, že jít dál
 Je nebezpečné jen tak pro legraci?
 Narazíš na... figuríny...
-Zapomenuté a "vadné".
+Zapomenuté a „vadné“.
 Jsou velmi agresivní, fakt to chceš riskovat?
 // Player
 Co mám teda dělat?
@@ -65,7 +65,7 @@ Pak každou z nich zavedu
 Do jejich domova.
 
 // Quest 2 (Why is it so dark downstairs?)
-My Mity jsme "stvořeny" ve tmě,
+My Mity jsme „stvořeny“ ve tmě,
 Takže v ní musíme strávit nějakou dobu.
 Dokážeš si představit,
 Jak bolestivé je přejít do světla z úplné temnoty?
@@ -121,7 +121,7 @@ Na co si vzpomínáš?
 Byla tma.
 A byly tam různé nápisy
 Jako...
-"Pojď si hrát."
+„Pojď si hrát.“
 // MitaShorthairs
 Ach,
 Škoda...
@@ -197,7 +197,7 @@ Potřebujeme se dostat do verze 1.11,
 Index domu 805.
 Prvně její cesta vypadala takto.
 Snažili jsme se najít co nejkratší cestu,
-Takže Krásná Mita navrhla tuto cestu.
+Takže Cool Mita navrhla tuto cestu.
 A pak jsem nakreslila nejjednodušší cestu.
 Je to úplně jednoduché, že?
 Koukej.

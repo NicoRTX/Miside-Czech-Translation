@@ -84,8 +84,8 @@ Povolit hlas hráče
 Mita
 Krátkovlasá Mita
 Laskavá Mita
-Mita s čapkou
-Mini Mita
+Čapka
+Malá Mita
 Ospalá Mita
 2D Mita
 Mila
@@ -93,7 +93,7 @@ Ošklivá Mita
 Jádrová Mita
 Přízračná Mita
 Chibi Mita
-Mita figurína
+Figurína Mity
 
 
 
@@ -142,7 +142,7 @@ Překládají hru do jiného jazyka.
 Partnerský vydavatel
 Marketing hry
 Tester
-Hráli a našli všechny možné chyby.
+Hráli a našli všechny možné bugy.
 Tento překlad vytvořili nadšenci z komunity a na jejich žádost byl do hry přidán.
 Varování! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
 Mírumilovný režim je nyní dostupný!

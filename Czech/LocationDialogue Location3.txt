@@ -224,7 +224,7 @@ Tak k čemu jsou?
 
 Za prvé,
 Jsme ve hře.
-Takže ptát se "Proč" je...
+Takže ptát se „Proč“ je...
 Zbytečné.
 A za druhé, když vypadne elektřina
 Tak ji tady můžeš obnovit.
@@ -395,7 +395,7 @@ Je to kvůli optimalizaci, aby se hra nesekala.
 
 Nesekala?
 
-Ano. Hra má ještě nějaké chybky.
+Ano. Hra má ještě nějaké bugy.
 Doufám, že na žádné nenarazíš.
 
 // Quest 5

@@ -15,7 +15,7 @@ To je jedno, pojď sem...
 Gratuluji, vyhrál jsi!
 Taky jsem to hrála!
 Snažila jsem se posbírat všechny mince a dostat se na 1. místo
-Abych získala "úspěch"!
+Abych získala „úspěch“!
 No... nebylo to úplně jednoduché.
 Trvalo mi celkem dlouho, než jsem si zvykla na ovládání.
 
@@ -83,7 +83,7 @@ Doufám, že to půjde hladce.
 Co všechno vůbec je v těch chodbách?
 // MitaKind
 No...
-Vady, chyby, anomálie...
+Vady, bugy, anomálie...
 Někdy i živé...
 Některé jsou i nebezpečné, zaútočí na první pohled...
 // Player
@@ -97,7 +97,7 @@ A jen abys věděl, tak já jsem ji takhle nepojmenovala!
 Je jen...
 Velmi ranou verzí Mity.
 Hlavní problém s ní je,
-Že způsobuje hrozné chyby...
+Že způsobuje hrozné bugy...
 Obávám se, že bychom na ni mohli narazit.
 Koneckonců je nejblíž verzi nula...
 
@@ -757,7 +757,7 @@ Ale to je fuk.
 // Carrot - MitaCap
 Jejda!
 To je ale tuna mrkve!
-A vtipná chyba!
+A vtipný bug!
 Hahaha!
 
 // DoorExit - MitaCap
@@ -797,7 +797,7 @@ Trochu divné, nemyslíš?
 // TV - MitaCap
 Ale!
 Co s tím je?
-Asi jsi našel chybu!
+Asi jsi našel bug!
 Má to normálně zapnout televizi,
 Ale z nějakého důvodu to místo toho
 Ukazuje a schovává samotnou televizi!
