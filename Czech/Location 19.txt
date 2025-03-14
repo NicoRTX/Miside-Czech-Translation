@@ -1,9 +1,9 @@
-Drawlit
-Karty
-Otevřete dveře
+Malování
+Solitaire
+Odemknutí dveří
 2D Mita
 // Quest
 Už nic
-Máš špatný zrak?
-Proč ne jiné jméno?
-Venku je večer
+Ty špatně vidíš?
+Proč zrovna Mila?
+Venku se stmívá

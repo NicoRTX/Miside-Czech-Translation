@@ -5,9 +5,9 @@ Ty jsi Mita?
 Co když se chci vrátit?
 Jak jsem se dostal do hry?
 // Quest "Kitchen eat"
-Tvůj dům je útulný
+Je tady útulno
 Kdy se můžu vrátit domů?
-Cítím se tu jako ve snu…
+Cítím se tu jako ve snu...
 Proč jsou okna prostě jen bílé světlo?
 Proč používame nůžky, když jsme mohli použít nůž?
 Dobrou chuť!

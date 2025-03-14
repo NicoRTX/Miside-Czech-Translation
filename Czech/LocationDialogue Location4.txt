@@ -16,7 +16,7 @@ Jak jen budeme chtít.
 // Player
 Nemusela jsi.
 Zvykal jsem si na to, jak byly.
-Myslím si, že se s tímto rozložením budeme cítit lépe. // Mita
+Myslím si, že se s tímto rozložením budeme cítit líp. // Mita
 // Mita card game
 Takže,
 Můžeme hrát?
@@ -24,8 +24,8 @@ Hra funguje takhle:
 Tento žeton označuje typ,
 Jako třeba zdraví.
 Každý z nás hraje jednu kartu,
-A pokud bude tvoje karta mít vyšší
-Číslo zdraví
+A pokud bude tvoje karta mít
+Vyšší číslo zdraví
 Než moje,
 Vyhráváš.
 Vem si karty.
@@ -148,8 +148,8 @@ Jsme snad v něčím telefonu?
 V nějakém pomalém, kde se všechno načítá dlouho?
 
 Vůbec ne.
-Ale ne všechno je dokonalé
-V tomto světě...
+Ale ne všechno je tady
+úplně dokonalé...
 Načítá nás
 Jádro tohoto světa.
 
@@ -191,7 +191,7 @@ Prostě
 Neuvěřitelný! Šlo ti to skvěle!
 
 
-No tak, co to bylo? :(
+No tak, co to bylo?
 Tohle mě nebaví.
 
 Dobře,

@@ -8,7 +8,7 @@ Vzít prsten
 Smazat hru
 Ukončit
 Mačkat
-Zastavit
+Přestat //Zastavit?
 Běžet
 Otevřít zprávu
 Stáhnout aplikaci
@@ -17,7 +17,7 @@ Mluvit
 
 Vzít baterii
 
-Zkontrolovat
+Prohlédnout
 Položit
 Podat nůžky
 Odmítnout
