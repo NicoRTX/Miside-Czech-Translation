@@ -1,12 +1,12 @@
 Aplikace se spouští
 
-Potvrdit přihlášení
-Nesprávné přihlášení
+Přihlaste se prosím
+Přístup odepřen
 Programy
 Zpět
 
 Správce virtuálních zařízení
-Správce serverů [Vyber verzi]
+Správce serverů [Vyberte verzi]
 Monitorování hlavního procesoru [Vyberte verzi]
 Monitorování grafického procesoru [Vyberte verzi]
 Kvadratika
@@ -14,10 +14,10 @@ Ukončit hru
 
 
 Pokročilá správa systému
-Restartování postavy [Vyberte verzi]
-Restartování zařízení [Vyberte verzi]
+Restartovat postavu [Vyberte verzi]
+Restartovat zařízení [Vyberte verzi]
 Aktualizace verze [Vyberte verzi]
-Přepočítání geometrie [Obecné]
+Přepočítat geometrii [Obecné]
 
 
 
@@ -35,13 +35,13 @@ Smazat objekt [Vyberte verzi]
 Zobrazit kameru [Vyberte verzi]
 Zobrazit spouštěče [Vyberte verzi]
 Nastavení fyzikálního enginu [Vyberte verzi]
-Získat flash disk
+Vysunout flash disk
 
 
 
 Vedlejší funkce
 Editor binárního kódu [Speciální přístup]
-Editor jednotkové matice [Speciální přístup]
+Editor jednotkových matic [Speciální přístup]
 
 
 
@@ -49,10 +49,10 @@ Editor jednotkové matice [Speciální přístup]
 
 Zadejte verzi postavy
 Zadejte index postavy
-Potvrdit restart
+Pro potvrzení restartu
 Použijte páku
 Spustit podprogram
-Restartování procesu probíhá!
-Příprava na restart
-Restartování...
+Probíhá restartování postavy
+Postava se restartuje
+Nevypínejte počítač...
 Potvrdit

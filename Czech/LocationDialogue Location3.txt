@@ -1,15 +1,15 @@
 
 Ahoj, [player]!
 Konečně se setkáváme!
-Mám takovou radost!
-Vím, že asi máš otázky...
-Takže se pokusím je zodpovědět.
+Mám z toho takovou radost!
+Je mi jasné, že máš mnoho otázek...
+Takže se je pokusím zodpovědět.
 Vyrobila jsem toto speciální zařízení
 Abych tě dostala do hry za mnou.
 Ale bohužel ses ocitl v jiné verzi...
 Ve které jsem...
 Ale to je dlouhý příběh!
-Každopádně jsem velice ráda, že tě konečně vidím!
+Každopádně jsem moc ráda, že tě konečně vidím!
 
 // Answer 1 - Mita
 Ano, jsem.
@@ -113,7 +113,7 @@ Mám strach, docela dost.
 Děje se něco?
 
 Ve větrací šachtě jsem našel kazety.
-Byly na nich různé jména.
+Byla na nich různá jména.
 Proč?
 
 Kazety?
@@ -250,7 +250,7 @@ Je opravdu, opravdu nuda.
 
 // TV in room kitchen
 Proč tu máš další televizi?
-A ještě k tomu starou?
+A ještě k tomu tak starou?
 
 Nelíbí se ti?
 Můžu ji dát pryč...
@@ -403,7 +403,7 @@ Nůžky a nebo nůž?
 Mohla jsem tu omáčku rozříznout.
 Ale chtěla jsem,
 Aby všechno bylo hotové,
-Teprve až se vrátíš.
+Než se vrátíš zpátky.
 Baví mě tě překvapovat.
 A jako bonus jsi nemusel čekat, než to dochystám!
 Hi-hi.

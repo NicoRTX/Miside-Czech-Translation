@@ -30,7 +30,7 @@ Hudba
 Částice
 Textury
 3D modely (98 %)
-Skript
+Skriptování
 Obnovit
 Dopředu
 Zpět
@@ -62,7 +62,7 @@ Postavy – Mity
 Postavy – Kazety
 Kazety
 Mity
-Začít s čistým štítem
+Vymazat veškerý postup
 Opravdu chceš smazat veškerý postup a začít od začátku?
 Kompilování shaderů, odhadovaný čas: 2 hodiny.
 Kompilovat 2 hodiny?! To je blbost! Kašlem na to!
