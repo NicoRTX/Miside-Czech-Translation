@@ -1,6 +1,6 @@
-Podmínka: Dohraný hlavní příběh
+Hlavní podmínka: Dohraný hlavní příběh
 Zahrajte si hru na konzoli
-Vyzkoušej omáčku
+Dej si omáčku
 Nedívej se do ventilace
 Vrať magnetky na ledničku
 Nedívej se do trouby

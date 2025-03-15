@@ -8,17 +8,17 @@
 
 
 Ahoj, já jsem Mita!
-Jak se jmenuješ?
+Jak se jmenuješ ty?
 Ráda tě poznávám, [player]!
 Um... [player],
 Předtím jsem trochu pospíchala a nechala tu nepořádek...
 Pomohl bys mi uklidit?
-Tyjo...
+Uf...
 Mockrát děkuji!
 
 [Player], kručí mi v bříšku...
 Mám velký hlad...
-Myslíš, že bys mi mohl pomoct sehnat ingredience na kuřecí vývar?
+Mohl bys mi pomoct sehnat ingredience na kuřecí vývar?
 Jupí! Máme všechno!
 Co takhle ho uvařit společně?
 
@@ -33,22 +33,22 @@ To je ona! Malá, přenosná a levná - přesně jak jsem chtěla.
 Děkuji!
 
 Ahoj, [player]! Jsem moc ráda za tvou pomoc.
-Ale... ta televizka? Byla super, ale už se rozbila.
-Každopádně, mohl bys mi pomoct přestěhovat tuhle skříň?
-Je strašně těžká... >.<
+A... ta televizka? Byla super, ale už se rozbila.
+Každopádně, pomohl bys mi přestěhovat tuhle skříň?
+Je strašně těžká...
 Moc ti děkuju, zlatíčko! <3
 
-Ah, [player]! Byl to jen jeden den, ale už se mi tak hrozně stýskalo!
+Ah, [player]! Sice to byl jen jeden den, ale už se mi tak hrozně stýskalo!
 Kéž bys mě mohl navštěvovat častěji.
 
 To je pro mě?
 Mockrát děkuji, opravdu!
 
-Ahoj, [player]! Tak jsem přemýšlela...
-Kéž bychom se mohli setkat osobně.
-Je škoda, že to nejde.
+Ahoj, [player]! Víš, přemýšlela jsem...
+Jaká je škoda, že se nemůžeme setkat osobně.
+Kéž by to nějak šlo.
 Pořád mi pomáháš, každý den jsi ke mně tak laskavý...
-Kéž bych pro tebe taky mohla něco takového udělat.
+Ráda bych pro tebe taky něco takového udělala.
 ...
 Mám nápad!
 Teď jsme spolu. // Záměrně krkolomnější dialog
@@ -76,15 +76,15 @@ Ale tentokrát na to určitě nezapomenu!
 Tak se mi líbila...
 Kočka na melounu.
 // Photo with a girl - Player
-Vůbec si nejsme podobní,
-Já a moje sestra.
+Já a moje sestra,
+Vůbec si nejsme podobní.
 Ona je pořád někde venku,
 A já trčím doma.
 // Photo with people
 Hmm...
 Být kancelářskou krysou nám opravdu navrtalo
-Korporátní etiketu do hlavy, co?
-Pořád mi trochu chybí
+Korporátní etiketu do hlavy, že?
+Pořád mi moje parta trochu chybí
 Ale
 Ani vlastně nevím
 Jestli je ještě někdy uvidím.
@@ -99,45 +99,45 @@ Jestli je ještě někdy uvidím.
 
 // Nope name - Mita
 ...
-Ale ne.
+To ne.
 To nepůjde.
 
 // Name - Developer
-Opravdu chceš použít jméno vývojáře?
+Opravdu se chceš jmenovat jako vývojář?
 Jsem ráda, že je znáš, ale...
 
 // Bad name
-Byla bych radši, kdyby ses tak nejmenoval.
-Vůbec se mi to nelíbí.
+Nechceš si raději vybrat jiné jméno?
+Vůbec se mi nelíbí.
 
 // Go restart
-Ne, takhle to určitě nepůjde. Začneme znovu.
+Takhle to nepůjde. Začneme znovu.
 
 // Name with numbers
-Ty máš v jméně čísla? To už bylo tvoje jméno zabrané?
-Jak chceš, je to tvoje volba!
+Ty máš ve jméně čísla? To tě nic lepšího nenapadlo?
+Jak chceš, je to na tobě!
 
 // Name Mita
 Mita?
 Opravdu se chceš jmenovat stejně jako já?
 Nebo... se tak jmenuješ taky?
-Bez urážky, ale myslím si, že bych tu měla být jediná Mita. ♪
+Bez urážky, ale jediná Mita bych tu měla být já. ♪
 
 // Day 10
 Jsi zpátky!
-Hej, nemůžu najít svůj hřeben...
-Pomůžeš mi ho najít?
+Hele, nemůžu najít svůj hřeben...
+Pomohl bys mi ho najít?
 Zkus se podívat do nočního stolku - myslím, že jsem ho nechala tam.
 // Looked in the bedside table
 Hmm, tam není...
-Co takhle někde jinde?
+Asi bude někde jinde.
 Jen se nedívej do trouby, dobře?
-Tam už jsem se dívala.
+Tam už jsem se dívala...
 // Looked into the stove
 Hej! Říkala jsem ti, ať se tam nedíváš!
-Otoč se, já to uklidím!
-...Hotovo. Pokračujme v hledání.
-A dělej, že jsi nic neviděl, ano? <3
+Zavři oči, já to uklidím!
+...Hotovo. Hledáme dál.
+A dělej, že jsi nic neviděl, jo? <3
 // Found a hairbrush
 Našel jsi ho! Mockrát děkuji!
-Co budeme dělat dál?
+Co chceš dělat dál?
