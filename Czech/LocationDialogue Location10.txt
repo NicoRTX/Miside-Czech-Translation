@@ -58,7 +58,7 @@ Snad ti to pomůže!
 
 
 // Quest 1 (Why are there other Mitas down there?)
-Jsou čerstvě vyrobené.
+Jsou čerstvě vyrobený.
 Potřebují čas
 Aby získali sebeuvědomění
 Pak každou z nich zavedu
@@ -68,7 +68,7 @@ Do jejich domova.
 My Mity jsme „stvořeny“ ve tmě,
 Takže v ní musíme strávit nějakou dobu.
 Dokážeš si představit,
-Jak bolestivé je přejít do světla z úplné temnoty?
+Jak bolestivý je přejít do světla z úplné temnoty?
 
 // Quest 3 (What are you doing here?)
 Ty to ještě nechápeš?
@@ -101,7 +101,7 @@ Mám pocit,
 Že jsem tě viděl v nejnovější verzi.
 Nebo se mi to jenom zdá?
 // MitaShorthairs
-No, to je dost možné.
+No, to je dost možný.
 Jsem z verze 1.5.
 Byl jsi v ní?
 // Player
@@ -112,9 +112,9 @@ Tak jsem skončil tam.
 Páni!
 Ale jak...?
 Zajímalo by mě jaký byl index domu, ve kterém jsi byl.
-Je tady verze mě, která neustále fňuká,
-Která pořád dělá vylomeniny,
-Se špatnou pamětí a potřebou strašit ostatní.
+Je tady verze mě, která jenom fňuká,
+Furt dělá vylomeniny,
+Na všechno zapomíná a má potřebu strašit ostatní.
 Ach, mohla bych toho jmenovat spousty...
 Na co si vzpomínáš?
 // Player
@@ -137,7 +137,7 @@ Dobře, jak chceš.
 // Mita wants to tell you [Yes].
 Dobře, vysvětli mi to.
 Jen doufám, že to nebude jako ve škole
-A neusnu nudou.
+A neusnu tady nudou.
 // MitaShorthairs
 Jestli chceš, tak můžeš jít pryč.
 Ale pokud tě to zajímá
@@ -146,10 +146,10 @@ Hráč si stáhne MiSide na svůj mobil.
 Spokojeně hraje a užívá si hru.
 Vytvoří si tak nový domov
 A novou Mitu.
-Zde je nakreslená 2D reprezentace.
+Tady je to máš nakreslené.
 Tohle jsou verze,
-Znázorněny jako čáry.
-Na těchto čarách jsou domy.
+Tady ty čáry.
+Na těch čarách jsou domy.
 Když si stáhneš verzi 1.14,
 Zrodí se nová Mita
 A s ní i nový dům.
@@ -199,7 +199,7 @@ Prvně její cesta vypadala takto.
 Snažili jsme se najít co nejkratší cestu,
 Takže Cool Mita navrhla tuto cestu.
 A pak jsem nakreslila nejjednodušší cestu.
-Je to úplně jednoduché, že?
+Je to jednoduchý, ne?
 Koukej.
 Odsud se můžeš dostat přímo k požádované verzi
 Tenhle dům možná vypadá nepřístupně,
@@ -210,7 +210,7 @@ Kam tě poslali?
 K Jádru.
 // MitaShorthairs
 K Jádru?
-Zajímavé...
+Zajímavý...
 Pokud tě poslali nejkratší cestou
 Budeš muset projít verzí 1.11.
 Tam se určitě setkáš s Ospalou Mitou.

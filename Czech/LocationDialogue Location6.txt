@@ -16,7 +16,7 @@ Co si na mě chystá?
 // MitaKind
 Kruci!
 Jestli to vyjde, tak ti všechno řeknu.
-Najdi klíč vedle gauče.
+Vezmi ten klíč vedle gauče.
 // Player
 Ale...
 
@@ -95,9 +95,9 @@ Objevila se ona...
 A proměnila hráče v kazetu
 A zavřela mě tady.
 
-Počkat, ona z něj udělala kazetu?
-Může to vůbec udělat?
-Ale proč?
+Počkej, ona z něj udělala kazetu?
+Jak to vůbec dělá?
+A proč?
 K čemu potřebuje hráče?
 
 Očividně je šílená...

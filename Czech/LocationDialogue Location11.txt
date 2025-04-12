@@ -17,7 +17,7 @@ Obzvlášť pro tebe.
 
 // After a while 1
 Ty se teda moc nebojíš!
-Baví mě tě pozorovat,
+Baví mě pozorovat,
 Jak procházíš
 Těmito místy...
 Jen utíkej, miláčku!
@@ -137,7 +137,7 @@ To, že jsi velký, neznamená, že jsi všemocný!
 
 // HEY! STOP!
 Proč mě pronásleduješ!
-Jdi do prčic!
+Odprejskni pryč!
 
 
 
@@ -183,6 +183,6 @@ Nerozumím tomu...
 Proč tam jen tak stojíš?
 // Funicular tetris
 Cože? Konzole?
-Kámo...
+Ach jo...
 // Funicular goodbye
 Měj se.

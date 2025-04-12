@@ -112,24 +112,24 @@ To máš pravdu... // Player
 
 // Quest 8 (You were talking about some kind of plan...) - MitaKind + Continue
 Musíme se dostat k Jádru.
-Něco mi říká, že tam najdeme odpověď
+Něco mi říká, že tam najdeme řešení
 Na všechny naše problémy.
 // Player
 Na co vlastně potřebuješ v Jádru pomoc hráče?
 // MitaKind
-Z nějakého důvodu my, Mity, nemůžeme
-Do Jádra vstoupit.
+Z nějakého důvodu my, Mity,
+Nemůžeme do Jádra vstoupit.
 Viděla jsem ho jen zvenčí.
 Ale ty nejsi Mita, ty jsi hráč.
-Věřím, že ty určitě
-Budeš moci jít dovnitř!
+Takže věřím, že ty se určitě
+dovnitř dostaneš!
 Zní jako plán?
 Dobře. // Player
 Skvěle. // MitaKind
 Takže...
 Je na čase, abych ti představila
 Cool Mitu!
-Protože nosí tu cool čepici,
+Ale protože nosí cool čepici,
 Tak jí prostě říkám
 Čapka.
 Probírala jsem s ní náš plán
@@ -166,10 +166,10 @@ Zatím nám to nejde
 Měli jsme použít portál
 A tím si milionkrát ulehčit a urychlit cestu.
 Ale bez pomoci Čapky ho nezprovozníme.
-A dokonce nám chybí i nějaké součástky...
+A k tomu nám chybí i nějaké součástky...
 Možná je trochu roztěkaná, ale pálí jí to...
 Dobře, co teď budeme dělat? // Player
-Na něco příjdu. // MitaKind
+Na něco přijdu. // MitaKind
 A co jí udělala Šílená Mita? // Player
 // MitaKind
 No... Myslím, že...
@@ -190,7 +190,7 @@ A co hráči?
 Jde nás taky zabít a tím vymazat paměť?
 // MitaKind
 Určitě ti lze vymazat vzpomínky.
-Teda alespoň poté, jakmile se z tebe stane kazeta.
+Teda alespoň jakmile se z tebe stane kazeta.
 Ale co se stane zemřelému hráči,
 To ani já nevím.
 // Player
@@ -310,7 +310,7 @@ Odpal!
 
 // MitaCap
 Všechno jsem slyšela!
-Nevím vůbec, co se děje,
+Vůbec nevím, co se děje,
 Ale je to všechno tak zajímavé!
 Hádám,
 Že už víš, kdo jsem?
@@ -340,7 +340,7 @@ Eh, tak nic.
 Hej,
 Ty jsi docela energická, že?
 // MitaCap
-JSEM!
+JASNĚ!
 Rozhodně jsem!
 Ale...
 Pojď!
@@ -543,13 +543,13 @@ Už toho tancování bylo dost!
 Máš tu hezké fotky.
 S tebou je asi vždycky zábava, co?
 // MitaCap
-Je to tak, já jsem prostě já!
+Je to tak, jsem to prostě já!
 A ukázala jsem jim, co jsem zač!
 // Player
 Aa... komu přesně?
 // MitaCap
 Vážně se ptáš na to komu?
-Koho to zajímá! Stejnak se vsadím, že byli všichni slepí!
+Koho to zajímá! Stejnak si myslím, že byli všichni slepí!
 
 // CutBoard - Player
 Tyjo,
@@ -588,8 +588,8 @@ To určitě. // Player
 
 // Fruits - Player
 Je to ovoce skutečné?
-Vypadá totiž úžasně.
-Může se vůbec někdy zkazit?
+Vypadá totiž lahodně.
+Může se tady vůbec někdy zkazit?
 // MitaCap
 O, myslíš ty jablka?
 Nestihnou se zkazit,
@@ -597,7 +597,7 @@ Protože je vždycky sním!
 A pak se tu zase objeví.
 
 // Photo and cat - Player
-Roztomilá kočička.
+To je roztomilá kočička.
 // MitaCap
 Je k sežrání?
 // Player
@@ -605,7 +605,7 @@ Počkat, co?
 Kočky se nejí!
 // MitaCap
 Ty jsi ale hlupáček!
-Já to vím!
+Já vím!
 Chtěla jsem říct,
 Že jsem nikdy žádnou kočku neviděla!
 Teda skutečnou.
@@ -618,13 +618,13 @@ Mám je rád.
 // Mita Kind with ring - Player
 Co to je?
 // MitaKind
-Je to rozhraní prstenu,
-A právě měním trasu.
+To je rozhraní prstenu,
+A právě měním jeho trasu.
 // Player
 Ale... vždyť jen kreslíš kolečka?
 // MitaKind
 No počkej, pro tebe to možná vypadá jen jako kreslení koleček,
-Pro mě to je přenos dat.
+Ale pro mě to je přenos dat.
 // Player
 Bude to trvat dlouho?
 // MitaKind
@@ -632,11 +632,11 @@ Psst! Když mě nebudeš rušit,
 Tak to půjde rychleji.
 // MitaCap
 Jasně,
-Takže pokud tě budu stále vyrušovat,
+Takže pokud tě budu pořád vyrušovat,
 Tak ti to potrvá dýl?
 // MitaKind
 Ach, Čapko,
-Kéž by se ti vrátily vzpomníky...
+Kéž by se ti ty vzpomínky vrátily...
 // Player
 Nebude to na dlouho...
 // MitaCap
@@ -647,7 +647,7 @@ Musíme se dostat k Jádru.
 // MitaCap
 Mohla bych jít s vámi?
 // MitaKind
-Odpověď asi znáš...
+Zkus hádat...
 // MitaCap
 Ne?
 // MitaKind
@@ -672,7 +672,7 @@ Ehm...
 Co, že se včera stalo?
 Dnešek prostě nemá konce!
 Ahoj?
-Tudy je postel?
+Tudy je to do postele?
 Co mám dělat?
 Nestihnu to dokončit včas...
 V čem je problém?
@@ -710,7 +710,7 @@ Země volá, [player]!
 
 // Don't pay attention - MitaCap
 Ani se na mě nepodíval!
-Tak nudný...
+Jaká nuda...
 
 // quest Cap 1 - Player
 Co jste měli v plánu?
@@ -724,8 +724,8 @@ Nic si nepamatuješ.
 Vy jste vážně něco, lidi!
 Co bych si jako měla pamatovat!
 Děláte si ze mě jen srandu?
-No, ale když koukám na tvůj výraz...
-Nedokážu říct.
+No, ale když tak koukám na tvůj výraz...
+Těžko říct.
 
 // quest Cap 2
 Jaké je to
@@ -762,7 +762,7 @@ Hahaha!
 
 // DoorExit - MitaCap
 Počkej, počkej!
-Nedívej, co tam je...
+Nedívej se, co tam je...
 Ať je to radši tajemství.
 // Player
 A co tam je?
@@ -771,7 +771,7 @@ Co by to bylo za tajemství
 Kdybych ti ho řekla!
 // Player
 Jasně...
-Proč tě to tak zaujalo?
+Proč tě to tak zaskočilo?
 
 // Tetris
 Páni!
@@ -806,13 +806,13 @@ Docela hustý, ne?
 // Player sit - Player
 Myslím, že se tu prostě posadím.
 // MitaCap
-Cože?
-No tak, vstaň!
-Pojďme se spolu bavit!
+Copak?
+Honem, vstávej!
+Pojďme se spolu nějak bavit!
 
 // Goodbye 1 - MitaKind
 Jdi těmito dveřmi
-Do chodby.
+Do té chodby.
 // MitaCap
 Pá pá!
 
