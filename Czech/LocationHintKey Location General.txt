@@ -96,7 +96,7 @@ Skok
 Otevřít
 
 Vybrat hru
-Dokončit hru
+Přestat hrát
 Pokračovat
 Hrát
 

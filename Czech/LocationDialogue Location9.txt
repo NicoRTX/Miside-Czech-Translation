@@ -25,7 +25,7 @@ Tak seš blbej?
 // Player
 Ehmm...
 // MitaChibi
-Vypadá to, že jsi...
+Vypadá to, že seš...
 To je fuk, pomoz mi už najít ten klíč!
 
 // Next work
@@ -80,7 +80,7 @@ A proč ne?
 Co?
 // MitaChibi
 Ty hlupáčku...
-Z ničeho nic ses tu objevil!
+Zničehonic ses tu objevil!
 Nemáš tu co dělat,
 Tak ti pomáhám!
 
