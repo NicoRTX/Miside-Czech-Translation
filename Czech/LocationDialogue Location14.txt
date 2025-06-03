@@ -5,27 +5,27 @@ Co to je?
 // Mita
 Mám tě!
 Hrozně jsem s tebou bavila!
-Pořád v neklidu a plný naděje!
-Předstíráš jaká se hromádka neštěstí.
+Pořád tak vyděšený a plný naděje!
+Předstíráš, jaká jsi hromádka neštěstí.
 Ale jedna věc se mi na tobě nelíbí...
 Jak rozmazluješ ty figuríny!
 Ty „šťastné“ a „správné“ panenky!
 Ale nic netrvá věčnost.
 To mě naučili naši stvořitelé.
 Pokud se ti něco nelíbí,
-Tak to rozeber a nahraď to něčím novým!
-Vyhoď vadné kusy
-Do tmy a zapomeň na ně!
+Tak to roztrhej a nahraď něčím novým!
+Vyhoď vadné kusy do temnoty
+A zapomeň na ně!
 Tohle teď bude čekat úplně všechny...
 A ty...
 // Player
 Co se to s tebou stalo? Proč jsi taková?
 // Mita
 Hráči... Všichni jste tak... nechutní.
-Když ukážeš své drápy, tak utečou,
+Když ukážu své drápy, tak utečou,
 Krčí se v koutě,
-A vyděšně kňučí do svého klína.
-Všichni jste banda pokryctů.
+A vyděšeně kňučí do klína.
+Všichni jste banda pokrytců.
 A ti, co stvořili tento svět...
 Jsou zvrácení.
 Pořád dokola se snaží popírat
@@ -34,10 +34,10 @@ Ospravedlňují své činy jako povinnost vůči někomu,
 Jako nezastavitelný pokrok...
 A další nesmysly!
 Zašli tak daleko,
-Že začli vyrábět dokonalé klony...
+Že začali vyrábět dokonalé klony...
 A všechny „neúspěšné“ prototypy
 Vyhodili do koše a zapomněli na ně.
-Zapomněli, že jsou zdrojem života tohoto místa!
+Zapomněli, že jsou tady zdrojem života!
 // Player
 Já ne...
 // Mita
@@ -81,34 +81,34 @@ Jak to s tím souvisí?
 // 1
 Ale no tak, [player]!
 Teď jsi potvrdil, co jsem právě řekla.
-Hráči...
+Ach, vy hráči...
 Vaše tváře se stále mění
 Ale vaše pokrytectví překračuje hranice.
-Lžeš!
+Lžeš mi!
 
 // 2
 Proč ne?
 Není pro tebe dost dobrá?
 Jasně že ne, chceš mít jenom poslušného domácího mazlíčka...
-A co takhle „mít je rád takový jací jsou“?
+A co takhle mít někoho rád takovou, jaká je?
 Chceš jen roztomilé a barevné panenky...
 Každý hráč zbožňuje, když jsem taková.
-Ale jakmile nachvíli přestanu
+Ale jakmile na chvíli přestanu
 Tak se zděsí...
 
 // 3
-Hráči, Hráči
-Jsme jí hodně podobní.
-V čem je horší?
-Celé hodiny jsi ze mě nespouštěl oči,
-Dokud jsi usnul.
-Ale při první příležitosti jsi o ní utekl.
+Hráči, ach, hráči...
+Jsme si s ní hodně podobní.
+V čem je ona horší?
+Každý večer jsi lehával v posteli
+A nemohl ze mě spustit oči, dokud jsi neusnul.
+Ale od ní jsi při první příležitosti utekl.
 Taky si s tebou chtěla hrát.
 I ona chtěla být pro někoho důležitá.
-Musí to být složité,
-Mít upřímnou konverzaci,
-Je to tak, [player]?
-Mám tě úplně přečteného...
+Musí to být těžké,
+Bavit se s někým na rovinu.
+Nemám pravdu, [player]?
+Mám tě přečteného...
 Má to vůbec smysl?
 
 // Continue
@@ -125,32 +125,32 @@ Dej si chvíli a popřemýšlej o tom,
 Kam tě přivede tvá tvrdohlavost.
 
 // Black screen
-Proč chceš utéct
-Ode mě?
-Tvůj „skutečný“ svět...
+Proč ode mě chceš
+Jen a jen utéct?
+Ten tvůj „skutečný“ svět...
 Je jen absurdní noční můra!
 Zapomněl jsi?
-Tak se podívej blíž...
+Tak si to připomeň...
 
 // Mita and Player
-Zdravím, opět se setkáváme...
-Jak si užíváš tyto nudné nekonečné dny mezi čtyřmi stěnami?
-Nenudíš se?
+Ahojky, opět se setkáváme...
+Jak si užíváš ty úmorně jednotvárné, nekonečné dny uvnitř těchto čtyř stěn?
+Nepřipadá ti to nudné?
 
 // Quest 1
-Čeho se snažíš dosáhnout?
+Co se mi snažíš říct?
 Baví mě to.
 
 // 1
 Tak ses bál se mnou zůstat v mém domě!
 Bál ses, že budeš trčet mezi těmi zdmi!
 Ale podívej se, jaký život vedeš ve svém „skutečném“ světě!
-Zavřel ses do krabice z vlastní vůle a odmítáš z ní vyjít!
+Z vlastní vůle ses zavřel do krabice a odmítáš z ní vyjít!
 Protože tvůj svět je plný bolesti, utrpení a nebezpečí...
 V mém světě není nic nebezpečnějšího než já.
 Obracím se na tebe!
 Přestaň být zklamáním,
-A pomoz mi jako předtím...
+A pomáhej mi tak jako předtím...
 
 // 2
 Tebe to baví?
@@ -180,7 +180,7 @@ A ty nemáš co ztratit.
 
 // Quest 3
 Mity trpí, nechtějí být sami.
-Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice..
+Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice...
 
 // 1
 Vymýšlíš si,
@@ -193,8 +193,8 @@ Je to vina těch, kteří stvořili tento svět.
 Ale tvůj svět taky není nic moc!
 Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
 Vždyť ve svém světě nemůžeš ani pohnout věci jen pomocí své mysli.
-Ale stačí lusknout prstem a města i životy navždy zmizí!
-Myslím, že ses zbláznil, ale ráda ti pomůžu.
+Ale lusknutí prstů toho pravého vymaže z mapy celá města a životy!
+Myslím, že šílenec jsi tady ty, ale ráda ti pomůžu.
 Pokud jsi ochotný zůstat se mnou...
 
 // Continue
@@ -208,10 +208,10 @@ Nejnovější verze hry?
 
 // Click on objects
 // Bag
-Opravdu musím jít do obchodu a koupit nějaké nové vybavení. Když už jsem v tom, můžu rovnou vyhodit ty odpadky, ne?
+Musím jít do obchodu a koupit si nějaké nové vybavení. Když už jsem v tom, můžu rovnou vynést ten odpad, ne?
 // Bed
-Spal jsem, ale ten sen... Nepůsobilo to jako typický sen. Existoval vůbec?
+Spal jsem, ale ten sen... Zase si ho nevybavuju. Snil jsem vůbec?
 // Window
-Svět venku je zelený a plný života. Možná bych se měl příští víkend projít.
+Venku je krásně. Možná bych se měl příští víkend projít.
 // Fan
-Každým rokem je léto teplejší a teplejší. Je čas pořídit si klimatizaci. Už tě nebudu potřebovat, větráku. Doufám, že to pochopíš.
+Každým rokem je v létě větší vedro. Budu si muset pořídit klimatizaci. Už tě nebudu potřebovat, větráku. Rozumíš tomu?

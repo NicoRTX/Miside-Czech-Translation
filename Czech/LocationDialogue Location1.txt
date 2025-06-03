@@ -25,8 +25,8 @@ Co takhle ho uvařit společně?
 
 Ahoj, [player]! Přemýšlela jsem, že bych si koupila přenosnou televizku.
 Nějakou malou s anténkou. Ideální na procházky, nemyslíš?
-Mimochodem, můžeš hrát hry abys vydělal peníze.
 Věděl jsi, že můžeš hrát hry a dostat za to peníze?
+Mohl by sis nějaké zahrát a koupit mi tu televizku?
 
 Hurá! Dokázal jsi to! Máš dost na to, abys mi koupil tu přenosnou televizku!
 To je ona! Malá, přenosná a levná - přesně jak jsem chtěla.
@@ -38,7 +38,7 @@ Každopádně, pomohl bys mi přestěhovat tuhle skříň?
 Je strašně těžká...
 Moc ti děkuju, zlatíčko! <3
 
-Ah, [player]! Sice to byl jen jeden den, ale už se mi tak hrozně stýskalo!
+Ach, [player]! Sice to byl jen jeden den, ale už se mi tak hrozně stýskalo!
 Kéž bys mě mohl navštěvovat častěji.
 
 To je pro mě?

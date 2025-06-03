@@ -40,7 +40,7 @@ Ale nevadí.
 Mám mnohem zajímavější nápady,
 Jako třeba...
 // Show recorder
-Podívej, com mám!
+Podívej, co mám!
 Potřebujeme nějakou muziku!
 Jak se ti líbí tahle melodie?
 Rozproudila mi krev v žilách!
@@ -54,7 +54,7 @@ NEHÝBEJ SE!
 Jinak zemřeš, chápeš?
 Je to jednoduché: dostaň se až na konec
 Než píseň skončí.
-Jdme na to!
+Jdeme na to!
 Na co čekáš?
 Utíkej, zlato, utíkej!
 
@@ -83,7 +83,7 @@ Tohle je zbytečné...
 Dokázal jsi to!
 Vedeš si skvěle! Začíná to být vzrušující!
 Teď to ale bude těžší.
-Mhonem, mnohem těžší.
+Mnohem, mnohem těžší.
 Schovej se, utíkej, otáčej se...
 // Player
 Jdi k čertu!

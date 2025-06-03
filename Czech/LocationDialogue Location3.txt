@@ -16,8 +16,8 @@ Ano, jsem.
 A ty jsi [player], že?
 
 // Answer 2 - Mita
-Chceš se vrátit už teď?
-S tím ti určitě můžu pomoct... Ale co já?
+Ty už se chceš vrátit?
+Bránit ti nebudu... ale co já?
 Zůstaň tu ještě se mnou, prosím...
 
 // Answer 3 - Mita
@@ -25,7 +25,7 @@ Vysvětlím ti to...
 A tak jsi tu!
 Pochopil jsi to?
 Uhm... úplně ne.
-To nevadí!
+No, to je jedno.
 Hlavní je, že jsme teď spolu.
 
 
@@ -59,19 +59,19 @@ Omáčka tomu dává tu správnou chuť!
 Děkuji.
 
 Už jsi to všechno snědl?
-Heh, moje porce mi příjde
+Heh, moje porce mi přijde
 Až nekonečná...
 
 
 // Help
-Co se děje?
-Řekni mi, co vidíš a cítíš.
+Jsi v pořádku?
+Řekni mi, co se ti děje.
 
 Srdce mi buší jako o závod,
 A vidím rozmazaně.
 
 Jasně.
-Asi tuším co to je.
+Asi tuším, co to je.
 Dokážeš vstát?
 
 
@@ -87,7 +87,7 @@ No tak.
 
 
 
-Jak se citíš?
+Jak se cítíš?
 Lepší?
 
 Ano.
@@ -119,7 +119,7 @@ Proč?
 Kazety?
 Jaké kazety?
 Podíváme se na to společně.
-Ale později.
+Ale až později.
 Teď se najíme.
 Podej mi nůžky, prosím.
 
@@ -128,7 +128,7 @@ Prsten?
 // Mirror
 Jak to, že nevidím žádný odraz?
 
-Ah, jasně!
+Aha, jasně!
 Zapomněla jsem zapnout odrazy.
 Prosím!
 Odrazy už zase fungují!
@@ -183,7 +183,7 @@ Vypadám roztomile.
 Ten počítač je funkční?
 Nebo je to jen taková dekorace?
 
-Samozřejmě, že funguje.
+Jasně, že funguje.
 Všechno, co tu vidíš,
 Funguje stejně, jako ve tvém světě.
 
@@ -212,7 +212,7 @@ Ale nikdy jsem si nevšiml, že by tady pršelo.
 K čemu je ti deštník?
 
 Občas tu prší - jen velmi zřídka.
-Asi jsi déšt ještě nezastihl.
+Asi jsi déšť ještě nezastihl.
 Možná se ho jednoho dne dočkáš.
 A pak se ti ten deštník bude hodit.
 Nemyslíš?
@@ -294,7 +294,7 @@ Počkej.
 Eh?
 Co to je?
 Koťátka v kroužku?
-Ah, podívej!
+Ach, podívej!
 A víš co?
 Pauza!
 Dáš si džus?
@@ -308,7 +308,7 @@ Je přímo z toho džusu v reklamě.
 
 Ach, ta chuť...
 Je celkem dobrá,
-Ale přesto nedokážu popsat jak chutná.
+Ale přesto nedokážu popsat, jak chutná.
 Všechno je to velmi matoucí.
 
 Je to tak.
@@ -365,7 +365,7 @@ Objevil jsem se tady z ničeho nic.
 A vůbec jsem se
 Na to nepřipravil.
 
-O... omlouvám se. Tak to jsem trochu nedomyslela.
+O... omlouvám se. To jsem trochu nedomyslela.
 // Quest 3
 To chceš utéct
 A zapomenout, že se tohle vůbec někdy stalo?
@@ -381,13 +381,13 @@ Jsem velmi skutečná,
 Ty hlupáčku!
 
 // Quest 4
-Tak to prostě je
-V tomto světě.
+Tak to v tomto světě
+Prostě je.
 Možná ti to bude připadat zvláštní,
-Ale věci, které jsou v dáli
-Se prostě nevykreslují.
+Ale to, co je daleko od tebe,
+Není vidět.
 
-Nepříjde mi to úplně zvláštní.
+Nepřijde mi to úplně zvláštní.
 Upřímně řečeno, vypadá to celkem dobře.
 
 Taky si myslím.
@@ -399,13 +399,13 @@ Ano. Hra má ještě nějaké bugy.
 Doufám, že na žádné nenarazíš.
 
 // Quest 5
-Nůžky a nebo nůž?
-Mohla jsem tu omáčku rozříznout.
+Mohla jsem použít nůž
+a prostě tu omáčku rozříznout.
 Ale chtěla jsem,
 Aby všechno bylo hotové,
 Než se vrátíš zpátky.
-Baví mě tě překvapovat.
-A jako bonus jsi nemusel čekat, než to dochystám!
+Ráda tě překvapuju!
+A jako bonus jsi nemusel čekat, než to dochystám.
 Hi-hi.
 
 // Glasses - Player

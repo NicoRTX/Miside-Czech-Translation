@@ -16,11 +16,11 @@ Co?
 // Player
 Hledám způsob, jak se dostat do staré verze.
 // Mila
-Okej. Chápu.
+Dobře. Chápu.
 Stejně mám až moc práce na to,
 Abych tady zabavovala nějakýho hlupáčka.
 // Player
-S čím? Hraním s hračkama?
+Moc práce s čím? Hraním her?
 // Mila
 Ty seš ale drzej!
 Tak to teda kamarádi nebudeme.
@@ -34,8 +34,8 @@ Co jsi říkal?
 ...Musím se dostat k Jádru a zastavit Mitu!
 // Mila
 Mitu?
-Ale prosímtě!
-Do nich mi nic není!
+Jen do toho!
+Do ní mi nic není!
 Ani do první, ani do sté!
 // Player
 Ale ty jsi taky přece Mita...
@@ -109,9 +109,9 @@ Já se sprchuju!
 Co to mělo jako znamenat?
 Že se nestydíš!
 // Player
-Proč jsi najednou šla do koupelny?
-Mohlas počkat než odejdu.
-Proč jsi nepočkala?
+Proč jsi zrovna teď šla do koupelny?
+To jsi opravdu nemohla počkat,
+Než odsud odejdu?
 // Mila
 Nevěděla jsem, jak dlouho ti to může trvat.
 Jak dlouho si vůbec chceš hrát s těma bugama?
@@ -172,7 +172,7 @@ Našel jsem to.
 // Mila stands with a sword
 Hej, dáváš pozor?
 Tak teď bacha!
-Sleduj co umím!
+Sleduj, co umím!
 Tak dobrá jsem!
 Anis nemrkl.
 // Player
@@ -415,9 +415,9 @@ S mou dokonalou, sněhobílou pletí?
 // Nearby 3
 Knihy mi v tom zatím moc nepomohly, ale s trochou štěstí,
 Možná konečně přijdu na kloub tomu,
-Jak zabránit těm hloupým spawnům za mými zády!
-Je strašně nepříjemné, když se pořád objevuje nějaká zelenina
-Přímo za tvými zády!
+Co se tady děje s tou mrkví!
+Je strašně nepříjemné, když se mi za zády
+Pořád objevuje nějaká zelenina!
 
 // Nearby 4
 Víš, nemám ráda fanatiky!
@@ -432,7 +432,7 @@ Chceš vědět, co je moje největší přání?
 // Nearby 6
 Říká se, že jít proti vlastní povaze
 Je opravdu výzva.
-Pracuju sice na sebedisciplíně,
+Pracuju sice na sebedisciplině,
 Ale netušíš, jak moc se musím nutit,
 Abych si s tebou dala čajový dýchánek!
 
@@ -503,7 +503,7 @@ Stačí jeden dotek čepele
 A poteče krev!
 Na rozdíl od tebe jsem zkušená šermířka!
 Radši si dávej pozor...
-Nebo příjdeš o prsty!
+Nebo přijdeš o prsty!
 
 // Mirror - Player
 Zrcadlo...
@@ -573,7 +573,7 @@ Co tam je?
 No...
 Nic moc.
 // Mila
-Ah, už jsi zpátky.
+Ach, už jsi zpátky.
 
 // Quest 1 Glasses - Player
 Ty špatně vidíš?

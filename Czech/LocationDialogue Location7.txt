@@ -30,18 +30,18 @@ Ona vraždí všechny, kteří jí stojí v cestě. Musíme ji zastavit.
 // Quest 2 (How did I get here?)
 Ten prsten tě sem dovedl.
 Je to skvělý vynález.
-Jen hráč, který ho má,
-Najde cestu do správné verze.
+Jsi hráč, takže ho potřebuješ.
+Bez něj nenajdeš cestu do správné verze.
 
 // Quest 3 (What is this place?)
-Tyto chodby
-Propojují různé verze.
+Toto jsou chodby,
+Které propojují různé verze.
 Ano, je tu trochu prázdno.
 Dokonce jsem slyšela o jedné Mitě,
-Které nearchivovali její verzi...
-Její dům
+Jejíž verze se nearchivovala...
+A její dům
 Prostě přestal existovat...
-Prý se pořád někde toulá
+Teď se prý pořád jenom toulá
 V těchto chodbách.
 Je mi jí líto...
 
@@ -51,8 +51,8 @@ Už je to chvilka, co jsme se naposledy viděli.
 Díky tobě
 Jsem se dostala z toho vězení,
 A utekla té maniačce.
-A pro tvou informaci,
-Umím snadno přecházet mezi verzemi,
+Abys věděl,
+Dokážu snadno přecházet mezi verzemi,
 Na rozdíl od tebe, miláčku.
 
 // Quest 5 (What did you do with the ring?)
@@ -181,7 +181,7 @@ A když jakákoliv Mita zemře, tak se prostě restartuje.
 Zapomene na všechno důležité
 A obnoví se do továrního nastavení.
 Jinými slovy...
-Je to v prdeli.
+Je to v háji.
 // Player
 To je strašné...
 Asi lepší než zmizet navždy...
@@ -316,7 +316,7 @@ Hádám,
 Že už víš, kdo jsem?
 Já jsem Mita!
 Ale očividně ne stejná jako tamta!
-Chápeš jak to myslím, ne?
+Chápeš, jak to myslím, ne?
 Protože mám
 TUHLE!
 Úžasnou čepici!
@@ -834,4 +834,4 @@ Proč tu jen tak stojíš?
 Není čas ztrácet čas!
 // MitaCap
 Čauky!
-Teda- měj se!
+Teda, měj se!

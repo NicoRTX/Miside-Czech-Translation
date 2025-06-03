@@ -15,8 +15,8 @@ Ukončit hru
 
 Pokročilá správa systému
 Restartovat postavu [Vyberte verzi]
-Restartovat zařízení [Vyberte verzi]
-Aktualizace verze [Vyberte verzi]
+Restartovat jednotku [Vyberte verzi]
+Aktualizovat verzi [Vyberte verzi]
 Přepočítat geometrii [Obecné]
 
 
@@ -30,16 +30,16 @@ Příkazový řádek [Obecné]
 
 
 
-Pokročilé funkce
+Obecné funkce
 Smazat objekt [Vyberte verzi]
-Zobrazit kameru [Vyberte verzi]
+Zobrazit kamery [Vyberte verzi]
 Zobrazit spouštěče [Vyberte verzi]
 Nastavení fyzikálního enginu [Vyberte verzi]
 Vysunout flash disk
 
 
 
-Vedlejší funkce
+Pokročilé funkce
 Editor binárního kódu [Speciální přístup]
 Editor jednotkových matic [Speciální přístup]
 
@@ -51,7 +51,7 @@ Zadejte verzi postavy
 Zadejte index postavy
 Pro potvrzení restartu
 Použijte páku
-Spustit podprogram
+Spouštění podprogramu
 Probíhá restartování postavy
 Postava se restartuje
 Nevypínejte počítač...
