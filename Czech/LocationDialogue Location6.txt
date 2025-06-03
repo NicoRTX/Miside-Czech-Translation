@@ -14,13 +14,13 @@ Něco si na tebe chystá.
 // Player
 Co si na mě chystá?
 // MitaKind
-Kruci!
+Nemáme moc času.
 Jestli to vyjde, tak ti všechno řeknu.
-Vezmi ten klíč vedle gauče.
+Najdi klíč. Je někde vedle gauče.
 // Player
 Ale...
 
-Otázky si nech na později!
+Otázky si nech na potom!
 Dej mi ten klíč.
 Tady máš prsten
 K čemu?
@@ -56,14 +56,14 @@ Tohle se děje právě teď.
 Je to další hráč.
 Využívá ho.
 Dávej si na ni pozor,
-Může z tebe udělat kazetu.
+Taky z tebe může udělat kazetu.
 
 Musím odsud ihned vypadnout.
 A ty taky.
 
 Ano, to musíme.
 
-Takže říkáš.
+Takže říkáš,
 Že ho využívá.
 Co se stane, když vytáhnu tu kazetu?
 
@@ -92,7 +92,7 @@ Ale nemyslím si, že bude mít chuť na řeč...
 Byla jsem tady s jedním hráčem,
 A najednou se něco stalo.
 Objevila se ona...
-A proměnila hráče v kazetu
+Proměnila hráče v kazetu
 A zavřela mě tady.
 
 Počkej, ona z něj udělala kazetu?
@@ -101,10 +101,10 @@ A proč?
 K čemu potřebuje hráče?
 
 Očividně je šílená...
-Je to pro ní jen hra a vyžívá se v tom, potvora!
+Je to pro ni jen hra a vyžívá se v tom, potvora!
 Předělává hráče na kazety...
 Někteří ani netuší, že je promění...
-A ti co ví, se ani nebrání...
+A ti, co ví, se ani nebrání...
 Vůbec se mi to nelíbí.
 Musíš nám pomoct!
 Já? Ale jak?
@@ -131,7 +131,7 @@ Rychle, už jde!
 Následuj prsten. Dovede tě do bezpečí!
 
 
-No tak, řekneš mi kde je?
+No tak, řekneš mi, kde je?
 
 Proč bych to dělala?
 Nezabiješ ho, že ne?

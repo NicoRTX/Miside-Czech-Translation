@@ -5,10 +5,10 @@ Kde jsi byla?
 Jak ses sem dostala?
 Kdo byla ta Mita před chvílí?
 Jak funguje ten prsten?
-Proč mě Šílená Mita potřebuje?
+Co po mně Šílená Mita chce?
 Je tohle to Jádro?
 // Quest "Second"
 Co se děje?
 Můžeme ho zjistit?
 Co když zaútočíme na Šílenou Mitu?
-Pidi lidi
+Co jsou zač ti pidi lidi?

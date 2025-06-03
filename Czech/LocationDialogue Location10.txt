@@ -77,8 +77,8 @@ Kdo jiný jim tady pomůže, když ne já?
 Ty?
 
 // Quest 4 (Why do we need this conveyor?)
-K čemu je tahle výrobní linka?
-Je tam pro všechny dost místa?
+Proč se tady vyrábí tolik Mit?
+Je tu pro všechny dost místa?
 // MitaShorthairs
 Počkej, neříkej mi,
 Že nechápeš, jak funguje náš svět?
@@ -91,10 +91,10 @@ Pokud je nejnovější verze 1.9,
 Tak existuje pouze 19 světů.
 // MitaShorthairs
 Proboha, ty opravdu nevíš.
-Vůbec nechápeš jak to tady chodí.
+Vůbec nechápeš, jak to tady chodí.
 Všechno ti vysvětlím
-Tady na té tabuli
-Chceš to vysvětlit?
+Tady na té tabuli,
+Pokud teda chceš.
 
 // Quest 5 (What is your version?)
 Mám pocit,
@@ -111,7 +111,7 @@ Tak jsem skončil tam.
 // MitaShorthairs
 Páni!
 Ale jak...?
-Zajímalo by mě jaký byl index domu, ve kterém jsi byl.
+Zajímalo by mě, jaký byl index domu, ve kterém jsi byl.
 Je tady verze mě, která jenom fňuká,
 Furt dělá vylomeniny,
 Na všechno zapomíná a má potřebu strašit ostatní.
@@ -175,7 +175,7 @@ Protože se jí špatně spí,
 Když všichni procházejí její verzí?
 // MitaShorthairs
 Ne, tak to není.
-Můžeš kolo ní chodit jak moc chceš,
+Můžeš kolem ní chodit, jak moc chceš,
 Ale nemáš šanci ji vzbudit.
 
 // He asks about the shaded circle
@@ -185,7 +185,7 @@ No... ten je vyplněný
 Kvůli Krásné Mitě.
 Ona ten kruh vyplnila.
 Dohadovali jsme se o tom
-Kdo se dostane dřiv do verze 1.11.
+Kdo se dostane dřív do verze 1.11.
 // Player
 A kdo vyhrál?
 // MitaShorthairs
@@ -201,7 +201,7 @@ Takže Cool Mita navrhla tuto cestu.
 A pak jsem nakreslila nejjednodušší cestu.
 Je to jednoduchý, ne?
 Koukej.
-Odsud se můžeš dostat přímo k požádované verzi
+Odsud se můžeš dostat přímo k požadované verzi
 Tenhle dům možná vypadá nepřístupně,
 Což by ti znemožnilo projít...
 Každopádně tvůj prsten funguje na stejném principu.
@@ -232,7 +232,7 @@ A donese sem ten gauč!
 Už mě hrozně bolí zadek!
 // Player
 Emm...
-Můžu pomoct jestli chceš.
+Můžu pomoct, jestli chceš.
 // MitaShorthairs
 Ne, to je práce pro Cool Mitu.
 Je silná.

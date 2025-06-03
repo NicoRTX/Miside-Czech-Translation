@@ -6,12 +6,12 @@ Před chvílí jsi byla hned vedle mě. // Player
 Ne, nebyla.
 Ztuhl jsi před zrcadlem.
 Tak jsem odešla.
-Proč jsou pokoje jinak? // Player
+Proč jsou ty pokoje jinak? // Player
 // Mita
 Přestavěla jsem to tady,
 Abys ses tu cítil jako doma.
-Tady
-Můžeme měnit pokoje
+Tady můžeme
+Měnit pokoje
 Jak jen budeme chtít.
 // Player
 Nemusela jsi.
@@ -19,7 +19,7 @@ Zvykal jsem si na to, jak byly.
 Myslím si, že se nám to takhle bude líbit víc. // Mita
 // Mita card game
 Takže,
-Můžeme hrát?
+Můžeme začít?
 Hra funguje takhle:
 Tento žeton označuje typ,
 Jako třeba zdraví.
@@ -29,7 +29,7 @@ Vyšší číslo zdraví
 Než moje,
 Vyhráváš.
 Vem si karty.
-Teď jsem na řadě já.
+Tak se podívejme...
 Super!
 Dostala jsem pořádný karty!
 Jdu první!
@@ -84,7 +84,7 @@ Je to slyšet ze skříně.
 Zvuk?
 Jaký zvuk?
 Nic jsem neslyšela.
-Co sis myslel, že jsi slyšel?
+Co si myslíš, že jsi slyšel?
 
 Rachot, jako by tam někdo byl.
 
@@ -330,7 +330,7 @@ Až půjdeme ven.
 
 A co oblečení?
 Nemám v tomto světě
-Jiné oblečení, než to, které mám na sobě.
+Jiné oblečení než to, které mám na sobě.
 Můžu si nějak pořídit nové?
 
 Samozřejmě že ano.
@@ -378,7 +378,7 @@ Navždy a napořád.
 // A game about penguins
 Je to úplně jednoduché:
 Sbírej sněhové koule.
-Ten, kdo jich sesbírá víc, vyhravá!
+Ten, kdo jich sesbírá víc, vyhrává!
 Hrajeme na dvě kola, jo?
 // The first map
 Jak jsi jich dokázal sebrat tolik?
@@ -389,7 +389,7 @@ Ha, 1:1!
 Ty jsi snad tučňák od přírody!
 Měli bychom někdy jít bruslit!
 Pfft, ty jsi teda pomalý.
-Pořád přemyšlíš nad posledním kolem?
+Pořád přemýšlíš nad posledním kolem?
 Remíza! To je teda vzácné!
 // The game is over
 Tak co, zkusíme jinou hru?

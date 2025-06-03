@@ -51,21 +51,21 @@ Jako můj medvídek.
 Moje...
 Mita.
 Chce si hrát.
-Chce vzít
-Jenom mě.
-Jsme originální,
-Jsme jediní.
+Jsem jediná,
+Se kterou chce být.
+My jsme ty skutečné.
+My jsme ty jediné.
 Mita a moje Mita,
 0,8A a 8Ě54*.
 
 // Quest 6 (Do you believe Mita?)
 Moje Mita...
-Moje nejlepší kamarádka...
+Moje nejlepšejší kamarádka...
 Moje Mita.
-Můj jediný přítel.
+Můj jediná kamarádka.
 
 
 Jsi to ty!
 Dívej.
 Pojďme si hrát!
-Ukážu ti, jak na to.
+Ukážu ti jak.

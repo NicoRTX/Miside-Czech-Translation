@@ -56,7 +56,7 @@ To mě vyvedlo z míry, a tak jsem se konečně rozhodl, že to budu já, kdo za
 M-Mito?
 
 // Description
-Vyzývavě přihmouřila oči a její hlas začal znít ze všech stran.
+Vyzývavě přimhouřila oči a její hlas začal znít ze všech stran.
 
 // Mita - [not]
 A kdo jiný?
@@ -130,7 +130,7 @@ Pak ke mně mrštně přiskočila, jako akrobat z cirkusu.
 // Mita - [not]
 Mám to!
 Chceš ten prsten, že, podivíne?
-Tak mě poraž v piškvorkách!
+Tak mě poraz v piškvorkách!
 
 // Description
 Zdálo se, že začne dýchat ústy a vyplázne jazyk jako malé štěně.
@@ -190,7 +190,7 @@ Prozradil ses! Je mi jasné, proč sis vybral křížky a mně nechal kolečka! 
 Ale chápu to, přece, když seš vedle takové krásky, že se z toho můžeš zbláznit! Nebo ti přišlo, že pro mě budou kolečka lepší? Psychologie říká, že ses mě snažil urazit. Chytrý, kámo - fakt chytrý! Ha ha ha!
 Myslel jsem si, že jsem udělal dobrý tah. // description player
 Tahle hra mě baví, protože křížky nemůžou všechno přeškrtnout, jak jen chtějí! // Mita - [not]
-Můžu je tady ponižovat, citím se přitom jako hrdinka! Co? Řekla jsem snad něco divnýho? Podíval ses na mě tak... ha ha ha! // Mita - [not]
+Můžu je tady ponižovat, cítím se přitom jako hrdinka! Co? Řekla jsem snad něco divnýho? Podíval ses na mě tak... ha ha ha! // Mita - [not]
 Zatímco mluvila, tiše jsem odehrál svůj tah. // description player
 Jak symbolické. Jako by ses tomu prstenu záměrně vyhýbal, ale moc ti to nejde! Celkem ironický, nemyslíš? // Mita - [not]
 Chceš ten prsten, že jo? No tak si ho vybojuj! // Mita - [not]
@@ -216,7 +216,7 @@ Ubohý!
 Kam si myslíš, že jdeš? Stůj!
 // Description - [not]
 Popadl jsem svoji vyděšenou kamarádku za ruku a začal jsem se řítit k východu.
-Dupot za našemi zády nás hnal vpřed do kroutící se chodby.
+Dupot za našimi zády nás hnal vpřed do kroutící se chodby.
 Běželi jsme tak dlouho, že jsem ztratil pojem o čase.
 Tlukot mého srdce mi přehlušil všechny ostatní vjemy.
 Až poté, co mi vyklouzla ruka 2D Mity, jsem si všiml, že se na mě snaží mluvit.

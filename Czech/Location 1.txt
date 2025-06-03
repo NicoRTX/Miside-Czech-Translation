@@ -6,12 +6,12 @@ Místnost
 Oblečení
 Hračky
 Vylepšení
-Polévka
-Salát
-Svačina
+Polévky
+Saláty
+Svačiny
 Nápoje
-Stůl
-Postel
+Stoly
+Postele
 Televize
 Židle
 

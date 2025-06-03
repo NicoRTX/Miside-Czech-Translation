@@ -1,17 +1,17 @@
 // Track names
-Krekr
-Bublinkový nápoj
+Sušenka
+Bublinka
 Balónek
 // Quest none
 Už nic
 // Quest "Meeting Kind Mita"
 Můžu ti věřit?
 Jak jsem se sem dostal?
-Co je tohle za místo?
+Kde to jsme?
 Jak ses sem dostala ty?
 Co jsi udělala s tím prstenem?
 Jsou ty chodby nebezpečné?
-Pomůžeš mi dostat se pryč?
+Pomůžeš mi dostat se odsud?
 Zmínila jsi plán...
 // Quest MitaCap
 Pamatuješ si něco?

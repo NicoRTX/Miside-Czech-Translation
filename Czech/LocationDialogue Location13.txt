@@ -5,7 +5,7 @@ Prsten.
 Hledala jsem cestu, jak tě dostat k Jádru.
 Živého a zdravého.
 To byl přece náš plán, ne?
-A přitom jsem se musela výhýbat
+A přitom jsem se musela vyhýbat
 Šílené Mitě, víš?
 A taky jsem musela vyhrabat všechny možné informace
 O tom, jak tenhle svět vůbec funguje, víš?
@@ -59,7 +59,7 @@ Jsem se dostal až sem k Jádru?
 // MitaKind
 Ano.
 Samozřejmě, kdybychom měli portál
-Tak jsme se mohli teleporovat
+Tak jsme se mohli teleportovat
 Přímo sem.
 // Player
 A má teda ten prsten nějakou výhodu?
@@ -157,8 +157,8 @@ Budu hledat jehlu v kupce sena.
 // Player
 Co?
 // MitaKind
-Když máš o nečem dost informací,
-Tak to můžeš opravit, klidně napříc celým světěm!
+Když máš o něčem dost informací,
+Tak to můžeš opravit, klidně napříč celým světem!
 Logy, logy, logy, data?
 Co když to v nich bude?
 // Player
@@ -209,8 +209,8 @@ Musím ten index opravit.
 To nesedí.
 
 // Answer 4 (Little people - Chibi) - Player
-Víš, jak jsem šel, tak jsem potkal
-Pidi lidi po cestě...
+Víš, jak jsem šel, tak jsem po cestě
+Potkal pidi lidi...
 Co jsou zač?
 // MitaKind
 Ty Chibi?
