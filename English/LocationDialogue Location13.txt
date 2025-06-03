@@ -1,87 +1,87 @@
 
-The ring.
+The ring!
 
 // Answer 1 (Where have you been all this time?)
 I've been searching for a way to get you to the Core.
 All in one piece, that is.
-That was the plan all along, no?
-That's why I had to avoid
-Crazy Mita, wasn't it?
+That was the plan all along, right?
+On top of that, I had to avoid running into
+Crazy Mita, you know?
 I also had to dig up any info I could
-about the goddamn universe's backend, was it not?
+about this goddamn universe's backend, you realize?
 
-Um... I guess...?
-But how did you set the ring's route?
-Why did I end up in a buggy version
+I guess...?
+But, why did you make the ring
+instantly send me into a buggy, looping version
 rife with danger?
-I escaped only by
-jumping into endless darkness.
+Which I only managed to escape from
+by jumping out the window into the void.
 
-Sorry, I forgot to tell you in detail
-what you needed to do...
+Sorry, I forgot to specify
+what you needed to do there...
 But yeah, it was the plan for you
 to take the leap all along...
 And well, you did it!
 Good job!
-Right, let's proceed with the plan.
+Right, shall we continue with the plan now?
 
 // Answer 2 (How did you get here?)
 You must've been through a lot,
-what with forgetting what we talked about.
-I'm Mita, I can move between versions
-as I see fit, remember?
+since you seem to have forgotten what we talked about.
+I'm Mita, so I can move between different versions
+without an issue, remember?
 
-Not all Mitas can do that,
-I've seen some that can't.
-And they're obviously suffering.
+Not all Mitas can do that.
+They're really suffering...
+I saw it myself!
 
-Yeah, their versions are broken,
-their worlds bugged. I told you before.
-Damn it...
-You know who's behind all this, don't you?
+Stop it. Their versions are broken,
+their worlds are bugged. I've talked about this before.
+Damn it all...
+You know who's behind all this...
 Crazy Mita.
 
-Yeah, it's her for sure...
+Yeah, it's her fault for sure...
 
 // Answer 3 (Who was this Mita just now?)
-That's Ugly Mita.
+That was Ugly Mita.
 Aggressive and stupid.
-You can't talk sense to her,
+You can't reason with her,
 her entire world revolves around Crazy Mita.
 
 Yeah, I've noticed.
 
-Come on, we've got to get to the Core.
+Come on, we need to deal with the Core.
 
 // Answer 4 (How does the ring work?)
-And the ring,
-is it the only way to the Core?
+Was it because of the ring,
+that I was forced to take such a long path to the Core?
 
 Yes.
-Naturally, if we had the portal
-we could just teleport
-you right there.
+If only we could've built the portal...
+We could've just teleported
+you right here.
 
-Is there any advantage to the ring?
+Can you tell me ONE good thing about this ring?
 
 Of course!
-It's easy to wear,
-and remembers the versions
+It's easy to wear.
+And, it keeps a log of the versions
 you've visited before,
-so you can easily find your way back there.
+and can open a door back into them again.
 
 // Answer 5 (Why does Mad Mita need me?)
-Why won't Crazy Mita let me be?
-She's pulled me into her dangerous game,
-yet I'm still alive...
+Why won't Crazy Mita leave me alone?
+She's putting me in all kinds of danger,
+but I'm still alive somehow...
 
 My guess
 is that she's looking for a suitable player...
 One who'll accept her for who she is.
 After all, Mita is Mita!
-As that'll obviously never happen,
-she turns players into cartridges,
-so no one can ever run away...
+Although, the chances of a player choosing to stay are slim to none,
+which is why she turns them into cartridges.
+That way, no one can ever run away...
 At least that's my guess.
 Anyway, let's focus on what's important.
 
@@ -90,28 +90,28 @@ Is this it?
 The Core?
 
 Indeed. The Core.
-I've tried to explain,
-you players aren't truly part of this world...
-Meaning, you don't need special permission to enter.
-Or, well, that's what I believe, at least.
-Anyway, I'm beyond certain
-that the solution to all our problems
-can be found inside!
-[player], head inside.
-You actually made it...
+As I've tried to explain before,
+you players aren't a part of this world...
+Meaning, you don't need special permissions to enter.
+Or, well, that's what I think, at least.
+However, I'm absolutely sure
+that the solution to all of our problems
+can be found inside this chamber!
+[player], try and enter it.
+I knew it, it let you through...
 
 // Look on CoreMita
 Careful, [player].
 It's watching you.
 
-It who?
+Who is that?
 
-I don't know either...
+I'm not so sure myself...
 
-Cool...
+Great...
 
 
-What's that?
+How's it going?
 Hey!
 
 I think I found it!
@@ -120,104 +120,104 @@ Amazing! That's great!
 
 But I need to specify a version.
 
-Right, her version is...
+Right, I've found out that her version is...
 00.98
 
 Bingo!
-Okay, and what index?
+Okay, and what's the index?
 
 Uhm, index?
 
-I need the index.
-Wait, don't tell me you don't know...?
+It requires an index.
+Let me guess... you don't know?
 
 
 Hmm, that makes sense, though...
-Every Mita has an index,
-so you can't just restart an entire version...
-That'd cause utter mayhem!
-I can't believe I didn't think of that...
+Every Mita is given a unique index,
+so you don't have to restart an entire version...
+This is ridiculous!
+How did I not think of that...
 
 
 
 
 
 // Answer 1 (What's wrong with you?)
-Save for all our troubles,
-I'm perfectly fine.
-All's great, but a lot has changed...
-I need to think.
-And that's that.
+Nothing's wrong.
+We can just pretend our issues don't exist!
+Everything's great, but we've accomplished nothing...
+I need to think...
+We've hit a wall...
 
 // Answer 2 (Maybe there's a way to get to know him?)
 I...
-I think... It's crazy!
+I think... This is crazy!
 It's madness, hah!
 It's like looking for a needle in a...
 
-What are you doing?
+What are you thinking of?
 
-Some obstacles erode with information,
-you know, like the world having its guts ripped out!
+Some glitches overflow with information,
+you know, like the world having its guts exposed!
 Logs, logs, logs, data?
-What if that's it?
+Could there actually be something there?
 
-Huh? What's the matter?
+Huh? What are you on about?
 
-I know a place!
+There's a place I need to check!
 Wait here.
 
 Where are you going?
 
 // Answer 3 (What if we attack Mad Mita?)
-You said that any Mita
-resets to factory settings on death...
+As you said...
+All Mitas reset to factory settings on death.
 What if we...
 
-just killed Crazy Mita?
-You serious?
-And how will you deal with a chainsaw-wielding madwoman?
-She slices carrots with more than just knives!
-And for some reason, she's frighteningly strong!
-It's a wonder we're still alive...
-Come on, we've got to get to the Core.
+...just killed Crazy Mita?
+Are you serious?
+How exactly will you overcome a chainsaw-wielding madwoman?
+And don't forget, her knife isn't just for carrot slicing!
+Also, for some reason, she's frighteningly strong!
+It's a miracle we're still alive...
+Come on, we've got to think of something else.
 
 
 // core console entry
-We need to enter a code...
-But how do I know it?
-Mita, do you know?
+I need to enter the correct pattern...
+But how am I supposed to figure it out?
+Mita, do you know anything about it?
 
-Maybe it's listed somewhere?
-Can you try looking it up?
+Maybe there's a clue somewhere?
+Can you try looking around?
 
 // core console - nope programm
 That's probably not it.
 That's not right either.
 Nope, wrong.
-That's not it.
-I need to find the character reset option.
+That's not what I need.
+I need to find the character restart option.
 // core console - nope version
 That's the wrong version.
 Oops, my mistake.
 That's not it.
-Gonna need another one.
+Gonna need to fix that.
 // core console - nope index
-Something's wrong
-with the index.
-I need to change the index,
-it doesn't fit.
+Something's wrong.
+The index is wrong.
+I need to double-check the index.
+It doesn't work.
 
 // Answer 4 (Little people - Chibi)
-You know, I ran into a bunch of
-mini-people on the way...
+You know...
+I ran into a bunch of miniature people on the way...
 What are they?
 
-The Chibi ones?
+The chibis?
 Uhm, how to explain...?
 It's a phenomenon here...
-Every Mita has a Chibi projection,
-and players can have them too...
+Every Mita has a chibi projection.
+Although, players can have them too...
 Did you know that we Mitas can summon them?
 
 Huh, how?
@@ -226,7 +226,7 @@ Watch this!
 
 Just like magic...
 
-But there's something wrong with my Chibis,
+But there's something wrong with my chibis,
 most are just born dead.
 There's this one, though...
 Or well,

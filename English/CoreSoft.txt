@@ -1,4 +1,4 @@
-Start the application
+Starting the application
 
 Confirm login
 Incorrect login
@@ -10,36 +10,36 @@ Server Unit Accounting [Select Version]
 Main Processor Monitoring [Select Version]
 Graphical Process Monitoring [Select Version]
 Quadrangle
-End game
+Quit game
 
 
 Advanced System Administration
-Restarting Character [Select Version]
-Restarting Device [Select Version]
-Version Update [Select Version]
-Recalculating Geometry [General]
+Restart Character [Select Version]
+Restart Unit [Select Version]
+Update Version [Select Version]
+Recalculate Geometry [General]
 
 
 
 
-System Restore
+System Recovery
 Troubleshooting [General]
 Antivirus [General]
-Command Console [General]
+Command Line Interface [General]
 
 
 
 
-Advanced Functions
+Top-Level Functions
 Delete Object [Select Version]
-Display Camera [Select Version]
+Display Cameras [Select Version]
 Display Triggers [Select Version]
 Physics Engine Settings [Select Version]
 Get Flash Drive
 
 
 
-Minor Functions
+Low-Level Functions
 Binary Code Editor [Special Access]
 Unit Matrix Editor [Special Access]
 
@@ -49,10 +49,10 @@ Unit Matrix Editor [Special Access]
 
 Specify Character Version
 Specify Character Index
-Confirm Reboot
+Confirm Restart
 Use Lever
-Run Subprogram
-Restart process running!
-Preparing For Restart
+Launching Subprogram
+Restart in progress!
+Initializing Restart
 Restarting...
 Confirm

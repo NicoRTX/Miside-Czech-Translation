@@ -1,2 +1,2 @@
-Set the clock's time right,
-And leave this version.
+Set the clock to the correct time.
+Leave this version.

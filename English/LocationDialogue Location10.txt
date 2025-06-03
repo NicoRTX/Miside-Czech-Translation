@@ -1,8 +1,8 @@
 
-Wait, hold up!
-Not so loud...
+Wait, wait...
+Keep it quiet...
 Going further is dangerous.
-BTW...
+And, anyway...
 how did you get here?
 
 Um...
@@ -15,8 +15,8 @@ What's up with this place?
 It's super dark.
 
 I'll tell you later.
-For now, go toward the exit.
-Meet me in the arcade machine.
+For now, head towards the exit.
+You'll find an arcade machine. I'll be there.
 
 
 
@@ -24,32 +24,32 @@ Hurry up, don't be tardy!
 
 
 // After mini-game
-So, get the point of the game?
+So? Got the point of the game?
 
-That I'm made of flesh and bone, and you're made of a skeleton model?
+That I'm made of flesh and bone, and you have dummies inside you?
 
 Whoa!
 Sounds creepy when you say it like that.
-But, that's the gist of it.
+But that's how it is, I fear!
 
-Right, but why do I need to understand that?
+Right, but why do I need this information?
 
 Think I was telling you that going further
-was dangerous, just for the lols?
-You'll run into... abandoned models...
-The ones given up on, the "faulty" ones.
-They're aggressive, and may even try to kill you.
+was dangerous just for the lols?
+You'll run into those dummies there...
+The rejected ones. The "faulty" ones.
+They're very aggressive! Do you really want to deal with them?
 
-So, what should I do?
-I'll just go
-wherever a door opens.
+What other options do I have?
+I'll simply go through a door
+whenever I see one.
 
-Wow!
+You're nuts!
 Then don't turn your back on them.
 And don't let them out of your sight!
 They get shy when you stare at them,
-so shy they freeze.
-Keep that in mind!
+so shy, in fact, that they freeze.
+Don't forget that!
 
 
 
@@ -58,79 +58,79 @@ Keep that in mind!
 
 
 // Quest 1 (Why are there other Mitas down there?)
-They're freshly made.
-They need time
-to gain self-awareness.
-Then I guide each one
-to her own home.
+They just got their skins.
+Now they need time
+to gain a little more self-awareness.
+Then I'll need to bring each of them
+to their own homes.
 
 // Quest 2 (Why is it so dark downstairs?)
-We Mitas are 'created' in the dark,
+We Mitas are "born" in the dark,
 so we need to remain there for a while.
-Imagine
+Just imagine
 the pain of moving from darkness straight into the light...
 
 // Quest 3 (What are you doing here?)
 Still don't get it?
-I'm helping new Mitas settle in!
+I'm helping the poor new Mitas settle in!
 Who will help them if I don't?
 You?
 
 // Quest 4 (Why do we need this conveyor?)
-What's this conveyor belt for?
+Why are there so many Mitas being made?
 Is there enough room for everyone?
 
 Wait, don't tell me you don't
-understand how the world works...
-And that it's endless?
+understand how this world works...
+And that it's infinite?
 
-Endless?
+Infinite?
 Uhm...
 What do you mean?
 If 1.9 is the latest version,
-then there are only 19 worlds.
+there are only 19 worlds.
 
-My gosh, you really don't
-get how this world works at all.
+My gosh, you really don't get
+how this world works at all.
 Look, I'll use this blackboard
-to explain it all.
+to explain it all to you.
 Want to hear about it?
 
 // Quest 5 (What is your version?)
-Wait,
-didn't I meet you in the latest version?
-Or perhaps it's just my imagination.
+I might be wrong, but...
+Didn't I meet you in the latest version?
+Or perhaps it was just my imagination.
 
-Well, it's quite possible.
+Well, it's quite possible!
 I'm from version 1.5.
-Have you been to it?
+Have you been there?
 
 I have.
-That's where I arrived
+That's where I first arrived
 when I was thrown into this world!
 
 Whoa!
 But how...?
-But what is the house index were you in?
-There is a 'me' who just can't stop whining,
-a 'me' who loves horsing around,
-a 'me' with bad memory and who likes bullying others...
+I wonder which house index that was...
+There is a "me" who just can't stop whining,
+a "me" who loves horsing around,
+a "me" with bad memory and who likes to prank others...
 It's a long list...
-Tell me what you recall.
+Do you recall anything?
 
 It was dark.
-There was writing
-like...
-"Play with me."
+There was writing...
+Something like...
+"wanna play?"
 
 Ah,
 what a bummer...
-That's the 'me'
-who bullies and forgets things.
+It was that "me" after all.
+The forgetful prankster.
 
 // Mita wants to tell you [No]
 Thanks but no thanks.
-I'll do fine without knowing more.
+I'll do fine on my own.
 
 Alright, suit yourself.
 
@@ -139,108 +139,108 @@ Sure, go ahead.
 I just hope this won't be like high school
 where I always fell asleep out of boredom.
 
-You can leave anytime,
-or stay and listen
-if you're interested.
-A player downloads MiSide
+You can leave right now if you want.
+But if you're interested.
+here's how it works.
+A player downloads MiSide on their phone
 and plays as much as they want.
-There, he creates a new home
+This way, they create a new house
 and a new Mita.
-This is a 2D representation.
+Here's a 2D representation.
 These are the versions,
-shown as lines.
+represented by vertical lines.
 The houses are placed on these lines.
-Say you download the 1.14 version,
-which means a new life,
-a new Mita, and a new house.
+Let's say you download the version 1.14.
+This means a new life is created on that version:
+a new Mita and her house.
 
 Heavens...
 
 You can ask about the details
-in this drawing,
-and I'll do my best to explain.
+shown in this drawing.
+I'll do my best to explain.
 
 // He asks about the only circle
-Why is there a single circle?
+Why does this version only have a single circle?
 
-That version was released just once,
-never to be repeated.
-It's the only genuinely unique version.
-Plus, these versions are special
-and don't have any paths to other versions.
+Only one person played that version
+and it isn't available anymore.
+That's why there's only one circle.
+The thing about versions like this
+is that there are no other paths around them.
 Sleepy Mita resides in this version, 1.1.
 
-Sleepy Mita?
+Sleepy?
 Because she never gets to sleep
-with everyone passing through her version?
+with everyone walking through her version?
 
 No, that's not it.
-You can pass her by and make noise,
-but its impossible to wake her up.
+I could easily pass by her door,
+without even looking inside.
 
 // He asks about the shaded circle
-Why is this one so dark?
+Why is this circle shaded?
 
-Uhm, that one's here
-because of Pretty Mita.
-She drew it.
+Well, the whole reason this diagram is here        
+is because of Pretty Mita.
+She was the one who drew it.
 We were arguing over
-who could reach version 1.11 the fastest.
+the fastest way to reach version 1.11.
 
 So, who won?
 
 ME, of course!
-Look, we're here
-in version 1.15,
+Look, this is where we are.
+Version 1.15,
 house index 809.
 We need to reach version 1.11,
 house index 805.
-So, her path started like this.
-We tried to come up with a shorter route,
-so Pretty Mita suggested this path.
-And then I drew the simplest one, here.
-Easy, right?
+Her initial path was like this.
+We tried to come up with a shorter one,
+and Pretty Mita suggested this path.
+And then I just showed her the simplest path.
+It's obvious if you think about it!
 Just look here.
-From here, you can get directly to the correct version.
-While it may seem that this house is in the way,
-that it blocks your path...
-Anyway, your ring works based on the same principles.
+You can get directly to the version you want from the start.
+This house looks like it would block your path,
+but it's actually not in the way...
+By the way, your ring works based on the same principle.
 Where are you heading?
 
 The Core.
 
 The Core?
-Hmm...
-If you want the shortest route,
-you'll need to go through version 1.11 too.
-You'll definitely encounter Sleepy Mita there.
-I think the Mita who sent you,
-took the same path.
-Or maybe she hasn't realized you're on a different path.
+Hmmm interesting...
+If you've been sent on the shortest path,
+you'll be going through version 1.11 too.
+You'll definitely encounter Sleepy Mita after that.
+I think the Mita who sent you
+came up with the same path.
+Or maybe she didn't realize and you'll have to visit some other version.
 Or perhaps she's a genius
-and has come up with an even shorter route!
+and came up with an even shorter path!
 
-I think I might get it.
+I think I get it.
 
 // He asks about the inscription
 What's this about?
 
 That's for Cool Mita.
 She'll be here in a few hours.
-She'll move those boxes
-and place a sofa here.
-My butt hurts!
+She should move these boxes already
+and place a sofa over there!
+My butt hurts, you know!
 
-Emm...
+Uhh...
 Maybe I could help?
 
 No, that's Cool Mita's job.
-She's tough.
+She has the strength for it.
 
 // He asks about the drawings
-Is that just a drawing,
-or
+Is that a drawing,
+or 
 does it mean something?
 
-Yeah,
+Nah,
 it's just a doodle.

@@ -5,41 +5,41 @@ You want to get out?
 Then help me find the key!
 // Key Search
 Shoot! No key here!
-Nothing here—
-zero, zip, nada!
+Nothing here!
+Zero, zip, nada!
 Found it!
 
 // The usual conversation
 Huh, I thought you'd be shorter!
-You're tall—
-just like my sister!
+Look how tall you are!
+You're just like my sister!
 
-Your sister? What about her?
+Your... sister?
 
 Yes, my sister.
 Don't say you've never met her!
 
-Uh... I've met her... I think?
+"Met her"? That's one way to put it.
 
-Are you a fool?
+Are you stupid?
 
-Erm...
+Um...
 
 Turns out you are...
 Come on, just help me find the key already!
 
 // Next work
-Come.
-Put the iron in the pipe!
+Here.
+Put the iron into the pipe!
 Thank you!
-Now get me that wood!
-Thank you!
-Some more help, please!
+Now, get me that firewood, I can't reach it!
+Much appreciated!
+Some more help over here, please!
 All done! Now...
-wow, that's beautiful.
-Press it, come on!
-Get ready...
-there, take it!
+Look, this is so beautiful...
+Come on, press it!
+Tadaa!
+Here we go, you can have it!
 The key is yours!
 
 
@@ -53,35 +53,35 @@ The key is yours!
 // Quest 1 (Are you Mita?)
 I'm ChibiMita.fbx!
 Tons of lines,
-simplest models, and—
+simplest armature, and—
 best of all—gorgeous hair!
 
 // Quest 2 (Have we seen each other yet?)
-Sillyhead!
+Mister sillyhead!
 You're kinda cute, you know,
 asking silly questions like that.
-Though,
+Nope,
 this is my first time meeting you!
-But listen...
-If you steal my marvelous look,
-I'll make you regret it!
+But...
+But, if someone DID steal my marvelous looks,
+they should really feel ashamed!
 
 // Quest 3 (Why are you here?)
 Don't you get it?
-This is a checkpoint—
-a test of your wits!
-Now come on!
+This is a checkpoint!
+"Show me your wits!"
+"You can pass!"
 I'm here to guide the hopelessly lost!
 
 // Quest 4 (Why are you helping me?)
-What makes you so special?
-Why not help you anyway?
+What makes you so special
+that you DON'T deserve help?
 
 What?
 
-So foolish...
-You just appeared out of nowhere!
+You're so silly...
+Appearing out of nowhere like that!
 You're not supposed to be here,
 so, I'm helping you!
 
-Bye-bye, silly!
+Bye-bye, sillyhead!

@@ -1,157 +1,157 @@
 
 There you are!
 Why did you leave the Core?
-I told you to wait for me!
+I told you to stay and wait for me!
 
-I thought you'd be gone for longer...
+You'd been gone forever, so I thought...
 
 Well, all righty...
 I think I found something...
-I think it's an index...
-We'll have to see if it works!
-Let's get out of here.
+It seems to be an index...
+We need to hurry up and see if it works!
+But first, let's get out of here.
 Crazy Mita...
-I think she's busy with a new player.
-So hopefully she's too busy to mind us...
+She should be preoccupied with a new player.
+So hopefully she's too busy to notice us...
 
 Mita?
 Wait for me.
 
 
-Did you drop something?
-Meet her again!
+Were you looking for someone?
+Here she is! Say hi!
 
 Mita...
 
 Catch!
 
 
-How come...
+Why...
 
 Who are you?
 
 You're... you're alive!
-Don't you remember?
+Don't you remember me?
 
 Do I know you?
 
-What's going on...
+What the hell...
 What am I supposed to do now?
-I can't get out...
+There's no way for me to escape...
 
-What do you mean, "get out"?
+"Escape"? What do you mean?
 
 Wait...
 That's the ring...
-And that?
+And, what's this?
 
-Not a clue what it is.
+I don't know what this is.
 
-It's an index!
-You found it!
+It's the index!
+So you found it after all!
 
-I don't know what to say.
+I'm not sure what to say...
 
-We must get back to the Core.
-And you...
+I need to get back to the Core.
+You know...
 Perhaps you ought to come with me...
 
-Uhm, what?
-Sure...
+Huh?
+Sure, I'll come...
 
 Wait here.
 
-Mm-hmm.
+Mhm.
 I'll sit right here.
 
 
 Shit...
 That was a close call.
-So... did we do it?
-Good.
-I'm in the correct version.
+So... we did it?
+Let's see...
+I'm still in that version.
 
 
-Hiya!
+Hi!
 You're a player, aren't you?
 What's your name?
 
 I want to leave this place...
 
-You want to leave so soon?
+You want to leave already?
 How did you get here in the first place?
-Oh well...
-Fine, you can leave...
-Just try the door.
-Good luck with that!
+Hmm...
+Well, if you want...
+Just take the front door.
+Good luck!
 
 
 A wall?
 Hmm, that's all wrong.
 Perhaps...
-there's something in the basement that'll help you.
+I know something that could help you.
 I recently discovered
-a door in my wardrobe...
+a door inside my wardrobe...
 Turns out it leads to a basement.
-But its full of junk,
-junk and a ton of fancy equipment.
-You have to enter some kind of code or something.
+It's clearly there to store all kinds of junk.
+And also, there's a ton of fancy equipment.
+I think it needs a code... or something.
 I don't really get it.
-And I don't care.
-It's also kind of uncomfortable, I mean, really uncomfortable.
-Will you take a look?
+And I don't really care.
+Oh, it's kind of spooky down there too. Quite spooky, actually!
+Would you take a look?
 
 Uhm, okay.
 
 // Player thinks
-I don't think
-she remembers anything...
-Did we do it?
-Did we reboot her?
-Then all I have to do is
-get out of this damned game...
+Looks like...
+She doesn't remember anything.
+Did we do it, then?
+Did we restart her?
+Now all I have to do
+is get out of this damned game...
 
 
-Not so quick.
-I'd like to hug you.
-
+Just a moment.
+I'd like to... hug you.
+// ok fellow translator, this line is not used down below vvv
 Huh?
 // Hugs
-It was good seeing you.
+It was nice meeting you.
 
 Ahh...
 it's a real shame
 that you and I
 got to spend so little time together.
 
-Err...
-What are you talking about?
+Huh...?
+What do you mean?
 
 I mean,
 you could've stayed with me...
 It's all my fault...
-That wardrobe and the... the sounds.
+That wardrobe and the... sounds...
 I should have KILLED her sooner!
 
-Wait a minute,
-Didn't you...?
-How can you remember any of that?
+Hold on,
+weren't you...?
+How can you remember that?
 
 HA!
 Did you really think it would be that easy?
-You're just a fool...
+You're such a fool...
 Just like all the other players...
-We've done just fine, look!
+And look, we're just in time!
 The REAL
 you isn't
 needed anymore.
-Sorry, tee-hee.
+Sorry~
 
-I can't believe it...
-Did we fail...?
-No... I rebooted you, I'm sure of it...
+No way...
+Did it not work?
+No, I know we restarted you...
 
-You still don't get it...
+You still don't get it, huh?
 Ha-ha-ha!
 I'm such a great actress!
 You should've seen your face, honey-bun!
@@ -160,62 +160,62 @@ This is so much fun!
 Why are you like this?!
 What's wrong with you?!
 
-Yeah...
-What's wrong with me?
-Beats me...
-Why don't you tell me why I'm like this?
-Why I'll never be a real Mita?
-My version, it never
-existed in the first place!
+Yeah, I wonder...
+What IS wrong with me?
+I've got NO idea...
+Why don't YOU tell me why I'm like this?
+Why I can't ever become a Mita?
+My version? I never had one
+in the first place!
 I'm just skinning these naive fools,
-hiding under their skins...
-There's no way you can
-reboot me!
+hiding beneath their faces...
+There's no way you can restart me!
+It's not possible!
 
-Unbelievable...
 You...
+I can't believe this...
 They're not the problem!
 You're the one who shouldn't exist!
 
-You too...
-It hurts to hear you say that.
-And yet!
+You too, huh...
+It hurts to hear you say that...
+Still!
 It's time for you to go!
 I'll see you again soon!
-Everyone's ready!
-It's
-time to get you out of the console!
+I think
+everything is ready.
+It's time to eject you from the console!
 See you later!
 You'll be my favorite cartridge...
-A player with an interesting name.
+Player with an interesting name.
 
 // core console - nope programm
 That's probably not it.
 That's not right either.
 Nope, wrong.
-That's not it.
-I need to find the character reset option.
+That's not what I need.
+I need to find the character restart option.
 
 // core console - nope version
 That's the wrong version.
 Oops, my mistake.
 That's not it.
-Gonna need another one.
+Gonna need to fix that.
 
 // core console - nope index
-Something's wrong
-with the index.
-I need to change the index,
-it doesn't fit.
+Something's wrong.
+The index is wrong.
+I need to double-check the index.
+It doesn't work.
 
 // Why kitchen
 Are you hungry?
-I'm great at chopping carrots. :)
+I'm great at chopping carrots.
 
 // Why bathroom
-Ah, I guess
-you wanted to go in alone?
+Oh, sorry...
+You wanted to come in alone, right?
 
 // Why bedroom back
-Why are we just going in circles?
-Why return here?
+Why are we just walking in circles?
+Why did we come back here?

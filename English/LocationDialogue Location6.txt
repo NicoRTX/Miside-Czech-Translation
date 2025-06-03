@@ -3,40 +3,40 @@ Mita?
 
 How on earth did you get here?
 
-You're Mita, aren't you?
-But there's something different about you...
+You're Mita, right?
+There's something off about you...
 
-Observant, I see.
-And you're right.
-I'm not the Mita you met before.
-Be careful, she's up to something
-sinister.
+Something off, huh...
+You're right, though.
+I'm not the Mita you met earlier.
+Watch out for her. She's got something...
+very sinister planned for you.
 
 Huh, something sinister?
 
-There's no time to explain:
-if this works out, I'll tell you everything.
-Get the key. It's next to the sofa.
+We don't have much time.
+If this works out, I'll explain everything.
+Look for the key. It's next to the sofa.
 
 But...
 
 Save your questions for later!
 Give me the key.
-Take this ring.
+Here, take this ring.
 Huh?
 You want to get out of here, don't you?
 Uhm, yeah...
-Then put it on.
+Put it on, then.
 It's a useful artifact,
-you'll likely need it soon.
+and you'll likely need it soon.
 
-Okay...
+All right...
 By the way, I'm
 [player].
 
-Mmm,
+That's a nice name,
 [player].
-I'm... Mita.
+And I'm... Mita.
 
 
 
@@ -46,105 +46,105 @@ I'm... Mita.
 
 
 // MitaKind quest 1
-See that
-console? Pick it up.
+Look behind you.
+Could you open that console?
 
-Are we watching a recording?
-Who's that with her?
+Is this a recording?
+And who's that with her?
 
-That's happening this very moment.
-It's another player.
-She's using him.
-She might try to
-turn you into a cartridge, too.
+It's not a recording.
+This is yet another player.
+She's using him this very moment.
+Listen, you should know...
+She might turn you into a cartridge as well.
 
-I need to get out of here ASAP.
-And you too.
+I need to hurry up and get out of here.
+And so do you.
 
-Yes, we do.
+Definitely.
 
 So, you're saying
-that she's using him.
-If I pull the cartridge out, what happens?
+she's using him.
+What happens if I pull the cartridge out?
 
-That may very well
-irreversibly damage the cartridge.
-Which means that...
-the player would die.
+That may very well cause
+irreversible damage to the cartridge.
+Which means...
+the player will die.
 
 ...
-What if I just turn it off?
+What if I just turn off the console?
 
 That could work...
 It's worth trying. There's a red power button!
-You see it?
+Do you see it?
 Found it.
 Press it.
 
 // MitaKind quest 2
-I need to stay.
-There are questions I need to ask her
-to find out more about her.
+I need to stay here a little longer.
+There are some questions I need to ask her
+to try and find out more about her.
 Though, it's unlikely she'll play ball...
 
 // MitaKind quest 3
-Tell you the truth, this is my version.
-I was keeping a player company,
-when something suddenly changed.
-Then she showed up...
-and turned the player into a cartridge
-and locked me up.
+To tell you the truth, this is my version.
+I was here with another player,
+when suddenly, something changed.
+She showed up...
+She turned the player into a cartridge,
+and locked me down here.
 
 Wait, she turned him into a cartridge?
-Can she even do that?
+She can do that?
 But why?
 What does she need the players for?
 
-She's obviously crazy...
-She's just playing with us, and using us for her own machinations!
-Turning players into cartridges...
-Some didn't even realize what was happening to them...
-And some that do, don't even fight back... Gah!
-Now that's a dark twist...
-You have to help us!
+She's obviously gone crazy...
+This is how she's having fun! She's toying with us!
+Players turning into cartridges...
+Some don't even realize it's happening to them...
+And some that do, don't even fight back, damn it...
+That sounds awful...
+Listen, you have to help us!
 Me? But how?
-I need you!
+I need you, Player!
 If you help us, I'll help you!
 This might be our only chance.
 The ring will lead you to the right version.
 I'll meet you there.
 
 // MitaKind quest 4
-I still don't quite understand
-what I saw up there...
+I still can't quite process
+what happened up there...
 That Mita...
-Was she trying to kill me?
+Does she want me dead?
 
-Kill?
-She has a worse fate than that in mind for you...
-You need to hurry.
+Dead?
+I'm afraid she has a worse fate in mind for you...
+That's why you need to hurry.
 
 // Hide!
-Oh, shit! Hide!
-Wait, what...?
-Hurry, she's coming!
-Follow the ring—it'll lead you to safety!
+Damn it! Hide!
+What's wrong?
+Hurry, she's coming downstairs!
+Trust the ring—it'll lead you to safety!
 
 
-Well, well, gonna tell me where he's at?
+Well, gonna tell me where he is?
 
 Why would I?
-You won't kill him, will you?
+You aren't going to kill him, are you?
 
-Ah, so you refuse to tell me.
-Hah, I like a challenge.
-I know he's somewhere around here.
+So, you refuse to tell.
+It's fine. I like hide and seek.
+I know he's down here.
 
-Why are you so mean to us?
-You won't even tell me what's going on!
-Besides...
-what do you need the players for?
+...Why are you so cruel?
+You won't even explain anything!
+And, also...
+What do you think you're doing to the players?
 They're no toys!
-What's gotten into you?!
+What's wrong with you?
 
-Enough! Keep your mouth shut, doll!
+Enough! Shut your mouth, doll!

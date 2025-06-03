@@ -7,7 +7,7 @@ Mita
 
 
 
-Jimi
+Jimmy
 Carl
 Shin
 Judy
@@ -25,7 +25,7 @@ Mikasa
 Misaki
 Anton
 Alex
-Vanya
+Evan
 Rick
 Morty
 Beth
@@ -35,8 +35,8 @@ Anita
 Dolisa
 Longer
 Leo
-Doni
-Miki
+Donnie
+Mickey
 Raf
 Leon
 Albert
