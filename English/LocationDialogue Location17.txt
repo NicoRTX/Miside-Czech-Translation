@@ -1,5 +1,5 @@
 // Player thinks + Make coffee
-I'll need someone's help here.
+Seems like I can't do this alone.
 I hope the Mita here doesn't bite...
 
 What am I wasting my time on...
@@ -9,35 +9,35 @@ What am I wasting my time on...
 
 // Player tries to wake up MitaDreamer
 Mita?
-Mita, wake up!
-Mita!
+Mita, wake up.
+Miiitaaa.
 
-Mita, wakey-wakey!
+Mita, wake up!
 I need your help.
 
 Who are yooouuu?
 
-Help me with the switches.
+Help me with the levers.
 
-What switches?
+What levers?
 Let me sleep...
-Or get me a coffee.
+Or, get me a coffee.
 
-The coffee maker's just over there.
+Come on, it's not that far...
 Mita?
-Mi-ita!
+Miiitaaa!
 
 
 
 // Player gives away the coffee
-Mita,
-here's your coffee.
+Hey, Mita.
+Here's your coffee.
 
 
 
 // MitaDreamer exercise
-Switches,
-you say?
+So... you said something
+about levers, right?
 
 Yes.
 
@@ -46,14 +46,14 @@ Though, why do I even ask...
 Considering you're here,
 you should know plenty already...
 
-Just a minute,
+Hold on,
 I need to sit down.
 
-And?
+So?
 
-I don't know what to say...
-But I need to keep going,
-keep following the ring's guidance.
+I don't know what to tell you...
+But I need to keep going.
+The ring is showing me the way...
 
 You have her ring?
 No wonder
@@ -61,14 +61,14 @@ you found this place.
 
 That's right.
 So, can you help me?
-With the switches?
+With the levers?
 
 Sure.
-I will.
-With the switches...
+I will...
+Help with them...
 
 
-Mita, come on...
+Mita, not again...
 Let's go already.
 
 Uh?
@@ -82,7 +82,7 @@ Are you that sleepy?
 
 // MitaDreamer again sleep
 Wake up.
-We're there.
+We're almost there.
 
 
 // Switches
@@ -91,71 +91,71 @@ I'm ready.
 
 I'm ready, too.
 
-Well.
+Then...
 I'll start
-the countdown.
-And we'll pull the switches together.
-Okay?
+counting.
+And we'll pull the levers together.
+Okaaaay?
 
-Just keep awake, OK!
-Go.
+Just don't fall asleep.
+You can start.
 
-
+// reversed counting in game
 3
 2
 1
 
 // Player lose 1
-Are you spacing out?
+What are you doing?
 Come on,
 let's go again...
 
 // Player lose 2
-One more try?
-Come on,
-I'm...
-I'm falling asleep here...
+Again?
+I can...
+barely...
+stay awake...
 
 // Player lose 3
-I'm all but falling asleep...
+I'm falling asleep...
 
 
 
-Wonderful,
-thank you, Mita.
+Perfect.
+Thank you, Mita.
 
 Mm-hmm.
 
 
-The doors...
-so...
+The door...
+is so...
 slow...
 
 
-I'm off to bed...
+I'm going back to sleep...
 
-// Why kitchen?
+// this if player lead mita to kitchen
 Why head to the kitchen?
 If I fall asleep on the cold floor,
 it's your fault.
 
-// Why bathroom?
-I don't understand...
-what switches do you need my help with here?
+// this if player lead mita to bathroom
+I don't get it...
+What levers were you trying to pull in here?
 
-// Put button
+// player presses button after opened
 Nothing happened?
 Then what's this button doing here?
 
-// Cofee
-Some more coffee?
-Or you'll fall asleep again.
+// player ask about coffee after mita stretches
+How about some more coffee?
+You're falling asleep again.
 
-What?
+Whaaat?
 Nooo...
 This coffee tastes terrible...
 I'm totally fine...
 
-// Button
-Mita? The button doesn't work... Can you hear me?
+// ask about button again after pressed
+Mita? The button doesn't work... Are you listening?
 Hello?

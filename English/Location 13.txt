@@ -1,14 +1,14 @@
 // Quest none
 Never mind.
 // Quest "First"
-Where have you been?
+What were you doing this whole time?
 How did you get here?
 Who was that Mita just now?
-How does the ring work?
-Why does Crazy Mita need me?
-Is that the Core?
+The ring...
+What does Crazy Mita want from me?
+Is this the Core?
 // Quest "Second"
-What's the matter?
-Is there any way to recognize it?
+What's wrong?
+Is there a way to work out the index?
 What if we attack Crazy Mita?
-Mini people
+About the mini-people...

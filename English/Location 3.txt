@@ -7,9 +7,9 @@ How did I get inside the game?
 // Quest "Kitchen eat"
 Your home is cozy.
 When can I go home?
-This feels like a dream…
-Why are the windows all just white light?
-Why use scissors when we could've used a knife?
+This looks like a dream
+Why is there white light outside the windows?
+Why use scissors when you could've used a knife?
 Bon appétit!
 // TV
 Cool Juice!

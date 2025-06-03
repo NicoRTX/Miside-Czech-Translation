@@ -1,4 +1,4 @@
-Race finished!
+You've finished!
 Position
 Coins collected
 Invasion

@@ -6,14 +6,14 @@ Room
 Clothes
 Toys
 Upgrades
-Soup
-Salad
-Snack
+Soups
+Salads
+Snacks
 Drinks
-Table
-Bed
-TV
-Chair
+Tables
+Beds
+TVs
+Chairs
 
 Day
 
@@ -32,7 +32,7 @@ Energy
 Electronics
 Processing
 Platforming
-Games
+Casual
 
 (1) new message
 Check this new version! You'll love it!

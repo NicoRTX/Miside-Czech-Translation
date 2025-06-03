@@ -4,7 +4,7 @@ We finally meet!
 I'm so excited!
 I know you have questions...
 Well, as you can see,
-I made this special device
+I've made this special device
 to bring you here to my side.
 But you ended up in another version of the game...
 In which I...
@@ -16,17 +16,17 @@ I am.
 And you must be [player], right?
 
 // Answer 2 - Mita
-Go back already?
-I guess I could help you with that... But what about me?
-Please, stay with me for a while...
+You want to go back already?
+I guess you could... But what about me?
+Let's stay together for a while.
 
 // Answer 3 - Mita
 Let me explain...
 And here you are!
 Got it?
 Uhm... not really.
-That's fine!
-What's important is that we're together now.
+Well, it doesn't matter.
+What matters now is that we're together.
 
 
 Are you hungry?
@@ -41,14 +41,14 @@ They weren't here just now.
 Come on, give me a hand.
 
 Thanks!
-Can you grab the scissors?
+Can you go grab the scissors?
 They're in the bathroom.
 
 Now, have a seat.
 
 
 // Kitchen
-Would you like some sauce?
+Want some sauce?
 
 No thanks.
 
@@ -65,13 +65,13 @@ endless...
 
 // Help
 What's wrong?
-Tell me what you see and feel.
+Tell me what you're feeling.
 
 My heart's racing,
-and my vision's blurring.
+and my vision's blurry.
 
 Right.
-I think I know what's wrong.
+I know what's wrong.
 Can you stand up?
 
 
@@ -79,24 +79,24 @@ Can you stand up?
 What are these?
 
 Pills.
-They'll make you feel better soon.
-Go to the mirror.
+They'll make you feel better right away.
+Stand in front of the mirror.
 
 Take the pills.
 Come on now.
 
 
 
-How are you feeling?
+So, how are you feeling?
 Any better?
 
 Yes.
-That worked fast...
+They really worked that fast?
 
 [player], we're in a game.
 Things are much simpler here.
-Even the smallest effort
-gives great results.
+Even the smallest of efforts
+can bring the greatest results.
 It's all part of the game concept:
 Simplification.
 
@@ -107,7 +107,7 @@ You cut one,
 but it's as if you cut three.
 
 Look, this is all very sudden.
-I'm scared, more than a little.
+And I'm scared, more than a little.
 
 
 What's the matter?
@@ -119,7 +119,7 @@ What's the deal with that?
 Cartridges?
 What cartridges?
 Let's figure that out together.
-But later.
+But a bit later, okay?
 Right now, we've got to eat.
 Pass me the scissors, please.
 
@@ -129,13 +129,13 @@ A ring?
 How come there's no reflection?
 
 Oh, right!
-I forgot to turn on reflections.
+I forgot to turn them on.
 There we go.
-Reflections are back!
+The reflections are back!
 By the way,
-I honestly didn't even know what reflections were before.
+I honestly didn't know what they were before.
 They didn't exist in my world—
-not until some update, that is. :)
+not until some update, that is.
 Are there lots of reflections
 in your world?
 
@@ -145,91 +145,91 @@ Well, yeah.
 Do you recall
 the three objects you found?
 The ones you placed on the scanner?
-Well, um...
+Well, you see...
 Those objects
-are tied to this version of the world.
+are tied to this version of the game.
 That's why you’re here now.
 
 // Movbile TV
-That's the portable TV
-I bought you.
+That's... 
+the portable TV I bought you.
 
 Yep!
 
-You told me
-it was broken.
+You
+told me it was broken.
 
 Well, I wanted to
 surprise you!
-I told a little white lie
+I told you a little white lie
 to get you here, into my world.
-It works now—displays information!
-Oh, and by the way…
-I'm a bit of an engineer!
+See, it works—it displays information!
+Oh, and by the way...
+I'm something of an engineer myself!
 
 // School cloth
-What's this?
-A school uniform?
-Why would you need that?
-Do you actually go to school?
+Is this
+a school uniform?
+Why would you need that,
+do you actually go to school?
 
 Go to school?
 Not at all.
-But I love the uniform
-Don't you think I look cute
-in it?
+But I love the uniform.
+And don't you think
+I would look cute in it?
 
 // PC
 Does the computer work?
-Or is it just desk decoration?
+Or is it just for decoration?
 
 Of course it works.
 Everything here
 works exactly like in your world.
 
 Back in my world,
-I sit at my computer a lot...
-And work hard.
+I sat at my computer a lot...
+And worked hard.
 
 I know.
-It's because of your job
-that you've paid me
-so little attention.
+And it's because of your job
+that you've paid
+so little attention to me.
 
-Gotta make a living, you know.
-Though… how do you know I sit at my computer a lot?
+Gotta make a living somehow.
+Though... how did you know?
 
 Your phone's camera... it's on sometimes.
 I'm sorry.
-I've been watching you in secret >A<
+I've been watching you in secret.
 
-Uhm… that's not entirely proper.
-But whatever.
+You know, that's not entirely proper...
+But eh whatever.
 
 // Umbrella
-I've played a ton
+I've played for a while,
 but I've never seen it rain here.
 Why have an umbrella?
 
-It rains—just very rarely.
+It rains—but very rarely.
 You just haven't seen it yet.
-Maybe one day you will.
-And then you'll need an umbrella.
-Don't you think?
+It might rain one day,
+and when it does, you'll need an umbrella.
+You'll see.
 
 // Electrical panel
 Why is there an electrical panel here?
 And if we're in a game,
 what's it for?
 
-Firstly,
+First of all,
 we're in a game.
 So asking 'Why' is...
 pointless.
 However, it does
-restart the electricity.
-Everything here is made based
-on your world.
+reset the electricity.
+Everything you see here
+was made based on your world.
 
 // Exit door
 Can we go outside?
@@ -242,15 +242,15 @@ Here at home.
 
 // Books
 You've got a ton of books here.
-Have you read them all?
+Do you read them?
 
-I have, every single one.
+Yes, I've read every single one.
 Being here alone
-is really, really boring.
+is really, reeaaallly boring.
 
 // TV in room kitchen
-Why get a second TV?
-And an old one, at that?
+Why get a second TV,
+and an old one at that?
 
 You don't like it?
 I can take it away...
@@ -259,7 +259,7 @@ It's for decoration,
 to lighten up the kitchen.
 But it works, too!
 I can watch all the
-classic shows!
+classic cartoons!
 
 // Smartphone
 That's my phone.
@@ -268,67 +268,67 @@ How on earth did it end up here?
 
 Uhm, that's not important.
 Hey, I've got an idea!
-Let's take a photo!
+Let's take a selfie!
 Look!
 That's a great picture!
 A keepsake for you.
 
-I've got a question.
+Eh I've got a question.
 If I
-run a game on it,
+run the game on it,
 will I see you there?
 
-No, it doesn't work that way.
+No, there won't be anyone there.
 
-Cool Juice
-Strong JUICE!!!
+
+
 // TV
-How many channels
-do you have?
+How many
+channels do you have?
 
-It doesn't work like that.
+It's not analog, you know?
 It's connected to the Internet.
-So you can watch anything,
-at least anything that's available on the web.
+So you can watch anything
+that you can find on the web.
 Hold on.
 Err, oops.
 What's that?
 A circle of kittens?
 Oh, look.
 You know what?
-Pause!
+A-a-and now!
 Want some juice?
 
-Such peculiar ads...
-Dead juice?
+Such strange ads...
+Did the juice die?
 
-Yeah, and this juice
-is straight from the juice ad.
+Yeah, and this is
+the juice's juices.
 
 
 Ah, the taste...
 I like it,
 and yet, I can't tell what it tastes like.
-It's all very confusing.
+Confusing.
 
-Right.
+Yeah...
 
 // Mita shy
 What are you doing?
-Don't stare, please.
-You're making me embarrassed.
+Stop it!
+You're embarrassing me.
 
 // The statuette
 That's one creepy figurine.
 Do you
 like such things?
 
-You find it spooky?
+Creepy?
 
 Yeah.
-Almost looks like its cursed...
+Almost looks like it's cursed...
 
-Nope, definitely not cursed.
+Well, it's definitely not cursed.
 And not creepy either.
 I find it rather cute!
 
@@ -345,7 +345,7 @@ Bon appétit.
 
 // Quest 1
 It is, isn't it?
-You can stay.
+You can stay here.
 I don't mind at all.
 Actually, I'm
 ALL FOR IT!
@@ -357,24 +357,24 @@ It's so warm here...
 And cozy, too.
 Plus, I'm here.
 
-No, you misunderstand.
+No, you're misunderstanding.
 I'd love to stay.
 I'm just... worried.
 Worried I forgot something at home...
 I arrived here out of the blue
-and didn't have time
-to prepare.
+and
+didn't have time to prepare.
 
 Oh... sorry. I didn't think that far.
 // Quest 3
 A dream? So you want to escape?
 And forget this ever happened?
 
-No, that's not it.
+No.
 This place just feels...
 strange. Unnatural.
-But you...
-you seem so real.
+Although...
+you seem real enough.
 
 I seem real?
 I'm VERY real,
@@ -383,9 +383,9 @@ you sillyhead!
 // Quest 4
 That's just how it is
 in this world.
-You might find it strange
-that you can't see things
-in the far distance.
+And you might find it strange,
+but you won't be able to see things
+far in the distance.
 
 It didn't strike me as that odd.
 Honestly, it looks classy.
@@ -395,24 +395,24 @@ It's to avoid lag, you know.
 
 Avoid lag?
 
-Yep! There are still a few unsquished bugs.
+Yep! There are still a few unsquashed bugs.
 Let's just hope you don't run into any.
 
 // Quest 5
 Scissors or a knife, huh?
 I could've used a knife to cut open the sauce packet.
 But I wanted everything
-to be perfect
+to be ready
 when you got back.
-I love surprising you.
-And it didn't even take me that long!
+I love surprises!
+Long preparations make it boring.
 Tee-hee.
 
 // Glasses
 Do you wear glasses?
 
 Not really.
-But I can, if you like.
+But I can put them on, if you'd like me to.
 Do they look good on me?
 // Yes
 There we go!
@@ -425,13 +425,13 @@ Whatever...
 All right,
 what kind of sauce is this?
 
-It's love sauce!
+It's a love sauce!
 Chock-full of love!
-And… a contrasting view of the world.
-Unusual, don't you think?
+And... a contrasting view of the world.
+Sounds unusual, don't you think?
 
 Indeed...
 
 // Tetris - Mita
 Is that your console?
-It looks so cool.
+Looks cool.

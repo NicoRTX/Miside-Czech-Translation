@@ -6,11 +6,11 @@ Settings
 Achievements
 Credits
 Back
-Load
+Load game
 Language
 Loading...
 Graphics
-Sound
+Master Volume
 Keyboard & mouse
 Controller
 Resolution
@@ -19,9 +19,9 @@ Graphic effects
 Color effects
 Soft shadows
 Blur
-Glare
+Bloom
 Anti-aliasing
-Shadows
+Shadow Quality
 World display quality
 Programming
 Animation
@@ -29,8 +29,8 @@ Sound effects
 Music
 Particles
 Textures
-3D models (98%)
-Script
+3D models [98%]
+Writing
 Reset
 Forward
 Back
@@ -42,13 +42,13 @@ Quit the game?
 Yes
 No
 Back to main menu
-Smooth turns
+Smooth Turning
 Game settings
 Shadow style
-Clothes
-Interface
-3D models (2%)
-Voice volume
+Outfits
+UI
+3D models [2%]
+Voice Volume
 Pause
 Menu
 Congrats! You completed the game!
@@ -62,23 +62,23 @@ Characters - Mitas
 Characters - Cartridges
 Cartridges
 Mitas
-Start with a clean slate
+Delete All Game Data
 Are you sure you want to completely delete all your progress and start from scratch?
 Compiling shaders, estimated wait time: 2 hours.
-2-hour compilation?! That's bogus! We skipped the queue for ya!
+2-hour compilation?! That's bogus! We've done that for you already!
 Creating realistic shadow tracing—estimated to take 10 minutes.
 Just kidding, we don't use those fancy things here.
 Umm...
 Oh, we are ready!
-Sway while walking
+View Bobbing
 Show hints
-Player voice
+Player Voice Style
 Discord
-Added character profile
-Camera angle (FOV)
+Character profile added
+Field Of View
 Voice
 Off
-Hand reaches out to the door
+Show hand reaching out to the door
 Animation
 Enable player voice
 Mita
@@ -98,25 +98,25 @@ Dummy Mita
 
 
 // Name load location
-I'm inside a game?
-Together at last
-Things get weird
-The basement
+I'm Inside a Game?
+Together at Last
+Things Get Weird
+The Basement
 Beyond the World
 The Loop
-Mini Mita
-Dummies and forgotten puzzles
-She just wants to sleep
+Chibi Mita
+Dummies and Forgotten Puzzles
+She Just Wants to Sleep
 Novels
-Reading books, destroying glitches
-Run and hide!
-Old version
-Be Candid
+Reading Books, Destroying Glitches
+Run and Hide!
+Old Version
+Being Candid
 Reboot
 Cappie
 Ghost Mita
-The real world
-Leave the Core!
+The Real World
+"Leave the Core!"
 Player 1
 Player 2
 Player 3
@@ -130,36 +130,36 @@ Player 10
 
 Peaceful Mode
 This mode is still in development! It's so expansive that the developers haven't managed to finish it yet. But don't worry—they've promised it will be included in a major update coming soon. And look at you, already ahead of the curve by unlocking access! Now all that's left is to wait...
-So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, sharing cookies, playing games, and plenty of hilarious moments together.
+So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, cooking meals, playing games, and plenty of hilarious moments together.
 
 
 Censor gore
 Special Thanks:
-Achievement Icon: Iceсloud
-Photograph: Nineko Hori
-Translator
-Converts the game's text into another language.
-Publishing Partner
+Achievement Icons: Iceсloud
+Framed Picture Art: Nineko Hori
+Translators
+Translated the game into other languages.
+Publishing Partners
 Game marketing
-Tester
-Played and found all manner of bugs.
+Playtesters
+Played the game and found all sorts of bugs.
 This language translation was made by enthusiasts from the fan community and added to the game at their request.
-Warning! This game includes jump scares, sudden sharp sounds, and occasional screen flickering. Players with photosensitive epilepsy, heart conditions, or similar health concerns are advised not to play.
-Peaceful Mode Now Available!
+Warning! This game includes jump scares, sudden sharp sounds, and occasional screen flickering. Players with photosensitive epilepsy, heart conditions, or similar health concerns are advised to be cautious.
+Peaceful Mode Unlocked!
 
 Photo Mode
-Photo Mode: Camera flight restrictions removed. You can explore areas normally inaccessible.
+Photo Mode: No movement restrictions. Keep in mind, you might see things that you shouldn't be able to.
 Exit Photo Mode
-Hide Interface
+Hide UI
 Hold to pan the camera
-Quick movement
-Smooth movement
+Hold to accelerate
+Camera Smoothing
 Speed
 Effects
-Control In-game Time
+In-game Time Control
 Brightness
 Contrast
 Vignette
-Screenshot Taken!
-Access the screenshot folder
-Camera Angle
+Take Screenshot!
+Open screenshot folder
+Camera Rotation

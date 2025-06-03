@@ -4,34 +4,34 @@ How did you get here?
 You were right next to me just now.
 
 No, I wasn't.
-You froze before the mirror.
+You froze in front of the mirror.
 So I left.
-Why have the rooms changed?
+What's up with the rooms?
 
 I rearranged the place
 to make you feel more at home.
-In here,
-we can change the rooms
-however we want.
+I mean,
+four rooms lined up?
+You don't see that very often.
 
 You didn't have to.
 I was getting used to the layout.
-Either way, I think you'll feel more at ease with this layout.
+Either way, I think you'll feel more comfortable like this.
 // Mita card game
-Right,
-shall we play?
-The game works like this:
-This chip indicates a type,
-such as health.
+All right,
+shall we begin?
+To briefly explain,
+this chip indicates the active stat.
+Health, for example.
 We each play a card,
 and if your card has a higher
 Health stat
 than mine,
 you win.
 Pick up your cards.
-It's my turn.
+Let's see...
 Whoa!
-I got quite the hand!
+I've got quite the hand!
 I'll go first!
 
 
@@ -42,30 +42,30 @@ I'll go first!
 
 
 
-OK!
-Your turn!
+You're next!
+Your move!
 Uh-huh.
 Your turn!
 
 Highest health stat wins!
-It's all about attack!
-Just focus on defense!
+It's all about strength!
+Just look at defense!
 
 
-You won!
+It's your win!
 You won!
 You got me.
-Oh you...
+Why you...
 
 I win!
-I'm the winner!
-I won!
+I am victorious!
+The victory is mine!
 Hah, got ya!
 
 That's a tie.
-All equal!
-Now that's a draw!
-The same value...
+Evenly matched!
+It's a draw!
+It's all the same...
 
 
 
@@ -84,7 +84,7 @@ It's coming from the wardrobe.
 Sound?
 What sound?
 I didn't hear anything.
-What did you think you heard?
+What kind of sound was it?
 
 Knocking, as if someone's in there.
 
@@ -94,8 +94,8 @@ There's no one there...
 I'd like to open it and check.
 I'm a bit creeped out.
 
-But why...?
 This again...
+Why...
 
 
 
@@ -105,34 +105,34 @@ This again...
 
 What's up with you!?
 It's a wardrobe...
-I've got my underwear there...!
+I've got my underwear in there...!
 
 Are you hiding something from me?
 
 Why won't you just believe me?
 What am I doing wrong?
-What I want...
-all I want is for you to be with me.
+I just want...
+for you to be with me.
 
-I'd like that to, but still...?
+I'd like that, but am I just supposed to ignore this?
 
 Why are you so stuck on that wardrobe?!
 
-I want to know what on earth that knocking was!
+I just want to know what on earth that sound is!
 
-Is it because
-this world
-only has these four rooms?
-Isn't that enough for you?
-Why can't you just be with me?
+It's just...
+This world
+only has these four rooms.
+Could you just settle for that?
+Please... Just stay with me.
 
 
 // Don't stay with Mita
 I get it.
 This again...
-If you want to check the wardrobe,
-then do so,
-and find out what's in there!
+If you want to look inside,
+then go ahead...
+Find out for yourself!
 
 
 
@@ -145,23 +145,23 @@ Just wait for a sec.
 
 This is so weird.
 Are we inside someone's phone?
-Maybe a slow one with long loading times?
+One that has long loading times?
 
-Not at all.
-But not everything's perfect
-in this world...
+Nope.
+It's just that
+this world isn't perfect...
 We're being loaded
-along with the world's core.
+by the world's core.
 
-The world's core?
+Core?
 
-Typical, don't you think?
+Clichéd, huh?
 
 
 
 Anyway, we can
 play a console game
-or just cards.
+or play a game of cards.
 You choose.
 
 
@@ -176,11 +176,11 @@ go easy on you at first.
 
 
 That's a good boy.
-You better focus!
+Now, hold on to your pants!
 
 Whoa!
-Right, okay.
-I'mma get serious.
+Alright, now
+I'm gonna lock in.
 
 Wow!
 Let's see if you can
@@ -188,96 +188,96 @@ beat me now!
 
 You are
 simply
-incredible! That's some skill!
+incredible! Your fingers are amazing!
 
 
-What's the matter?
-Huh, that's dull.
+Hey, what's up?
+That's boring.
 
-Well,
-that's it. You believe in fate?
+Well, that's it.
+Fatality, in case you haven't noticed.
 
-Then,
-get your act together or you'll be a loser forever!
+C'mon,
+get your act together or stay a loser forever!
 
-What's the matter with you today?
-I mopped the floor with you.
-You didn't give it your all—
-that's why I won!
+What's the matter with you?
+I beat all the white liquid out of you.
+You just need to give it your all:
+that's my secret to success!
 
 
 All right, then.
 How about we play some cards?
-They're in the bedroom.
+In my bedroom.
 
 
 
 // Door > [ERROR]
-Huh, what's going on?
+Huh, what is that?
 Where's...
 
 Uh-oh.
 Sorry...
 I downloaded something
-from the net.
+from the Internet.
 I wanted to spruce up
 the outside a bit.
-But turns out
-there was something wrong with the file.
+But it turned out
+to be the wrong file format.
 I'll fix it later.
 
 Is that why we can't leave the house?
-Yeah, that's why.
+Yeah, that's exactly why.
 // Mita shy
 Hey...
-What's the matter with you?
-You want something?
+What's the matter?
+Do you want something?
 
 
 
 // Wall Clock
-This here clock,
+This clock,
 what time does it show?
-The current time in the game?
+The time in game?
 Or is it synced with my phone?
 
-Well, uhm...
-I honestly don't know.
-But time doesn't matter here...
-Whether it's late or early,
-a strong girl like me
-is always full of energy—
-I never get tired!
-We can have eternal spring,
+Well, how should I put it...
+Honestly,
+it doesn't matter what time it is.
+And whether it's
+late here or not...
+A strong girl like myself
+never gets tired!
+We can have an eternal spring,
 or a never-ending afternoon!
 
-That's interesting...
-but also a bit creepy.
-Stuck in the same moment, forever...
+Curious...
+also a bit creepy.
+To be stuck in the same moment, forever...
 
 
 
 // Photos of Mita
-Nice pics.
+Nice photos.
 I'm guessing these are of you?
 
 Yep.
 I like them, too.
 
 Who took them?
-Are there others in this world, too?
+Is there anyone else in this world?
 
 You could say that.
 I'll introduce you eventually.
-Just not yet.
-For now, I just want to be with you alone.
+For now let it just be us.
+You'll get to meet them later.
 
 
 
 
 // Portal
-Where did the portal go?
-Or whatever it was you called it?
+Oh where did the portal go?
+Or whatever you called it?
 
 I used a
 little magic
@@ -288,23 +288,23 @@ It'd just get in the way.
 
 
 // Mirror in the bedroom
-Looking into a mirror without
-seeing a reflection—it's creepy.
+It's creepy, looking into a mirror
+without seeing a reflection.
 
 We can turn on reflections
 if you really want to.
-But, do we really need them?
+But, do we need them?
 
 Of course we do.
 Or... will turning them on have consequences?
 
 Yes.
-We'll stutter and move slower.
-Ever seen a cartoon with low frames per second?
+We'll stutter and move really really slowly.
+Ever seen an old cartoon with a low frame rate?
 It'll be like that for us, all the time.
 
 Got it.
-Then perhaps we better keep reflections turned off...
+Then perhaps we should keep reflections off.
 
 Hey, [player],
 you sure like mirrors, don't you?
@@ -312,7 +312,7 @@ Afraid of seeing a smile on that face of yours?
 
 Huh? Not really...
 I'm just tired
-after all the work.
+from all the work.
 
 
 
@@ -322,7 +322,7 @@ Are these yours?
 Nope, they're yours.
 Don't you remember?
 
-I don't recall having sneakers like that.
+I don't have sneakers like that.
 
 You do now.
 You can wear them
@@ -333,14 +333,14 @@ All I have in this world
 are the clothes I'm wearing.
 Any way for me to get new ones?
 
-Of course there are.
+Of course there is.
 Though, I've seen what you wear—
 and honestly, your taste isn't great.
-Either way, I'll help you get some.
+But sure, fine, I'll help you get some.
 Just not right now.
 It's a promise.
 
-Okay.
+Sure.
 
 
 // Games on TV
@@ -349,20 +349,20 @@ What do you wanna play?
 This is a fighting game!
 Let's see who sours first!
 What a game!
-We've had enough milk for now, let's do something else.
+We've had enough milk for now, let's play something else.
 // Game penguins
-In this game, you're a penguin
-sliding around.
-Right, that's that game.
+In this game, you get to play as a penguin
+and just slide around.
+We already played that.
 
 // Stay with Mita
 Huh, what?
-You serious? I thought you were...
-I'm overjoyed!
-And a little confused...
-But...
+Really? I thought you would...
+I'm so happy!
+And also a little confused...
+In that case...
 Please, stay with me—
-always and forever.
+forever.
 
 
 
@@ -377,24 +377,24 @@ always and forever.
 
 // A game about penguins
 It's super simple:
-just collect snowballs.
+just collect the snowballs.
 The one who collects more, wins!
-Let's play two rounds, okay?!
+Let's play two rounds!
 // The first map
-Wow, how did you get that many?
+Wow! Why do you need so many?
 Tee-hee! I've got the most snowballs!
 Better catch up!
-Ha, 1:1!
+Ha, it's a tie!
 // The second map
 You're a natural penguin!
-We should get you on real ice!
+We should put you on real ice!
 Pfft, you're so slow.
-Still thinking of the last round?
-Woah, a tie! Now that's rare!
+Still bothered by the first round?
+Wow, we're tied! Now that's something you don't see very often!
 // The game is over
 Right, wanna play something else?
-Or you're done?
+Or are we done?
 
 // Tetris - Mita
 What do you need that for?
-That much of a gamer?
+Are you that addicted to games?

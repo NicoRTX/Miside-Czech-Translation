@@ -19,13 +19,13 @@ Take battery
 
 Check
 Put down
-Hand over the scissors
-Refuse
+Pass scissors
+Decline
 Eat
 Stand up
 Try to stand up
 Take pills
-Take the sauce
+Accept
 Take cards
 Look at cards
 Hide cards
@@ -35,7 +35,7 @@ Play card
 Stay
 Refuse
 
-Cartridges
+Mention cartridges
 Open
 
 Drink juice
@@ -51,24 +51,24 @@ Twist right
 Twist left
 Lay down
 
-Release
+Let go
 
 Wake up
 Sit up
 Stand up
 Turn on computer
-Pick up ramen
+Eat ramen
 Finish
-Go to sleep
+Fall asleep
 
 Find more puzzles
 
 Go ahead
-You shouldn't
+No thanks
 
 I know
 I don't know
-Hit weakly
+Hit soft
 Hit hard
 Push!
 
@@ -83,12 +83,12 @@ Left
 One more
 Enough
 
-Interfere
+Mix
 
 Pull lever
 
-Select right
-Select left
+Pick right
+Pick left
 
 Turn right
 Turn left
@@ -109,24 +109,41 @@ Down
 Up
 
 Step back
-Press a button
+Press any button
 
-Eat
-Drink
-Take patty
-Take flatbread
-Add milk
-Add sugar
-Add flour
-Add oil
-Add an egg
-Mix
-Add the mix
-Flip
-Too much
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 They look good on you
 Just take them off
 
 Explain
 No need
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

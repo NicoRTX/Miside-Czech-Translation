@@ -4,257 +4,257 @@ You made it!
 What is this place?
 
 Show me the ring.
-Yeah...
+Mhmm...
 There we go!
 Time to clear some things up, don't you think?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
-I was here waiting for you all along
-and you play a racing game instead?!
-Anyway, come over here...
+I've been waiting for you, you know!
+And you just go straight for the racing game?!
+Come over here already...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
-Congrats, you won!
-I've played it, too!
-I even tried to collect every coin and get 1st place
-to get the achievement!
-And my, that sure was difficult!
-It took me ages to get used to the controls.
+Congratulations!
+I used to play that game a lot!
+Tried to collect every coin and get first place,
+for the achievement.
+Damn, that one was difficult!
+It took me a while to get used to the controls.
 
 // Quest 1 (Should I trust you?)
-Well, at least I'm sane...
-unlike some others...
-Besides,
-I'm the kindest person you'll find around here, sweetheart.
-You don't want to just give up, do you?
-She's a cold-blooded killer. We must stop her.
+At the very least, I'm not insane.
+Unlike a certain somebody...
+Also!
+You won't find anyone as kind as me around here, sweetheart.
+Surely you'd prefer to work together, right?
+She's a cold-blooded murderer. We have to stop her.
 
 // Quest 2 (How did I get here?)
-The ring, it led you here.
-It's a great invention.
-Only a player that has it
-can find their way to the correct version.
+The ring led you here.
+It's a special invention.
+You're a player, so you're going to need it.
+It's the only way for you to access the version we need.
 
 // Quest 3 (What is this place?)
-These passages
-connect the different versions.
-Yeah, it's kind of empty in here.
-And yikes! I heard about this one Mita
-who couldn't archive her version...
-Her house
+These are the passageways
+that connect the different versions.
+They do look kind of empty...
+Oh! I heard about this one Mita
+whose world failed to archive...
+And her house
 simply ceased to exist...
-And she's supposedly hanging around
-these passageways.
+Now she's supposedly hanging around
+in these passageways.
 Poor thing...
 
 // Quest 4 (How did you end up here?)
-You know,
+Well...
 it's been a while since we last met.
-And thanks to you,
+Thanks to you,
 I got out of that damned cage,
 and escaped from that lunatic.
-And FYI,
-I can easily switch between different versions,
-unlike you, my dear.
+And also,
+I don't need anything special to travel between versions.
+Unlike you, my dear.
 
 // Quest 5 (What did you do with the ring?)
-I changed the route
-to the one we need.
-I set up the shortest one possible,
-stuffing it with all we need...
-It works like this: you open a door,
-and the ring opens the boundary
-between versions.
+I changed the ring's path.
+It was leading the wrong way.
+Now, I've set us on the shortest path
+to where we need to go.
+It works like this: when you open a door,
+the ring opens the boundary between versions.
+That's about it.
 
 // Quest 6 (Are the passages dangerous?)
-I've seen all manner of strange things
-ever since I arrived
-into this game...
-Everything seems quiet here,
-but the passages feel...
-anything but safe.
+Ever since I arrived here...
+Inside this game...
+I've seen all sorts of strange things...
+But, somehow,
+these quiet passageways...
+Feel even less safe...
 
 You're right, and this place is getting
-more unpredictable by the day.
+more and more unpredictable by the day.
 But cheer up!
 We've thought of everything,
 and we'll take the shortest
 and most well-trodden path!
 
-I certainly hope all goes well.
-But what lives in these passages?
+I certainly hope so...
+Wait, what's in these passageways anyway?
 
-Well,
-glitches, bugs, anomalies.
-Living ones.
-Even dangerous ones that might attack you on sight...
+Well...
+Glitches, bugs, anomalies...
+Living ones, sometimes...
+Almost forgot! Very aggressive ones, too...
 
-Err...
-And possibly other hostile Mitas.
-More crazy, unfitting ones?
+Umm...
+And, hostile Mitas.
+More deranged Mitas?
 
 I know of at least one...
 Ugly Mita.
 And just so you know, it wasn't me who named her!
-It's just...
-she's a very early version of Mita.
+Damn her, though...
+She's a very early version of Mita.
 The main issue with her
-is that she causes the worst kind of glitches...
-And I'm worried that we might run into her.
-She's closest to version zero, after all...
+is that she causes world-breaking glitches...
+I'm afraid that we'll have to deal with her.
+She's the closest to version zero, after all...
 
 // Quest 7 (Will you help me get out?)
-I don't have an actual plan...
-But either way,
-you did make it here, didn't you?
-Besides,
-what else can you do
-but rely on me, Kind Mita!
-Ain't that the truth...
+I'm not sure how to get out...
+But, one way or another...
+You did end up in the game somehow, that's a fact.
+And, here's an even bigger fact:
+You have no other option
+but to rely on me, Kind Mita!
+You're not wrong...
 
 // Quest 8 (You were talking about some kind of plan...)
-Indeed, we need to reach the Core.
+We need to reach the Core.
 My intuition tells me that's where we'll find
 the solution to all our problems.
 
-But why not go there yourself? Why do you need a player?
+But why not just go there yourself?
 
 For some reason, we Mitas cannot
 enter the Core Room.
 I've only seen it from the outside.
-But you players are different.
-I'm sure that you
-can head inside.
-Want to discuss the plan?
-Okay.
+But, players aren't Mitas.
+I think that you, player,
+may be able to go inside.
+Shall we discuss the plan now?
+Sure.
 Great.
 Right...
 It's high time I introduce you
-to Cool Mita!
+to a very energetic friend of mine.
 Seeing as she's got a cool cap,
-I just call her
-Cappie.
-I've been going over the plan with her,
-the plan to stop Crazy Mita.
-Let me introduce you, [player]!
+I just call her...
+Cappie!
+I've been going over the plan with her.
+We're going to stop Crazy Mita together.
+Please come in, [player].
 
 
 Salutations!
 You're my... new player?
-What do I call you?
-The name's...
+What's your name?
+I'm...
 
-Just a sec!
-You...
-...don't remember me?
+Hold on!
+Do you...
+remember me?
 
 Huh?
 Who the hell are you?
 
-Damned it all!
-[player]...
-I think SHE was here,
+Damn it all!
+We have a problem, [player]...
+It seems SHE came here...
 Crazy Mita...
-Listen up!
+Listen, Cappie!
 Try to remember, for all our sakes!
 
 Remember what?
-Just think. Why do we look alike?
+Tell me, why do you look just like me?
 
-Uhm, this doesn't seem to be helping...
-Listen, [player],
-things aren't exactly
-going according to plan...!
-We were supposed to use the portal
-to make our journey a million times easier, and faster.
+Ah, we've totally hit a wall here...
+Listen, [player].
+This throws our plan
+completely off the rails!
+This portal was meant to be part of our plan.
+It was going to make our journey a hundred times easier!
 But we can't get it to work without Cappie's help.
-And we're missing some parts...
+And some parts seem to be missing, too...
 She may be fussy, but her mind works quickly...
-Right, so what do we do?
-I'll figure something out.
-What did Crazy Mita do to her?
+What do we do now?
+I'll... I'll think of something...
+So what did Crazy Mita do to Cappie?
 
-I... I think...
-she killed her.
+I... I've seen this before.
+She killed her.
 Killed her?!
 
-And having died...
-Cool Mita will simply reboot.
-Get reset to factory settings
-and forget everything important.
-Which means...
-our plan won't work.
+And, as you might have guessed...
+After dying, Mitas simply reboot.
+Cappie got reset to factory settings
+and forgot everything important.
+In other words...
+we're completely screwed.
 
-Now that's horrible...
+That sounds horrible...
 Better than disappearing forever, I guess...
-But who can tell for sure?
-And what about us players?
-Will killing us reset our memories, too?
+Or maybe not...
+What about players?
+Will killing us wipe our memories, too?
 
-Your memories can be reset, for sure.
-At least after you've been turned into a cartridge.
-But not even I know
-what happens to those of you who are killed.
+It is possible to wipe your memories,
+but only if you've been turned into a cartridge.
+As for a living player getting killed...
+I don't know what would happen.
 
-Always cartridges... So, how can I tell
-if I'm a cartridge or not?
+Cartridges again, huh...
+So how can I tell if I'm a cartridge or not?
 
-Come here, I'll check
-you over...
+Come here,
+I'll check you over.
 // MitaKind check
-Phew,
-you're not a cartridge yet.
-You're a living, breathing player.
+Phew, it's fine!
+You're not a cartridge.
+You're a living, breathing player!
 
 That's good news...
 
-Sure, but what do we do now...
+So, we've hit a wall...
 Let me think...
-We've got to change our entire plan.
+We need a new plan right away...
 Hmm...
-Wait a sec...
-Yeah, I think I've got an idea!
-Gimme the ring!
+What if we...
+Yeah! I think I've got an idea!
+Give me the ring!
 
-Yeah.
-I need to change the route.
+Good.
+I need to change the path again.
 
-Got a route in mind?
+Did you figure something out?
 
-Listen, darling,
-you'll have to cross through other versions
+Here's the plan, darling.
+You'll have to make your way through other versions
 to reach the Core.
-Full steam ahead, you hear me?
+Full steam ahead! You hear me?
 
-And I have to go alone?
-But I don't know the way, or even how I'll get there?
+And I'm supposed to go all by myself?
+With no idea where to go, and no idea what to do?
 
-I'll help you as much as I can,
-as much as the situation allows.
-I'll give you directions and,
-I'll do my best.
-And then we'll talk...
-First, play with Cappie for a bit.
-I need perhaps 10 minutes...
+I'll help you as much as I can.
+As much as the situation allows, at least.
+I'll set the ring's path, and...
+think about what to do next.
+We'll talk after that...
+In the meantime, you can play with Cappie.
+Give me ten minutes or so...
 
 // MitaKind ready, if player near
-OK.
-All done!
+All right.
+I'm done.
 // MitaKind ready
 [player],
-Come over here.
+come over here.
 // MitaKind ring
-Take this.
-That's unfortunately true, [player].
-You'll have to go alone for now,
-I need to get to the bottom of what's going on here.
-My plan was flawless...
-But we're worse off than ever.
-I have to figure out what went wrong,
-and where the parts are...
-I'll try to find them.
-Perhaps we can still get the portal together.
+Here.
+It's unfortunate, [player],
+but you'll have to go alone for now.
+I need to get the full picture of our situation.
+Our plan was supposed to be perfect...
+But right now, we're worse off than ever.
+I need to look at things and figure out
+what happened to everything we prepared...
+I'll try to work something out.
+Perhaps we can still get the portal working.
 But time's of the essence.
 Crazy Mita knows about this place,
-and staying here means risking everything.
+so you staying here means risking everything.
 Good luck, [player]! See you soon!
 
 Right...
@@ -270,7 +270,7 @@ I just hope I'll live long enough to meet you again...
 
 
 // Chibi players
-Why?
+But... why?
 Who am I?
 I want to go home!
 How?
@@ -285,23 +285,23 @@ a real person?
 Hi!
 You new here?
 New?
-You're from the real world, aren't you?
+You're from the real world, right?
 
-I am...
-Uhm, are you all right?
+Yeah...
+What happened to you?
 
-It's just a limp, don't worry about it.
-I've been here about a year,
-and I'm doing great.
-Right... Well, what is this place?
+Don't mind the limp.
+I've been here for about a year,
+and I'm doing just fine.
+Hmm... So what is this place?
 It's some sort of space between versions.
 Do you know how to get out of here?
 
 Can't say that I do.
-Besides, I don't want to leave.
-I don't need to.
-Err, why not?
-Enough chatting. I'm in a hurry.
+I've never wanted to leave.
+I have to be here...
+Why?
+Doesn't matter. I'm in a hurry.
 My beloved Mita is waiting for me.
 I have to find her...
 Goodbye.
@@ -311,7 +311,7 @@ Get lost!
 
 I heard everything!
 I don't know what's going on,
-but it's all so interesting!
+but it all sounds so interesting!
 I believe
 you already know who I am, don't you?
 I'm Mita!
@@ -329,20 +329,20 @@ Want me to play a tune?
 
 // MitaCap Guitar Yes
 Hah!
-Come here, my precious...
+Come here, my baby...
 All right!
-Well, could have played something more fun.
+Maybe I could have played something more cheerful...
 Oh, well!
 // MitaCap Guitar No
-Eh, fine.
+Aw, all right.
 
 
 Hey,
-you're quite the energetic one!
+you ARE quite the energetic one.
 
 I AM!
 I certainly AM!
-Anyhow...
+Now then...
 Let's go
 have some fun!
 
@@ -352,98 +352,98 @@ What a nice big button.
 I really want to press it.
 Can I?
 
-Contain yourself, we'll get to that.
-If you make it in time!
-Now, have a seat!
+You can.
+If you're fast enough, that is!
+But first, take a seat!
 // Player sit
 Right.
 So, what now?
 Can I press the button?
 
-Ha-ha!
-I love this game!
-But we're missing something.
+Hahaha!
+I absolutely love this game!
+We just need one more thing...
 It's somewhere in my inventory!
 Just a sec...
-Errr!
+OOP!
 Well...
 You do know...
 That this is an adult game, no?
 
 What was that?
 
-Quite slow on the uptake, huh?
+What, you don't know?
 It's to lure beavers out of hiding...
 
-Seriously?
+Really now?
 I haven't seen any beavers around here...
 
-Huh? Beavers?
-Gah, enough already,
-let's play, OK?!
+...Huh? Beavers?
+Gah, let's just move on.
+I want to start the game!
 
-Nah.
+But...
 
-Come on!
-You even know what game we're playing?
+Now then!
+Do you know how to play?
 
 
 // How play hammer game
-See the numbers?
+See this number?
 That's the timer!
 When the time runs out,
-it'll tell you
-when to press the button.
-If you're too slow,
-or press it out of turn,
-I'll smack you on the head with a hammer!
+it'll show you
+if you should press the button or not.
+If you're too early or too late, 
+or press when the icon is red...
+I'll smash your head with the hammer!
 
 Wait, you're gonna hit me?
 
-Anyway,
-you'll understand once we start playing!
+Don't worry,
+you'll figure it out as we play!
 
 // Kick player 1
-Ouch!
-Can't you hold back?
+Ow!
+Why so hard?
 Did it hurt?
 No.
 Then let's continue!
 
 // Kick player 2
 Okay,
-I'm getting used to this.
-Watch me!
-You're gonna love it!
+I don't find it so bad anymore...
+Don't you dare!
+You better not start enjoying it!
 
 // Kick player 3
-I don't think this is for me.
+I don't think this game is for me...
 Ha-ha!
-I'm awesome!
-I'm epic!
-And I'm cute!
+Oh yea! Cappie so stylish!
+Cappie so great!
+Cappie just won, IN YOUR FACE!
 
 // Kick MitaCap 1
 Oh, you!
-Okay,
+Nahaha okay
 I'm gonna kick your ass!
 
 // Kick MitaCap 2
-Gah, lost again!
-Doesn't it hurt?
-Of course it doesn't! It's a stuffed toy!
-You won.
+Not again!
+Does it hurt?
+Of course it doesn't! It's an inflatable toy!
+And, you did win.
 
 // Kick MitaCap 3
-This game ain't too bad, heh.
-It's fun, no?
+I'm starting to like this game.
+And I...
 I like it too!
-And now you're my nemesis!
+And now you're my arch-nemesis!
 
 // GameHammer End
-That's it?
-Yeah, that's it!
-Let's go.
+Is that it?
+Yep, that's it!
+Let's go!
 
 
 
@@ -452,18 +452,18 @@ Let's go.
 
 
 // GAME DANCE
-Is that a dance floor?
+Is that the dance floor?
 It's so tiny...
 
 
 Whoo-hoo!
 Shall we dance?
-For starters,
-pick a track!
+First,
+choose a track!
 
 Let's go with this one.
 
-Okeydokey!
+Okey-dokey!
 Lemme go first!
 I'll show you how it's done!
 
@@ -471,7 +471,7 @@ I'll show you how it's done!
 Phew!
 So,
 think you can break my record?
-Come on, it's your turn!
+Come on, go ahead, do it!
 
 // MitaCap StopDance 2
 Ah!
@@ -479,7 +479,7 @@ How's that?
 Your turn!
 
 // MitaCap StopDance 3
-Tsk, tsk, tsk, tsk!
+Dun, dun, dun, dun!
 Okay,
 hit the dance floor!
 
@@ -488,17 +488,17 @@ Ha-ha!
 Who's the boss?
 
 // MitaCap = Lose 2
-Pew!
-Three buttons,
-and my swift hands!
+Pfft!
+Only three buttons,
+but you couldn't even handle that!
 
 // MitaCap = Lose 3
-Maybe sitting on your butt
-over those buttons
+Maybe sliding your butt
+across those buttons
 will get you a higher score. Ha-ha!
 
 // MitaCap = Win 1
-Awesome!
+Hahaha awesome!
 Honestly, I didn't think
 you could do it!
 
@@ -518,80 +518,80 @@ Me!
 We the team!
 
 // MitaCap = Draw 2
-Fate's threads link us!
+Fate's thread links us!
 A perfect duet!
 
 // MitaCap = Draw 3
 Just
 one mistake!
-And you'd lost...
+And you'd have made... one mistake!
 
 // MitaCap Next? 1
 So,
 how about another round?
 
 // MitaCap Next? 2
-Great, one last one.
-How about a dance?
+One song left.
+Shall we finish off with it?
 
 // MitaCap Endgame
-Come on, come on!
+Okey-dokey!
 We've done enough dancing!
 
 // Just talk
 // Photo
-These are some pretty awesome photos.
-You sure like a good laugh, eh?
+These are some stunning photos.
+You sure like to party, eh?
 
-Yeah, I am what I AM!
-Showed 'em how it's done in this shithole! Boom!
+That's who I AM!
+Yeah showed 'em how it's done in this shithole! Boom!
 
 Um... showed who, exactly?
 
-Really, you're asking me that?
-Who cares! I bet they're all blind!
+Who did I show...?
+Who cares! I bet they went totally blind!
 
 // CutBoard
 Whoa,
 There's, um... so many.
-What for?
+But why?
 
-What do you think?
-It's about doing amazing things!
+Take a guess!
+They're for doing amazing things!
 Like...
 Cutting up carrots,
 and like
-cutting carrots,
+cutting up carrots,
 and like...
 
-Right, I got it.
+Ok, ok, I got it.
 
-Okay, to be fair,
-the chopping board went ka-cha-cha! Whatever that means...
-And that's all she wrote!
+Right, but actually...
+the chopping board went ka-cha-cha and totally bugged out! 
+And now there are a bunch of them!
 
 // Books
-Rereading all of them, huh?
-Cuz you're bored?
+Bet you've read them all at this point.
+Nothing else to do, right?
 
-Ugh, I don't like books!
+Euagh, I HATE reading!
 I like doing things!
 
-That's one way to look at things.
-But without theory...
+That's one way to look at it.
+But knowledge helps...
 
-Boom - movement, motor skills, touch, you know?
+Boom - moving, creating, touching, you get me?
 Books are just paper, I like to be in the moment!
-If only you'd stay here with me,
+If you stay here with me,
 we could do so, so much!
 I'm sure we could...
 
 // Fruits
-Is the fruit even real?
+Are these fruits even real?
 They look amazing.
 Do they ever go bad?
 
-The apples, you mean?
+Oooh, yeah, the apples!
 They don't have time to go bad,
 cuz I eat them all!
 And then they reappear...
@@ -599,14 +599,14 @@ And then they reappear...
 // Photo and cat
 What a cute kitty cat.
 
-Is she tasty?
+Doesn't she look tasty?
 
 Wait, what?
 You don't eat cats.
 
-Gah, you fool!
-I know that!
-I just meant
+Hehehe you blockhead!
+Nobody eats cats!
+I was just hinting
 that I've never actually seen one!
 A real one, that is.
 Only pics on the Internet.
@@ -616,222 +616,222 @@ Yeah, they're real cute.
 I like cats.
 
 // Mita Kind with ring
-What's that?
+Uh what's that?
 
 It's the ring's interface,
-and I'm changing the route.
+and I'm changing the path.
 
-Uhm, but you're just going in circles?
+Just by moving circles around?
 
-Yeah, you might think that.
-To me, I'm transferring data.
+Look. To you they're just circles.
+To me, they're data.
 
-Will it take long?
+Are you sure it won't take too long?
 
-Quiet! Don't disturb me,
-and it'll go way quicker.
+Hush! Don't disturb me,
+and it'll go way faster.
 
-Right,
-so if I keep on interrupting you,
-it'll take way longer?
+So what you're saying is,
+if I keep on interrupting you,
+you'll stay here for longer?
 
-Oh, Cappie,
-I wish we could recover your memories...
+Oh, Cappie...
+If only you had your memories back...
 
-Everything will be all right soon...
+I don't think we can stay...
 
-Wonderful!
+But that would've been so wonderful!
 
-We've no time to waste.
-We've got to get to the Core.
+There won't be any "staying".
+We need to get to the Core!
 
 Can I come with you?
 
-Well, I dunno...
+The answer is simple.
 
-So, I can't?
+I can't?
 
-Afraid not.
+You can't.
 
 // PlayerChibi
 I'm late... super late!
-And I've had too much food...
+I am eating too much...
 Gah, work again?
-What is tomorrow's date?
-Where's the computer?
+When will tomorrow come?
+Where's my computer?
 They'll kick me out if I don't finish on time!
 Have I saved everything?
-Doesn't anyone love me?
+Does nobody love me?
 Where are we going?
 Hey!
 I'm running out of patience...
-I've gotta work harder...
-I can't get anything done!
+I need to do more work...
+Everything's so big here.
 Where's my phone?
-Uhm...
-what happened yesterday?
+Sigh...
+What even happened yesterday?
 There's just no end to today!
-Hiya?
-Got a free bed?
+Hello?
+Any beds around here?
 What am I supposed to do?
 I won't be able to finish on time...
-I can't figure out what the problem is...
-Any walls?
+What's the problem?
+Are these walls real?
 A 20-minute rest should be fine...
 Sleeping is for losers!
 Time to wash up and get to work!
 I'm hungry!
-This is bad, real bad.
+This doesn't look good.
 
 // Player is gone 1
 Erm...
 
-Ahahaha.
+Ahahaha!
 
 Yeah...
-He got it,
-and just left.
+He walked out.
+Just like that.
 
-How odd!
-And funny :D
+That's so odd!
+And funny!
 
-Oh, come on.
-[player], what are you doing?
+Come on now.
+[player], what's wrong?
 
 // Player is gone 2
-What's up?
+Wait, what?
 
-You're leaving again?
+He left again?
 
-Fine!
-Fine, I'll forgive you.
+Sure did!
+...What are you even doing now...
 
 [player], come back to us!
 
 // Don't pay attention
-He didn't even so much as look at me!
-Boring...
+You didn't so much as look at me!
+Hmph boring..
 
 // quest Cap 1
-What's your plan?
+What was your plan, anyway?
 
-My plan?
+Plan?
 What plan?
 
 Oh, right.
 You've lost your memories.
 
 You're really something, guys!
-I really should remember something!
-Are you teasing me?
-But looking at that expression of yours...
-I can't tell!
+Acting like I'm supposed to remember something!
+Are you trying to prank me?
+Looking at your frowns, though...
+I can't quite tell!
 
 // quest Cap 2
-How does seeing an
-exact replica of yourself feel?
+How does it feel to
+see an exact replica of yourself?
 You know, the one with the ring.
 
-Yeah, I was gonna yell at her.
-You know, to surprise her.
-Holy moly! Look, it's a clone of me!
+You know, I was ready to hiss at her!
+That's how surprised I was...
+Like, holy moly! Look, it's a clone of me!
 Though, I'm way more fun.
-So I'm cooler, heh :)
-Look at that frown...
+Which means, I'm better, heh.
+I mean look at that frown
 
-I'm right here.
-I can hear everything you're saying.
+I'm right here, you know?
+I can hear everything you're saying!
 
 // quest Cap 3
-Don't you grow tired of wearing that cap?
-And don't those gloves get warm?
+Don't you get tired wearing that cap all the time?
+And don't your hands get sweaty in those gloves?
 Why not take them off?
 
-Err...
+Eh?
 You're such a joker!
-Or, should I take something else off? :)
+Or, should I take something else off?
 
-I was being serious here.
-Oh, okay.
+I wasn't joking.
+Ah, whatever.
 
 // Carrot
-Oops.
+Woah!
 That's a ton of carrots!
 What a funny bug!
-Ha-ha-ha!
+Hahaha!
 
 // DoorExit
-Wait, hold on!
-You better not see what's in there...
-Let it be a secret :).
+Stop, stop!
+You're better off not seeing what's in there...
+Let it be a secret.
 
 What's in there?
 
 A secret is a secret,
 and secrets are meant to be kept.
 
-Uh-huh.
-Why are you riling yourself up?
+Sigh...
+Why do you have to leave me hanging like that?
 
 // Tetris
-Whoa!
+Wow!
 What's that?
 A console!?
 Lemme have a go!
 
-Uh-oh.
+Woah.
 
 What do you do in this one?
 
-You just collect coins,
-and avoid frogs.
+You just
+collect coins and avoid frogs.
 
 Gah, sounds beyond boring.
 Seriously, you call that a game?
 
 // Tetris again
-Where did you get that?
-It's not like I returned it to you.
+Huh, where did you get that from?
+I don't remember you picking it up.
 Weird, don't you think?
 
 // TV
-Ugh!
+Woah!
 Way to go,
 you found a bug!
-That's supposed to start the video
-but instead, it turns the TV
-on and off!
-Pretty cool, don't you think?
+The remote is supposed to toggle the video,
+but, for some reason,
+it toggles the whole TV on and off!
+Crazy, huh?
 
 // Player sit
-I think I'll just wait.
+I think I'll just wait here.
 
-What are up to?
+What are you doing?
 Wakey-wakey!
-Let's go have some fun!)
+Let's go have some fun!
 
 // Goodbye 1
-Head out through that door
-to the hall.
+Head out through
+the living room door.
 
 Bye-bye!
 
 // Goodbye 2
-It's time for you to go, [player]!
-Go, don't be scared!
+You should get going, [player]!
+It'll be okay. Don't be scared!
 
-I would never
-ever leave you all alone!
+If it was me,
+I'd never ever send you all alone!
 So stay with me!
 
 Cappie!
 No joking, OK?
 
-Bah!
+Awh...
 
 // Goodbye 3
 What are you standing around for?
-We're running out of time!
+The clock is ticking!
 
 Hi!
-Err, I mean bye-bye!
+Ahh, I mean bye-bye!

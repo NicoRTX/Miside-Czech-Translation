@@ -1,5 +1,5 @@
 // Snaker
-Defeat!
+Defeat
 Victory!
 // DontWork
 Stop!

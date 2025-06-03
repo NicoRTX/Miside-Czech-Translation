@@ -1,19 +1,19 @@
 // Track names
-Cracker
-Bubble drink
+Cookie
+Bubble
 Balloon
 // Quest none
 Never mind.
 // Quest "Meeting Kind Mita"
-Should I trust you?
+Can I trust you?
 How did I get here?
-What is this place?
+Where are we?
 How did you get here?
-What did you do with the ring?
-Are the passages dangerous?
-Will you help me escape?
-You mentioned a plan.
+What did you do to the ring?
+Are the passageways dangerous?
+Will you help me get out?
+So, what is your plan?
 // Quest MitaCap
 Do you remember anything?
-What do you think of the ring-bearing Mita?
+What do you think of the other Mita?
 Do you always wear that cap?
