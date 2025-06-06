@@ -34,11 +34,8 @@ Ale obávám se, že máš pravdu.
 // Player
 Chápu smysl, ale k čemu mi to je?
 // MitaShorthairs
-Říkala jsem ti snad, že jít dál je nebezpečný
-Jen tak pro legraci?
-Narazíš na... figuríny...
-Zapomenuté a „vadné“.
-Jsou velmi agresivní, fakt to chceš riskovat?
+Myslíš si, že jsem ti o tom nebezpečí
+Říkala jen tak ze srandy?
 // Player
 Co mám teda dělat?
 Kde se otevřou dveře,
