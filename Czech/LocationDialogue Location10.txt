@@ -29,13 +29,13 @@ Chápeš smysl té hry?
 Že já jsem z masa a kostí a ty jsi figurína?
 // MitaShorthairs
 Páni!
-To zní strašlivě
+To zní strašlivě,
 Ale obávám se, že máš pravdu.
 // Player
 Chápu smysl, ale k čemu mi to je?
 // MitaShorthairs
-Říkala jsem ti snad, že jít dál
-Je nebezpečné jen tak pro legraci?
+Říkala jsem ti snad, že jít dál je nebezpečný
+Jen tak pro legraci?
 Narazíš na... figuríny...
 Zapomenuté a „vadné“.
 Jsou velmi agresivní, fakt to chceš riskovat?
@@ -59,21 +59,21 @@ Snad ti to pomůže!
 
 // Quest 1 (Why are there other Mitas down there?)
 Jsou čerstvě vyrobený.
-Potřebují čas
-Aby získali sebeuvědomění
+Potřebují čas,
+Aby získali sebeuvědomění.
 Pak každou z nich zavedu
 Do jejich domova.
 
 // Quest 2 (Why is it so dark downstairs?)
 My Mity jsme „stvořeny“ ve tmě,
-Takže v ní musíme strávit nějakou dobu.
+Takže v ní musíme nějakou dobu strávit.
 Dokážeš si představit,
-Jak bolestivý je přejít do světla z úplné temnoty?
+Jak bolestivý je vstoupit do světla z úplné temnoty?
 
 // Quest 3 (What are you doing here?)
 Ty to ještě nechápeš?
 Pomáhám Mitám se usadit!
-Kdo jiný jim tady pomůže, když ne já?
+Kdo jinej jim tady pomůže, když ne já?
 Ty?
 
 // Quest 4 (Why do we need this conveyor?)
@@ -140,8 +140,8 @@ Jen doufám, že to nebude jako ve škole
 A neusnu tady nudou.
 // MitaShorthairs
 Jestli chceš, tak můžeš jít pryč.
-Ale pokud tě to zajímá
-Tak poslouchej
+Ale pokud tě to zajímá,
+Tak poslouchej.
 Hráč si stáhne MiSide na svůj mobil.
 Spokojeně hraje a užívá si hru.
 Vytvoří si tak nový domov
@@ -157,18 +157,18 @@ A s ní i nový dům.
 Hustý...
 // MitaShorthairs
 Klidně se zeptej i na konkrétní věci,
-Které jsou na tabuli,
+Co jsou na tabuli,
 A já se ti to pokusím vysvětlit.
 
 // He asks about the only circle
 Proč je tady jenom jeden kruh?
 // MitaShorthairs
-Tato verze byla vydána pouze jednou.
-Už se dál nešíří.
-Je to unikát.
-Tyto verze jsou zvláštní tím,
-Že nimi nelze projít.
-V této verzi 1.1 žije Ospalá Mita.
+Tu verzi hrál jenom jeden hráč
+A teď už není dostupná.
+Proto je tady jenom jedinkrát.
+Takové verze jsou zvláštní tím,
+Že nevede žádná cesta kolem nich.
+V téhle verzi, 1.1, žije Ospalá Mita.
 // Player
 Ospalá Mita?
 Protože se jí špatně spí,
@@ -181,30 +181,30 @@ Ale nemáš šanci ji vzbudit.
 // He asks about the shaded circle
 Proč je tenhle kruh vyplněný?
 // MitaShorthairs
-No... ten je vyplněný
-Kvůli Krásné Mitě.
-Ona ten kruh vyplnila.
-Dohadovali jsme se o tom
-Kdo se dostane dřív do verze 1.11.
+No... důvod, proč tady ten graf vůbec je,
+Je kvůli Krásné Mitě.
+Ona ho celý nakreslila.
+Dohadovaly jsme se o tom
+Kdo se dřív dostane do verze 1.11.
 // Player
 A kdo vyhrál?
 // MitaShorthairs
-Jasně že já!
-My jsme teď tady.
+Jasně že JÁ!
+My jsme teď tady,
 Ve verzi 1.15,
 Index domu 809.
 Potřebujeme se dostat do verze 1.11,
 Index domu 805.
 Prvně její cesta vypadala takto.
-Snažili jsme se najít co nejkratší cestu,
-Takže Cool Mita navrhla tuto cestu.
-A pak jsem nakreslila nejjednodušší cestu.
-Je to jednoduchý, ne?
-Koukej.
-Odsud se můžeš dostat přímo k požadované verzi
-Tenhle dům možná vypadá nepřístupně,
+Snažili jsme se najít kratší cestu,
+Takže Krásná Mita navrhla tuto cestu.
+A pak jsem jí ukázala tu nejjednodušší cestu.
+Je to jasný, když se nad tím zamyslíš!
+Koukej sem.
+Odsud se můžeš dostat přímo do verze, ke které míříš.
+Na první pohled se zdá, že je tenhle dům v cestě,
 Což by ti znemožnilo projít...
-Každopádně tvůj prsten funguje na stejném principu.
+Každopádně, tvůj prsten funguje na stejném principu.
 Kam tě poslali?
 // Player
 K Jádru.
@@ -213,8 +213,8 @@ K Jádru?
 Zajímavý...
 Pokud tě poslali nejkratší cestou
 Budeš muset projít verzí 1.11.
-Tam se určitě setkáš s Ospalou Mitou.
-Zajímalo by mě jestli Mita, která tě poslala
+Pak se určitě setkáš s Ospalou Mitou.
+Zajímalo by mě, jestli Mita, která tě poslala
 Šla stejnou cestou.
 Nebo jestli si to neuvědomila a ty půjdeš přes jinou verzi.
 Možná je génius,
@@ -231,14 +231,14 @@ Konečně dá pryč ty krabice!
 A donese sem ten gauč!
 Už mě hrozně bolí zadek!
 // Player
-Emm...
+Ehm...
 Můžu pomoct, jestli chceš.
 // MitaShorthairs
 Ne, to je práce pro Cool Mitu.
 Je silná.
 
 // He asks about the drawings
-Tohle je jen kresba?
+To je jenom kresba?
 Nebo
 To něco znamená?
 // MitaShorthairs
