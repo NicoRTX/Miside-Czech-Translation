@@ -22,7 +22,7 @@ Zůstaň tu ještě se mnou, prosím...
 
 // Answer 3 - Mita
 Vysvětlím ti to...
-A tak jsi tu!
+A teď jsi tady!
 Pochopil jsi to?
 Uhm... úplně ne.
 No, to je jedno.
@@ -106,44 +106,44 @@ Vem si třeba mrkev.
 Jednu nakrájíš,
 Ale je to, jako bys nakrájel tři.
 
-Podívej, všechno je to na mě velmi náhlé.
+Poslouchej, je toho na mě moc najednou.
 Mám strach, docela dost.
 
 
 Děje se něco?
 
-Ve větrací šachtě jsem našel kazety.
-Byla na nich různá jména.
-Proč?
+Ve větrací šachtě jsem našel nějaké kazety.
+A byla na nich jména.
+Nevíš o tom něco?
 
 Kazety?
 Jaké kazety?
-Podíváme se na to společně.
-Ale až později.
-Teď se najíme.
-Podej mi nůžky, prosím.
+O žádných nevím,
+Ale teď to neřeš.
+Nejdřív se najíme.
+Podej mi ty nůžky, prosím.
 
 // Ring
 Prsten?
 // Mirror
-Jak to, že nevidím žádný odraz?
+Jak to, že nevidím svůj odraz?
 
-Aha, jasně!
-Zapomněla jsem zapnout odrazy.
-Prosím!
-Odrazy už zase fungují!
+Jo, jasně!
+Nevidíš je, protože jsem je zapomněla zapnout.
+Tadá!
+Teď už jsou vidět.
 Víš,
 Donedávna jsem ani nevěděla, co odrazy jsou.
-V mém světě neexistovaly.
-Až do nějaké aktualizace, tedy.
+V mém světě žádné nebyly.
+Teda až do nějaké aktualizace.
 Je ve tvém světě
-Hodně lesklých věcí?
+Spousta odrazů?
 
 No, ano.
 
 
-Vzpomínáš si na
-Ty tři předměty, které jsi musel najít?
+Vzpomínáš si na ty tři předměty,
+Které jsi musel najít?
 Ty, které jsi položil na skener?
 No, tak...
 Ty předměty
@@ -159,25 +159,25 @@ Ano!
 Řekla jsi mi,
 Že se rozbila.
 
-No, chtěla jsem tě trochu
-Překvapit!
-Řekla jsem ti nevinnou lež
-Abych tě mohla dostat sem, do mého světa.
-Funguje a zobrazuje důležité informace!
-I tak...
-Nejsem úplně technokrev!
+Chtěla jsem tě jenom
+Trochu překvapit!
+Řekla jsem ti malou nevinnou lež
+Abych tě dostala sem, do mého světa.
+Teď zobrazuje důležité informace!
+No víš...
+Jsem taky trochu technokrev!
 
 // Player - School uniform
 Co to je?
 To je tvá školní uniforma?
-Na co bys ji potřebovala?
-Můžeš vůbec chodit do školy?
+Proč ji tady máš?
+Můžeš ještě vůbec chodit do školy?
 // Mita
 Chodit do školy?
 Vůbec.
 Ale líbí se mi.
-Myslím si, že v ní
-Vypadám roztomile.
+Připadám si v ní
+Celkem roztomile.
 
 // PC
 Ten počítač je funkční?
@@ -188,23 +188,23 @@ Všechno, co tu vidíš,
 Funguje stejně, jako ve tvém světě.
 
 V mém světě
-Často sedávám u počítače...
+U počítače sedávám často...
 A tvrdě pracuji.
 
 Já vím.
-Chápu, že kvůli tvé usilovné práci
-Jsi měl málo času
+Chápu, že jsi kvůli tvé usilovné práci
+Neměl moc času
 A proto ses mi nemohl moc věnovat.
 
 No, musím se nějak uživit.
-Počkat... jak víš, že sedím dlouho u počítače?
+Počkat... jak víš, že dlouho sedávám u počítače?
 
-Fotoaparát tvého telefonu... někdy se sám zapne.
-Omlouvám se.
-Tajně jsem tě sledovala >A<
+Foťák tvého telefonu... někdy se sám zapne.
+Promiň.
+Tajně jsem se koukala >A<
 
-Víš, že to je celkem neslušné...
-No, to už je jedno.
+No, to je celkem neslušné...
+Teď už je to jedno.
 
 // Umbrella
 Hrál jsem tu hru dlouho
@@ -224,7 +224,7 @@ Tak k čemu jsou?
 
 Za prvé,
 Jsme ve hře.
-Takže ptát se „Proč“ je...
+Takže ptát se „proč“ je...
 Zbytečné.
 A za druhé, když vypadne elektřina
 Tak ji tady můžeš obnovit.
@@ -259,7 +259,7 @@ Je tu na ozdobu,
 Aby nebyla jídelna tak prázdná.
 Ale taky funguje!
 Dají se na ní sledovat
-I filmy pro pamětníky!
+Filmy pro pamětníky!
 
 // Smartphone
 To je můj telefon.
@@ -289,7 +289,7 @@ Tady naladíš?
 No, není to úplně přes anténu,
 Ani přímo internetová televize.
 Prostě se můžeš dívat tak nějak na cokoliv,
-Alespoň cokoliv, co je dostupné na webu.
+Aspoň cokoliv, co se dá najít na webu.
 Počkej.
 Eh?
 Co to je?
@@ -360,7 +360,7 @@ A jsem tu já.
 Ne, ne,
 Rád bych zůstal.
 Jen mám trochu strach.
-Bojím se, jestli jsem na něco doma zapomněl...
+Bojím se, jestli jsem na něco doma nezapomněl...
 Objevil jsem se tady z ničeho nic.
 A vůbec jsem se
 Na to nepřipravil.
@@ -371,12 +371,12 @@ To chceš utéct
 A zapomenout, že se tohle vůbec někdy stalo?
 
 Ne!
-Tak jsem to nemyslel,
-Všechno je to takové přesycené a nepřirozené.
+Tak jsem to nemyslel.
+Všechno je tady takové přesycené a nepřirozené.
 Ale...
 Ty vypadáš skutečně.
 
-Já vypadám skutečně?
+Že vypadám skutečně?
 Jsem velmi skutečná,
 Ty hlupáčku!
 
@@ -416,7 +416,7 @@ Ale můžu, jestli chceš.
 Sluší mi?
 // Yes
 Tak jo.
-Budu je tedy nosit.
+Nechám si je na sobě.
 // No
 No,
 Tak nic...
@@ -428,9 +428,9 @@ Co je to vůbec za omáčku?
 To je láskyplná omáčka!
 Je lásky úplně plná!
 A umí člověku dát úplně jiný pohled na svět.
-Zní zajímavě, nemyslíš?
+Zajímavé, nemyslíš?
 // Player
-Vskutku...
+To teda...
 
 // Tetris - Mita
 To je tvoje konzole?
