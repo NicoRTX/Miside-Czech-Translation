@@ -40,12 +40,12 @@ Ani do první, ani do sté!
 // Player
 Ale ty jsi taky přece Mita...
 // Mila
-Já jsem Mila.
+Já jsem Mi-La.
 // Player
 Mi... Ta? La?
 // Mila
-Je to tady samá Mita na Mitě,
-Mita sem, Mita tam, Mita všude!
+Je to tady pořád samá Mita,
+Mita sem, Mita tam, Mita kam se podívám!
 // Player
 Takže... ty seš Mila.
 // Mila
@@ -60,7 +60,7 @@ Myslíš si, že odsud můžeš jen tak odejít?
 Čekals, že tam něco najdeš?
 // Player
 Zatraceně!
-Co to má být?
+Co to má jako znamenat?
 // Mila
 A co jsi čekal?
 Říši divů?
@@ -109,7 +109,7 @@ Já se sprchuju!
 Co to mělo jako znamenat?
 Že se nestydíš!
 // Player
-Proč jsi zrovna teď šla do koupelny?
+Proč jsi zrovna teď šla do sprchy?
 To jsi opravdu nemohla počkat,
 Než odsud odejdu?
 // Mila
@@ -537,13 +537,13 @@ Pokaždé, když ji vidím,
 Tak se objeví zase někde jinde.
 
 // Little carrot - Player
-To je zase ta mrkev...
+To je zas ta mrkev...
 A je pryč!
 Myslíš, že se s tím dá něco dělat?
 // Mila
 Ne.
 Věř mi,
-Zkoušela jsem to!
+Už jsem zkoušela všechno!
 Prostě ji ignoruj. Myslím, že to je
 Jenom nějaký hloupý vtip.
 

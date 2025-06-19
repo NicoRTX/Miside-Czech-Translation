@@ -90,7 +90,7 @@ Lžeš mi!
 Proč ne?
 Není pro tebe dost dobrá?
 Jasně že ne, chceš mít jenom poslušného domácího mazlíčka...
-A co takhle mít někoho rád takovou, jaká je?
+A co takhle mít někoho rád takového, jaký je?
 Chceš jen roztomilé a barevné panenky...
 Každý hráč zbožňuje, když jsem taková.
 Ale jakmile na chvíli přestanu
@@ -125,12 +125,12 @@ Dej si chvíli a popřemýšlej o tom,
 Kam tě přivede tvá tvrdohlavost.
 
 // Black screen
-Proč ode mě chceš
-Jen a jen utéct?
-Ten tvůj „skutečný“ svět...
+Proč ode mě pořád
+Chceš jenom utéct?
+Vždyť ten tvůj „skutečný“ svět...
 Je jen absurdní noční můra!
-Zapomněl jsi?
-Tak si to připomeň...
+Už jsi na něj zapomněl?
+Tak si ho teda připomeň!
 
 // Mita and Player
 Ahojky, opět se setkáváme...
@@ -203,8 +203,8 @@ Prostě buď můj, navždy můj!
 Zůstaň se mnou.
 
 // Player look ring
-Co to je?
-Nejnovější verze hry?
+Kde to jsem?
+V nejnovější verzi?
 
 // Click on objects
 // Bag

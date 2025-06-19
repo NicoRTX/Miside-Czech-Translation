@@ -15,7 +15,7 @@ To je jedno, pojď sem...
 Gratuluji, vyhrál jsi!
 Taky jsem to hrála!
 Snažila jsem se posbírat všechny mince a dostat se na 1. místo
-Abych získala „úspěch“!
+Abych dostala „achievement“!
 No... nebylo to úplně jednoduché.
 Trvalo mi celkem dlouho, než jsem si zvykla na ovládání.
 
@@ -748,8 +748,8 @@ A nepotí se ti ruce, když máš pořád ty rukavice?
 Nechceš si to sundat?
 // MitaCap
 Err...
-Ty jsi mi ale vtipálek!
-Nebo bych si měla sundat i něco jiného?
+Ty seš mi ale vtipálek!
+Nebo bych si snad měla sundat i něco jinýho?
 // Player
 Myslel jsem to vážně.
 Ale to je fuk.

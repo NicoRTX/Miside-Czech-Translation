@@ -109,14 +109,14 @@ Sotva jsem mrknul, tak 2D Mita zmizela a místo, na kterém byla, zelo prázdnot
 Hej!
 // Description
 Podrážděně jsem vykřikl.
-Kuchyně // choice
+Kuchyň // choice
 Ložnice // choice
 // Description kitchen:
 Nezbývalo nic jiného než jít hledat místní Mitu.
 Měla ten prsten a bez tohoto cenného artefaktu bych nic nezmohl.
 Nejdřív jsem zamířil do kuchyně.
 Ve spěchu jsem málem prorazil dveře.
-Kuchyně byla ještě více zalitá světlem než předchozí místnost,
+Kuchyň byla ještě více zalitá světlem než předchozí místnost,
 Můj nos zachytil povědomé tóny krájené mrkve.
 Ale po 2D Mitě ani stopa.
 Vystřelil jsem ven, vrhl se do obývacího pokoje, obratně se vyhnul pohovce, která mi trochu překážela v cestě, a zastavil se u dveří do ložnice.
