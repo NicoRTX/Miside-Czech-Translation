@@ -1,25 +1,25 @@
 Nová hra
-Pokračovat
+Pokračovat ve hře
 Hlavní menu
 Ukončit
 Nastavení
-Úspěchy
+Achievementy
 Autoři
 Zpět
-Načíst
+Vybrat kapitolu
 Jazyk
 Načítání...
-Grafika
-Zvuk
+Nastavení grafiky
+Hlasitost hry
 Klávesnice a myš
 Ovladač
 Rozlišení
-Režim v okně
+Zobrazení v okně
 Grafické efekty
 Barevné efekty
 Jemné stíny
 Rozmazání
-Odlesky
+Efekt záře
 Vyhlazování hran
 Stíny
 Kvalita zobrazení světa
@@ -41,7 +41,7 @@ Citlivost myši
 Opravdu chceš opustit hru?
 Ano
 Ne
-Zpět do hlavního menu
+Vrátit se do hlavního menu
 Plynulé otáčení
 Nastavení hry
 Styl stínů
@@ -53,7 +53,7 @@ Pozastaveno
 Menu
 Gratulujeme! Dokončil jsi hru!
 Tvůj čas:
-Titulky
+Styl titulků
 Jas
 Vertikální synchronizace
 Uloženo
@@ -62,12 +62,12 @@ Postavy – Mity
 Postavy – Kazety
 Kazety
 Mity
-Vymazat veškerý postup
+Smazat veškerý postup
 Opravdu chceš smazat veškerý postup a začít od začátku?
-Kompilování shaderů, odhadovaný čas: 2 hodiny.
-Kompilovat 2 hodiny?! To je blbost! Kašlem na to!
-Vytváření realistického trasování stínů — odhadovaný čas: 10 minut.
-Děláme si srandu, tyhle vymoženosti tady nepoužíváme.
+Kompilování shaderů, odhadovaný čas: 2 hodiny, čekejte prosím...
+2 hodiny?! To radši udělám šejdrem!
+Vytváření realistického trasování stínů — odhadovaný čas: 10 minut
+Děláme si srandu, tyhle vymoženosti tady nepoužíváme
 Ehm...
 Hotovo!
 Houpání při chůzi
@@ -135,28 +135,28 @@ Co je to mírumilovný režim? Je to tvá šance se znovu spojit s Mitou zcela n
 
 Cenzurovat krev
 Zvláštní poděkování:
-Ikona úspěchů: Icecloud
+Ikony achievementů: Icecloud
 Fotografie: Nineko Hori
 Překladatelé
-Překládají hru do jiného jazyka.
-Partnerský vydavatel
+Přeložili hru do jiných jazyků.
+Partnerští vydavatelé
 Marketing hry
-Tester
-Hráli a našli všechny možné bugy.
+Testeři
+Našli ve hře všechny možné bugy.
 Tento překlad vytvořili nadšenci z komunity a na jejich žádost byl do hry přidán.
-Varování! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
+Varování! Hra obsahuje lekačky, hlasité zvuky a blikající světla. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
 Mírumilovný režim je nyní dostupný!
 
 Fotorežim
-Fotorežim: Pohyb kamery není omezen. Lze prozkoumávat jinak nepřístupné oblasti.
+Fotorežim: Pohyb kamery není omezen. Můžeš vidět i to, co bys neměl.
 Ukončit Fotorežim
-Skrýt rozhraní
-Podržet pro posun kamery
+Skrýt nabídku
+Posun kamery
 Rychlý pohyb
-Plynulý pohyb
+Vyhlazování pohybu kamery
 Rychlost
 Efekty
-Ovládání herního času
+Rychlost herního času
 Jas
 Kontrast
 Vinětace

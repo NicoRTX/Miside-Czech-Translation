@@ -1,20 +1,20 @@
 Mito? // Player
-Už jsi vzhůru? // Mita
+To už ses probral? // Mita
 Jak ses sem dostala? // Player
-Před chvílí jsi byla hned vedle mě. // Player
+Vždyť jsi stála hned vedle mě. // Player
 // Mita
-Ne, nebyla.
-Ztuhl jsi před zrcadlem.
+No, stála.
+Ale ztuhl jsi před zrcadlem.
 Tak jsem odešla.
-Proč jsou ty pokoje jinak? // Player
+A proč jsou ty pokoje jinak? // Player
 // Mita
-Přestavěla jsem to tady,
+Trochu jsem to tady předělala,
 Abys ses tu cítil jako doma.
-Tady můžeme
-Měnit pokoje
+Jinými slovy,
+Můžeme si to tu předělat tak,
 Jak jen budeme chtít.
 // Player
-Nemusela jsi.
+Tos nemusela.
 Zvykal jsem si na to, jak byly.
 Myslím si, že se nám to takhle bude líbit víc. // Mita
 // Mita card game
