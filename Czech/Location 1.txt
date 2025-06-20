@@ -2,7 +2,7 @@ Obchod
 Kategorie
 Jídlo
 Nábytek
-Místnost
+Místnosti
 Oblečení
 Hračky
 Vylepšení
@@ -30,9 +30,9 @@ Uvádí
 Minihry
 Energie
 Elektronika
-Zpracování
+Výroba
 Plošinovky
-Hry
+Klasiky
 
 (1) Nová zpráva
 Koukni na tuhle novou verzi!
@@ -40,7 +40,7 @@ Příloha
 
 Přítel: M.K.
 
-DEN [0]
+DEN [0].
 
 
 
