@@ -173,8 +173,8 @@ Dobře, začínáme!
 Super!
 Dokázal jsi to.
 // Funicular stop
-Hej, vypadni odsud.
-Pěkně rychle!
+Vypadá to, že naše jízda je u konce.
+Vystup si!
 // Funicular wait 2
 Co tu ještě děláš?
 Řekla jsem ti, abys odsud vypadl.
