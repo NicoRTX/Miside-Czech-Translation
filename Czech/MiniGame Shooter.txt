@@ -1,10 +1,10 @@
-Pozor! Dnes musíme potrestat démony. Jsi na řadě, Mito! Dej jim co proto! Ale bacha, budou se bránit!
+Pozor! Dnes dostanou démoni co proto. Jsi na řadě, Mito! Ukaž jim, kdo tady tomu velí! Ale bacha, budou se bránit!
 Pro pokračování stiskni libovolné tlačítko.
-Výhra!
-Čas
-Úmrtí
-Výstřely
-Střely do hlav
-Poškození
-Skoky
+Konec hry!
+Celkový čas
+Počet smrtí
+Počet výstřelů
+Z toho střely do hlav
+Ztracené životy
+Počet výskoků
 Pro ukončení hry stiskni libovolné tlačítko.

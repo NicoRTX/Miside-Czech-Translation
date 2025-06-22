@@ -1,4 +1,4 @@
 Odejdi z domu.
-Rozhlédni se kolem.
-Oprav chyby.
+Rozhlédni se kolem sebe.
+Oprav bugy.
 Zkus odejít z domu.
