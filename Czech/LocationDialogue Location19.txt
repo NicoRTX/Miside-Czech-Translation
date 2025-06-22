@@ -318,8 +318,8 @@ Ale byly trochu víc... detailní.
 To protože já jsem Mi-La. Nejsem jako ostatní.
 A tohle?
 Jsou to kresby, víš,
-Které se snaží jen vypadat, jako fotky.
-Víš, jednou jsem viděla spoustu Mit,
+Které se snaží jen napodobovat fotky.
+Jednou jsem viděla spoustu Mit,
 Ale všechny stály takto.
 // Player
 Milo?
@@ -331,18 +331,18 @@ Je to děsivé!
 
 // Ask about the butterfly painting
 Byla jsi někdy v přírodě?
-Viděla jsi někdy motýla?
+A viděla jsi někdy motýla?
 // Mila
 Nebyla,
 Ale mám tu někde o nich knihu,
-V které je imitace jejich křídel...
+Ve které je imitace jejich křídel...
 Jsou docela křehké.
 Hmm...
 Ten obrázek je trochu nakřivo.
 A je na něm skvrna...
 Tak, to je lepší.
 // Player
-Chtěla by ses někdy jít projít do přírody a vidět ho na vlastní oči?
+Nechtěla by ses někdy jít projít do přírody a vidět ho na vlastní oči?
 // Mila
 To je ale hloupá otázka!
 Samozřejmě,
@@ -510,7 +510,7 @@ Zrcadlo...
 Ale nevidím žádný odraz?
 // Mila
 Ach ty!
-Pořád s něčím nespokojený.
+Pořád jsi s něčím nespokojený.
 V knížkách jsem vyčetla,
 Co to ty odrazy vůbec jsou.
 Ale v mé verzi je nemůžu zapnout.

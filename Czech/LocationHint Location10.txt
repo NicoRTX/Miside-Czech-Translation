@@ -1,4 +1,4 @@
-Rozhlédni se kolem.
+Rozhlédni se kolem sebe.
 Jdi k hernímu automatu.
 Prověř modely Mity.
-Vrať se dolů.
+Vrať se zpátky dolů.

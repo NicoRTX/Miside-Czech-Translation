@@ -23,13 +23,13 @@ Počkat, co tady dělám?
 Musím se dostat na tvou obrazovku...
 Chviličku...
 Nuže!
-Musíš se ujistit, že je tento prototyp nezávadný.
+Musíš se ujistit, že ten prototyp nemá žádné vady.
 Nejdřív ho naskenuj.
-Teď zkontroluj verzi a kosti.
-A teď porovnej schéma tohoto prototypu oproti standardní verzi.
-Shodují se! Tak teď zkontroluj emoce.
-Prototyp úspěšně projevuje emoce! Je čas otestovat chování.
-Dobrá, všechno vypadá v pořádku! A teď posuň páku nahoru.
+Teď zkontroluj jeho verzi a počet kostí.
+A teď porovnej jeho schéma oproti šabloně.
+Sedí to! Tak a teď zkontroluj emoce.
+Prototyp úspěšně projevuje emoce! Jako poslední otestuj jeho chování.
+Dobře, vypadá to, že je vše v pořádku! A teď posuň páku nahoru.
 Hurá! Teď už má i kůži! Hoď jí krabici s oblečením.
 Přesně tak! Vidíš ty světýlka nahoře? První se rozsvítilo zeleně, což znamená, že jsme to udělali správně!
-Jsi na řadě! Vrátím se, až budou všechna světýlka svítit zeleně. Hodně štěstí!
+Teď jsi na řadě ty! Vrátím se, až budou všechna světýlka svítit zeleně. Hodně štěstí!

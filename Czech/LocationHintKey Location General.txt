@@ -8,7 +8,7 @@ Vzít prsten
 Smazat hru
 Ukončit
 Mačkat
-Přestat //Zastavit?
+Přestat
 Běžet
 Otevřít zprávu
 Stáhnout aplikaci
