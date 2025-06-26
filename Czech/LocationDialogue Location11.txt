@@ -1,4 +1,4 @@
-
+// Mita
 Ahoj!
 Jejda!
 Promiň,
@@ -8,9 +8,9 @@ Ta lednička, ta lednička tě málem zabila.
 Já s tím nemám nic společného,
 Přísahám!
 Opravdu!
-
+// Player
 No dobře, když myslíš.
-
+// Mita
 Ale vážně!
 Je to tady nebezpečné...
 Obzvlášť pro tebe.
@@ -40,13 +40,13 @@ Nedívej se!
 Hlupáku!
 Ty hlupáku...
 
-
+// Mita if player out
 Ehm, dobře...
 
-
+// Goodbye
 Zlom vaz!
 
-
+// Mitaghost
 Kdo je tam?
 Vím, že tu jsi...
 Poslouchej mě,
@@ -56,7 +56,7 @@ Pomoz mi najít...
 Najít...
 Nech mě přemýšlet...
 Mám v hlavě prázdno...
-Co se to tu proboha děje?
+Co se to tu proboha děje? // Player
 // Cry 1
 Chtěla jsem na všechno zapomenout...
 Rozbila jsem všechna zrcadla,
@@ -112,7 +112,7 @@ Nevzpomínám si...
 Skončí to někdy?
 Nevím...
 
-// Mita get picture
+// Mitaghost get picture
 To je...
 Obrázek...
 Už si vzpomínám!
@@ -145,23 +145,23 @@ Odprejskni pryč!
 // Funicular - radio voice
 Počkat... Hráč?
 Co tady děláš?
-
+// Player
 Kdo je tam?
-
+// Mitafon
 Další hráč.
 Jsem Mitafon.
 Sedím tady a řídím lanovky.
 Uvědomuješ si,
 Že právě teď míříš do své zkázy?
-
+// Player
 Možná,
 Ale je to jediná cesta, kterou mám.
-
+// Mitafon
 Máš pravdu.
 Stiskni tlačítko a sedni za dělo.
-
+// Player
 Za dělo?
-
+// Mitafon
 Jo.
 Myslel sis, že pojedeš zadarmo?
 Projíždíš přes minihru „Vpal monstrům!“

@@ -183,8 +183,8 @@ Nepřišlo ti to dost přesvědčivý?
 // Player
 Úplně ne, no...
 // Mila
-Aha, takže ty vidíš úplně všechno
-Když opravuješ ty bugy, co?
+Aha, takže když opravuješ ty bugy,
+Tak vidíš úplně všechno, co?
 Veděls, že ta soška už byla naříznutá,
 Že jo?
 // Player
@@ -194,7 +194,7 @@ Lusknutím prstu můžeš mít, co chceš.
 // Mila
 Jo tak!
 Ty seš ale hňup!
-Lusknutím prstu, jo?
+Tak lusknutím prstu, jo?
 Proč myslíš, že čtu všechny ty knihy?
 Abych luskla prstem a bylo to?
 Radši si to všechno udělám sama,
@@ -255,8 +255,8 @@ Promiň, nechtěla jsem....
 To nic, Milo. Teď už můžu jít dál.
 // Mila
 Poslouchej, vím, že musíš jít...
-Ale nemohl bys tu zůstat
-Ještě chvilku?
+Ale nemohl bys tu
+Ještě chvilku zůstat?
 // Player
 Nemůžu, bohužel.
 Šílená Mita zrovna nepatří k těm trpělivým.
@@ -292,7 +292,7 @@ Ale ale?
 To je ale blbost!
 Já jsem ho teda nikdy neviděla.
 // Player
-Myslím, je nějaký způsob
+Myslím, že je nějaký způsob,
 Jak se dostat zpátky.
 // Mila
 To si docela věříš!

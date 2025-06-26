@@ -19,21 +19,21 @@ Jestli to vyjde, tak ti všechno řeknu.
 Najdi klíč. Je někde vedle gauče.
 // Player
 Ale...
-
+// MitaKind
 Otázky si nech na potom!
 Dej mi ten klíč.
-Tady máš prsten
+Tady máš prsten.
 K čemu?
 Chceš se odsud dostat, že jo?
 Jo...
 Tak si ho nasaď.
 Je to užitečná pomůcka,
 Pravděpodobně ho brzy využiješ.
-
+// Player
 Dobře...
 Mimochodem, já jsem
 [player].
-
+// MitaKind
 Mmm,
 [player].
 Já jsem... Mita.
@@ -48,38 +48,38 @@ Já jsem... Mita.
 // MitaKind quest 1
 Vidíš tu konzoli?
 Vezmi si ji.
-
+// Player
 To je záznam?
 Kdo je to s ní?
-
+// MitaKind
 Tohle se děje právě teď.
 Je to další hráč.
 Využívá ho.
 Dávej si na ni pozor,
 Taky z tebe může udělat kazetu.
-
+// Player
 Musím odsud ihned vypadnout.
 A ty taky.
-
+// MitaKind
 Ano, to musíme.
-
+// Player
 Takže říkáš,
 Že ho využívá.
 Co se stane, když vytáhnu tu kazetu?
-
+// MitaKind
 To by mohlo způsobit
 Nenávratné poškození kazety.
 Což znamená, že...
 Hráč zemře.
-
+// Player
 ...
 Co když tu konzoli prostě vypnu?
-
+// MitaKind
 To by mohlo fungovat...
 Za pokus to stojí. Na konzoli je červené tlačítko!
 Vidíš ho?
-Našel jsem ho.
-Stiskni ho.
+Našel jsem ho. // Player
+Stiskni ho. // MitaKind
 
 // MitaKind quest 2
 Musím tu zůstat.
@@ -94,12 +94,12 @@ A najednou se něco stalo.
 Objevila se ona...
 Proměnila hráče v kazetu
 A zavřela mě tady.
-
+// Player
 Počkej, ona z něj udělala kazetu?
 Jak to vůbec dělá?
 A proč?
 K čemu potřebuje hráče?
-
+// MitaKind
 Očividně je šílená...
 Je to pro ni jen hra a vyžívá se v tom, potvora!
 Předělává hráče na kazety...
@@ -119,32 +119,32 @@ Stále nerozumím tomu
 Co jsem tam nahoře viděl...
 Ta Mita...
 Chtěla mě zabít?
-
+// MitaKind
 Zabít?
 Má pro tebe připravené horší věci...
 Musíš si pospíšit.
 
 // Hide!
 Kruci! Schovej se!
-Počkat, co...?
-Rychle, už jde!
+Cože? // Player
+Rychle, už jde! // MitaKind
 Následuj prsten. Dovede tě do bezpečí!
 
-
+// MitaKiller
 No tak, řekneš mi, kde je?
-
+// MitaKind
 Proč bych to dělala?
 Nezabiješ ho, že ne?
-
+// MitaKiller
 Aha, takže mi to odmítáš říct.
 Nevadí, mám ráda hru na schovávanou.
 Vím, že je někde tady.
-
+// MitaKind
 Proč jsi na nás tak zlá?
 Ani mi neřekneš, co se děje!
 A vůbec...
 K čemu potřebuješ hráče?
 Nejsou to žádné hračky!
 Co to do tebe vjelo?!
-
+// MitaKiller
 Sklapni, panenko!

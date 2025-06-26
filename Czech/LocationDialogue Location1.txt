@@ -6,7 +6,7 @@
 
 
 
-
+// Mita
 Ahoj, já jsem Mita!
 Jak se jmenuješ ty?
 Ráda tě poznávám, [player]!

@@ -122,7 +122,7 @@ Nemůžeme do Jádra vstoupit.
 Viděla jsem ho jen zvenčí.
 Ale ty nejsi Mita, ty jsi hráč.
 Takže věřím, že ty se určitě
-dovnitř dostaneš!
+Dovnitř dostaneš!
 Zní jako plán?
 Dobře. // Player
 Skvěle. // MitaKind
@@ -282,7 +282,7 @@ Co to...
 Ty...
 Jsi skutečný člověk?
 // LimpingPerson
-Ahoj!
+Ahoj.
 Seš tu novej?
 Novej? // Player
 Seš z reálnýho světa, ne? // LimpingPerson
@@ -311,7 +311,7 @@ Odpal!
 // MitaCap
 Všechno jsem slyšela!
 Vůbec nevím, co se děje,
-Ale je to všechno tak zajímavé!
+Ale je to všechno tak zajímavý!
 Hádám,
 Že už víš, kdo jsem?
 Já jsem Mita!
@@ -334,7 +334,7 @@ Ták!
 Upřímně jsem doufala, že to bude znít líp.
 To je fuk!
 // MitaCap Guitar No
-Eh, tak nic.
+Ach, tak nic.
 
 // Player
 Hej,
@@ -494,13 +494,13 @@ Konec představení!
 
 // MitaCap = Lose 3
 Možná, když si sedneš
-A budeš se vrtět na té podložce
+A budeš se na té podložce vrtět,
 Tak budeš mít lepší skóre, haha!
 
 // MitaCap = Win 1
 Úžasné!
-Upřímně řečeno, docela jsem
-Tě podcenila!
+Budu upřímná,
+Docela jsem tě podcenila!
 
 // MitaCap = Win 2
 Páni!
@@ -510,7 +510,7 @@ Dobrá práce! Super!
 // MitaCap = Win 3
 A je to tam!
 Výborně sis držel rytmus!
-Jsi úplně přirozený tanečník!
+Seš úplně přirozenej tanečník!
 
 // MitaCap = Draw 1
 Ty!
@@ -536,7 +536,7 @@ Co ty na to?
 
 // MitaCap Endgame
 No tak, no tak!
-Už toho tancování bylo dost!
+Už toho tancování bylo dost.
 
 // Just talk
 // Photo
@@ -574,7 +574,7 @@ A teď je jich tu prostě hodně!
 Asi je máš všechny přečtené, co?
 Protože ses nudila.
 // MitaCap
-Fuu, nemám ráda knihy!
+Fuu, NESNÁŠNÍM luštení písmenek!
 Radši dělám něco praktického!
 // Player
 To je taky cesta.
@@ -692,8 +692,8 @@ No...
 Prostě se vzal,
 A odešel.
 // MitaCap
-Jak divné!
-A směšné!
+Jak divný!
+A směšný!
 // MitaKind
 Ale no tak.
 [player], co děláš?
@@ -767,7 +767,7 @@ Ať je to radši tajemství.
 // Player
 A co tam je?
 // MitaCap
-Co by to bylo za tajemství
+Co by to bylo za tajemství,
 Kdybych ti ho řekla!
 // Player
 Jasně...
@@ -792,7 +792,7 @@ Tohle tě fakt baví hrát?
 // Tetris again
 Odkud jsi to vzal?
 Vždyť jsem ti to nevrátila.
-Trochu divné, nemyslíš?
+Trochu divný, nemyslíš?
 
 // TV - MitaCap
 Ale!
@@ -800,7 +800,7 @@ Co s tím je?
 Asi jsi našel bug!
 Má to normálně zapnout televizi,
 Ale z nějakého důvodu to místo toho
-Ukazuje a schovává samotnou televizi!
+Ukazuje a schovává tu samotnou televizi!
 Docela hustý, ne?
 
 // Player sit - Player
@@ -811,8 +811,8 @@ Honem, vstávej!
 Pojďme se spolu nějak bavit!
 
 // Goodbye 1 - MitaKind
-Jdi těmito dveřmi
-Do té chodby.
+Projdi těmi dvěřmi
+Co vedly do obýváku.
 // MitaCap
 Pá pá!
 
@@ -823,7 +823,7 @@ Běž, neboj se!
 Já bych tě nikdy
 Nikam neposlala samotného!
 Tak tu se mnou zůstaň!
-
+// MitaKind
 Čapko!
 Nedělej si z toho srandu, jo?
 // MitaCap

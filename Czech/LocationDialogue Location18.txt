@@ -3,14 +3,14 @@ Do očí mi dopadlo oslepující světlo.
 Nemohl jsem se hnout, čekal jsem, až se mi vyjasní zrak.
 Jasné letní slunce se linulo okny povědomé místnosti.
 Po chvíli, stále ještě trochu zmatený, jsem se konečně rozhlédl kolem.
-Sotva jsem se pohnul z místa, cítil jsem v břiše prudké píchání a srdce mi prakticky bušilo do košile.
+Sotva jsem se pohnul z místa, ucítil jsem v břiše prudké píchání a srdce mi bušilo až do košile.
 
 // Player - [not]
 Něco je rozhodně špatně... Já... jsem 2D?! Jsem ve 2D verzi?!
 ...
 
 // Description
-Do hlavy se mi vkradla závrať, téměř dusivá temnota, a já si instinktivně přitiskl ruce do klína a snažil se zklidnit dech.
+Do hlavy se mi vkradla závrať a téměř dusivá temnota. Instinktivně jsem si přitiskl ruce do klína a snažil se zklidnit dech.
 Hrudník se mi sevřel, jako by se mi vmáčkl dovnitř.
 Po několika minutách se mi dech zklidnil a já se konečně odvážil přemýšlet, co dál.
 
@@ -41,8 +41,8 @@ Ten prsten musím najít, ať se děje, co se děje.
 Buď se mi jej podařilo ztratit, nebo je možná schovaný někde v této ploché dimenzi.
 
 Hned, co jsem udělal první krok, se odnikud objevila roztomilá slečna.
-Pohodila krátkými copánky, oči se jí rošťácky blýskaly,
-A pozorovala mě s menším odstupem. Cítil jsem, jak z ní srší nadšení,
+Pohodila krátkými copánky, oči se jí rošťácky blýskaly.
+Pozorovala mě s menším odstupem. Cítil jsem, jak z ní srší nadšení,
 Což mě znervózňovalo.
 > Očividně je to čert v převleku <
 Pomyslel jsem si.
@@ -85,7 +85,7 @@ V očích jí zajiskřilo a přes tmavé řasy se prodral záblesk vítězství.
 Neztratil jsi něco?
 
 // Description
-Ztěžka jsem polkl a zatáhl za límec, abych mohl popadnout dech.
+Ztěžka jsem polkl a zatáhl si límec, abych mohl popadnout dech.
 Její drzý hlas v kombinaci s její nepřívětivostí mě znervózňoval.
 Teď už mi bylo vše jasné - tohle nebyla jen tak nějaká holka. Bylo to živelné neštěstí.
 Zhluboka jsem se nadechl a řekl:
@@ -166,7 +166,7 @@ Hahaha!
 
 // Description
 Vyprskla smíchy.
-Byl to tak nepříjemné, že jsem radši odvrátil pohled.
+Bylo to tak nepříjemné, že jsem radši odvrátil pohled.
 I přesto mi připadalo, že začíná být přátelštější.
 
 // Mita - [not]
@@ -194,7 +194,7 @@ Můžu je tady ponižovat, cítím se přitom jako hrdinka! Co? Řekla jsem snad
 Zatímco mluvila, tiše jsem odehrál svůj tah. // description player
 Jak symbolické. Jako by ses tomu prstenu záměrně vyhýbal, ale moc ti to nejde! Celkem ironický, nemyslíš? // Mita - [not]
 Chceš ten prsten, že jo? No tak si ho vybojuj! // Mita - [not]
-Hráli jsme dál a ona se při každém tahu dál smála a mluvila. Moje uši si už pomalu zvykaly na její neustálé žvatlání. // description player
+Hráli jsme dál a ona se při každém tahu smála a mluvila. Moje uši si už pomalu zvykaly na její neustálé žvatlání. // description player
 // Description
 Hra se chýlila ke konci a už bylo jasné, kdo vyhraje.
 Náhle však naši hru přerušilo hlasité bouchání na dveře.
@@ -218,7 +218,7 @@ Kam si myslíš, že jdeš? Stůj!
 Popadl jsem svoji vyděšenou kamarádku za ruku a začal jsem se řítit k východu.
 Dupot za našimi zády nás hnal vpřed do kroutící se chodby.
 Běželi jsme tak dlouho, že jsem ztratil pojem o čase.
-Tlukot mého srdce mi přehlušil všechny ostatní vjemy.
+Tlukot mého srdce přehlušil všechny ostatní vjemy.
 Až poté, co mi vyklouzla ruka 2D Mity, jsem si všiml, že se na mě snaží mluvit.
 // Mita - [not]
 Hej! Nechceš se už uklidnit? Už nás nikdo nepronásleduje.
