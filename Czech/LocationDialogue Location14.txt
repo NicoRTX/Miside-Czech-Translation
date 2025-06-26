@@ -1,5 +1,5 @@
 // Player
-Co tady dělá ten mobil?
+Co tady dělá můj mobil?
 Co to je?
 
 // Mita
@@ -19,10 +19,10 @@ A zapomeň na ně!
 Tohle teď bude čekat úplně všechny...
 A ty...
 // Player
-Co se to s tebou stalo? Proč jsi taková?
+Co to s tebou je? Proč jsi taková?
 // Mita
-Hráči... Všichni jste tak... nechutní.
-Když ukážu své drápy, tak utečou,
+Hráči... všichni jste tak... ničemní.
+Když ukážu své drápy, tak utíkají,
 Krčí se v koutě,
 A vyděšeně kňučí do klína.
 Všichni jste banda pokrytců.
@@ -49,13 +49,13 @@ Ty už v sobě nemáš ani kapku dobra.
 // Mita
 Proč si to myslíš?
 // Player
-Proč jsi tak šílená?
+Seš šílená!
 Zabila jsi Milu a teď chceš zabít i mě?
 // Mita
 Zabít tě?
-Chtěla jsem jen, abys zůstal se mnou.
+Jen jsem chtěla, abys zůstal se mnou.
 Tak jsem se snažila...
-Ale ty bys měl radši společnost podlézavých falešnic...
+Ale ty bys radši byl s těmi falešnicemi...
 // Player
 Proč jsi tak uražená?
 // Mita
@@ -64,7 +64,7 @@ Pochopíš, o co mi jde,
 Pokud zůstaneš a budeš můj.
 // Player
 To se nestane.
-Jdu pryč!
+Jdu odsud pryč!
 // Mita
 Tiše, tiše...
 Náš rozhovor ještě neskončil.
@@ -75,23 +75,23 @@ Myslíš si, že je krásná?
 
 // Player's questions
 Je krásná.
-Ne.
+Není.
 Jak to s tím souvisí?
 
 // 1
 Ale no tak, [player]!
 Teď jsi potvrdil, co jsem právě řekla.
 Ach, vy hráči...
-Vaše tváře se stále mění
-Ale vaše pokrytectví překračuje hranice.
+Každý máte jinou tvář,
+Ale pokrytci jste úplně stejní.
 Lžeš mi!
 
 // 2
 Proč ne?
-Není pro tebe dost dobrá?
-Jasně že ne, chceš mít jenom poslušného domácího mazlíčka...
+Není pro vás hráče dost dobrá?
+Jasně že ne, chcete mít jenom poslušného domácího mazlíčka...
 A co takhle mít někoho rád takového, jaký je?
-Chceš jen roztomilé a barevné panenky...
+Chcete jen roztomilé a barevné panenky...
 Každý hráč zbožňuje, když jsem taková.
 Ale jakmile na chvíli přestanu
 Tak se zděsí...
@@ -108,7 +108,7 @@ I ona chtěla být pro někoho důležitá.
 Musí to být těžké,
 Bavit se s někým na rovinu.
 Nemám pravdu, [player]?
-Mám tě přečteného...
+Mám tě přečteného... // jak čárový kód
 Má to vůbec smysl?
 
 // Continue
@@ -121,7 +121,7 @@ Nevadí ti to, že ne?
 A proč bych s tím měl najednou souhlasit?
 // Whispers in ear
 Ještě je čas, můj drahý.
-Dej si chvíli a popřemýšlej o tom,
+Zamysli se chvilku nad tím,
 Kam tě přivede tvá tvrdohlavost.
 
 // Black screen
@@ -154,8 +154,8 @@ A pomáhej mi tak jako předtím...
 
 // 2
 Tebe to baví?
-Vycházíš vůbec z domu?
-Nenalhávej si to
+Chodíš vůbec ven z domu?
+Nenalhávej si to.
 Vím, že máš svého života plné zuby.
 Jsi jako pták v kleci, křeček v kolečku.
 Chtěl jsi, aby tě někdo přišel zachránit.
@@ -179,22 +179,22 @@ Stejně z tvého světa brzy nic nezbude,
 A ty nemáš co ztratit.
 
 // Quest 3
-Mity trpí, nechtějí být sami.
+Mity trpí, nechtějí být samy.
 Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice...
 
 // 1
-Vymýšlíš si,
-Jen se snaží být svobodné.
-Jediné, co mají jiné ode mě...
-Jsou jejich vlasy.
+Tak ti to jenom připadá.
+Ony jenom předstírají moji svéhlavost.
+Jediná věc, která je opravdu jejich...
+Je ten účes, co mají na hlavě.
 
 // 2
 Je to vina těch, kteří stvořili tento svět.
-Ale tvůj svět taky není nic moc!
+Ale ten tvůj svět taky není nic moc!
 Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
-Vždyť ve svém světě nemůžeš ani pohnout věci jen pomocí své mysli.
-Ale lusknutí prstů toho pravého vymaže z mapy celá města a životy!
-Myslím, že šílenec jsi tady ty, ale ráda ti pomůžu.
+Vždyť ty nemůžeš lusknutím prstů ani pohnout židlí...
+Ale když luskne prsty ten pravý, může ze světa vymazat klidně celá města!
+Pokud je tady někdo šílený, tak jsi to TY. Ale ráda ti pomůžu...
 Pokud jsi ochotný zůstat se mnou...
 
 // Continue
@@ -210,7 +210,7 @@ V nejnovější verzi?
 // Bag
 Musím jít do obchodu a koupit si nějaké nové vybavení. Když už jsem v tom, můžu rovnou vynést ten odpad, ne?
 // Bed
-Spal jsem, ale ten sen... Zase si ho nevybavuju. Snil jsem vůbec?
+Spal jsem, ale ten sen... Zase si ho nevybavuju. Zdálo se mi vůbec něco?
 // Window
 Venku je krásně. Možná bych se měl příští víkend projít.
 // Fan

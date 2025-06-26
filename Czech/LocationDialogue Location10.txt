@@ -16,7 +16,7 @@ Je tu strašná tma.
 // MitaShorthairs
 Řeknu ti to později.
 Teď jdi k východu.
-Sejdeme se u herního automatu.
+Je tam herní automat. Potkáme se tam.
 
 
 // MitaShorthairs
@@ -28,9 +28,9 @@ Chápeš smysl té hry?
 // Player
 Že já jsem z masa a kostí a ty jsi figurína?
 // MitaShorthairs
-Páni!
-To zní strašlivě,
-Ale obávám se, že máš pravdu.
+Ty bláho!
+Zní to hrozně, když to řekneš takhle.
+Ale máš vlastně pravdu.
 // Player
 Chápu smysl, ale k čemu mi to je?
 // MitaShorthairs
@@ -83,14 +83,14 @@ Je tu pro všechny dost místa?
 Počkej, neříkej mi,
 Že nechápeš, jak funguje náš svět?
 A to, že je nekonečný?
-
+// Player
 Nekonečný?
 Hmm...
 Jak to myslíš?
 Pokud je nejnovější verze 1.9,
 Tak existuje pouze 19 světů.
 // MitaShorthairs
-Proboha, ty opravdu nevíš.
+Panejo, ty fakt nevíš.
 Vůbec nechápeš, jak to tady chodí.
 Všechno ti vysvětlím
 Tady na té tabuli,
@@ -106,7 +106,7 @@ Jsem z verze 1.5.
 Byl jsi v ní?
 // Player
 Ano byl.
-Když jsem sem přišel poprvé,
+Když jsem se sem dostal,
 Tak jsem skončil tam.
 // MitaShorthairs
 Páni!
@@ -125,8 +125,8 @@ Jako...
 // MitaShorthairs
 Ach,
 Škoda...
-To je ta,
-Která straší a zapomíná.
+To je ona,
+Ta, která straší a zapomíná.
 
 // Mita wants to tell you [No]
 Není třeba.
@@ -174,7 +174,7 @@ Ospalá Mita?
 Protože se jí špatně spí,
 Když všichni procházejí její verzí?
 // MitaShorthairs
-Ne, tak to není.
+Ne, vůbec ne.
 Můžeš kolem ní chodit, jak moc chceš,
 Ale nemáš šanci ji vzbudit.
 
@@ -184,7 +184,7 @@ Proč je tenhle kruh vyplněný?
 No... důvod, proč tady ten graf vůbec je,
 Je kvůli Krásné Mitě.
 Ona ho celý nakreslila.
-Dohadovaly jsme se o tom
+Dohadovaly jsme se o tom,
 Kdo se dřív dostane do verze 1.11.
 // Player
 A kdo vyhrál?
@@ -211,10 +211,10 @@ K Jádru.
 // MitaShorthairs
 K Jádru?
 Zajímavý...
-Pokud tě poslali nejkratší cestou
+Pokud tě poslali nejkratší cestou,
 Budeš muset projít verzí 1.11.
 Pak se určitě setkáš s Ospalou Mitou.
-Zajímalo by mě, jestli Mita, která tě poslala
+Zajímalo by mě, jestli Mita, která tě poslala,
 Šla stejnou cestou.
 Nebo jestli si to neuvědomila a ty půjdeš přes jinou verzi.
 Možná je génius,
@@ -235,7 +235,7 @@ Ehm...
 Můžu pomoct, jestli chceš.
 // MitaShorthairs
 Ne, to je práce pro Cool Mitu.
-Je silná.
+Ona je silná.
 
 // He asks about the drawings
 To je jenom kresba?

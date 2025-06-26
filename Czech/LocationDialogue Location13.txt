@@ -7,8 +7,8 @@ Hledala jsem cestu, jak tě dostat k Jádru.
 To byl přece náš plán, ne?
 A přitom jsem se musela vyhýbat
 Šílené Mitě, chápeš?
-A taky jsem musela dohledat všechny možné informace
-O tom, jak tenhle svět vůbec funguje, víš?
+A taky jsem musela dohledat všechny možné informace o tom,
+Jak tenhle svět vůbec funguje, víš?
 // Player
 Ehm... To by dávalo smysl.
 Ale proč jsi prstenu nastavila zrovna tuhle trasu?
@@ -36,7 +36,7 @@ Pár jsem jich potkal.
 A zjevně kvůli tomu trpí.
 // MitaKind
 Ano, jejich verze jsou rozbité,
-Jejich světy plné bugů. Však jsem ti to říkala.
+A jejich světy jsou plné bugů. Vždyť jsem ti to říkala.
 Ach jo...
 Asi víš, kdo za to všechno může, co?
 Šílená Mita.
@@ -46,8 +46,8 @@ Jo, to by na ni sedělo...
 // Answer 3 (Who was this Mita just now?) - MitaKind
 To byla Ošklivá Mita.
 Agresivní a hloupá.
-Nemá s ní pomalu ani smysl mluvit,
-Její svět se totiž točí jen kolem Šílené Mity.
+Nemá s ní pomalu ani smysl mluvit.
+Její svět se točí jenom a jenom kolem Šílené Mity.
 // Player
 Jo, toho jsem si všiml.
 // MitaKind
@@ -58,7 +58,7 @@ Takže díky tomu prstenu
 Jsem se dostal až sem k Jádru?
 // MitaKind
 Ano.
-Samozřejmě, kdybychom měli portál
+Samozřejmě, kdybychom měli portál,
 Tak jsme se mohli teleportovat
 Přímo sem.
 // Player
@@ -164,19 +164,19 @@ Co když to v nich bude?
 // Player
 Cože? Co myslíš?
 // MitaKind
-Asi vím kam!
+Už asi vím!
 Počkej tady.
 // Player
 Kam jdeš?
 
 // Answer 3 (What if we attack Mad Mita?)
-Říkala jsi, že jakákoli Mita
-Se po smrti prostě resetuje.
+Říkala jsi, že se každá Mita
+Po smrti prostě resetuje.
 Co kdyby...
 // MitaKind
 Co? Chceš snad zabít Šílenou Mitu?
 To myslíš jako vážně?
-A jak chceš jako bojovat proti ženě s motorovou pilou?
+A jak chceš jako bojovat proti maniačce s motorovou pilou?
 Vždyť ani tu mrkev nekrájí nožem!
 A k tomu je z nějakého důvodu strašně silná!
 Je zázrak, že jsme vůbec ještě naživu...

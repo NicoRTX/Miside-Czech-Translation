@@ -1,4 +1,4 @@
-
+// Mita
 Ahoj, [player]!
 Jsem tak ráda, že se konečně vidíme!
 Mám z toho obrovskou radost!
@@ -28,15 +28,15 @@ Uhm... úplně ne.
 No, to je jedno.
 Hlavní je, že jsme teď spolu.
 
-
+// Mita
 Máš hlad?
 Můžeme si něco uvařit.
 Na,
 Pomoz mi s tou mrkví.
-
+// Player
 Kde se tady vzala ta zelenina?
 Před chvilkou tu určitě nebyla.
-
+// Mita
 [player], jsme ve hře.
 No tak, pomoz mi.
 
@@ -46,12 +46,12 @@ Jsou v koupelně.
 
 Posaď se.
 
-
 // Kitchen
+// Mita
 Dáš si k tomu omáčku?
-
+// Mita
 Nechci, děkuji.
-
+// Mita
 To je škoda.
 Omáčka tomu dává tu správnou chuť!
 
@@ -62,22 +62,22 @@ Už jsi to všechno snědl?
 Heh, moje porce mi přijde
 Až nekonečná...
 
-
 // Help
+// Mita
 Jsi v pořádku?
 Řekni mi, co se ti děje.
-
+// Player
 Srdce mi buší jako o závod,
 A vidím rozmazaně.
-
+// Mita
 Jasně.
 Asi tuším, co to je.
 Dokážeš vstát?
 
-
-
+// Bathroom
+// Player
 Co to je?
-
+// Mita
 Prášky.
 Hned ti bude líp.
 Podívej se do zrcadla.
@@ -85,37 +85,37 @@ Podívej se do zrcadla.
 A teď si vem ty prášky.
 No tak.
 
-
-
+// Black room
+// Mita
 Jak se cítíš?
 Lepší?
-
+// Player
 Ano.
 To zaberou tak rychle?
-
+// Mita
 [player], jsme ve hře.
 Všechno je tu mnohem jednodušší.
 I ta nejmenší snaha
 Má velké výsledky.
 Vše se drží základní filozofie her:
 Zjednodušovat.
-
+// Player
 Nějaký příklad, prosím?
-
+// Mita
 Vem si třeba mrkev.
 Jednu nakrájíš,
 Ale je to, jako bys nakrájel tři.
-
+// Player
 Poslouchej, je toho na mě moc najednou.
 Mám strach, docela dost.
 
-
+// Mita
 Děje se něco?
-
+// Player
 Ve větrací šachtě jsem našel nějaké kazety.
 A byla na nich jména.
 Nevíš o tom něco?
-
+// Mita
 Kazety?
 Jaké kazety?
 O žádných nevím,
@@ -127,7 +127,7 @@ Podej mi ty nůžky, prosím.
 Prsten?
 // Mirror
 Jak to, že nevidím svůj odraz?
-
+// Mita
 Jo, jasně!
 Nevidíš je, protože jsem je zapomněla zapnout.
 Tadá!
@@ -138,10 +138,10 @@ V mém světě žádné nebyly.
 Teda až do nějaké aktualizace.
 Je ve tvém světě
 Spousta odrazů?
-
+// Player
 No, ano.
 
-
+// Mita
 Vzpomínáš si na ty tři předměty,
 Které jsi musel najít?
 Ty, které jsi položil na skener?
@@ -153,12 +153,12 @@ Proto jsi teď tady.
 // Portable TV
 To je ta přenosná televizka,
 Kterou jsem ti koupil.
-
+// Mita
 Ano!
-
+// Player
 Řekla jsi mi,
 Že se rozbila.
-
+// Mita
 Chtěla jsem tě jenom
 Trochu překvapit!
 Řekla jsem ti malou nevinnou lež
@@ -182,27 +182,27 @@ Celkem roztomile.
 // PC
 Ten počítač je funkční?
 Nebo je to jen taková dekorace?
-
+// Mita
 Jasně, že funguje.
 Všechno, co tu vidíš,
 Funguje stejně, jako ve tvém světě.
-
+// Player
 V mém světě
 U počítače sedávám často...
 A tvrdě pracuji.
-
+// Mita
 Já vím.
 Chápu, že jsi kvůli tvé usilovné práci
 Neměl moc času
 A proto ses mi nemohl moc věnovat.
-
+// Player
 No, musím se nějak uživit.
 Počkat... jak víš, že dlouho sedávám u počítače?
-
+// Mita
 Foťák tvého telefonu... někdy se sám zapne.
 Promiň.
 Tajně jsem se koukala >A<
-
+// Player
 No, to je celkem neslušné...
 Teď už je to jedno.
 
@@ -210,8 +210,8 @@ Teď už je to jedno.
 Hrál jsem tu hru dlouho
 Ale nikdy jsem si nevšiml, že by tady pršelo.
 K čemu je ti deštník?
-
-Občas tu prší - jen velmi zřídka.
+// Mita
+Občas tu prší, ale ne moc často.
 Asi jsi déšť ještě nezastihl.
 Možná se ho jednoho dne dočkáš.
 A pak se ti ten deštník bude hodit.
@@ -221,7 +221,7 @@ Nemyslíš?
 Proč jsou tady pojistky?
 A pokud jsme tedy ve hře,
 Tak k čemu jsou?
-
+// Mita
 Za prvé,
 Jsme ve hře.
 Takže ptát se „proč“ je...
@@ -233,7 +233,7 @@ Jako ve tvém světě.
 
 // Exit door
 My můžeme ven?
-
+// Mita
 Noo...
 Zatím ne.
 Možná později.
@@ -243,7 +243,7 @@ Tady doma.
 // Books
 Máš tu spoustu knih.
 Přečetla jsi je všechny?
-
+// Mita
 Ano, všechny.
 Být tady sama
 Je opravdu, opravdu nuda.
@@ -251,7 +251,7 @@ Je opravdu, opravdu nuda.
 // TV in room kitchen
 Proč tu máš další televizi?
 A ještě k tomu tak starou?
-
+// Mita
 Nelíbí se ti?
 Můžu ji dát pryč...
 Ale abych ti odpověděla...
@@ -265,19 +265,19 @@ Filmy pro pamětníky!
 To je můj telefon.
 Říkal jsem si, že ho necítím v kapse.
 Jak se sem dostal?
-
+// Mita
 No... to netuším.
 Hej, mám nápad!
 Uděláme si selfie!
 Podívej!
 To je ale povedená fotka!
 Budeš ji mít na památku.
-
+// Player
 Mám otázku.
 Když na něm
 Spustím hru
 Uvidím tě?
-
+// Mita
 Ne, tak to nefunguje.
 
 
@@ -298,19 +298,19 @@ Ach, podívej!
 A víš co?
 Pauza!
 Dáš si džus?
-
+// Player
 Celkem zvláštní reklama...
 Ten džus umřel?
-
+// Mita
 Ano. A tenhle džus
 Je přímo z toho džusu v reklamě.
 
-
+// Player
 Ach, ta chuť...
 Je celkem dobrá,
 Ale přesto nedokážu popsat, jak chutná.
 Všechno je to velmi matoucí.
-
+// Mita
 Je to tak.
 
 // Mita shy
@@ -322,19 +322,19 @@ Je mi z toho trapně.
 To je docela strašidelná postavička.
 Tobě se líbí
 Takové věci?
-
+// Mita
 Připadá ti strašidelná?
-
+// Player
 Ano.
 Skoro vypadá, že je prokletá...
-
+// Mita
 No... určitě není prokletá.
 Ani strašidelná.
 Přijde mi spíš roztomilá!
-
+// Player
 Možná, asi máš pravdu...
 
-Mito?
+Mito? // Player
 Co se děje?
 // Mita kitchen
 Co takhle si popovídat
@@ -364,20 +364,20 @@ Bojím se, jestli jsem na něco doma nezapomněl...
 Objevil jsem se tady z ničeho nic.
 A vůbec jsem se
 Na to nepřipravil.
-
+// Mita
 O... omlouvám se. To jsem trochu nedomyslela.
 // Quest 3
 To chceš utéct
 A zapomenout, že se tohle vůbec někdy stalo?
-
+// Player
 Ne!
 Tak jsem to nemyslel.
 Všechno je tady takové přesycené a nepřirozené.
 Ale...
 Ty vypadáš skutečně.
-
+// Mita
 Že vypadám skutečně?
-Jsem velmi skutečná,
+Já jsem velmi skutečná,
 Ty hlupáčku!
 
 // Quest 4
@@ -386,21 +386,21 @@ Prostě je.
 Možná ti to bude připadat zvláštní,
 Ale to, co je daleko od tebe,
 Není vidět.
-
+// Player
 Nepřijde mi to úplně zvláštní.
 Upřímně řečeno, vypadá to celkem dobře.
-
+// Mita
 Taky si myslím.
 Je to kvůli optimalizaci, aby se hra nesekala.
-
+// Player
 Nesekala?
-
+// Mita
 Ano. Hra má ještě nějaké bugy.
 Doufám, že na žádné nenarazíš.
 
 // Quest 5
 Mohla jsem použít nůž
-a prostě tu omáčku rozříznout.
+A prostě tu omáčku rozříznout.
 Ale chtěla jsem,
 Aby všechno bylo hotové,
 Než se vrátíš zpátky.

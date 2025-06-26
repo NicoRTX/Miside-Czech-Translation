@@ -3,14 +3,14 @@ Kdo jsi?
 Co se děje?
 Ty nemůžeš mluvit?
 
-
+// MitaLittle
 Počkej...
 Ty chceš odejít, že ano?
-
+// Player
 Ano...
 Musím se vrátit
 Do předchozí verze.
-
+// MitaLittle
 Předchozí verze?
 Proč odcházíš a jdeš
 Někam jinam?
@@ -50,10 +50,10 @@ Už mi jich zbylo tak málo.
 Zůstal jen jeden...
 Jsem smutná, hráči.
 Budeš můj kamarád?
-
+// Player
 Rád bych,
 Ale musím jít dál...
-
+// MitaLittle
 Bolí mě srdce...
 
 // Quest 4 (Is this your house?) - MitaLittle
@@ -61,10 +61,10 @@ Domov?
 Hráči... změnil ses...
 Máš kratší ruce a nevypadáš tak naštvaně...
 Hráči, změknul jsi, jsi laskavější.
-
+// Player
 Nejsem si jistý...
 Co to znamená.
-
+// MitaLittle
 To nic...
 Teď už mě to nebude bolet, že ne?
 
@@ -72,9 +72,9 @@ Teď už mě to nebude bolet, že ne?
 Opravdu mě opouštíš?
 Je to snad můj...
 Osud?
-
+// Player
 Já...
-
+// MitaLittle
 Dveře ti nepomůžou.
 
 // Hold player (Random)

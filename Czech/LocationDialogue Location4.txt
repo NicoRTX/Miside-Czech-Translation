@@ -80,20 +80,20 @@ Stejná čísla...
 // The card game is interrupted
 Co je to za zvuk?
 Je to slyšet ze skříně.
-
+// Mita
 Zvuk?
 Jaký zvuk?
 Nic jsem neslyšela.
 Co si myslíš, že jsi slyšel?
-
+// Player
 Rachot, jako by tam někdo byl.
-
+// Mita
 Ale...
 Nikdo tam není...
-
+// Player
 Rád bych se šel podívat.
 Trochu mě to děsí.
-
+// Mita
 Ale proč...?
 Už zase...
 
@@ -102,27 +102,27 @@ Už zase...
 
 
 
-
+// Mita
 Co je to s tebou!?
 Je to skříň...
 Mám tam spodní prádlo...!
-
+// Player
 Skrýváš přede mnou něco?
-
+// Mita
 Proč mi nevěříš?
 Co dělám špatně?
 Jenom chci...
 Chci jenom, abys byl se mnou.
-
+// Player
 To by se mi líbilo, ale i tak...?
-
+// Mita
 Proč seš tak upřený na tu skříň?!
-
+// Player
 Chci vědět, co to bylo za rachot!
-
+// Mita
 Je to proto, že
 Tento svět
-Má jen tyto čtyři místnosti?
+Má jenom tyto čtyři místnosti?
 Nestačí ti to?
 Proč nemůžeš být jen se mnou?
 
@@ -136,29 +136,29 @@ A zjisti, co tam je!
 
 
 
-
+// Player
 Co se děje?
-
+// Mita
 To se někdy stává.
 Místnost se zasekla při načítání.
 Chvilku počkej.
-
+// Player
 To je tak zvláštní.
 Jsme snad v něčím telefonu?
 V nějakém pomalém, kde se všechno načítá dlouho?
-
+// Mita
 Vůbec ne.
 Ale ne všechno je tady
 úplně dokonalé...
 Načítá nás
 Jádro tohoto světa.
-
+// Player
 Jádro světa?
-
+// Mita
 Normálně, ne?
 
 
-
+// Mita
 Každopádně, můžeme si
 Zahrát hru na konzoli
 Nebo jen karty.
@@ -215,7 +215,7 @@ Jsou v ložnici.
 // Door > [ERROR]
 Co se děje?
 Kde je...
-
+// Mita
 Jejda.
 Omlouvám se...
 Něco jsem si stáhla
@@ -225,9 +225,9 @@ Jenom trochu zkrášlit.
 Ale vypadá to,
 Že v souboru bylo něco špatně.
 Opravím to později.
-
+// Player
 Proto nemůžeme opustit dům?
-Ano, proto.
+Ano, proto. // Mita
 // Mita shy
 Hej...
 Co je to s tebou?
@@ -240,7 +240,7 @@ Ty hodiny,
 Kolik ukazují hodin?
 Aktuální čas ve hře?
 Nebo je to čas z mého telefonu?
-
+// Mita
 No, ehm...
 Já upřímně nevím.
 Ale na čase tady nezáleží...
@@ -250,7 +250,7 @@ Je vždycky plná energie.
 Nikdy se neunavím!
 Můžeme mít věčné jaro,
 Nebo nekončící odpoledne!
-
+// Player
 To je zajímavé...
 Ale trochu děsivé.
 Uvíznutí ve stejném okamžiku, navždy...
@@ -260,13 +260,13 @@ Uvíznutí ve stejném okamžiku, navždy...
 // Photos of Mita
 Hezké fotky.
 Hádám, že jsi na nich ty?
-
+// Mita
 Ano.
 Taky se mi líbí.
-
+// Player
 Kdo je fotil?
 Jsou v tomto světě i jiní?
-
+// Mita
 Dalo by se to tak říct.
 Pak tě představím.
 Ale ne teď.
@@ -278,7 +278,7 @@ Zatím chci být jen s tebou, o samotě.
 // Portal
 Kam se poděl ten portál?
 Nebo jak jsi to nazvala?
-
+// Mita
 Použila jsem
 Menší kouzlo
 A přesunula ho
@@ -290,26 +290,26 @@ Jen by tady překážel.
 // Mirror in the bedroom
 Je zvláštní dívat se do zrcadla
 A nevidět svůj odraz.
-
+// Mita
 Můžeme zapnout odrazy
 Pokud je chceš mít.
 Ale opravdu je potřebujeme?
-
+// Player
 Samozřejmě, že ano.
 Nebo... to bude mít nějaké následky?
-
+// Mita
 Ano.
 Budeme se hýbat pomalu a zadrhávat se.
 Viděl jsi někdy animák s trhavými animacemi?
 Tak to u nás bude pořád.
-
+// Player
 Chápu.
 Tak to bychom možná měli nechat odrazy vypnuté...
 
 Hej, [player], jak se tak koukám,
 Rád se díváš do zrcadla, co?
 Bojíš se, že na své tváři uvidíš úsměv?
-
+// Player
 Cože? Ani ne...
 Jsem jen unavený.
 Po vší té práci.
@@ -318,28 +318,28 @@ Po vší té práci.
 
 // Blue sneakers
 Ty jsou tvoje?
-
+// Mita
 Nene, jsou tvoje.
 Copak si to nepamatuješ?
-
+// Player
 Nevzpomínám si, že bych měl takové tenisky.
-
+// Mita
 Teď už ano.
 Můžeš si je vzít
 Až půjdeme ven.
-
+// Player
 A co oblečení?
 Nemám v tomto světě
 Jiné oblečení než to, které mám na sobě.
 Můžu si nějak pořídit nové?
-
+// Mita
 Samozřejmě že ano.
 Ale viděla jsem, co nosíš...
 A upřímně, tvůj vkus není nic moc.
 Každopádně ti pomůžu nějaké sehnat.
 Jenom ne teď.
 Slibuji.
-
+// Player
 Dobře.
 
 

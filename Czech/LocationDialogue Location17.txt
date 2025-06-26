@@ -1,7 +1,7 @@
-// Player thinks + Make coffee
+// Player thinks
 Budu potřebovat něčí pomoc.
 Doufám, že zdejší Mita nekouše...
-
+// Coffee
 Proč tu ztrácím čas...
 
 
@@ -11,18 +11,18 @@ Proč tu ztrácím čas...
 Mito?
 Mito, vstávej!
 Mito!
-
+// Player
 Mito, budíček!
 Potřebuji tvou pomoc.
-
+// MitaDream
 Kdo jsiiiii?
-
+// Player
 Pomoz mi s páčkami.
-
-Jaké páčky?
+// MitaDream
+Jaký páčky?
 Nech mě spááát...
-Nebo mi přines kávu.
-
+Nebo mi přines kafe.
+// Player
 No tak, není to tak daleko...
 Mito?
 Mi-ito!
@@ -36,11 +36,11 @@ Tady máš kávu.
 
 
 // MitaDreamer exercise
-Říkal jsi něco...
+Říkals něco...
 O páčkách, že?
-
+// Player
 Ano.
-
+// MitaDream
 Jak o nich víš?
 Ale, proč se vůbec ptám...
 Když už jsi tady,
@@ -50,28 +50,28 @@ Počkej chvilku,
 Musím si sednout.
 
 A?
-
+// Player
 Nevím, co na to říct...
 Ale musím jít dál,
 Následovat prsten.
-
+// MitaDream
 Ty máš její prsten?
 Není divu,
 Že ses sem dostal.
-
+// Player
 Přesně tak.
 Tak pomůžeš mi?
 S těmi páčkami?
-
+// MitaDream
 Dobře.
 Pomůžu ti.
 S páčkami...
 
-
+// Player
 Mito, no tak...
 Pojďme už.
-
-Uh?
+// MitaDream
+Ach?
 Dobře.
 Jdeme na to.
 
@@ -84,23 +84,23 @@ Jsi tak ospalá?
 Probuď se.
 Jsme tady.
 
-
 // Switches
+// MitaDream
 Dobře,
 Můžeme na to.
-
+// Player
 Pojďme na to.
-
+// MitaDream
 Dobře.
 Začnu
 Počítat.
 A zatáhneme je spolu.
 Dobře?
-
+// Player
 Hlavně zůstaň vzhůru, jo?
 Můžeš.
 
-
+// MitaDream
 3
 2
 1
@@ -120,18 +120,18 @@ Tady usínám...
 Už skoro spím...
 
 
-
+// Player Win
 Nádhera.
 Děkuji, Mito.
-
+// MitaDream
 Mm-hmm.
 
-
+// MitaDream
 Dveře...
 Jak...
 Pomalé...
 
-
+// MitaDream
 Jdu spát...
 
 // Why kitchen?
@@ -150,10 +150,10 @@ Tak k čemu je to tlačítko?
 // Cofee
 Ještě trochu kávy?
 Nebo zase usneš.
-
+// MitaDream
 Cože?
 Neee...
-Ta káva chutná hrozně...
+To kafe chutná hrozně...
 Jsem úplně v pohodě...
 
 // Button
