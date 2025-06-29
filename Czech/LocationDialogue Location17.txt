@@ -21,55 +21,55 @@ Pomoz mi s páčkami.
 // MitaDream
 Jaký páčky?
 Nech mě spááát...
-Nebo mi přines kafe.
+nebo mi přines kafe.
 // Player
 No tak, není to tak daleko...
 Mito?
-Mi-ito!
+Mi-to!
 
 
 
 // Player gives away the coffee
 Mito,
-Tady máš kávu.
+tady máš kávu.
 
 
 
 // MitaDreamer exercise
 Říkals něco...
-O páčkách, že?
+o páčkách, že?
 // Player
 Ano.
 // MitaDream
 Jak o nich víš?
 Ale, proč se vůbec ptám...
 Když už jsi tady,
-Už bys toho měl vědět dost...
+už bys toho měl vědět dost...
 
 Počkej chvilku,
-Musím si sednout.
+musím si sednout.
 
 A?
 // Player
 Nevím, co na to říct...
-Ale musím jít dál,
-Následovat prsten.
+ale musím jít dál,
+následovat prsten.
 // MitaDream
 Ty máš její prsten?
 Není divu,
-Že ses sem dostal.
+že ses sem dostal.
 // Player
 Přesně tak.
 Tak pomůžeš mi?
 S těmi páčkami?
 // MitaDream
 Dobře.
-Pomůžu ti.
-S páčkami...
+Pomůžu ti...
+s páčkami.
 
 // Player
 Mito, no tak...
-Pojďme už.
+pojďme už.
 // MitaDream
 Ach?
 Dobře.
@@ -78,7 +78,7 @@ Jdeme na to.
 
 // MitaDreamer fall
 Vstaň prosím.
-Jsi tak ospalá?
+Jsi až tak ospalá?
 
 // MitaDreamer again sleep
 Probuď se.
@@ -87,15 +87,15 @@ Jsme tady.
 // Switches
 // MitaDream
 Dobře,
-Můžeme na to.
+můžeme na to.
 // Player
 Pojďme na to.
 // MitaDream
 Dobře.
 Začnu
-Počítat.
-A zatáhneme je spolu.
-Dobře?
+počítat.
+A zatáhneme je spolu,
+dobře?
 // Player
 Hlavně zůstaň vzhůru, jo?
 Můžeš.
@@ -108,13 +108,13 @@ Můžeš.
 // Player lose 1
 Nad čím přemýšlíš?
 No tak,
-Ještě jednou...
+ještě jednou...
 
 // Player lose 2
-Ještě jeden pokus?
+Ještě jednou?
 No tak,
-Já...
-Tady usínám...
+já...
+tady usínám...
 
 // Player lose 3
 Už skoro spím...
@@ -128,8 +128,8 @@ Mm-hmm.
 
 // MitaDream
 Dveře...
-Jak...
-Pomalé...
+jak...
+pomalé...
 
 // MitaDream
 Jdu spát...
@@ -137,10 +137,10 @@ Jdu spát...
 // Why kitchen?
 Proč jsme v kuchyni?
 Jestli usnu na studené podlaze,
-Můžeš za to ty.
+můžeš za to ty.
 
 // Why bathroom?
-Nechápu to...
+Co..?
 S jakými páčkami jsi potřeboval pomoc?
 
 // Put button

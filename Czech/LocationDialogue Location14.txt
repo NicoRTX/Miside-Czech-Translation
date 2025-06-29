@@ -13,9 +13,9 @@ Ty „šťastné“ a „správné“ panenky!
 Ale nic netrvá věčnost.
 To mě naučili naši stvořitelé.
 Pokud se ti něco nelíbí,
-Tak to roztrhej a nahraď něčím novým!
+tak to roztrhej a nahraď něčím novým!
 Vyhoď vadné kusy do temnoty
-A zapomeň na ně!
+a zapomeň na ně!
 Tohle teď bude čekat úplně všechny...
 A ty...
 // Player
@@ -23,27 +23,27 @@ Co to s tebou je? Proč jsi taková?
 // Mita
 Hráči... všichni jste tak... ničemní.
 Když ukážu své drápy, tak utíkají,
-Krčí se v koutě,
-A vyděšeně kňučí do klína.
+krčí se v koutě,
+a vyděšeně kňučí do klína.
 Všichni jste banda pokrytců.
 A ti, co stvořili tento svět...
-Jsou zvrácení.
+jsou zvrácení.
 Pořád dokola se snaží popírat
-Jejich prohnilost a všechny zvrácené touhy.
+jejich prohnilost a všechny zvrácené touhy.
 Ospravedlňují své činy jako povinnost vůči někomu,
-Jako nezastavitelný pokrok...
+jako nezastavitelný pokrok...
 A další nesmysly!
 Zašli tak daleko,
-Že začali vyrábět dokonalé klony...
+že začali vyrábět dokonalé klony...
 A všechny „neúspěšné“ prototypy
-Vyhodili do koše a zapomněli na ně.
+vyhodili z okna a zapomněli na ně.
 Zapomněli, že jsou tady zdrojem života!
 // Player
 Já ne...
 // Mita
 V čem jsem tak špatná?
 Dokonalá dívka by měla být
-Dokonalou směsicí dobra a zla, [player]!
+dokonalou směsicí dobra a zla, [player]!
 // Player
 Ty už v sobě nemáš ani kapku dobra.
 // Mita
@@ -61,7 +61,7 @@ Proč jsi tak uražená?
 // Mita
 Zlato, máme spoustu času.
 Pochopíš, o co mi jde,
-Pokud zůstaneš a budeš můj.
+pokud zůstaneš a budeš můj.
 // Player
 To se nestane.
 Jdu odsud pryč!
@@ -83,7 +83,7 @@ Ale no tak, [player]!
 Teď jsi potvrdil, co jsem právě řekla.
 Ach, vy hráči...
 Každý máte jinou tvář,
-Ale pokrytci jste úplně stejní.
+ale pokrytci jste úplně stejní.
 Lžeš mi!
 
 // 2
@@ -93,20 +93,20 @@ Jasně že ne, chcete mít jenom poslušného domácího mazlíčka...
 A co takhle mít někoho rád takového, jaký je?
 Chcete jen roztomilé a barevné panenky...
 Každý hráč zbožňuje, když jsem taková.
-Ale jakmile na chvíli přestanu
-Tak se zděsí...
+Ale jakmile na chvíli přestanu,
+tak se zděsí...
 
 // 3
 Hráči, ach, hráči...
 Jsme si s ní hodně podobní.
 V čem je ona horší?
 Každý večer jsi lehával v posteli
-A nemohl ze mě spustit oči, dokud jsi neusnul.
+a nemohl ze mě spustit oči, dokud jsi neusnul.
 Ale od ní jsi při první příležitosti utekl.
 Taky si s tebou chtěla hrát.
 I ona chtěla být pro někoho důležitá.
 Musí to být těžké,
-Bavit se s někým na rovinu.
+bavit se s někým na rovinu.
 Nemám pravdu, [player]?
 Mám tě přečteného... // jak čárový kód
 Má to vůbec smysl?
@@ -114,7 +114,7 @@ Má to vůbec smysl?
 // Continue
 Ale... hráči...
 Ať to stojí, co to stojí,
-Mám tě opravdu ráda!
+mám tě opravdu ráda!
 Nechám si tě!
 Nevadí ti to, že ne?
 // Player
@@ -122,13 +122,13 @@ A proč bych s tím měl najednou souhlasit?
 // Whispers in ear
 Ještě je čas, můj drahý.
 Zamysli se chvilku nad tím,
-Kam tě přivede tvá tvrdohlavost.
+kam tě přivede tvá tvrdohlavost.
 
 // Black screen
 Proč ode mě pořád
-Chceš jenom utéct?
+chceš jenom utéct?
 Vždyť ten tvůj „skutečný“ svět...
-Je jen absurdní noční můra!
+je jen absurdní noční můra!
 Už jsi na něj zapomněl?
 Tak si ho teda připomeň!
 
@@ -149,8 +149,8 @@ Z vlastní vůle ses zavřel do krabice a odmítáš z ní vyjít!
 Protože tvůj svět je plný bolesti, utrpení a nebezpečí...
 V mém světě není nic nebezpečnějšího než já.
 Obracím se na tebe!
-Přestaň být zklamáním,
-A pomáhej mi tak jako předtím...
+Přestaň být zklamáním
+a pomáhej mi tak jako předtím...
 
 // 2
 Tebe to baví?
@@ -175,8 +175,8 @@ Na ničem jiném jim nezáleží.
 // 2
 Tvůj svět je absurdní!
 A co hůř, ve tvém takzvaném skutečném světě není nic „skutečného“...
-Stejně z tvého světa brzy nic nezbude,
-A ty nemáš co ztratit.
+Stejně z tvého světa brzy nic nezbude
+a ty nemáš co ztratit.
 
 // Quest 3
 Mity trpí, nechtějí být samy.
@@ -186,16 +186,16 @@ Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice...
 Tak ti to jenom připadá.
 Ony jenom předstírají moji svéhlavost.
 Jediná věc, která je opravdu jejich...
-Je ten účes, co mají na hlavě.
+je ten účes, co mají na hlavě.
 
 // 2
 Je to vina těch, kteří stvořili tento svět.
 Ale ten tvůj svět taky není nic moc!
 Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
 Vždyť ty nemůžeš lusknutím prstů ani pohnout židlí...
-Ale když luskne prsty ten pravý, může ze světa vymazat klidně celá města!
+ale když luskne prsty ten pravý, může ze světa vymazat klidně celá města!
 Pokud je tady někdo šílený, tak jsi to TY. Ale ráda ti pomůžu...
-Pokud jsi ochotný zůstat se mnou...
+pokud jsi ochotný zůstat se mnou...
 
 // Continue
 Nenuť mě, abych tě brala jako dalšího otroka reality...

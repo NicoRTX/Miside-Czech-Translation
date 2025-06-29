@@ -53,25 +53,25 @@ Klíč je tvůj!
 // Quest 1 (Are you Mita?)
 Jsem ChibiMita.fbx!
 Mám tunu řádků,
-Nejjednodušší model,
-Ale supr vlasy!
+nejjednodušší model,
+ale supr vlasy!
 
 // Quest 2 (Have we seen each other yet?)
 Jsi mi to ale hlupáček!
-Jsi docela roztomilý,
-Hlavně když se takhle blbě ptáš.
+Seš docela roztomilej,
+hlavně když se takhle blbě ptáš.
 Zrovna když...
-Se teď vidíme poprvé!
+se teď vidíme poprvé!
 Ale poslouchej...
-Pokud si na mě někdo hraje,
-Tak toho bude sakra litovat!
+pokud si na mě někdo hraje,
+tak toho bude sakra litovat!
 
 // Quest 3 (Why are you here?)
 Copak to nechápeš?
 Tohle je kontrolní bod.
-Zkouška tvého důvtipu!
+Zkouška tvýho důvtipu!
 No tak!
-Jsem tu, abych vedla beznadějné a ztracené duše jako jsi ty!
+Jsem tu, abych vedla beznadějný a ztracený duše jako jsi ty!
 
 // Quest 4 (Why are you helping me?)
 A proč ne?
@@ -82,6 +82,6 @@ Co?
 Ty hlupáčku...
 Zničehonic ses tu objevil!
 Nemáš tu co dělat,
-Tak ti pomáhám!
+tak ti pomáhám!
 
 Sbohem, hlupáčku!

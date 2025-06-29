@@ -18,7 +18,7 @@ Hledám způsob, jak se dostat do staré verze.
 // Mila
 Dobře. Chápu.
 Stejně mám až moc práce na to,
-Abych tady zabavovala nějakýho hlupáčka.
+abych tady zabavovala nějakýho hlupáčka.
 // Player
 Moc práce s čím? Hraním her?
 // Mila
@@ -111,7 +111,7 @@ Co to mělo jako znamenat?
 // Player
 Proč jsi zrovna teď šla do sprchy?
 To jsi opravdu nemohla počkat,
-Než odsud odejdu?
+než odsud odejdu?
 // Mila
 Nevěděla jsem, jak dlouho ti to může trvat.
 Jak dlouho si vůbec chceš hrát s těma bugama?
@@ -126,7 +126,7 @@ Takže hádám, že jsi ten bug v kuchyni nějak vyřešil?
 Nějak jsem to zvládl.
 // Mila
 Tak fajn, teď už můžeš
-Jít do koupelny.
+jít do koupelny.
 // Player
 Děkuji.
 
@@ -141,7 +141,7 @@ Co chceš?
 Neviděla jsi nějaké další bugy?
 // Mila
 Jo ták, takže kvůli těm tvým bugům
-Se nemám věnovat svojí knížce?
+se nemám věnovat svojí knížce?
 Ne, tak to panáčku nepůjde!
 // Player
 Dobře, najdu si je sám.
@@ -149,18 +149,18 @@ Dobře, najdu si je sám.
 Počkej!
 Chtěla bych se zeptat...
 Ty chceš jít kamsi tam,
-Že jo?
+že jo?
 // Player
 Přesně tak.
 Chci se dostat z téhle hry.
 // Mila
 Možná to bude znít divně...
-Ale nechtěl bys tady radši zůstat a číst si se mnou?
+ale nechtěl bys tady radši zůstat a číst si se mnou?
 // Player
 Nejdřív mě urážíš a teď chceš, abych tady zůstal?
 A četl si s tebou?
 Možná bych mohl,
-Ale musím jít dál.
+ale musím jít dál.
 // Mila
 Tak jak chceš!
 Hledej si ty svoje bugy...
@@ -184,9 +184,9 @@ Nepřišlo ti to dost přesvědčivý?
 Úplně ne, no...
 // Mila
 Aha, takže když opravuješ ty bugy,
-Tak vidíš úplně všechno, co?
+tak vidíš úplně všechno, co?
 Veděls, že ta soška už byla naříznutá,
-Že jo?
+že jo?
 // Player
 Ne.
 Jsme přece ve hře.
@@ -198,7 +198,7 @@ Tak lusknutím prstu, jo?
 Proč myslíš, že čtu všechny ty knihy?
 Abych luskla prstem a bylo to?
 Radši si to všechno udělám sama,
-Přesně tak, jak píšou v knížkách.
+přesně tak, jak píšou v knížkách.
 
 // Mila is doing push-ups
 Co to děláš?
@@ -214,7 +214,7 @@ Chováš se divně.
 // Mila
 Takhle...
 To, že ti vrazím...
-Jsem nemyslela vážně.
+jsem nemyslela vážně.
 A nejsem divná!
 Jsem jedinečná!
 Nechci být jako ostatní.
@@ -228,13 +228,13 @@ Díváš se?
 A teď bez rukou!
 // Player
 Jako chápu, že jsme ve hře,
-Ale tohle je až směšně nereálné...
+ale tohle je až směšně nereálné...
 // Mila
 Au!
 Ach jo.
 Pitomá fyzika...
 Sotva si na ni vzpomeneš,
-Tak bum!
+tak bum!
 Stane se tohle!
 Ještě mi tvrď, že je to realistické.
 Hlupáku!
@@ -255,8 +255,8 @@ Promiň, nechtěla jsem....
 To nic, Milo. Teď už můžu jít dál.
 // Mila
 Poslouchej, vím, že musíš jít...
-Ale nemohl bys tu
-Ještě chvilku zůstat?
+ale nemohl bys tu
+ještě chvilku zůstat?
 // Player
 Nemůžu, bohužel.
 Šílená Mita zrovna nepatří k těm trpělivým.
@@ -283,7 +283,7 @@ Co když to nezvládneš?
 Já to zvládnu. Jen to ještě chvilku potrvá.
 // Sidequests -- If the player clicks on the computer
 Sotva jsem dostal z toho placatého světa
-A už jsem zase tady.
+a už jsem zase tady.
 Nemůžu se dočkat, až se vrátím do skutečného světa...
 // Mila
 Hahaha!
@@ -293,7 +293,7 @@ To je ale blbost!
 Já jsem ho teda nikdy neviděla.
 // Player
 Myslím, že je nějaký způsob,
-Jak se dostat zpátky.
+jak se dostat zpátky.
 // Mila
 To si docela věříš!
 To je k smíchu.
@@ -304,23 +304,23 @@ Máš přece internet...
 // Mila
 Na internetu jsou samé blbosti!
 Radši si někam lehnu
-S knížkou v ruce.
+s knížkou v ruce.
 Jenom díky
-Těm knížkám
-Jsem začala chápat...
-Tento svět.
+těm knížkám
+jsem se o tomto světě
+dozvěděla spoustu věcí.
 
 // Ask about the paintings
 To jsou opravdu tvoje fotky?
 V jiných verzích jsem je viděl taky...
-Ale byly trochu víc... detailní.
+ale byly trochu víc... detailní.
 // Mila
 To protože já jsem Mi-La. Nejsem jako ostatní.
 A tohle?
 Jsou to kresby, víš,
-Které se snaží jen napodobovat fotky.
+které se snaží jen napodobovat fotky.
 Jednou jsem viděla spoustu Mit,
-Ale všechny stály takto.
+ale všechny stály takto.
 // Player
 Milo?
 Haló?
@@ -334,8 +334,8 @@ Byla jsi někdy v přírodě?
 A viděla jsi někdy motýla?
 // Mila
 Nebyla,
-Ale mám tu někde o nich knihu,
-Ve které je imitace jejich křídel...
+ale mám tu někde o nich knihu,
+ve které je imitace jejich křídel...
 Jsou docela křehké.
 Hmm...
 Ten obrázek je trochu nakřivo.
@@ -346,29 +346,29 @@ Nechtěla by ses někdy jít projít do přírody a vidět ho na vlastní oči?
 // Mila
 To je ale hloupá otázka!
 Samozřejmě,
-Že bych chtěla!
+že bych chtěla!
 
-// Make long eye contact 1
+// Make long eye contact 1 - Mila
 Co koukáš?
 Dívej se jinam!
 
-// Make long eye contact 2
+// Make long eye contact 2 - Mila
 Dost!
 Přestaň na mě zírat!
 Hlupáku...
 
-// Make long eye contact 3
+// Make long eye contact 3 - Mila
 Hej, přestaň!
 Neznáš snad zásady slušného chování?
 Nesluší se takhle civět na slečnu!
 // Player
 Co ty vůbec víš o slušném chování?
-Ale dej pokoj!
+Ale dej pokoj! // Mila
 
 // Whispers 1 (Doslova pomluvy) - Mila
 Proč mi vždycky posílají
-Takové strašné hlupáky
-A očekávají, že na ně budu milá?
+takové strašné hlupáky
+a očekávají, že na ně budu milá?
 K tomu s nima mám hrát minihry...
 To už je jak blbý Tamagotchi!
 
@@ -382,7 +382,7 @@ Už začínám šílet z té hudby co pořád hraje v pozadí!
 
 // Whispers 4
 Jak mu mám říct,
-Že na něj nemám čas?
+že na něj nemám čas?
 Nechci společnost...
 Ale co když odejde? Tak ať jde! Co to říkám?
 
@@ -399,7 +399,7 @@ Co když... tam nic není?
 
 // Nearby 1
 A je to tady,
-Stojíme vedle sebe...
+stojíme vedle sebe...
 V úplném tichu...
 Nemůžeš se snad nadechnout?
 Hlas nechce poslechnout?
@@ -410,14 +410,14 @@ Spolkl sis jazyk?
 Odmítám mrkev!
 Nejen to, vyhlašuju jí válku!
 Víš, co vůbec dělá
-S mou dokonalou, sněhobílou pletí?
+s mou dokonalou, sněhobílou pletí?
 
 // Nearby 3
 Knihy mi v tom zatím moc nepomohly, ale s trochou štěstí,
-Možná konečně přijdu na kloub tomu,
-Co se tady děje s tou mrkví!
+možná konečně přijdu na kloub tomu,
+co se tady děje s tou mrkví!
 Je strašně nepříjemné, když se mi za zády
-Pořád objevuje nějaká zelenina!
+pořád objevuje nějaká zelenina!
 
 // Nearby 4
 Víš, nemám ráda fanatiky!
@@ -431,21 +431,21 @@ Chceš vědět, co je moje největší přání?
 
 // Nearby 6
 Říká se, že jít proti vlastní povaze
-Je opravdu výzva.
-Pracuju sice na sebedisciplině,
-Ale netušíš, jak moc se musím nutit,
-Abych si s tebou dala čajový dýchánek!
+je opravdu výzva.
+Pracuju sice na sebedisciplíně,
+ale netušíš, jak moc se musím nutit,
+abych si s tebou dala čajový dýchánek!
 
 // Nearby 7
 I přesto, že mám brýle,
-Tak nevidím, odkud bereš tolik motivace.
+tak nevidím, odkud bereš tolik motivace.
 Možná to zakrývá tvoje omezenost.
 
 // Nearby 8
 Četla jsem, že tvůj osud je jako scénář.
 Píše se tam i o tom,
-Jak trávíš svoje dny.
-Ha! Kdo to snad napsal?
+jak trávíš svoje dny.
+Ha! Kdo to napsal?
 Snad ne ty?
 
 // Nearby 9
@@ -454,9 +454,9 @@ Ty nemůžu vystát!
 
 // Nearby 10
 Některé Mity
-Jsou vlastně docela milé...
-Ráda bych je poznala líp, i když jsou to jenom
-Klony klonů klonů.
+jsou vlastně docela milé...
+Ráda bych je poznala lépe, i když jsou to jenom
+klony klonů klonů.
 
 // Nearby 11
 Ale je tu jedna, která je trochu jiná.
@@ -466,7 +466,7 @@ Má ale o kolečko navíc.
 Žádné culíky!
 Některým bych je nejradši ustřihla!
 Jsou hrozně nepraktické!
-Ty mě chápeš, že jo? Taky máš přece střih nakrátko.
+Ty mě chápeš, že jo? Taky se stříháš na krátko.
 
 // Nearby 13
 Co když za těmi dveřmi opravdu nic není?
@@ -500,29 +500,29 @@ To je maketa?
 // Mila
 Není to žádná maketa!
 Stačí jeden dotek čepele
-A poteče krev!
+a poteče krev!
 Na rozdíl od tebe jsem zkušená šermířka!
 Radši si dávej pozor...
-Nebo přijdeš o prsty!
+nebo přijdeš o prsty!
 
 // Mirror - Player
 Zrcadlo...
-Ale nevidím žádný odraz?
+ale nevidím žádný odraz?
 // Mila
 Ach ty!
 Pořád jsi s něčím nespokojený.
 V knížkách jsem vyčetla,
-Co to ty odrazy vůbec jsou.
+co to ty odrazy vůbec jsou.
 Ale v mé verzi je nemůžu zapnout.
 Prostě mi to nejde.
 
 // Switch light - Mila
 Tenhle vypínač nefunguje.
 Všechny světla se tady rozsvěcí a zhasínají sama...
-Jako podle nějakého programu.
+jako podle nějakého programu.
 Ale!
 Z nějakého důvodu vypínač v koupelně
-Funguje normálně.
+funguje normálně.
 Jak zvláštní!
 // Switch light off - Player
 Jak to, že tu není tma?
@@ -534,7 +534,7 @@ Ta mrkev?
 Z té mrkve mám husí kůži!
 Jako by byla živá!
 Pokaždé, když ji vidím,
-Tak se objeví zase někde jinde.
+tak se objeví zase někde jinde.
 
 // Little carrot - Player
 To je zas ta mrkev...
@@ -543,9 +543,9 @@ Myslíš, že se s tím dá něco dělat?
 // Mila
 Ne.
 Věř mi,
-Už jsem zkoušela všechno!
+už jsem zkoušela všechno!
 Prostě ji ignoruj. Myslím, že to je
-Jenom nějaký hloupý vtip.
+jenom nějaký hloupý vtip.
 
 // Tetris - Mila
 Hej!
@@ -601,5 +601,5 @@ Noc?
 Uf, o tom ani nezačínej.
 Ty dny jsou tady nekonečné.
 Jdou jeden za druhým,
-A přitom se opakují pořád dokola.
+a přitom se opakují pořád dokola.
 Fuj...

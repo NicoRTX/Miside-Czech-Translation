@@ -9,14 +9,14 @@ Ty chceš odejít, že ano?
 // Player
 Ano...
 Musím se vrátit
-Do předchozí verze.
+do předchozí verze.
 // MitaLittle
 Předchozí verze?
 Proč odcházíš a jdeš
-Někam jinam?
+někam jinam?
 Proč nezůstaneš tady
-A nebudeš můj
-Druhý kamarád?
+a nebudeš můj
+druhý kamarád?
 
 // Skipping all dialogs
 Dobře...
@@ -33,12 +33,12 @@ Podívej se z oken...
 Hráč... ty jsi hráč, že?
 Můžeme si hrát spolu.
 Pokud na to budu mít sílu,
-Stačí, když si budeme hrát.
+stačí, když si budeme hrát.
 
 // Quest 2 (What happened to you?)
 Nejsem si jistá a vlastně ani nevím...
 Nemyslím si, že se stalo něco špatného...
-Ale všechno dobré jako by se vytrácelo...
+ale všechno dobré jako by se vytrácelo...
 Ale hlavně, že mám kamaráda.
 Proč mě opustili?
 Copak jsem jim nestačila?
@@ -46,24 +46,24 @@ Mám strach...
 
 // Quest 3 (Become a second friend?)
 Kamarádi...
-Už mi jich zbylo tak málo.
+už mi jich zbylo tak málo.
 Zůstal jen jeden...
 Jsem smutná, hráči.
 Budeš můj kamarád?
 // Player
 Rád bych,
-Ale musím jít dál...
+ale musím jít dál...
 // MitaLittle
 Bolí mě srdce...
 
 // Quest 4 (Is this your house?) - MitaLittle
 Domov?
 Hráči... změnil ses...
-Máš kratší ruce a nevypadáš tak naštvaně...
+máš kratší ruce a nevypadáš tak naštvaně...
 Hráči, změknul jsi, jsi laskavější.
 // Player
 Nejsem si jistý...
-Co to znamená.
+co to znamená.
 // MitaLittle
 To nic...
 Teď už mě to nebude bolet, že ne?
@@ -71,7 +71,7 @@ Teď už mě to nebude bolet, že ne?
 // Quest 5 (How do I leave this place?)
 Opravdu mě opouštíš?
 Je to snad můj...
-Osud?
+osud?
 // Player
 Já...
 // MitaLittle
