@@ -2,23 +2,23 @@
 Prsten.
 
 // Answer 1 (Where have you been all this time?)
-Hledala jsem cestu, jak tě dostat k Jádru.
-Živého a zdravého.
+Hledala jsem cestu, jak tě dostat k Jádru
+živého a zdravého.
 To byl přece náš plán, ne?
 A přitom jsem se musela vyhýbat
 Šílené Mitě, chápeš?
 A taky jsem musela dohledat všechny možné informace o tom,
-Jak tenhle svět vůbec funguje, víš?
+jak tenhle svět vůbec funguje, víš?
 // Player
 Ehm... To by dávalo smysl.
 Ale proč jsi prstenu nastavila zrovna tuhle trasu?
-Proč jsem skončil v rozbité verzi
-Která byla plná nebezpečí?
+Proč jsem skončil v rozbité verzi,
+která byla plná nebezpečí?
 Přežil jsem jenom díky tomu,
-Že jsem skočil do černočerné tmy.
+že jsem skočil do černočerné tmy.
 // MitaKind
 Promiň, asi jsem ti měla říct,
-Co tě všechno bude čekat.
+co tě všechno bude čekat.
 Ale ano, bylo to v plánu.
 Měl jsi utéct a pak skočit do tmy.
 A jak vidím, tak jsi to zvládl!
@@ -27,16 +27,16 @@ Tak pokračujem v plánu, ne?
 
 // Answer 2 (How did you get here?)
 Asi jsi toho musel hodně prožít,
-Když začínáš zapomínat, o čem jsme se už bavili.
+když začínáš zapomínat, o čem jsme se už bavili.
 Já jsem Mita, můžu se pohybovat mezi verzemi,
-Jak se mi zachce, vzpomínáš?
+jak se mi zachce, vzpomínáš?
 // Player
 Ne všechny Mity to umí,
-Pár jsem jich potkal.
+pár jsem jich potkal.
 A zjevně kvůli tomu trpí.
 // MitaKind
-Ano, jejich verze jsou rozbité,
-A jejich světy jsou plné bugů. Vždyť jsem ti to říkala.
+Ano, jejich verze jsou rozbité
+a jejich světy jsou plné bugů. Vždyť jsem ti to říkala.
 Ach jo...
 Asi víš, kdo za to všechno může, co?
 Šílená Mita.
@@ -55,33 +55,33 @@ Ale to neřeš, máme ještě práci!
 
 // Answer 4 (How does the ring work?) - Player
 Takže díky tomu prstenu
-Jsem se dostal až sem k Jádru?
+jsem se dostal až sem k Jádru?
 // MitaKind
 Ano.
 Samozřejmě, kdybychom měli portál,
-Tak jsme se mohli teleportovat
-Přímo sem.
+tak jsme se mohli teleportovat
+přímo sem.
 // Player
 A má teda ten prsten nějakou výhodu?
 // MitaKind
 Samozřejmě!
-Snadno se nosí,
-A pamatuje si verze
-Ve kterých jsi byl.
+Snadno se nosí
+a pamatuje si verze
+ve kterých jsi byl.
 Takže se můžeš jednoduše vrátit.
 
 // Answer 5 (Why does Mad Mita need me?) - Player
 Na co mě vůbec Šílená Mita potřebuje?
-Hraje si se mnou ve své nebezpečné hře,
-A stejnak jsem stále naživu...
+Pořád se mě svými hrátkami snaží zabít
+a přesto jsem stále naživu...
 // MitaKind
 Myslím si,
-Že hledá vhodného hráče...
+že hledá vhodného hráče...
 Takového, který ji přijme takovou, jaká je.
 Koneckonců, Mita je Mita!
 Až na to, že to se nikdy nestane.
 Mění hráče na kazety,
-Aby jí nemohl nikdo utéct...
+aby jí nemohl nikdo utéct...
 Alespoň tak to vidím já.
 Každopádně, soustřeďme na to, co je teď důležité.
 
@@ -91,12 +91,12 @@ To Jádro?
 // MitaKind
 Přesně tak.
 Víš, jak jsem ti říkala,
-Že vy hráči nejste doopravdy součástí tohoto světa?
+že vy hráči nejste doopravdy součástí tohoto světa?
 To znamená, že nepotřebujete oprávnění pro vstup do Jádra.
 Teda, to je moje teorie.
 Každopádně jsem si jistá,
-Že uvnitř najdeme řešení
-Všech našich problémů!
+že uvnitř najdeme řešení
+všech našich problémů!
 [player], zkus jít dovnitř.
 Měla jsem pravdu!
 
@@ -134,7 +134,7 @@ Počkej, neříkej mi, že ho nevíš?
 // MitaKind
 Ale dává to smysl...
 Každá Mita musí mít svůj index,
-Nemůžeme přece jen tak restartovat celou verzi...
+nemůžeme přece jen tak restartovat celou verzi...
 Ach jo!
 Nemůžu uvěřit, že mě to nenapadlo...
 
@@ -158,7 +158,7 @@ Bylo by to jak hledat jehlu v kupce sena.
 Co?
 // MitaKind
 Některé bugy překypují informacemi,
-Jako by byl svět naruby!
+jako by byl svět naruby!
 Logy, logy, logy, data?
 Co když to v nich bude?
 // Player
@@ -171,7 +171,7 @@ Kam jdeš?
 
 // Answer 3 (What if we attack Mad Mita?)
 Říkala jsi, že se každá Mita
-Po smrti prostě resetuje.
+po smrti prostě resetuje.
 Co kdyby...
 // MitaKind
 Co? Chceš snad zabít Šílenou Mitu?
@@ -185,7 +185,7 @@ Neblbni, musíme to vyřešit pomocí Jádra.
 
 // core console entry - Player
 Chce to nějaké přístupové heslo,
-Ale jaké?
+ale jaké?
 Mito, nevíš?
 // MitaKind
 Možná je někde napsané?
@@ -210,15 +210,15 @@ To nesedí.
 
 // Answer 4 (Little people - Chibi) - Player
 Víš, jak jsem šel, tak jsem po cestě
-Potkal pidi lidi...
+potkal pidi lidi...
 Co jsou zač?
 // MitaKind
 Ty Chibi?
 Jak to říct...
 Je to fenomén našeho světa.
 Každá Mita má svoji Chibi verzi.
-Hráči je mohou mít taky...
-Věděl jsi, že Mity je mohou přivolat?
+Hráči je můžou mít taky...
+Věděl jsi, že Mity je můžou vyvolat?
 // Player
 Cože, jak?
 // MitaKind
@@ -227,7 +227,7 @@ Koukej!
 Jak na zavolanou...
 // MitaKind
 No, ale s mými Chibi je prostě něco špatně.
-Většina z jsou prostě mrtvé.
+Většina z nich se zjeví bez známek života.
 Ale je tu jedna...
 I když...
 Asi ne, pořád jen běhá v kruhu.

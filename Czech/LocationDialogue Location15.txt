@@ -11,8 +11,8 @@ Asi je to ten index.
 Uvidíme, jestli bude fungovat!
 Pojďme odsud pryč.
 Šílená Mita...
-Myslím, že je zaneprázdněná s jiným hráčem.
-Takže doufám, že na nás nebude mít čas...
+Myslím, že je zaneprázdněná s jiným hráčem,
+takže doufám, že na nás nebude mít čas...
 // Player
 Mito?
 Počkej na mě.
@@ -54,7 +54,7 @@ Nevím, co na to říct.
 // Player
 Musíme se vrátit k Jádru.
 A ty...
-Možná bys měla jít se mnou.
+bys možná měla jít se mnou.
 // MitaKind
 Cože?
 Dobře...
@@ -89,15 +89,15 @@ Hodně štěstí!
 Zeď?
 Hmm, něco je špatně.
 Možná...
-Je ve sklepě něco, co ti pomůže.
+je ve sklepě něco, co ti pomůže.
 Nedávno jsem objevila
-Dveře v mé skříni...
-Ukázalo se, že vedou do sklepa.
-Ale je tam nepořádek,
+dveře v mé skříni...
+Ukázalo se, že vedou do sklepa,
+ale je tam nepořádek.
 A taky je tam nějaký zvláštní přístroj.
 Chce zadat nějaký kód nebo co...
 Moc tomu nerozumím
-A asi tomu ani nechci rozumět.
+a asi tomu ani nechci rozumět.
 A ještě k tomu je tam tak neútulno.
 Podíváš se tam?
 // Player
@@ -105,15 +105,15 @@ Ehm, dobře.
 
 // Player thinks
 Vypadá to...
-Že si asi nic nepamatuje...
+že si asi nic nepamatuje...
 Zvládli jsme to?
 Restartovali jsme ji?
 Tím pádem už mi jen zbývá
-Vypadnout z téhle zatracené hry...
+vypadnout z téhle zatracené hry...
 
 // Mita
 Ještě než půjdeš,
-Mohla bych tě obejmout?
+mohla bych tě obejmout?
 // Player
 Cože?
 // Mita - hugs
@@ -121,20 +121,20 @@ Ráda jsem tě viděla.
 // Mita
 Ach...
 Je to opravdu škoda
-Že jsme spolu
-Strávili tak málo času.
+že jsme spolu
+strávili tak málo času.
 // Player
 Err...
 O čem to mluvíš?
 // Mita
 Chci říct,
-Že jsi mohl zůstat se mnou...
+že jsi mohl zůstat se mnou...
 Je to všechno moje vina...
 Ta skříň a ty... zvuky.
 Měla jsem ji ZABÍT dřív!
 // Player
 Počkej, ale,
-Přece jsem tě...?
+přece jsem tě...?
 Jak to, že si to pamatuješ?
 // Mita
 HA!
@@ -144,7 +144,7 @@ Stejně jako všichni ostatní hráči...
 Vyšlo nám to přesně včas, podívej!
 Takže
 „živý“
-Už nejsi potřeba.
+už nejsi potřeba.
 Promiň.
 // Player
 Nechápu to...
@@ -166,11 +166,11 @@ To mi hlava nebere...
 Tak mi pověz, jaká jsem!
 Proč ze mě nikdy nebude pravá Mita?
 Moje verze totiž...
-Vůbec nikdy neexistovala!
+vůbec nikdy neexistovala!
 Jen stahuju z kůže ty naivní hlupačky
-A schovávám se pod jejich kůží...
+a schovávám se pod jejich kůží...
 Žádný způsob, jak mě restartovat,
-Neexistuje!
+neexistuje!
 // Player
 Nevěřím tomu...
 Ty...
@@ -184,10 +184,10 @@ Každopádně!
 Brzy se zase uvidíme!
 Všechno už je připravené!
 Je na čase
-Vytáhnout tě z konzole!
+vytáhnout tě z konzole!
 Uvidíme se později!
-Budeš moje oblíbená kazeta...
-Hráči se zajímavým jménem.
+Budeš moje oblíbená kazeta,
+hráči se zajímavým jménem.
 
 // core console - nope programm
 To není ono.
@@ -204,9 +204,9 @@ Budeme potřebovat jinou.
 
 // core console - nope index
 Něco je špatně
-S indexem.
+s indexem.
 Musím ten index přepsat,
-Není to ten správný.
+není to ten správný.
 
 // Why kitchen
 Máš hlad?
@@ -214,7 +214,7 @@ Umím dobře krájet mrkev.
 
 // Why bathroom
 Aha, asi jsi sem
-Chtěl jít sám?
+chtěl jít sám?
 
 // Why bedroom back
 Proč se točíme v kruhu?

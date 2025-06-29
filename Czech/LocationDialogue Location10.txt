@@ -35,20 +35,20 @@ Ale máš vlastně pravdu.
 Chápu smysl, ale k čemu mi to je?
 // MitaShorthairs
 Myslíš si, že jsem ti o tom nebezpečí
-Říkala jen tak ze srandy?
+říkala jen tak ze srandy?
 Narazíš na... figuríny...
-Zapomenuté a „vadné“.
+zapomenuté a „vadné“.
 Jsou hodně agresivní, fakt to chceš riskovat?
 // Player
 Co mám teda dělat?
 Kde se otevřou dveře,
-Tam se vydám.
+tam se vydám.
 // MitaShorthairs
 No to se teda vydáš!
 Hlavně se k nim neotáčej zády.
 A nespouštěj z nich oči!
 Když se na ně podíváš, začnou se stydět tak moc,
-Že úplně ztuhnou.
+že úplně ztuhnou.
 Snad ti to pomůže!
 
 
@@ -60,15 +60,15 @@ Snad ti to pomůže!
 // Quest 1 (Why are there other Mitas down there?)
 Jsou čerstvě vyrobený.
 Potřebují čas,
-Aby získali sebeuvědomění.
+aby získali sebeuvědomění.
 Pak každou z nich zavedu
-Do jejich domova.
+do jejich domova.
 
 // Quest 2 (Why is it so dark downstairs?)
 My Mity jsme „stvořeny“ ve tmě,
-Takže v ní musíme nějakou dobu strávit.
+takže v ní musíme nějakou dobu strávit.
 Dokážeš si představit,
-Jak bolestivý je vstoupit do světla z úplné temnoty?
+jak bolestivý je vstoupit do světla z úplné temnoty?
 
 // Quest 3 (What are you doing here?)
 Ty to ještě nechápeš?
@@ -81,40 +81,40 @@ Proč se tady vyrábí tolik Mit?
 Je tu pro všechny dost místa?
 // MitaShorthairs
 Počkej, neříkej mi,
-Že nechápeš, jak funguje náš svět?
+že nechápeš, jak funguje náš svět?
 A to, že je nekonečný?
 // Player
 Nekonečný?
 Hmm...
 Jak to myslíš?
 Pokud je nejnovější verze 1.9,
-Tak existuje pouze 19 světů.
+tak existuje pouze 19 světů.
 // MitaShorthairs
 Panejo, ty fakt nevíš.
 Vůbec nechápeš, jak to tady chodí.
 Všechno ti vysvětlím
-Tady na té tabuli,
-Pokud teda chceš.
+tady na té tabuli,
+pokud teda chceš.
 
 // Quest 5 (What is your version?)
 Mám pocit,
-Že jsem tě viděl v nejnovější verzi.
+že jsem tě viděl v nejnovější verzi.
 Nebo se mi to jenom zdá?
 // MitaShorthairs
 No, to je dost možný.
 Jsem z verze 1.5.
 Byl jsi v ní?
 // Player
-Ano byl.
+Ano, byl.
 Když jsem se sem dostal,
-Tak jsem skončil tam.
+tak jsem skončil tam.
 // MitaShorthairs
 Páni!
 Ale jak...?
 Zajímalo by mě, jaký byl index domu, ve kterém jsi byl.
 Je tady verze mě, která jenom fňuká,
-Furt dělá vylomeniny,
-Na všechno zapomíná a má potřebu strašit ostatní.
+furt dělá vylomeniny,
+na všechno zapomíná a má potřebu strašit ostatní.
 Ach, mohla bych toho jmenovat spousty...
 Na co si vzpomínáš?
 // Player
@@ -124,9 +124,9 @@ Jako...
 „Pojď si hrát.“
 // MitaShorthairs
 Ach,
-Škoda...
+škoda...
 To je ona,
-Ta, která straší a zapomíná.
+ta, která straší a zapomíná.
 
 // Mita wants to tell you [No]
 Není třeba.
@@ -137,74 +137,74 @@ Dobře, jak chceš.
 // Mita wants to tell you [Yes].
 Dobře, vysvětli mi to.
 Jen doufám, že to nebude jako ve škole
-A neusnu tady nudou.
+a neusnu tady nudou.
 // MitaShorthairs
 Jestli chceš, tak můžeš jít pryč.
 Ale pokud tě to zajímá,
-Tak poslouchej.
+tak poslouchej.
 Hráč si stáhne MiSide na svůj mobil.
 Spokojeně hraje a užívá si hru.
 Vytvoří si tak nový domov
-A novou Mitu.
+a novou Mitu.
 Tady je to máš nakreslené.
 Tohle jsou verze,
-Tady ty čáry.
+tady ty čáry.
 Na těch čarách jsou domy.
 Když si stáhneš verzi 1.14,
-Zrodí se nová Mita
-A s ní i nový dům.
+zrodí se nová Mita
+a s ní i nový dům.
 // Player
 Hustý...
 // MitaShorthairs
 Klidně se zeptej i na konkrétní věci,
-Co jsou na tabuli,
-A já se ti to pokusím vysvětlit.
+co jsou na tabuli,
+a já se ti to pokusím vysvětlit.
 
 // He asks about the only circle
 Proč je tady jenom jeden kruh?
 // MitaShorthairs
 Tu verzi hrál jenom jeden hráč
-A teď už není dostupná.
+a teď už není dostupná.
 Proto je tady jenom jedinkrát.
 Takové verze jsou zvláštní tím,
-Že nevede žádná cesta kolem nich.
+že nevede žádná cesta kolem nich.
 V téhle verzi, 1.1, žije Ospalá Mita.
 // Player
 Ospalá Mita?
 Protože se jí špatně spí,
-Když všichni procházejí její verzí?
+když všichni procházejí její verzí?
 // MitaShorthairs
 Ne, vůbec ne.
 Můžeš kolem ní chodit, jak moc chceš,
-Ale nemáš šanci ji vzbudit.
+ale nemáš šanci ji vzbudit.
 
 // He asks about the shaded circle
 Proč je tenhle kruh vyplněný?
 // MitaShorthairs
 No... důvod, proč tady ten graf vůbec je,
-Je kvůli Krásné Mitě.
+je kvůli Krásné Mitě.
 Ona ho celý nakreslila.
 Dohadovaly jsme se o tom,
-Kdo se dřív dostane do verze 1.11.
+kdo se dřív dostane do verze 1.11.
 // Player
 A kdo vyhrál?
 // MitaShorthairs
 Jasně že JÁ!
 My jsme teď tady,
-Ve verzi 1.15,
-Index domu 809.
+ve verzi 1.15,
+index domu 809.
 Potřebujeme se dostat do verze 1.11,
-Index domu 805.
+index domu 805.
 Prvně její cesta vypadala takto.
 Snažili jsme se najít kratší cestu,
-Takže Krásná Mita navrhla tuto cestu.
+takže Krásná Mita navrhla tuto cestu.
 A pak jsem jí ukázala tu nejjednodušší cestu.
 Je to jasný, když se nad tím zamyslíš!
 Koukej sem.
 Odsud se můžeš dostat přímo do verze, ke které míříš.
 Na první pohled se zdá, že je tenhle dům v cestě,
-Což by ti znemožnilo projít...
-Každopádně, tvůj prsten funguje na stejném principu.
+což by ti znemožnilo projít...
+Každopádně, tvůj prsten funguje na stejným principu.
 Kam tě poslali?
 // Player
 K Jádru.
@@ -212,13 +212,13 @@ K Jádru.
 K Jádru?
 Zajímavý...
 Pokud tě poslali nejkratší cestou,
-Budeš muset projít verzí 1.11.
+budeš muset projít verzí 1.11.
 Pak se určitě setkáš s Ospalou Mitou.
 Zajímalo by mě, jestli Mita, která tě poslala,
-Šla stejnou cestou.
+šla stejnou cestou.
 Nebo jestli si to neuvědomila a ty půjdeš přes jinou verzi.
 Možná je génius,
-A vymyslela ještě kratší cestu!
+a vymyslela ještě kratší cestu!
 // Player
 Rozumím.
 
@@ -240,7 +240,7 @@ Ona je silná.
 // He asks about the drawings
 To je jenom kresba?
 Nebo
-To něco znamená?
+to něco znamená?
 // MitaShorthairs
 Jo,
-Je to jen čmáranice.
+je to jen čmáranice.

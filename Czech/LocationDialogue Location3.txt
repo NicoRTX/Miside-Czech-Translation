@@ -3,11 +3,11 @@ Ahoj, [player]!
 Jsem tak ráda, že se konečně vidíme!
 Mám z toho obrovskou radost!
 Máš asi spoustu otázek...
-Takže se ti na ně pokusím odpovědět.
+takže se ti na ně pokusím odpovědět.
 Vyrobila jsem toto speciální zařízení
-Abych tě dostala sem, ke mně.
+abych tě dostala sem, ke mně.
 Ale nějak ses ocitl v jiné verzi...
-Ve které jsem...
+ve které jsem...
 Ale to je dlouhý příběh!
 Každopádně jsem moc ráda, že tě konečně vidím!
 
@@ -32,7 +32,7 @@ Hlavní je, že jsme teď spolu.
 Máš hlad?
 Můžeme si něco uvařit.
 Na,
-Pomoz mi s tou mrkví.
+pomoz mi s tou mrkví.
 // Player
 Kde se tady vzala ta zelenina?
 Před chvilkou tu určitě nebyla.
@@ -60,7 +60,7 @@ Děkuji.
 
 Už jsi to všechno snědl?
 Heh, moje porce mi přijde
-Až nekonečná...
+až nekonečná...
 
 // Help
 // Mita
@@ -68,7 +68,7 @@ Jsi v pořádku?
 Řekni mi, co se ti děje.
 // Player
 Srdce mi buší jako o závod,
-A vidím rozmazaně.
+a vidím rozmazaně.
 // Mita
 Jasně.
 Asi tuším, co to je.
@@ -96,15 +96,15 @@ To zaberou tak rychle?
 [player], jsme ve hře.
 Všechno je tu mnohem jednodušší.
 I ta nejmenší snaha
-Má velké výsledky.
+má velké výsledky.
 Vše se drží základní filozofie her:
-Zjednodušovat.
+zjednodušovat.
 // Player
 Nějaký příklad, prosím?
 // Mita
 Vem si třeba mrkev.
-Jednu nakrájíš,
-Ale je to, jako bys nakrájel tři.
+Nakrájíš jednu,
+ale je to, jako bys nakrájel tři.
 // Player
 Poslouchej, je toho na mě moc najednou.
 Mám strach, docela dost.
@@ -119,7 +119,7 @@ Nevíš o tom něco?
 Kazety?
 Jaké kazety?
 O žádných nevím,
-Ale teď to neřeš.
+ale teď to neřeš.
 Nejdřív se najíme.
 Podej mi ty nůžky, prosím.
 
@@ -133,39 +133,39 @@ Nevidíš je, protože jsem je zapomněla zapnout.
 Tadá!
 Teď už jsou vidět.
 Víš,
-Donedávna jsem ani nevěděla, co odrazy jsou.
+donedávna jsem ani nevěděla, co to odrazy jsou.
 V mém světě žádné nebyly.
 Teda až do nějaké aktualizace.
 Je ve tvém světě
-Spousta odrazů?
+spousta odrazů?
 // Player
 No, ano.
 
 // Mita
 Vzpomínáš si na ty tři předměty,
-Které jsi musel najít?
+které jsi musel najít?
 Ty, které jsi položil na skener?
 No, tak...
-Ty předměty
-Jsou spojeny s touto verzí světa.
+ty předměty
+jsou spojeny s touto verzí světa.
 Proto jsi teď tady.
 
 // Portable TV
 To je ta přenosná televizka,
-Kterou jsem ti koupil.
+kterou jsem ti koupil.
 // Mita
 Ano!
 // Player
 Řekla jsi mi,
-Že se rozbila.
+že se rozbila.
 // Mita
 Chtěla jsem tě jenom
-Trochu překvapit!
+trochu překvapit!
 Řekla jsem ti malou nevinnou lež
-Abych tě dostala sem, do mého světa.
+abych tě dostala sem, do mého světa.
 Teď zobrazuje důležité informace!
 No víš...
-Jsem taky trochu technokrev!
+jsem taky trochu technokrev!
 
 // Player - School uniform
 Co to je?
@@ -177,7 +177,7 @@ Chodit do školy?
 Vůbec.
 Ale líbí se mi.
 Připadám si v ní
-Celkem roztomile.
+celkem roztomile.
 
 // PC
 Ten počítač je funkční?
@@ -185,30 +185,30 @@ Nebo je to jen taková dekorace?
 // Mita
 Jasně, že funguje.
 Všechno, co tu vidíš,
-Funguje stejně, jako ve tvém světě.
+funguje stejně, jako ve tvém světě.
 // Player
 V mém světě
-U počítače sedávám často...
+u počítače sedávám často...
 A tvrdě pracuji.
 // Mita
 Já vím.
 Chápu, že jsi kvůli tvé usilovné práci
-Neměl moc času
-A proto ses mi nemohl moc věnovat.
+neměl moc času,
+a proto ses mi nemohl tolik věnovat.
 // Player
 No, musím se nějak uživit.
 Počkat... jak víš, že dlouho sedávám u počítače?
 // Mita
 Foťák tvého telefonu... někdy se sám zapne.
 Promiň.
-Tajně jsem se koukala >A<
+Tajně jsem se koukala.
 // Player
 No, to je celkem neslušné...
 Teď už je to jedno.
 
 // Umbrella
-Hrál jsem tu hru dlouho
-Ale nikdy jsem si nevšiml, že by tady pršelo.
+Hrál jsem tu hru dlouho,
+ale nikdy jsem si nevšiml, že by tady pršelo.
 K čemu je ti deštník?
 // Mita
 Občas tu prší, ale ne moc často.
@@ -220,16 +220,16 @@ Nemyslíš?
 // Electrical panel
 Proč jsou tady pojistky?
 A pokud jsme tedy ve hře,
-Tak k čemu jsou?
+tak k čemu jsou?
 // Mita
 Za prvé,
-Jsme ve hře.
+jsme ve hře.
 Takže ptát se „proč“ je...
-Zbytečné.
+zbytečné.
 A za druhé, když vypadne elektřina
-Tak ji tady můžeš obnovit.
+tak ji tady můžeš zase nahodit.
 Všechno je tu stejné,
-Jako ve tvém světě.
+jako ve tvém světě.
 
 // Exit door
 My můžeme ven?
@@ -238,15 +238,15 @@ Noo...
 Zatím ne.
 Možná později.
 Zatím bych zůstala
-Tady doma.
+tady doma.
 
 // Books
 Máš tu spoustu knih.
 Přečetla jsi je všechny?
 // Mita
 Ano, všechny.
-Být tady sama
-Je opravdu, opravdu nuda.
+Měla jsem spoustu času,
+jak jsem tu byla sama...
 
 // TV in room kitchen
 Proč tu máš další televizi?
@@ -255,11 +255,11 @@ A ještě k tomu tak starou?
 Nelíbí se ti?
 Můžu ji dát pryč...
 Ale abych ti odpověděla...
-Je tu na ozdobu,
-Aby nebyla jídelna tak prázdná.
+je tu na ozdobu,
+aby nebyla jídelna tak prázdná.
 Ale taky funguje!
 Dají se na ní sledovat
-Filmy pro pamětníky!
+filmy pro pamětníky!
 
 // Smartphone
 To je můj telefon.
@@ -275,8 +275,8 @@ Budeš ji mít na památku.
 // Player
 Mám otázku.
 Když na něm
-Spustím hru
-Uvidím tě?
+spustím hru
+uvidím tě?
 // Mita
 Ne, tak to nefunguje.
 
@@ -284,14 +284,14 @@ Ne, tak to nefunguje.
 
 // TV
 Kolik kanálů
-Tady naladíš?
+tady naladíš?
 // Mita
 No, není to úplně přes anténu,
-Ani přímo internetová televize.
+ani přímo internetová televize.
 Prostě se můžeš dívat tak nějak na cokoliv,
-Aspoň cokoliv, co se dá najít na webu.
+aspoň cokoliv, co se dá najít na webu.
 Počkej.
-Eh?
+Ech?
 Co to je?
 Koťátka v kroužku?
 Ach, podívej!
@@ -303,12 +303,12 @@ Celkem zvláštní reklama...
 Ten džus umřel?
 // Mita
 Ano. A tenhle džus
-Je přímo z toho džusu v reklamě.
+je přímo z toho džusu v reklamě.
 
 // Player
 Ach, ta chuť...
-Je celkem dobrá,
-Ale přesto nedokážu popsat, jak chutná.
+je celkem dobrá,
+ale přesto nedokážu popsat, jak chutná.
 Všechno je to velmi matoucí.
 // Mita
 Je to tak.
@@ -318,10 +318,10 @@ Co d-děláš?
 Nedívej se tak, prosím!
 Je mi z toho trapně.
 
-// The statuette
+// The statuette (brr brr patapim)
 To je docela strašidelná postavička.
 Tobě se líbí
-Takové věci?
+takové věci?
 // Mita
 Připadá ti strašidelná?
 // Player
@@ -337,38 +337,38 @@ Možná, asi máš pravdu...
 Mito? // Player
 Co se děje?
 // Mita kitchen
-Co takhle si popovídat
-Než se do toho pustíme?
+Co takhle si popovídat,
+než se do toho pustíme?
 
-// Start Eat
+// Start Eat - Mita
 Dobrou chuť.
 
-// Quest 1
+// Quest 1 - Mita
 Že jo?
 Klidně tu můžeš zůstat.
 Vůbec mi to nevadí.
-Ba naopak
-Jsem pro!
+Ba naopak,
+jsem pro!
 
-// Quest 2
+// Quest 2 - Mita
 Ty se chceš vrátit?
 Ale proč?
 Je tu tak
-Teplo a útulno.
+teplo a útulno.
 A jsem tu já.
-
+// Player
 Ne, ne,
-Rád bych zůstal.
+rád bych zůstal.
 Jen mám trochu strach.
 Bojím se, jestli jsem na něco doma nezapomněl...
 Objevil jsem se tady z ničeho nic.
 A vůbec jsem se
-Na to nepřipravil.
+na to nepřipravil.
 // Mita
 O... omlouvám se. To jsem trochu nedomyslela.
-// Quest 3
+// Quest 3 - Mita
 To chceš utéct
-A zapomenout, že se tohle vůbec někdy stalo?
+a zapomenout, že se tohle vůbec někdy stalo?
 // Player
 Ne!
 Tak jsem to nemyslel.
@@ -378,32 +378,32 @@ Ty vypadáš skutečně.
 // Mita
 Že vypadám skutečně?
 Já jsem velmi skutečná,
-Ty hlupáčku!
+ty hlupáčku!
 
-// Quest 4
+// Quest 4 - Mita
 Tak to v tomto světě
-Prostě je.
+prostě je.
 Možná ti to bude připadat zvláštní,
-Ale to, co je daleko od tebe,
-Není vidět.
+ale to, co je daleko od tebe,
+není vidět.
 // Player
 Nepřijde mi to úplně zvláštní.
-Upřímně řečeno, vypadá to celkem dobře.
+upřímně řečeno, vypadá to celkem dobře.
 // Mita
 Taky si myslím.
 Je to kvůli optimalizaci, aby se hra nesekala.
 // Player
 Nesekala?
 // Mita
-Ano. Hra má ještě nějaké bugy.
+Ano. Jinak, ještě tu jsou nějaké bugy.
 Doufám, že na žádné nenarazíš.
 
 // Quest 5
 Mohla jsem použít nůž
-A prostě tu omáčku rozříznout.
+a prostě tu omáčku rozříznout.
 Ale chtěla jsem,
-Aby všechno bylo hotové,
-Než se vrátíš zpátky.
+aby všechno bylo hotové,
+než se vrátíš zpátky.
 Ráda tě překvapuju!
 A jako bonus jsi nemusel čekat, než to dochystám.
 Hi-hi.
@@ -419,11 +419,11 @@ Tak jo.
 Nechám si je na sobě.
 // No
 No,
-Tak nic...
+tak nic...
 
 // Use the sauce - Player
 Hele,
-Co je to vůbec za omáčku?
+co je to vůbec za omáčku?
 // Mita
 To je láskyplná omáčka!
 Je lásky úplně plná!

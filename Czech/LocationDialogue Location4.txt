@@ -9,9 +9,9 @@ Tak jsem odešla.
 A proč jsou ty pokoje jinak? // Player
 // Mita
 Trochu jsem to tady předělala,
-Abys ses tu cítil jako doma.
+aby ses tu cítil jako doma.
 Jinými slovy,
-Můžeme si to tu předělat tak,
+můžeme si to tu předělat tak,
 Jak jen budeme chtít.
 // Player
 Tos nemusela.
@@ -19,20 +19,20 @@ Zvykal jsem si na to, jak byly.
 Myslím si, že se nám to takhle bude líbit víc. // Mita
 // Mita card game
 Takže,
-Můžeme začít?
+můžeme začít?
 Hra funguje takhle:
 Tento žeton označuje typ,
-Jako třeba zdraví.
-Každý z nás hraje jednu kartu,
-A pokud bude tvoje karta mít
-Vyšší číslo zdraví
-Než moje,
-Vyhráváš.
+jako třeba zdraví.
+Každý z nás zahraje jednu kartu,
+a pokud bude tvoje karta mít
+vyšší číslo zdraví
+než moje,
+tak vyhráváš.
 Vem si karty.
 Tak se podívejme...
 Super!
 Dostala jsem pořádný karty!
-Jdu první!
+Hraju první!
 
 
 
@@ -121,8 +121,8 @@ Proč seš tak upřený na tu skříň?!
 Chci vědět, co to bylo za rachot!
 // Mita
 Je to proto, že
-Tento svět
-Má jenom tyto čtyři místnosti?
+tento svět
+má jenom tyto čtyři místnosti?
 Nestačí ti to?
 Proč nemůžeš být jen se mnou?
 
@@ -131,8 +131,8 @@ Proč nemůžeš být jen se mnou?
 Chápu to.
 Je to tady zas...
 Pokud se tam chceš podívat,
-Tak to udělej,
-A zjisti, co tam je!
+tak to udělej,
+a zjisti, co tam je!
 
 
 
@@ -160,8 +160,8 @@ Normálně, ne?
 
 // Mita
 Každopádně, můžeme si
-Zahrát hru na konzoli
-Nebo jen karty.
+zahrát hru na konzoli
+nebo jen karty.
 Vyber si.
 
 
@@ -169,10 +169,10 @@ Vyber si.
 // Mita play fight
 Chceš se prát?
 Musíš vyhrát
-Čtyřikrát.
+čtyřikrát.
 Tak do toho.
 Nejdřív ti asi
-Budu trochu nahrávat.
+budu trochu nahrávat.
 
 
 Šikulka!
@@ -184,26 +184,26 @@ Teďka vážně.
 
 Podívej se na sebe!
 Tak uvidíme,
-Jestli mě porazíš i teď!
+jestli mě porazíš i teď!
 
 Jsi
-Prostě
-Neuvěřitelný! Šlo ti to skvěle!
+prostě
+neuvěřitelný! Šlo ti to skvěle!
 
 
 No tak, co to bylo?
 Tohle mě nebaví.
 
 Dobře,
-A máš to! Dostala jsem tě.
+a máš to! Dostala jsem tě.
 
 No tak,
-Dej se dohromady, jinak budeš navždycky smolař!
+dej se dohromady, jinak budeš navždycky smolař!
 
 Co je to s tebou dneska?
 Vytřela jsem s tebou podlahu.
 Nedal jsi do toho všechno...
-Proto jsem vyhrála!
+proto jsem vyhrála!
 
 
 Tak dobře.
@@ -219,11 +219,11 @@ Kde je...
 Jejda.
 Omlouvám se...
 Něco jsem si stáhla
-Z netu.
+z netu.
 Chtěla jsem to venku
-Jenom trochu zkrášlit.
+jenom trochu zkrášlit.
 Ale vypadá to,
-Že v souboru bylo něco špatně.
+že v tom souboru bylo něco špatně.
 Opravím to později.
 // Player
 Proto nemůžeme opustit dům?
@@ -237,7 +237,7 @@ Chceš něco?
 
 // Wall Clock
 Ty hodiny,
-Kolik ukazují hodin?
+kolik ukazují hodin?
 Aktuální čas ve hře?
 Nebo je to čas z mého telefonu?
 // Mita
@@ -245,14 +245,14 @@ No, ehm...
 Já upřímně nevím.
 Ale na čase tady nezáleží...
 Ať už pozdě nebo brzy,
-Silná dívka jako já
-Je vždycky plná energie.
+zdatná dívka jako já
+je vždycky plná energie.
 Nikdy se neunavím!
 Můžeme mít věčné jaro,
-Nebo nekončící odpoledne!
+nebo nekončící odpoledne!
 // Player
 To je zajímavé...
-Ale trochu děsivé.
+ale trochu děsivé.
 Uvíznutí ve stejném okamžiku, navždy...
 
 
@@ -280,19 +280,19 @@ Kam se poděl ten portál?
 Nebo jak jsi to nazvala?
 // Mita
 Použila jsem
-Menší kouzlo
-A přesunula ho
-Někam jinam.
+menší kouzlo
+a přesunula ho
+někam jinam.
 Už ho nepotřebujeme.
 Jen by tady překážel.
 
 
 // Mirror in the bedroom
 Je zvláštní dívat se do zrcadla
-A nevidět svůj odraz.
+a nevidět svůj odraz.
 // Mita
-Můžeme zapnout odrazy
-Pokud je chceš mít.
+Můžeme zapnout odrazy,
+pokud je chceš mít.
 Ale opravdu je potřebujeme?
 // Player
 Samozřejmě, že ano.
@@ -307,12 +307,12 @@ Chápu.
 Tak to bychom možná měli nechat odrazy vypnuté...
 
 Hej, [player], jak se tak koukám,
-Rád se díváš do zrcadla, co?
+rád se díváš do zrcadla, co?
 Bojíš se, že na své tváři uvidíš úsměv?
 // Player
 Cože? Ani ne...
-Jsem jen unavený.
-Po vší té práci.
+Jsem jen unavený
+po vší té práci.
 
 
 
@@ -326,11 +326,11 @@ Nevzpomínám si, že bych měl takové tenisky.
 // Mita
 Teď už ano.
 Můžeš si je vzít
-Až půjdeme ven.
+až půjdeme ven.
 // Player
 A co oblečení?
 Nemám v tomto světě
-Jiné oblečení než to, které mám na sobě.
+jiné oblečení než to, které mám na sobě.
 Můžu si nějak pořídit nové?
 // Mita
 Samozřejmě že ano.
@@ -362,7 +362,7 @@ Mám takovou radost!
 Ale jsem trochu zmatená...
 Tak...
 Prosím, zůstaň se mnou...
-Navždy a napořád.
+navždy a napořád.
 
 
 

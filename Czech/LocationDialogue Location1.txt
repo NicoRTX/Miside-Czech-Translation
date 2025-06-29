@@ -11,7 +11,7 @@ Ahoj, já jsem Mita!
 Jak se jmenuješ ty?
 Ráda tě poznávám, [player]!
 Um... [player],
-Předtím jsem trochu pospíchala a nechala tu nepořádek...
+předtím jsem trochu pospíchala a nechala tu nepořádek...
 Pomohl bys mi uklidit?
 Uf...
 Mockrát děkuji!
@@ -45,7 +45,7 @@ To je pro mě?
 Mockrát děkuji, opravdu!
 
 Ahoj, [player]! Víš, přemýšlela jsem...
-Jaká je škoda, že se nemůžeme setkat osobně.
+jaká je škoda, že se nemůžeme setkat osobně.
 Kéž by to nějak šlo.
 Pořád mi pomáháš, každý den jsi ke mně tak laskavý...
 Ráda bych ti to nějak oplatila.
@@ -63,31 +63,31 @@ Jednou jsem ji složil a pak už jsem se jí nikdy nedotkl.
 Beztak bych to podruhé nezvládl.
 // Computer
 Tak co tu máme...
-Sepsat seznam úkolů...
-Naskriptovat reakce postav,
-A možná se tam vejde i nějaké programování.
+sepsat seznam úkolů...
+naskriptovat reakce postav,
+a možná se tam vejde i nějaké programování.
 // The airplane
 Pro let jako dělané!
 // Trash in the corner
 Fuj, vždycky zapomenu vynést odpadky...
-Ale tentokrát už se to nestane!
+ale tentokrát už se to nestane!
 ...Počkat, kdy že jsem si měl uklidit?
 // Photo of a cat on a watermelon
 Tak se mi líbila...
-Kočka na melounu.
+kočka na melounu.
 // Photo with a girl - Player
 Já a moje sestra,
-Vůbec si nejsme podobní.
+vůbec si nejsme podobní.
 Ona je pořád někde venku,
-A já trčím doma.
+a já trčím doma.
 // Photo with people
 No jo...
-Práce v kanceláři nám opravdu navrtala
-Korporátní etiketu do hlavy, co?
+práce v kanceláři nám opravdu navrtala
+korporátní etiketu do hlavy, co?
 Pořád mi moje parta trochu chybí
-Ale
-Vlastně ani nevím
-Jestli je ještě někdy uvidím.
+ale
+vlastně ani nevím
+jestli je ještě někdy uvidím.
 ...Počkat, proč tady tu fotku vůbec mám?
 
 

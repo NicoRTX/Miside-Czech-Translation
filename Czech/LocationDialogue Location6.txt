@@ -10,13 +10,13 @@ To máš pravdu...
 Ale teď dobře poslouchej.
 Nejsem ta Mita, kterou jsi potkal předtím.
 Dávej si na ni pozor...
-Něco si na tebe chystá.
+něco si na tebe chystá.
 // Player
 Co si na mě chystá?
 // MitaKind
-Nemáme moc času.
+Na to teď není čas.
 Jestli to vyjde, tak ti všechno řeknu.
-Najdi klíč. Je někde vedle gauče.
+Najdi klíč. Měl by být někde vedle gauče.
 // Player
 Ale...
 // MitaKind
@@ -28,7 +28,7 @@ Chceš se odsud dostat, že jo?
 Jo...
 Tak si ho nasaď.
 Je to užitečná pomůcka,
-Pravděpodobně ho brzy využiješ.
+pravděpodobně ho brzy využiješ.
 // Player
 Dobře...
 Mimochodem, já jsem
@@ -47,7 +47,7 @@ Já jsem... Mita.
 
 // MitaKind quest 1
 Vidíš tu konzoli?
-Vezmi si ji.
+Vezmi ji.
 // Player
 To je záznam?
 Kdo je to s ní?
@@ -56,7 +56,7 @@ Tohle se děje právě teď.
 Je to další hráč.
 Využívá ho.
 Dávej si na ni pozor,
-Taky z tebe může udělat kazetu.
+taky z tebe může udělat kazetu.
 // Player
 Musím odsud ihned vypadnout.
 A ty taky.
@@ -64,19 +64,19 @@ A ty taky.
 Ano, to musíme.
 // Player
 Takže říkáš,
-Že ho využívá.
+že ho využívá.
 Co se stane, když vytáhnu tu kazetu?
 // MitaKind
 To by mohlo způsobit
-Nenávratné poškození kazety.
+nenávratné poškození kazety.
 Což znamená, že...
-Hráč zemře.
+hráč zemře.
 // Player
 ...
 Co když tu konzoli prostě vypnu?
 // MitaKind
 To by mohlo fungovat...
-Za pokus to stojí. Na konzoli je červené tlačítko!
+Za pokus to stojí. Na konzoli je červené tlačítko.
 Vidíš ho?
 Našel jsem ho. // Player
 Stiskni ho. // MitaKind
@@ -84,16 +84,16 @@ Stiskni ho. // MitaKind
 // MitaKind quest 2
 Musím tu zůstat.
 Chci se jí zeptat na pár otázek,
-Abych se o ní něco dozvěděla.
-Ale nemyslím si, že bude mít chuť na řeč...
+abych se o ní něco dozvěděla.
+Ale nemyslím si, že si bude chtít povídat...
 
 // MitaKind quest 3
-Řeknu ti pravdu, tohle je moje verze.
+Jen abys věděl, tohle je moje verze.
 Byla jsem tady s jedním hráčem,
-A najednou se něco stalo.
-Objevila se ona...
+a najednou se něco stalo.
+Objevila se... ona.
 Proměnila hráče v kazetu
-A zavřela mě tady.
+a zavřela mě tady.
 // Player
 Počkej, ona z něj udělala kazetu?
 Jak to vůbec dělá?
@@ -101,7 +101,7 @@ A proč?
 K čemu potřebuje hráče?
 // MitaKind
 Očividně je šílená...
-Je to pro ni jen hra a vyžívá se v tom, potvora!
+Je to pro ni jen hra a vyžívá se v tom!
 Předělává hráče na kazety...
 Někteří ani netuší, že je promění...
 A ti, co ví, se ani nebrání...
@@ -115,8 +115,8 @@ Prsten tě dovede ke správné verzi.
 Setkáme se tam.
 
 // MitaKind quest 4
-Stále nerozumím tomu
-Co jsem tam nahoře viděl...
+Stále nerozumím tomu,
+co jsem tam nahoře viděl...
 Ta Mita...
 Chtěla mě zabít?
 // MitaKind
@@ -137,13 +137,13 @@ Proč bych to dělala?
 Nezabiješ ho, že ne?
 // MitaKiller
 Aha, takže mi to odmítáš říct.
-Nevadí, mám ráda hru na schovávanou.
-Vím, že je někde tady.
+Nevadí, ráda hraju na schovávanou.
+Vím, že tady někde je.
 // MitaKind
 Proč jsi na nás tak zlá?
 Ani mi neřekneš, co se děje!
 A vůbec...
-K čemu potřebuješ hráče?
+k čemu potřebuješ hráče?
 Nejsou to žádné hračky!
 Co to do tebe vjelo?!
 // MitaKiller

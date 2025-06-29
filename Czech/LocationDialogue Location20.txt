@@ -22,14 +22,14 @@ Vyzkoušíme tvojí koordinaci!
 Otestujeme tvé chovaní!
 Co když s tebou něco není v pořádku?
 Co když si ani nezasloužíš tu KŮŽI,
-Kterou tak hrdě nosíš!?
+kterou tak hrdě nosíš!?
 
 // Show knifes
 Podívej se...
 Který ti padnul do oka?
 Ten pravý?
-Nebo
-Levý?
+Nebo...
+Ten levý?
 
 // Throw knifes
 Vážně?
@@ -38,22 +38,22 @@ Jen si z tebe utahuju!
 Pobodání nejsou žádná novinka.
 Ale nevadí.
 Mám mnohem zajímavější nápady,
-Jako třeba...
+jako třeba...
 // Show recorder
 Podívej, co mám!
 Potřebujeme nějakou muziku!
 Jak se ti líbí tahle melodie?
 Rozproudila mi krev v žilách!
 Začnu
-S pravidly!
+s pravidly!
 // Show rules
 Když melodie hraje,
-Můžeš se hýbat.
+můžeš se hýbat.
 Když melodie přestane,
 NEHÝBEJ SE!
 Jinak zemřeš, chápeš?
-Je to jednoduché: dostaň se až na konec
-Než píseň skončí.
+Je to jednoduché: dostaň se až na konec,
+než píseň skončí.
 Jdeme na to!
 Na co čekáš?
 Utíkej, zlato, utíkej!
@@ -71,8 +71,8 @@ Nezvykej si tu!
 Máme před sebou ještě spoustu her!
 Tady je další:
 Zavřu oči...
-A až je otevřu,
-Ať už jsi pryč!
+a až je otevřu,
+ať už jsi pryč!
 Rozumíš?
 Jestli tě uvidím, potrestám tě!
 Dobře! Začneme!
