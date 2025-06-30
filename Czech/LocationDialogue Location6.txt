@@ -10,7 +10,7 @@ To máš pravdu...
 Ale teď dobře poslouchej.
 Nejsem ta Mita, kterou jsi potkal předtím.
 Dávej si na ni pozor...
-něco si na tebe chystá.
+Něco si na tebe chystá.
 // Player
 Co si na mě chystá?
 // MitaKind
@@ -69,8 +69,8 @@ Co se stane, když vytáhnu tu kazetu?
 // MitaKind
 To by mohlo způsobit
 nenávratné poškození kazety.
-Což znamená, že...
-hráč zemře.
+Což znamená, že... // Player
+Hráč zemře. // MitaKind
 // Player
 ...
 Co když tu konzoli prostě vypnu?

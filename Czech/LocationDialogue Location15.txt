@@ -120,7 +120,7 @@ Cože?
 Ráda jsem tě viděla.
 // Mita
 Ach...
-Je to opravdu škoda
+Je to opravdu škoda,
 že jsme spolu
 strávili tak málo času.
 // Player
@@ -203,10 +203,10 @@ To není ono.
 Budeme potřebovat jinou.
 
 // core console - nope index
-Něco je špatně
-s indexem.
-Musím ten index přepsat,
-není to ten správný.
+To nevypadá správně.
+Špatný index.
+Musím ten index opravit.
+To nesedí.
 
 // Why kitchen
 Máš hlad?
@@ -218,4 +218,4 @@ chtěl jít sám?
 
 // Why bedroom back
 Proč se točíme v kruhu?
-Proč se sem vracet?
+Nechtěl jsi někam jít?

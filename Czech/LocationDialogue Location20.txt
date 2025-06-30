@@ -1,5 +1,5 @@
 // Player
-Milo! Ne! Ty jsi šílená!
+Milo! Ne! Seš šílená!
 // Mita
 Ha ha! CO TO VIDÍM?
 Máš na tváři nový výraz?
@@ -18,14 +18,14 @@ Výborně! Zahrajeme si další hru!
 Ty...
 // Mita
 Začneme malou zkouškou!
-Vyzkoušíme tvojí koordinaci!
-Otestujeme tvé chovaní!
+Emoce ti očividně fungují!
+Tak ještě otestujeme tvé chovaní!
 Co když s tebou něco není v pořádku?
 Co když si ani nezasloužíš tu KŮŽI,
 kterou tak hrdě nosíš!?
 
 // Show knifes
-Podívej se...
+Pověz mi...
 Který ti padnul do oka?
 Ten pravý?
 Nebo...
@@ -50,7 +50,7 @@ s pravidly!
 Když melodie hraje,
 můžeš se hýbat.
 Když melodie přestane,
-NEHÝBEJ SE!
+nehýbej se!
 Jinak zemřeš, chápeš?
 Je to jednoduché: dostaň se až na konec,
 než píseň skončí.
@@ -59,20 +59,20 @@ Na co čekáš?
 Utíkej, zlato, utíkej!
 
 // Ready recorder - Mita
-Aha!
+No jo!
 Podívej se na sebe! Tak poslušný!
 Úžasný exemplář.
-Chci tě mít pro sebe!
+Chci tě mít jen pro sebe!
 To bylo moc jednoduché, že jo?
 // Player
 Nech mě jít!
 // Mita
-Nezvykej si tu!
+Nezvykej si!
 Máme před sebou ještě spoustu her!
 Tady je další:
 Zavřu oči...
 a až je otevřu,
-ať už jsi pryč!
+tak tě nechci vidět!
 Rozumíš?
 Jestli tě uvidím, potrestám tě!
 Dobře! Začneme!

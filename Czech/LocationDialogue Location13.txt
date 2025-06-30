@@ -10,7 +10,7 @@ A přitom jsem se musela vyhýbat
 A taky jsem musela dohledat všechny možné informace o tom,
 jak tenhle svět vůbec funguje, víš?
 // Player
-Ehm... To by dávalo smysl.
+Ehm... to by dávalo smysl.
 Ale proč jsi prstenu nastavila zrovna tuhle trasu?
 Proč jsem skončil v rozbité verzi,
 která byla plná nebezpečí?
@@ -118,7 +118,7 @@ Myslím, že jsem to našel!
 // MitaKind
 Super! To ráda slyším!
 // Player
-Ale musím upřesnit verzi.
+Ale musím zadat verzi.
 // MitaKind
 Jasně, její verze je...
 00.98
@@ -144,7 +144,7 @@ Nemůžu uvěřit, že mě to nenapadlo...
 
 // Answer 1 (What's the matter?) - MitaKind
 Nic se neděje.
-Až na ty všechny naše problémy.
+Až na všechny ty problémy, co máme.
 Všechno je v pohodě, akorát máme ještě jeden zádrhel...
 Potřebuju přemýšlet.
 Toť vše.

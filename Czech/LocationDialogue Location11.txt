@@ -1,6 +1,6 @@
 // Mita
 Ahoj!
-Jejda!
+Kruci!
 Promiň,
 málem jsem tě zabila.
 Teda...
@@ -137,7 +137,7 @@ To, že jsi velký, neznamená, že jsi všemocný!
 
 // HEY! STOP!
 Proč mě pronásleduješ!
-Odprejskni pryč!
+Odprejskni!
 
 
 

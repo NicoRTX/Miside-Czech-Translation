@@ -3,25 +3,25 @@ To už ses probral? // Mita
 Jak ses sem dostala? // Player
 Vždyť jsi stála hned vedle mě. // Player
 // Mita
-No, stála.
-Ale ztuhl jsi před zrcadlem.
-Tak jsem odešla.
+Ne tak úplně.
+Najednou jsi ztuhl před zrcadlem,
+tak jsem odešla.
 A proč jsou ty pokoje jinak? // Player
 // Mita
 Trochu jsem to tady předělala,
 aby ses tu cítil jako doma.
 Jinými slovy,
 můžeme si to tu předělat tak,
-Jak jen budeme chtít.
+jak jen budeme chtít.
 // Player
-Tos nemusela.
-Zvykal jsem si na to, jak byly.
+To jsi nemusela.
+Už jsem si na to zvykal.
 Myslím si, že se nám to takhle bude líbit víc. // Mita
 // Mita card game
 Takže,
 můžeme začít?
-Hra funguje takhle:
-Tento žeton označuje typ,
+Hraje se to takhle:
+Tenhle žeton označuje typ,
 jako třeba zdraví.
 Každý z nás zahraje jednu kartu,
 a pokud bude tvoje karta mít
@@ -48,7 +48,7 @@ Uh-huh.
 Jsi na řadě!
 
 Největší číslo zdraví vyhrává!
-Všechno je o útoku!
+Teď jde o útok!
 Soustřeď se na obranu!
 
 
@@ -63,7 +63,7 @@ Vyhrála jsem!
 Hah, mám tě!
 
 Je to remíza.
-Obě stejně!
+Obě stejné!
 To je remíza!
 Stejná čísla...
 
@@ -112,7 +112,7 @@ Skrýváš přede mnou něco?
 Proč mi nevěříš?
 Co dělám špatně?
 Jenom chci...
-Chci jenom, abys byl se mnou.
+Jenom chci, abys byl se mnou.
 // Player
 To by se mi líbilo, ale i tak...?
 // Mita
@@ -150,7 +150,7 @@ V nějakém pomalém, kde se všechno načítá dlouho?
 Vůbec ne.
 Ale ne všechno je tady
 úplně dokonalé...
-Načítá nás
+Je to kvůli tomu, že nás načítá
 Jádro tohoto světa.
 // Player
 Jádro světa?
@@ -226,7 +226,7 @@ Ale vypadá to,
 že v tom souboru bylo něco špatně.
 Opravím to později.
 // Player
-Proto nemůžeme opustit dům?
+Proto nemůžeme jít ven?
 Ano, proto. // Mita
 // Mita shy
 Hej...
@@ -381,7 +381,7 @@ Sbírej sněhové koule.
 Ten, kdo jich sesbírá víc, vyhrává!
 Hrajeme na dvě kola, jo?
 // The first map
-Jak jsi jich dokázal sebrat tolik?
+Jak jsi jich dokázal posbírat tolik?
 Ha! Mám jich víc než ty!
 Začni se snažit! <3
 Ha, 1:1!
