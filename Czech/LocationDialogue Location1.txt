@@ -52,7 +52,7 @@ Ráda bych ti to nějak oplatila.
 ...
 Mám nápad!
 Teď jsme spolu. // Záměrně krkolomnější dialog
-Polož ten telefon.
+Polož svůj telefon.
 
 
 // T-shirt on the bed - Player
@@ -63,7 +63,7 @@ Jednou jsem ji složil a pak už jsem se jí nikdy nedotkl.
 Beztak bych to podruhé nezvládl.
 // Computer
 Tak co tu máme...
-sepsat seznam úkolů...
+Sepsat seznam úkolů...
 naskriptovat reakce postav,
 a možná se tam vejde i nějaké programování.
 // The airplane
@@ -78,17 +78,17 @@ kočka na melounu.
 // Photo with a girl - Player
 Já a moje sestra,
 vůbec si nejsme podobní.
-Ona je pořád někde venku,
+Ona je pořád někde venku
 a já trčím doma.
 // Photo with people
 No jo...
-práce v kanceláři nám opravdu navrtala
+Práce v kanceláři nám opravdu navrtala
 korporátní etiketu do hlavy, co?
-Pořád mi moje parta trochu chybí
-ale
-vlastně ani nevím
+Pořád mi moje parta trochu chybí,
+ale vlastně
+ani nevím
 jestli je ještě někdy uvidím.
-...Počkat, proč tady tu fotku vůbec mám?
+...počkat, proč tady tu fotku vůbec mám?
 
 
 

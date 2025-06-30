@@ -12,8 +12,8 @@ Musím se vrátit
 do předchozí verze.
 // MitaLittle
 Předchozí verze?
-Proč odcházíš a jdeš
-někam jinam?
+Proč odcházíš
+a jdeš někam jinam?
 Proč nezůstaneš tady
 a nebudeš můj
 druhý kamarád?
@@ -60,7 +60,7 @@ Bolí mě srdce...
 Domov?
 Hráči... změnil ses...
 máš kratší ruce a nevypadáš tak naštvaně...
-Hráči, změknul jsi, jsi laskavější.
+Hráči, vyměknul jsi, jsi laskavější.
 // Player
 Nejsem si jistý...
 co to znamená.

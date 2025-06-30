@@ -96,7 +96,7 @@ Hej!
 Vypal!
 Nevidíš, že je obsazeno?!
 // The player continues to stand 1
-Proč tady furt stojíš?!
+Proč tady furt seš?!
 Vypadni už!
 // The player continues to stand 2
 Neštvi mě!
@@ -250,7 +250,7 @@ Hrdino! // (Punch)
 Hej, co děláš?
 // Mila
 Ach!
-Promiň, nechtěla jsem....
+Promiň, nechtěla jsem...
 // Player
 To nic, Milo. Teď už můžu jít dál.
 // Mila
@@ -282,7 +282,7 @@ Co když to nezvládneš?
 // Player
 Já to zvládnu. Jen to ještě chvilku potrvá.
 // Sidequests -- If the player clicks on the computer
-Sotva jsem dostal z toho placatého světa
+Sotva jsem se dostal z toho placatého světa
 a už jsem zase tady.
 Nemůžu se dočkat, až se vrátím do skutečného světa...
 // Mila
@@ -296,7 +296,7 @@ Myslím, že je nějaký způsob,
 jak se dostat zpátky.
 // Mila
 To si docela věříš!
-To je k smíchu.
+Je to celkem k smíchu.
 
 // Ask about books - Player
 Proč vůbec čteš?
@@ -315,7 +315,7 @@ To jsou opravdu tvoje fotky?
 V jiných verzích jsem je viděl taky...
 ale byly trochu víc... detailní.
 // Mila
-To protože já jsem Mi-La. Nejsem jako ostatní.
+To protože já jsem Mila. Nejsem jako ostatní.
 A tohle?
 Jsou to kresby, víš,
 které se snaží jen napodobovat fotky.
@@ -342,7 +342,7 @@ Ten obrázek je trochu nakřivo.
 A je na něm skvrna...
 Tak, to je lepší.
 // Player
-Nechtěla by ses někdy jít projít do přírody a vidět ho na vlastní oči?
+Nechtěla bys ho někdy vidět na vlastní oči?
 // Mila
 To je ale hloupá otázka!
 Samozřejmě,
@@ -594,12 +594,12 @@ Jsem prostě Mila, tečka!
 Já tě slyšel...
 
 // Quest 3 Evening
-Mám rád večer.
+Mám rád večerní přítmí.
 Kdy už bude noc?
 // Mila
 Noc?
 Uf, o tom ani nezačínej.
 Ty dny jsou tady nekonečné.
-Jdou jeden za druhým,
+Jdou jeden za druhým
 a přitom se opakují pořád dokola.
 Fuj...

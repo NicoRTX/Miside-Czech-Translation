@@ -98,7 +98,7 @@ Všechno je tu mnohem jednodušší.
 I ta nejmenší snaha
 má velké výsledky.
 Vše se drží základní filozofie her:
-zjednodušovat.
+Zjednodušovat.
 // Player
 Nějaký příklad, prosím?
 // Mita
@@ -119,7 +119,7 @@ Nevíš o tom něco?
 Kazety?
 Jaké kazety?
 O žádných nevím,
-ale teď to neřeš.
+ale to teď nech být.
 Nejdřív se najíme.
 Podej mi ty nůžky, prosím.
 
@@ -142,8 +142,8 @@ spousta odrazů?
 No, ano.
 
 // Mita
-Vzpomínáš si na ty tři předměty,
-které jsi musel najít?
+Víš, jak jsi musel najít
+ty tři předměty?
 Ty, které jsi položil na skener?
 No, tak...
 ty předměty
@@ -232,7 +232,7 @@ Všechno je tu stejné,
 jako ve tvém světě.
 
 // Exit door
-My můžeme ven?
+My můžeme jít ven?
 // Mita
 Noo...
 Zatím ne.
@@ -275,7 +275,7 @@ Budeš ji mít na památku.
 // Player
 Mám otázku.
 Když na něm
-spustím hru
+spustím hru,
 uvidím tě?
 // Mita
 Ne, tak to nefunguje.
@@ -288,10 +288,10 @@ tady naladíš?
 // Mita
 No, není to úplně přes anténu,
 ani přímo internetová televize.
-Prostě se můžeš dívat tak nějak na cokoliv,
-aspoň cokoliv, co se dá najít na webu.
-Počkej.
-Ech?
+Prostě se můžeš dívat tak nějak na cokoliv.
+Aspoň cokoliv, co se dá najít na webu.
+Počkej!
+Aj!
 Co to je?
 Koťátka v kroužku?
 Ach, podívej!
@@ -307,7 +307,7 @@ je přímo z toho džusu v reklamě.
 
 // Player
 Ach, ta chuť...
-je celkem dobrá,
+Je celkem dobrej,
 ale přesto nedokážu popsat, jak chutná.
 Všechno je to velmi matoucí.
 // Mita
@@ -354,20 +354,20 @@ jsem pro!
 Ty se chceš vrátit?
 Ale proč?
 Je tu tak
-teplo a útulno.
+příjemně a útulně.
 A jsem tu já.
 // Player
 Ne, ne,
 rád bych zůstal.
 Jen mám trochu strach.
 Bojím se, jestli jsem na něco doma nezapomněl...
-Objevil jsem se tady z ničeho nic.
+Zničehonic jsem se tady objevil.
 A vůbec jsem se
 na to nepřipravil.
 // Mita
 O... omlouvám se. To jsem trochu nedomyslela.
 // Quest 3 - Mita
-To chceš utéct
+To se chceš probudit
 a zapomenout, že se tohle vůbec někdy stalo?
 // Player
 Ne!
@@ -381,14 +381,14 @@ Já jsem velmi skutečná,
 ty hlupáčku!
 
 // Quest 4 - Mita
-Tak to v tomto světě
+Tak to v tomto světě...
 prostě je.
 Možná ti to bude připadat zvláštní,
 ale to, co je daleko od tebe,
 není vidět.
 // Player
 Nepřijde mi to úplně zvláštní.
-upřímně řečeno, vypadá to celkem dobře.
+Upřímně řečeno, vypadá to celkem dobře.
 // Mita
 Taky si myslím.
 Je to kvůli optimalizaci, aby se hra nesekala.
@@ -400,8 +400,8 @@ Doufám, že na žádné nenarazíš.
 
 // Quest 5
 Mohla jsem použít nůž
-a prostě tu omáčku rozříznout.
-Ale chtěla jsem,
+a prostě tu omáčku rozříznout,
+ale chtěla jsem,
 aby všechno bylo hotové,
 než se vrátíš zpátky.
 Ráda tě překvapuju!

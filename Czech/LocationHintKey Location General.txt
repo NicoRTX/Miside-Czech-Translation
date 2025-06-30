@@ -1,7 +1,7 @@
 Stisknout
 Mluvit
 Nasadit si prsten
-Vyhledat tlačítko
+Najít tlačítko
 Podržet
 Postavit se
 Vzít prsten
@@ -92,7 +92,7 @@ Zvolit levý
 
 Zahnout doprava
 Zahnout doleva
-Skok
+Vyskočit
 Otevřít
 
 Vybrat hru

@@ -121,12 +121,12 @@ Na co si vzpomínáš?
 Byla tma.
 A byly tam různé nápisy
 Jako...
-„Pojď si hrát.“
+„Chceš si hrát.“
 // MitaShorthairs
 Ach,
 škoda...
-To je ona,
-ta, která straší a zapomíná.
+To je ona.
+Ta, která straší a zapomíná.
 
 // Mita wants to tell you [No]
 Není třeba.
@@ -146,7 +146,7 @@ Hráč si stáhne MiSide na svůj mobil.
 Spokojeně hraje a užívá si hru.
 Vytvoří si tak nový domov
 a novou Mitu.
-Tady je to máš nakreslené.
+Tady to máš nakreslené.
 Tohle jsou verze,
 tady ty čáry.
 Na těch čarách jsou domy.

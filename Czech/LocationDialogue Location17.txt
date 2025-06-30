@@ -21,7 +21,7 @@ Pomoz mi s páčkami.
 // MitaDream
 Jaký páčky?
 Nech mě spááát...
-nebo mi přines kafe.
+...nebo mi přines kafe.
 // Player
 No tak, není to tak daleko...
 Mito?
@@ -89,7 +89,7 @@ Jsme tady.
 Dobře,
 můžeme na to.
 // Player
-Pojďme na to.
+Tak jo.
 // MitaDream
 Dobře.
 Začnu
@@ -127,8 +127,8 @@ Děkuji, Mito.
 Mm-hmm.
 
 // MitaDream
-Dveře...
-jak...
+Jsou...
+tak...
 pomalé...
 
 // MitaDream

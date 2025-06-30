@@ -19,7 +19,7 @@ Tvoje sestra?
 Jo, moje ségra.
 Neříkej, že jsi ji ještě neviděl!
 // Player
-Uh... Myslím, že jsem se s ní potkal?
+Uh... myslím, že jsem se s ní potkal?
 // MitaChibi
 Tak seš blbej?
 // Player

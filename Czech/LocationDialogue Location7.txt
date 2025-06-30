@@ -61,13 +61,13 @@ na tu, kterou potřebujeme.
 Nastavila jsem tu nejkratší možnou,
 kterou spolu půjdeme.
 Funguje takhle: Otevřeš dveře,
-a prsten ti umožní projít
-mezi verzemi.
+a prsten ti umožní
+projít mezi verzemi.
 
 // Quest 6 (Are the passages dangerous?)
-Od té doby, co jsem se dostal
-do této hry,
-jsem viděl hodně divných věcí.
+Od té doby,
+co jsem se dostal do této hry,
+tak jsem viděl hodně divných věcí.
 Zdá se, že tady je klid,
 ale ty chodby...
 určitě nejsou bezpečné.
@@ -102,7 +102,7 @@ Obávám se, že bychom na ni mohli narazit.
 Koneckonců je nejblíž verzi nula...
 
 // Quest 7 (Will you help me get out?) - MitaKind
-Nemám žádný konkrétní plán...
+Nemám to sice vymyšlené do detailu...
 ale tak či tak
 ses sem dostal, ne?
 Kromě toho,
@@ -112,8 +112,8 @@ To máš pravdu... // Player
 
 // Quest 8 (You were talking about some kind of plan...) - MitaKind + Continue
 Musíme se dostat k Jádru.
-Něco mi říká, že tam najdeme řešení
-na všechny naše problémy.
+Něco mi říká, že tam najdeme
+řešení na všechny naše problémy.
 // Player
 Na co vlastně potřebuješ v Jádru pomoc hráče?
 // MitaKind
@@ -121,13 +121,13 @@ Z nějakého důvodu my, Mity,
 nemůžeme do Jádra vstoupit.
 Viděla jsem ho jen zvenčí.
 Ale ty nejsi Mita, ty jsi hráč.
-Takže věřím, že ty se určitě
-dovnitř dostaneš!
+Takže věřím, že ty
+se určitě dovnitř dostaneš!
 Zní jako plán?
 Dobře. // Player
 Skvěle. // MitaKind
 Takže...
-je na čase, abych ti představila
+Je na čase, abych ti představila
 Cool Mitu!
 Ale protože nosí cool čepici,
 tak jí prostě říkám
@@ -167,7 +167,7 @@ Měli jsme použít portál
 a tím si milionkrát ulehčit a urychlit cestu.
 Ale bez pomoci Čapky ho nezprovozníme.
 A k tomu nám chybí i nějaké součástky...
-Možná je trochu mim, ale pálí jí to...
+Možná je trochu mimo, ale pálí jí to...
 Dobře, co teď budeme dělat? // Player
 Na něco přijdu. // MitaKind
 A co jí udělala Šílená Mita? // Player
@@ -219,8 +219,8 @@ Musím znovu změnit trasu.
 // Player
 Na jakou jsi přišla?
 // MitaKind
-Poslouchej, zlatíčko,
-budeš muset projít dalšími verzemi
+Poslouchej, zlatíčko.
+Budeš muset projít dalšími verzemi,
 než se dostaneš k Jádru.
 Plnou parou vpřed, rozumíš?
 // Player
@@ -240,11 +240,11 @@ OK.
 Mám to!
 // MitaKind ready
 [player],
-Pojď sem.
+pojď sem.
 // MitaKind ring
 Vem si ho.
 Bohužel máš pravdu, [player].
-zatím budeš muset jít sám,
+Zatím budeš muset jít sám,
 Musím přijít ještě na kloub tomu, co se tady doopravdy děje.
 Můj plán byl bezchybný...
 ale jsme na tom hůř než kdy dřív.
@@ -319,9 +319,9 @@ Ale očividně ne stejná jako tamta!
 Chápeš, jak to myslím, ne?
 Protože mám
 TUHLE!
-úžasnou čepici!
+Úžasnou čepici!
 A TADÁ!
-úžasný rukavice!
+Úžasný rukavice!
 Ale to není všechno!
 Taky mám tuhle krutopřísnou elektrickou kytaru!
 Mám ji strašně ráda!
@@ -366,7 +366,7 @@ Akorát nám ještě něco chybí.
 Mám to někde v inventáři!
 Vteřinku...
 Aj!
-No...
+Nooo...
 Však víš, že...
 tahle hra je pro dospělé, ne?
 // Player
@@ -441,7 +441,7 @@ to taky baví!
 A teď jsi můj úhlavní nepřítel! // MitaCap
 
 // GameHammer End
-To je konec? // Player
+To je všechno? // Player
 Jo, to je všechno! // MitaCap
 Jdeme.
 
@@ -581,7 +581,7 @@ To je taky cesta.
 Ale bez teorie...
 // MitaCap
 Pohyb, motorika, hmat. Chápeš?
-Knihy jsou jen kusy papíru, já radši žiju teď a tady!
+Knížky jsou jen kusy papíru, já radši žiju teď a tady!
 Pokud bys tu se mnou zůstal,
 mohli bychom toho spolu tolik dělat!
 To určitě. // Player
@@ -591,7 +591,7 @@ Je to ovoce skutečné?
 Vypadá totiž lahodně.
 Může se tady vůbec někdy zkazit?
 // MitaCap
-O, myslíš ty jablka?
+Aha, myslíš ty jablka?
 Nestihnou se zkazit,
 protože je vždycky sním!
 A pak se tu zase objeví.
@@ -632,7 +632,7 @@ Psst! Když mě nebudeš rušit,
 tak to půjde rychleji.
 // MitaCap
 Jasně,
-takže pokud tě budu pořád vyrušovat,
+takže pokud tě budeme pořád vyrušovat,
 tak ti to potrvá dýl?
 // MitaKind
 Ach, Čapko,
@@ -732,8 +732,8 @@ Jaké je to
 vidět svoji přesnou kopii?
 Tu s tím prstenem.
 // MitaCap
-Hehe, původně jsem na ni chtěla zakřičet.
-Protože mě trochu vyděsila.
+Hehe, nejdřív jsem na ni chtěla zakřičet,
+protože mě trochu vyděsila.
 Ty vogo! To je můj klon! Chápeš, ne?
 Ale není tak veselá, jako já.
 Takže jsem lepší!
@@ -776,7 +776,7 @@ Proč tě to tak zaskočilo?
 // Tetris
 Páni!
 Co to máš?
-Konzole!?
+Konzoli!?
 Nech mě to taky zkusit!
 // Player
 Hej!
@@ -821,7 +821,7 @@ Myslím, že je na čase jít, [player]!
 Běž, neboj se!
 // MitaCap
 Já bych tě nikdy
-nikam neposlala samotného!
+nikam neposlala samotnýho!
 Tak tu se mnou zůstaň!
 // MitaKind
 Čapko!

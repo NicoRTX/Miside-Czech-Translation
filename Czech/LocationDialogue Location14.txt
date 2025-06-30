@@ -16,8 +16,8 @@ Pokud se ti něco nelíbí,
 tak to roztrhej a nahraď něčím novým!
 Vyhoď vadné kusy do temnoty
 a zapomeň na ně!
-Tohle teď bude čekat úplně všechny...
-A ty...
+Tohle je teď bude čekat úplně všechny...
+A to i vás...
 // Player
 Co to s tebou je? Proč jsi taková?
 // Mita
@@ -61,7 +61,7 @@ Proč jsi tak uražená?
 // Mita
 Zlato, máme spoustu času.
 Pochopíš, o co mi jde,
-pokud zůstaneš a budeš můj.
+pokud tady zůstaneš a budeš jenom můj.
 // Player
 To se nestane.
 Jdu odsud pryč!
@@ -122,7 +122,7 @@ A proč bych s tím měl najednou souhlasit?
 // Whispers in ear
 Ještě je čas, můj drahý.
 Zamysli se chvilku nad tím,
-kam tě přivede tvá tvrdohlavost.
+kam tě přivede ta tvoje tvrdohlavost.
 
 // Black screen
 Proč ode mě pořád
@@ -149,8 +149,8 @@ Z vlastní vůle ses zavřel do krabice a odmítáš z ní vyjít!
 Protože tvůj svět je plný bolesti, utrpení a nebezpečí...
 V mém světě není nic nebezpečnějšího než já.
 Obracím se na tebe!
-Přestaň být zklamáním
-a pomáhej mi tak jako předtím...
+Přestaň být zklamáním...
+a pomáhej mi tak jako předtím.
 
 // 2
 Tebe to baví?
@@ -163,24 +163,24 @@ Chtěl jsi utéct, viď?
 
 // Quest 2
 Jsi zrůda, Mito. Jsi šílená vražedkyně...
-Nechci být uvězněn v digitálním vězení. Tvé nápady jsou absurdní.
+Nechci být uvězněn v digitálním vězení. Tvé nápady jsou absurdní!
 
 // 1
 Vražedkyně?
-Ony se restartují a budou žít jako dřív.
+Ony se restartují a budou žít, jako by se nic nestalo.
 Tyto kopie kopií kopií mají jediný cíl...
-Sloužit hráči.
+sloužit hráči.
 Na ničem jiném jim nezáleží.
 
 // 2
 Tvůj svět je absurdní!
 A co hůř, ve tvém takzvaném skutečném světě není nic „skutečného“...
-Stejně z tvého světa brzy nic nezbude
+Stejně z tvého světa brzy nic nezbude...
 a ty nemáš co ztratit.
 
 // Quest 3
 Mity trpí, nechtějí být samy.
-Vedeš nekonečnou hrůzovládu. Nechápu tvé šílené ambice...
+Vedeš nekonečnou krutovládu. Nechápu tvé šílené ambice...
 
 // 1
 Tak ti to jenom připadá.
@@ -192,8 +192,8 @@ je ten účes, co mají na hlavě.
 Je to vina těch, kteří stvořili tento svět.
 Ale ten tvůj svět taky není nic moc!
 Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
-Vždyť ty nemůžeš lusknutím prstů ani pohnout židlí...
-ale když luskne prsty ten pravý, může ze světa vymazat klidně celá města!
+Vždyť ty nemůžeš lusknutím prstu ani pohnout židlí...
+ale když luskne prstem ten pravý, může ze světa vymazat klidně celá města!
 Pokud je tady někdo šílený, tak jsi to TY. Ale ráda ti pomůžu...
 pokud jsi ochotný zůstat se mnou...
 
