@@ -71,7 +71,7 @@ Copak to nechápeš?
 Tohle je kontrolní bod.
 Zkouška tvýho důvtipu!
 No tak!
-Jsem tu, abych vedla beznadějný a ztracený duše jako jsi ty!
+Jsem tu, abych vedla beznadějný a ztracený duše, jako jsi ty!
 
 // Quest 4 (Why are you helping me?)
 A proč ne?

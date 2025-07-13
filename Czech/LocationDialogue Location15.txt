@@ -61,7 +61,7 @@ Dobře...
 // Player
 Počkej tady.
 // MitaKind
-Mm-hmm.
+Mhm.
 Budu sedět tady.
 
 // Player

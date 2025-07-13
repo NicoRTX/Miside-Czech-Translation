@@ -44,7 +44,7 @@ Hraju první!
 
 OK!
 Jsi na řadě!
-Uh-huh.
+Mhm!
 Jsi na řadě!
 
 Největší číslo zdraví vyhrává!
@@ -120,8 +120,8 @@ Proč seš tak upřený na tu skříň?!
 // Player
 Chci vědět, co to bylo za rachot!
 // Mita
-Je to proto, že
-tento svět
+Je to proto,
+že tento svět
 má jenom tyto čtyři místnosti?
 Nestačí ti to?
 Proč nemůžeš být jen se mnou?
@@ -131,7 +131,7 @@ Proč nemůžeš být jen se mnou?
 Chápu to.
 Je to tady zas...
 Pokud se tam chceš podívat,
-tak to udělej,
+tak to udělej
 a zjisti, co tam je!
 
 
@@ -333,7 +333,7 @@ Nemám v tomto světě
 jiné oblečení než to, které mám na sobě.
 Můžu si nějak pořídit nové?
 // Mita
-Samozřejmě že ano.
+Samozřejmě, že ano.
 Ale viděla jsem, co nosíš...
 A upřímně, tvůj vkus není nic moc.
 Každopádně ti pomůžu nějaké sehnat.

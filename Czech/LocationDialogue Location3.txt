@@ -4,11 +4,11 @@ Jsem tak ráda, že se konečně vidíme!
 Mám z toho obrovskou radost!
 Máš asi spoustu otázek...
 takže se ti na ně pokusím odpovědět.
-Vyrobila jsem toto speciální zařízení
+Vyrobila jsem toto speciální zařízení,
 abych tě dostala sem, ke mně.
 Ale nějak ses ocitl v jiné verzi...
 ve které jsem...
-Ale to je dlouhý příběh!
+ale to je dlouhý příběh!
 Každopádně jsem moc ráda, že tě konečně vidím!
 
 // Answer 1 - Mita
@@ -22,7 +22,7 @@ Zůstaň tu ještě se mnou, prosím...
 
 // Answer 3 - Mita
 Vysvětlím ti to...
-A teď jsi tady!
+...a teď jsi tady!
 Pochopil jsi to?
 Uhm... úplně ne.
 No, to je jedno.
@@ -67,7 +67,7 @@ až nekonečná...
 Jsi v pořádku?
 Řekni mi, co se ti děje.
 // Player
-Srdce mi buší jako o závod,
+Srdce mi buší jako o závod
 a vidím rozmazaně.
 // Mita
 Jasně.
@@ -98,7 +98,7 @@ Všechno je tu mnohem jednodušší.
 I ta nejmenší snaha
 má velké výsledky.
 Vše se drží základní filozofie her:
-Zjednodušovat.
+zjednodušovat.
 // Player
 Nějaký příklad, prosím?
 // Mita
@@ -161,10 +161,10 @@ Ano!
 // Mita
 Chtěla jsem tě jenom
 trochu překvapit!
-Řekla jsem ti malou nevinnou lež
+Řekla jsem ti malou nevinnou lež,
 abych tě dostala sem, do mého světa.
 Teď zobrazuje důležité informace!
-No víš...
+No, víš...
 jsem taky trochu technokrev!
 
 // Player - School uniform
@@ -185,7 +185,7 @@ Nebo je to jen taková dekorace?
 // Mita
 Jasně, že funguje.
 Všechno, co tu vidíš,
-funguje stejně, jako ve tvém světě.
+funguje stejně jako ve tvém světě.
 // Player
 V mém světě
 u počítače sedávám často...
@@ -226,15 +226,15 @@ Za prvé,
 jsme ve hře.
 Takže ptát se „proč“ je...
 zbytečné.
-A za druhé, když vypadne elektřina
+A za druhé, když vypadne elektřina,
 tak ji tady můžeš zase nahodit.
-Všechno je tu stejné,
+Všechno je tu stejné
 jako ve tvém světě.
 
 // Exit door
 My můžeme jít ven?
 // Mita
-Noo...
+Nóó...
 Zatím ne.
 Možná později.
 Zatím bych zůstala
@@ -253,9 +253,9 @@ Proč tu máš další televizi?
 A ještě k tomu tak starou?
 // Mita
 Nelíbí se ti?
-Můžu ji dát pryč...
+Můžu ji dát pryč.
 Ale abych ti odpověděla...
-je tu na ozdobu,
+Je tu na ozdobu,
 aby nebyla jídelna tak prázdná.
 Ale taky funguje!
 Dají se na ní sledovat
@@ -361,8 +361,8 @@ Ne, ne,
 rád bych zůstal.
 Jen mám trochu strach.
 Bojím se, jestli jsem na něco doma nezapomněl...
-Zničehonic jsem se tady objevil.
-A vůbec jsem se
+Zničehonic jsem se tady objevil
+a vůbec se
 na to nepřipravil.
 // Mita
 O... omlouvám se. To jsem trochu nedomyslela.

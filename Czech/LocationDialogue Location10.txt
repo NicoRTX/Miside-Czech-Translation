@@ -217,7 +217,7 @@ Pak se určitě setkáš s Ospalou Mitou.
 Zajímalo by mě, jestli Mita, která tě poslala,
 šla stejnou cestou.
 Nebo jestli si to neuvědomila a ty půjdeš přes jinou verzi.
-Možná je génius,
+Možná je génius
 a vymyslela ještě kratší cestu!
 // Player
 Rozumím.

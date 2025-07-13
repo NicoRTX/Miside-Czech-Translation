@@ -378,7 +378,7 @@ Co je to za blbečka?
 
 // Whispers 3
 Říkal jsi něco?
-Už začínám šílet z té hudby co pořád hraje v pozadí!
+Už začínám šílet z té hudby, co pořád hraje v pozadí!
 
 // Whispers 4
 Jak mu mám říct,
@@ -394,7 +394,7 @@ Odkud ty slova znám?
 Jednou tu sněžilo. Nevíš náhodou proč?
 
 // Whispers 7
-Prostě se tady z ničeho nic objeví! Děs...
+Prostě se tady zničehonic objeví! Děs...
 Co když... tam nic není?
 
 // Nearby 1
@@ -413,7 +413,7 @@ Víš, co vůbec dělá
 s mou dokonalou, sněhobílou pletí?
 
 // Nearby 3
-Knihy mi v tom zatím moc nepomohly, ale s trochou štěstí,
+Knihy mi v tom zatím moc nepomohly, ale s trochou štěstí
 možná konečně přijdu na kloub tomu,
 co se tady děje s tou mrkví!
 Je strašně nepříjemné, když se mi za zády

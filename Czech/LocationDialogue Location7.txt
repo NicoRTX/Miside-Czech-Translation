@@ -14,7 +14,7 @@ To je jedno, pojď sem...
 // Player talked to MitaKind first, and then played the game to the end - MitaKind
 Gratuluji, vyhrál jsi!
 Taky jsem to hrála!
-Snažila jsem se posbírat všechny mince a dostat se na 1. místo
+Snažila jsem se posbírat všechny mince a dostat se na 1. místo,
 abych dostala „achievement“!
 No... nebylo to úplně jednoduchý.
 Trvalo mi celkem dlouho, než jsem si zvykla na to ovládání.
@@ -49,18 +49,18 @@ Je mi jí líto...
 No,
 už je to chvilka, co jsme se naposledy viděli.
 Díky tobě
-jsem se dostala z toho vězení,
+jsem se dostala z toho vězení
 a utekla té maniačce.
 Abys věděl,
-dokážu snadno přecházet mezi verzemi,
-na rozdíl od tebe, miláčku.
+na rozdíl od tebe dokážu snadno
+přecházet mezi verzemi, miláčku.
 
 // Quest 5 (What did you do with the ring?)
 Změnila jsem trasu
 na tu, kterou potřebujeme.
 Nastavila jsem tu nejkratší možnou,
 kterou spolu půjdeme.
-Funguje takhle: Otevřeš dveře,
+Funguje takhle: otevřeš dveře
 a prsten ti umožní
 projít mezi verzemi.
 
@@ -123,7 +123,7 @@ Viděla jsem ho jen zvenčí.
 Ale ty nejsi Mita, ty jsi hráč.
 Takže věřím, že ty
 se určitě dovnitř dostaneš!
-Zní jako plán?
+Zní to jako plán?
 Dobře. // Player
 Skvěle. // MitaKind
 Takže...
@@ -366,7 +366,7 @@ Akorát nám ještě něco chybí.
 Mám to někde v inventáři!
 Vteřinku...
 Aj!
-Nooo...
+Nóóó...
 Však víš, že...
 tahle hra je pro dospělé, ne?
 // Player
@@ -436,7 +436,7 @@ Vyhrál jsi.
 
 // Kick MitaCap 3
 Tahle hra se mi začíná líbit. // Player
-No, mně... // MitaCap
+No, mě... // MitaCap
 to taky baví!
 A teď jsi můj úhlavní nepřítel! // MitaCap
 
@@ -546,7 +546,7 @@ S tebou je asi vždycky zábava, co?
 Je to tak, jsem to prostě já!
 A ukázala jsem jim, co jsem zač!
 // Player
-Aa... komu přesně?
+A... komu přesně?
 // MitaCap
 Vážně se ptáš na to komu?
 Koho to zajímá! Stejnak si myslím, že byli všichni slepí!
@@ -574,7 +574,7 @@ a teď je jich tu prostě hodně!
 Asi je máš všechny přečtené, co?
 Protože ses nudila.
 // MitaCap
-Fuu, NESNÁŠNÍM luštení písmenek!
+Ech, NESNÁŠNÍM luštení písmenek!
 Radši dělám něco praktického!
 // Player
 To je taky cesta.
@@ -618,7 +618,7 @@ Mám je rád.
 // Mita Kind with ring - Player
 Co to je?
 // MitaKind
-To je rozhraní prstenu,
+To je rozhraní prstenu
 a právě měním jeho trasu.
 // Player
 Ale... vždyť jen kreslíš kolečka?
@@ -677,7 +677,7 @@ Co mám dělat?
 Nestihnu to dokončit včas...
 V čem je problém?
 Tady jsou stěny?
-Nic se nestane, když si dám 20.
+Nic se nestane, když si dám dvacet.
 Spát je pro slabochy!
 Je čas se umýt a jít do práce!
 Mám hlad!
@@ -783,7 +783,7 @@ Hej!
 // MitaCap
 Jak se to hraje?
 // Player
-Stačí sbírat mince,
+Stačí sbírat mince
 a vyhýbat se žábám.
 // MitaCap
 To zní dost nudně.
@@ -811,7 +811,7 @@ Honem, vstávej!
 Pojďme se spolu nějak bavit!
 
 // Goodbye 1 - MitaKind
-Projdi těmi dvěřmi
+Projdi těmi dvěřmi,
 co vedly do obýváku.
 // MitaCap
 Pá pá!

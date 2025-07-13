@@ -47,7 +47,7 @@ DEN [0].
 
 
 
-Návod: Chceš ukazát základy ovládání?
+Návod: Chceš ukázat základy ovládání?
 Rozhlédni se
 Pohybuj se
 Interaguj

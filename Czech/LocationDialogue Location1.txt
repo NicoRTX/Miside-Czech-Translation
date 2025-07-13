@@ -59,7 +59,7 @@ Polož svůj telefon.
 Co děláš tady na posteli?
 // Rubik's Cube - Player
 No, nemůžu říct, že by mi k něčemu byla...
-Jednou jsem ji složil a pak už jsem se jí nikdy nedotkl.
+Jednou jsem ji složil a pak už se jí nikdy nedotkl.
 Beztak bych to podruhé nezvládl.
 // Computer
 Tak co tu máme...
@@ -70,7 +70,7 @@ a možná se tam vejde i nějaké programování.
 Pro let jako dělané!
 // Trash in the corner
 Fuj, vždycky zapomenu vynést odpadky...
-ale tentokrát už se to nestane!
+Tentokrát už se to ale nestane!
 ...Počkat, kdy že jsem si měl uklidit?
 // Photo of a cat on a watermelon
 Tak se mi líbila...
@@ -86,7 +86,7 @@ Práce v kanceláři nám opravdu navrtala
 korporátní etiketu do hlavy, co?
 Pořád mi moje parta trochu chybí,
 ale vlastně
-ani nevím
+ani nevím,
 jestli je ještě někdy uvidím.
 ...počkat, proč tady tu fotku vůbec mám?
 

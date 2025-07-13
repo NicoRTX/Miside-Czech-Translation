@@ -66,13 +66,13 @@ A má teda ten prsten nějakou výhodu?
 // MitaKind
 Samozřejmě!
 Snadno se nosí
-a pamatuje si verze
+a pamatuje si verze,
 ve kterých jsi byl.
 Takže se můžeš jednoduše vrátit.
 
 // Answer 5 (Why does Mad Mita need me?) - Player
 Na co mě vůbec Šílená Mita potřebuje?
-Pořád se mě svými hrátkami snaží zabít
+Pořád se mě svými hrátkami snaží zabít,
 a přesto jsem stále naživu...
 // MitaKind
 Myslím si,
